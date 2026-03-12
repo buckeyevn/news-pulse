@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Astronomers witness birth of a magnetar for the first time",
+      "url": "https://www.perplexity.ai/page/astronomers-witness-birth-of-a-MFguFb2rRD6lq0v85wuJww",
+      "description": "A distinctive \"chirp\" in a 2024 supernova's light confirmed the long-theorized link between magnetars and superluminous supernovae.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T12:08:49Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Anthropic asks appeals court to stay Pentagon blacklisting",
       "url": "https://www.perplexity.ai/page/anthropic-asks-appeals-court-t-xV_2YbHvQAykvJx0otvxPQ",
       "description": "The AI company says the supply-chain risk designation could cost it billions in revenue, with over 100 enterprise clients raising concerns.",
@@ -1162,9 +1171,18 @@
       "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-12T11:48:59Z",
+  "cached_at": "2026-03-12T12:33:04Z",
   "topics": {
     "top": [
+      {
+        "title": "Astronomers witness birth of a magnetar for the first time",
+        "url": "https://www.perplexity.ai/page/astronomers-witness-birth-of-a-MFguFb2rRD6lq0v85wuJww",
+        "description": "A distinctive \"chirp\" in a 2024 supernova's light confirmed the long-theorized link between magnetars and superluminous supernovae.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T12:08:49Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Anthropic asks appeals court to stay Pentagon blacklisting",
         "url": "https://www.perplexity.ai/page/anthropic-asks-appeals-court-t-xV_2YbHvQAykvJx0otvxPQ",
