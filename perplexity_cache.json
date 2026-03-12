@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "States rush to set rounding rules as pennies vanish from registers",
+      "url": "https://www.perplexity.ai/page/states-rush-to-set-rounding-ru-2U9kbCR.Riuf5IvotE.ErA",
+      "description": "Bills in six states await governors' signatures while Indiana signed one of the first rounding laws, as a federal fix remains stalled in Congress.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T14:19:21Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Iran's new supreme leader vows to keep Strait of Hormuz closed",
+      "url": "https://www.perplexity.ai/page/iran-s-new-supreme-leader-vows-ylJPif1_QVGpKNSlOXEuYQ",
+      "description": "Ayatollah Mojtaba Khamenei's first statement since his appointment declared Iran's attacks on Gulf neighbors will continue.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T13:41:04Z",
+      "sourceCount": "45 sources"
+    },
+    {
       "title": "Anthropic asks appeals court to stay Pentagon blacklisting",
       "url": "https://www.perplexity.ai/page/anthropic-asks-appeals-court-t-xV_2YbHvQAykvJx0otvxPQ",
       "description": "The AI company says the supply-chain risk designation could cost it billions in revenue, with over 100 enterprise clients raising concerns.",
@@ -10,13 +28,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Iran vows to block all oil through Strait of Hormuz as prices swing wildly",
-      "url": "https://www.perplexity.ai/page/iran-vows-to-block-all-oil-thr-jVW3JegDQ3CO1xTFQt8ALw",
-      "description": "After crude briefly hit $119 a barrel, Iran's IRGC warned not \"a litre of oil\" would pass through the strait, even as prices eased on diplomacy hopes.",
+      "title": "Oil surges past $100 again after Iranian strikes on tankers near Iraq",
+      "url": "https://www.perplexity.ai/page/oil-surges-past-100-again-afte-2osQ4CegQH6LqUV3rskeTA",
+      "description": "Iranian attacks on fuel tankers in Iraqi waters killed one crew member and reignited fears of prolonged supply disruptions through the Strait of Hormuz.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-12T08:11:07Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-12T08:10:33Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "Pentagon tells Congress Iran war cost $11.3B in first six days",
@@ -784,13 +802,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Trump sons back drone firm Powerus in bid for Pentagon contracts",
-      "url": "https://www.perplexity.ai/page/trump-sons-back-drone-firm-pow-HrfunM6DTCa0W9L9hBz9lA",
-      "description": "Powerus plans to go public via a reverse merger and pursue the Pentagon's $1.1 billion Drone Dominance program, the WSJ reported.",
+      "title": "Trump doesn't rule out seizing Iranian oil as prices spike",
+      "url": "https://www.perplexity.ai/page/trump-doesn-t-rule-out-seizing-apzNRjBOTSS6fSyOa3hHAA",
+      "description": "The president pointed to Venezuela as a precedent, saying \"people have talked about it\" but that it's \"too soon\" to discuss.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T10:28:45Z",
-      "sourceCount": "50 sources"
+      "pubDate": "2026-03-09T20:35:46Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Von der Leyen says 'no tears' for Iran regime, drawing EU diplomat backlash",
@@ -811,13 +829,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Live Nation settles DOJ antitrust case, keeps Ticketmaster",
-      "url": "https://www.perplexity.ai/page/live-nation-settles-doj-antitr-dp5gkFHAScCiuCws9Mlv0Q",
-      "description": "The deal requires amphitheater divestitures, caps on service fees and shorter exclusivity contracts but avoids a forced breakup of the ticketing giant.",
+      "title": "Trump sons back drone firm Powerus in bid for Pentagon contracts",
+      "url": "https://www.perplexity.ai/page/trump-sons-back-drone-firm-pow-HrfunM6DTCa0W9L9hBz9lA",
+      "description": "Powerus plans to go public via a reverse merger and pursue the Pentagon's $1.1 billion Drone Dominance program, the WSJ reported.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T10:11:16Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-03-09T10:28:45Z",
+      "sourceCount": "50 sources"
     },
     {
       "title": "Iran war splits BRICS as India blocks joint response",
@@ -829,6 +847,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "Live Nation settles DOJ antitrust case, keeps Ticketmaster",
+      "url": "https://www.perplexity.ai/page/live-nation-settles-doj-antitr-dp5gkFHAScCiuCws9Mlv0Q",
+      "description": "The deal requires amphitheater divestitures, caps on service fees and shorter exclusivity contracts but avoids a forced breakup of the ticketing giant.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T10:11:16Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "South Korea, Taiwan cap fuel prices as oil tops $100",
       "url": "https://www.perplexity.ai/page/south-korea-taiwan-cap-fuel-pr-Fz2RClxLT8GHf1uX6fNNXg",
       "description": "The emergency measures, first in nearly 30 years for South Korea, aim to shield consumers as the Middle East conflict drives crude prices sharply higher.",
@@ -838,22 +865,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
-      "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
-      "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
+      "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
+      "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
+      "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-08T19:59:18Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
-      "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
-      "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T19:19:10Z",
-      "sourceCount": "27 sources"
+      "pubDate": "2026-03-09T10:28:42Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Kansas City airport evacuated after bomb threat",
@@ -874,13 +892,22 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
-      "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
-      "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
+      "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
+      "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
+      "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T10:28:42Z",
-      "sourceCount": "25 sources"
+      "pubDate": "2026-03-08T19:59:18Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
+      "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
+      "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T19:19:10Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "UAE denies Israeli reports it struck Iranian desalination plant",
@@ -1151,20 +1178,29 @@
       "topic": "top",
       "pubDate": "2026-03-06T21:48:13Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "Lewandowski leaves DHS after Noem's firing as secretary",
-      "url": "https://www.perplexity.ai/page/lewandowski-leaves-dhs-after-n-.4gPuofZTR2RAkqaMOYkGQ",
-      "description": "Trump adviser Corey Lewandowski wielded outsized power as Noem's unofficial chief of staff despite holding unpaid, part-time status.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T20:08:28Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-12T13:46:46Z",
+  "cached_at": "2026-03-12T14:38:26Z",
   "topics": {
     "top": [
+      {
+        "title": "States rush to set rounding rules as pennies vanish from registers",
+        "url": "https://www.perplexity.ai/page/states-rush-to-set-rounding-ru-2U9kbCR.Riuf5IvotE.ErA",
+        "description": "Bills in six states await governors' signatures while Indiana signed one of the first rounding laws, as a federal fix remains stalled in Congress.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T14:19:21Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Iran's new supreme leader vows to keep Strait of Hormuz closed",
+        "url": "https://www.perplexity.ai/page/iran-s-new-supreme-leader-vows-ylJPif1_QVGpKNSlOXEuYQ",
+        "description": "Ayatollah Mojtaba Khamenei's first statement since his appointment declared Iran's attacks on Gulf neighbors will continue.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T13:41:04Z",
+        "sourceCount": "45 sources"
+      },
       {
         "title": "Anthropic asks appeals court to stay Pentagon blacklisting",
         "url": "https://www.perplexity.ai/page/anthropic-asks-appeals-court-t-xV_2YbHvQAykvJx0otvxPQ",
@@ -1175,13 +1211,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Iran vows to block all oil through Strait of Hormuz as prices swing wildly",
-        "url": "https://www.perplexity.ai/page/iran-vows-to-block-all-oil-thr-jVW3JegDQ3CO1xTFQt8ALw",
-        "description": "After crude briefly hit $119 a barrel, Iran's IRGC warned not \"a litre of oil\" would pass through the strait, even as prices eased on diplomacy hopes.",
+        "title": "Oil surges past $100 again after Iranian strikes on tankers near Iraq",
+        "url": "https://www.perplexity.ai/page/oil-surges-past-100-again-afte-2osQ4CegQH6LqUV3rskeTA",
+        "description": "Iranian attacks on fuel tankers in Iraqi waters killed one crew member and reignited fears of prolonged supply disruptions through the Strait of Hormuz.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-12T08:11:07Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-12T08:10:33Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "Pentagon tells Congress Iran war cost $11.3B in first six days",
@@ -1949,13 +1985,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Trump sons back drone firm Powerus in bid for Pentagon contracts",
-        "url": "https://www.perplexity.ai/page/trump-sons-back-drone-firm-pow-HrfunM6DTCa0W9L9hBz9lA",
-        "description": "Powerus plans to go public via a reverse merger and pursue the Pentagon's $1.1 billion Drone Dominance program, the WSJ reported.",
+        "title": "Trump doesn't rule out seizing Iranian oil as prices spike",
+        "url": "https://www.perplexity.ai/page/trump-doesn-t-rule-out-seizing-apzNRjBOTSS6fSyOa3hHAA",
+        "description": "The president pointed to Venezuela as a precedent, saying \"people have talked about it\" but that it's \"too soon\" to discuss.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T10:28:45Z",
-        "sourceCount": "50 sources"
+        "pubDate": "2026-03-09T20:35:46Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Von der Leyen says 'no tears' for Iran regime, drawing EU diplomat backlash",
@@ -1976,13 +2012,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Live Nation settles DOJ antitrust case, keeps Ticketmaster",
-        "url": "https://www.perplexity.ai/page/live-nation-settles-doj-antitr-dp5gkFHAScCiuCws9Mlv0Q",
-        "description": "The deal requires amphitheater divestitures, caps on service fees and shorter exclusivity contracts but avoids a forced breakup of the ticketing giant.",
+        "title": "Trump sons back drone firm Powerus in bid for Pentagon contracts",
+        "url": "https://www.perplexity.ai/page/trump-sons-back-drone-firm-pow-HrfunM6DTCa0W9L9hBz9lA",
+        "description": "Powerus plans to go public via a reverse merger and pursue the Pentagon's $1.1 billion Drone Dominance program, the WSJ reported.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T10:11:16Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-03-09T10:28:45Z",
+        "sourceCount": "50 sources"
       },
       {
         "title": "Iran war splits BRICS as India blocks joint response",
@@ -1994,6 +2030,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "Live Nation settles DOJ antitrust case, keeps Ticketmaster",
+        "url": "https://www.perplexity.ai/page/live-nation-settles-doj-antitr-dp5gkFHAScCiuCws9Mlv0Q",
+        "description": "The deal requires amphitheater divestitures, caps on service fees and shorter exclusivity contracts but avoids a forced breakup of the ticketing giant.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T10:11:16Z",
+        "sourceCount": "15 sources"
+      },
+      {
         "title": "South Korea, Taiwan cap fuel prices as oil tops $100",
         "url": "https://www.perplexity.ai/page/south-korea-taiwan-cap-fuel-pr-Fz2RClxLT8GHf1uX6fNNXg",
         "description": "The emergency measures, first in nearly 30 years for South Korea, aim to shield consumers as the Middle East conflict drives crude prices sharply higher.",
@@ -2003,22 +2048,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
-        "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
-        "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
+        "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
+        "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
+        "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-08T19:59:18Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
-        "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
-        "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T19:19:10Z",
-        "sourceCount": "27 sources"
+        "pubDate": "2026-03-09T10:28:42Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Kansas City airport evacuated after bomb threat",
@@ -2039,13 +2075,22 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
-        "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
-        "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
+        "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
+        "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
+        "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T10:28:42Z",
-        "sourceCount": "25 sources"
+        "pubDate": "2026-03-08T19:59:18Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
+        "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
+        "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T19:19:10Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "UAE denies Israeli reports it struck Iranian desalination plant",
@@ -2316,15 +2361,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T21:48:13Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "Lewandowski leaves DHS after Noem's firing as secretary",
-        "url": "https://www.perplexity.ai/page/lewandowski-leaves-dhs-after-n-.4gPuofZTR2RAkqaMOYkGQ",
-        "description": "Trump adviser Corey Lewandowski wielded outsized power as Noem's unofficial chief of staff despite holding unpaid, part-time status.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T20:08:28Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
