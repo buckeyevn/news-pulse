@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Sri Lanka repatriates remains of 84 Iranian sailors killed in US submarine attack",
+      "url": "https://www.perplexity.ai/page/sri-lanka-repatriates-remains-92slh_LqQWyrz.g8qUa2Sg",
+      "description": "The bodies were flown from Mattala airport nine days after a US torpedo sank the frigate IRIS Dena off Sri Lanka's southern coast.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T11:13:43Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Netanyahu says Israeli strikes killed top Iranian nuclear scientist",
       "url": "https://www.perplexity.ai/page/netanyahu-says-israeli-strikes-EjAbTaQtRnOmxKy6kt66Mw",
       "description": "The claim came during his first press conference since the U.S.-Israeli war on Iran began Feb. 28, now in its 14th day.",
@@ -874,6 +883,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "Trump administration asks Israel to halt strikes on Iran's oil infrastructure",
+      "url": "https://www.perplexity.ai/page/trump-administration-asks-isra-10CDhdLoTM.opehnpSkebg",
+      "description": "The request marks the first time Washington has sought to restrain its ally since their joint military campaign against Iran began Feb. 28.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T19:04:03Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "ALMA detects high methanol levels in interstellar comet 3I/ATLAS",
       "url": "https://www.perplexity.ai/page/alma-detects-high-methanol-lev-ElNyXMX3Td.RYZw2SWRIbw",
       "description": "The third known interstellar object to pass through our solar system has a chemical makeup unlike nearly any comet born here, researchers say.",
@@ -1187,20 +1205,20 @@
       "topic": "top",
       "pubDate": "2026-03-09T10:28:42Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Kansas City airport evacuated after bomb threat",
-      "url": "https://www.perplexity.ai/page/kansas-city-airport-evacuated-Y4yjCSMIQ_Kpi9e.URBPXA",
-      "description": "About 2,000 travelers were moved onto the tarmac as the FBI and airport police swept the terminal and flights were halted nationwide.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T19:00:12Z",
-      "sourceCount": "22 sources"
     }
   ],
-  "cached_at": "2026-03-13T11:17:56Z",
+  "cached_at": "2026-03-13T11:48:55Z",
   "topics": {
     "top": [
+      {
+        "title": "Sri Lanka repatriates remains of 84 Iranian sailors killed in US submarine attack",
+        "url": "https://www.perplexity.ai/page/sri-lanka-repatriates-remains-92slh_LqQWyrz.g8qUa2Sg",
+        "description": "The bodies were flown from Mattala airport nine days after a US torpedo sank the frigate IRIS Dena off Sri Lanka's southern coast.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T11:13:43Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Netanyahu says Israeli strikes killed top Iranian nuclear scientist",
         "url": "https://www.perplexity.ai/page/netanyahu-says-israeli-strikes-EjAbTaQtRnOmxKy6kt66Mw",
@@ -2075,6 +2093,15 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "Trump administration asks Israel to halt strikes on Iran's oil infrastructure",
+        "url": "https://www.perplexity.ai/page/trump-administration-asks-isra-10CDhdLoTM.opehnpSkebg",
+        "description": "The request marks the first time Washington has sought to restrain its ally since their joint military campaign against Iran began Feb. 28.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T19:04:03Z",
+        "sourceCount": "30 sources"
+      },
+      {
         "title": "ALMA detects high methanol levels in interstellar comet 3I/ATLAS",
         "url": "https://www.perplexity.ai/page/alma-detects-high-methanol-lev-ElNyXMX3Td.RYZw2SWRIbw",
         "description": "The third known interstellar object to pass through our solar system has a chemical makeup unlike nearly any comet born here, researchers say.",
@@ -2388,15 +2415,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T10:28:42Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Kansas City airport evacuated after bomb threat",
-        "url": "https://www.perplexity.ai/page/kansas-city-airport-evacuated-Y4yjCSMIQ_Kpi9e.URBPXA",
-        "description": "About 2,000 travelers were moved onto the tarmac as the FBI and airport police swept the terminal and flights were halted nationwide.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T19:00:12Z",
-        "sourceCount": "22 sources"
       }
     ],
     "tech": [],
