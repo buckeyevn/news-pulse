@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Netanyahu says Israeli strikes killed top Iranian nuclear scientist",
+      "url": "https://www.perplexity.ai/page/netanyahu-says-israeli-strikes-EjAbTaQtRnOmxKy6kt66Mw",
+      "description": "The claim came during his first press conference since the U.S.-Israeli war on Iran began Feb. 28, now in its 14th day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T08:18:48Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Asian stocks slide as Iran war keeps oil near $100",
       "url": "https://www.perplexity.ai/page/asian-stocks-slide-as-iran-war-soFsvRw1SAuFuc7V.w7eFQ",
       "description": "Iran's new supreme leader vowed to keep the Strait of Hormuz closed, rattling energy markets and dragging equities lower worldwide.",
@@ -1261,9 +1270,18 @@
       "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-03-13T08:04:32Z",
+  "cached_at": "2026-03-13T08:57:41Z",
   "topics": {
     "top": [
+      {
+        "title": "Netanyahu says Israeli strikes killed top Iranian nuclear scientist",
+        "url": "https://www.perplexity.ai/page/netanyahu-says-israeli-strikes-EjAbTaQtRnOmxKy6kt66Mw",
+        "description": "The claim came during his first press conference since the U.S.-Israeli war on Iran began Feb. 28, now in its 14th day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T08:18:48Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Asian stocks slide as Iran war keeps oil near $100",
         "url": "https://www.perplexity.ai/page/asian-stocks-slide-as-iran-war-soFsvRw1SAuFuc7V.w7eFQ",
