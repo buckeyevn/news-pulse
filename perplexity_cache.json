@@ -1,13 +1,31 @@
 {
   "stories": [
     {
-      "title": "France builds coalition to reopen Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/france-builds-coalition-to-reo-8ZC97MzPQjOMrN4TNblQTQ",
-      "description": "Paris is consulting European, Asian, and Gulf Arab partners on a plan to escort tankers through the blocked strait as the Iran war disrupts global oil supply.",
+      "title": "Turkish ship cleared by Iran to cross Hormuz Strait as tanker traffic drops",
+      "url": "https://www.perplexity.ai/page/turkish-ship-cleared-by-iran-t-DkKftqaLQzq0nMKAcNvcfg",
+      "description": "Iran's new Supreme Leader Mojtaba Khamenei declared the strait must stay closed, as only a handful of vessels have won passage in two weeks of war.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-13T19:59:19Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-13T20:39:15Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "Over 50,000 Americans return from Middle East since Iran war began",
+      "url": "https://www.perplexity.ai/page/over-50000-americans-return-fr-hAYRoiSBT5m_vW3ELiclMQ",
+      "description": "The State Department said Friday that demand for charter flights is declining as the evacuation effort enters its third week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T20:28:46Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Italy escorts damaged Russian LNG tanker drifting near its coast",
+      "url": "https://www.perplexity.ai/page/italy-escorts-damaged-russian-gHzEg3FlQ_qI3skwoHhPpQ",
+      "description": "The crewless Arctic Metagaz, called a \"ticking time bomb,\" is being shadowed by the Italian navy after an alleged Ukrainian drone attack.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T20:21:36Z",
+      "sourceCount": "34 sources"
     },
     {
       "title": "Judge blocks DOJ subpoenas targeting Fed Chair Powell",
@@ -17,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-03-13T19:40:29Z",
       "sourceCount": "38 sources"
+    },
+    {
+      "title": "Pentagon deploys Marines, warships to Middle East as Iran escalates Hormuz attacks",
+      "url": "https://www.perplexity.ai/page/pentagon-deploys-marines-warsh-jQUacPx5TwyNyKjmf4s50Q",
+      "description": "The USS Tripoli and roughly 5,000 Marines are en route from Japan as the U.S. military struggles to reopen the strait to commercial shipping.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T16:14:46Z",
+      "sourceCount": "87 sources"
     },
     {
       "title": "Michigan synagogue attacker lost family in Israeli airstrike, mayor says",
@@ -55,15 +82,6 @@
       "sourceCount": "37 sources"
     },
     {
-      "title": "Hegseth says Iran's new supreme leader is 'wounded and likely disfigured'",
-      "url": "https://www.perplexity.ai/page/hegseth-says-iran-s-new-suprem-RKnwCZOBRqW1UwyE3QCHhg",
-      "description": "Mojtaba Khamenei issued his first public statement via state TV but was neither seen nor heard, deepening questions about his condition.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T12:33:37Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "Cuba confirms opening talks with U.S. after months of denial",
       "url": "https://www.perplexity.ai/page/cuba-confirms-opening-talks-wi-HS_YC5RVTy2VzwINxYR1FQ",
       "description": "President Diaz-Canel said he directed negotiations alongside Raul Castro, marking Havana's first official acknowledgment of discussions with Washington.",
@@ -73,15 +91,6 @@
       "sourceCount": "68 sources"
     },
     {
-      "title": "Bessent pulled from live interview to White House Situation Room amid Iran crisis",
-      "url": "https://www.perplexity.ai/page/bessent-pulled-from-live-inter-Qme5dICJTpur4G9J1AhIDw",
-      "description": "The Treasury secretary told Sky News the U.S. Navy will escort oil tankers through the Strait of Hormuz once military conditions allow.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T12:20:05Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "US military's AI-powered system struck 6,000 targets in Iran as war enters third week",
       "url": "https://www.perplexity.ai/page/us-military-s-ai-powered-syste-Vdr8zYOXTXKzVde6uS6egg",
       "description": "The Maven Smart System, built by Palantir and powered by Anthropic's Claude, compressed weeks of targeting work into hours amid growing civilian harm concerns.",
@@ -89,6 +98,15 @@
       "topic": "top",
       "pubDate": "2026-03-13T11:14:08Z",
       "sourceCount": "42 sources"
+    },
+    {
+      "title": "Bessent pulled from live interview to White House Situation Room amid Iran crisis",
+      "url": "https://www.perplexity.ai/page/bessent-pulled-from-live-inter-Qme5dICJTpur4G9J1AhIDw",
+      "description": "The Treasury secretary told Sky News the U.S. Navy will escort oil tankers through the Strait of Hormuz once military conditions allow.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T12:20:05Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Sri Lanka repatriates remains of 84 Iranian sailors killed in US submarine attack",
@@ -397,15 +415,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Iran denies laying mines in Hormuz, says some nations granted safe passage",
-      "url": "https://www.perplexity.ai/page/iran-denies-laying-mines-in-ho-1gcq1gVrQq6DbmTgPSMrIQ",
-      "description": "Deputy FM Takht-Ravanchi called U.S. mine-laying claims untrue and confirmed select countries, including India, have negotiated transit through the strait.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T17:58:57Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "Trump administration sues California over EV mandates",
       "url": "https://www.perplexity.ai/page/trump-administration-sues-cali-7fLsrT.wQkKBFGuImDHUgw",
       "description": "The DOJ filed suit seeking to invalidate California's remaining zero-emission vehicle rules, calling them illegal under federal law.",
@@ -415,13 +424,13 @@
       "sourceCount": "37 sources"
     },
     {
-      "title": "Iran launches drone strikes on Israeli bases as war enters day 13",
-      "url": "https://www.perplexity.ai/page/iran-launches-drone-strikes-on-1gNxo5AzTRCr8Fctoesi9w",
-      "description": "Iran claims its drones hit two airbases and Shin Bet headquarters, while coordinated Hezbollah barrages send millions of Israelis to shelters.",
+      "title": "Iran, Lebanon seek expanded UNESCO protections as strikes damage heritage sites",
+      "url": "https://www.perplexity.ai/page/iran-lebanon-seek-expanded-une-Ko2H72GlS3Cs8dv4GjZWkg",
+      "description": "At least four World Heritage sites have sustained verified damage since the U.S.-Israeli campaign began Feb. 28, UNESCO confirmed.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-12T18:24:15Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-03-12T14:40:37Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "States rush to set rounding rules as pennies vanish from registers",
@@ -442,13 +451,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Iran, Lebanon seek expanded UNESCO protections as strikes damage heritage sites",
-      "url": "https://www.perplexity.ai/page/iran-lebanon-seek-expanded-une-Ko2H72GlS3Cs8dv4GjZWkg",
-      "description": "At least four World Heritage sites have sustained verified damage since the U.S.-Israeli campaign began Feb. 28, UNESCO confirmed.",
+      "title": "Iran launches drone strikes on Israeli bases as war enters day 13",
+      "url": "https://www.perplexity.ai/page/iran-launches-drone-strikes-on-1gNxo5AzTRCr8Fctoesi9w",
+      "description": "Iran claims its drones hit two airbases and Shin Bet headquarters, while coordinated Hezbollah barrages send millions of Israelis to shelters.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-12T14:40:37Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-03-12T18:24:15Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "China's mediation helps ease Pakistan-Afghanistan fighting, officials say",
@@ -1160,28 +1169,37 @@
       "topic": "top",
       "pubDate": "2026-03-09T20:35:46Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Russia says it is 'not neutral' in US-Iran war",
-      "url": "https://www.perplexity.ai/page/russia-says-it-is-not-neutral-j0weJvT7SwCgpEy81XtIlA",
-      "description": "Ambassador Kelin told Sky News that Moscow is \"supportive\" of Iran and would \"seriously\" consider providing assistance if asked.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T11:44:57Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-13T20:18:40Z",
+  "cached_at": "2026-03-13T20:57:18Z",
   "topics": {
     "top": [
       {
-        "title": "France builds coalition to reopen Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/france-builds-coalition-to-reo-8ZC97MzPQjOMrN4TNblQTQ",
-        "description": "Paris is consulting European, Asian, and Gulf Arab partners on a plan to escort tankers through the blocked strait as the Iran war disrupts global oil supply.",
+        "title": "Turkish ship cleared by Iran to cross Hormuz Strait as tanker traffic drops",
+        "url": "https://www.perplexity.ai/page/turkish-ship-cleared-by-iran-t-DkKftqaLQzq0nMKAcNvcfg",
+        "description": "Iran's new Supreme Leader Mojtaba Khamenei declared the strait must stay closed, as only a handful of vessels have won passage in two weeks of war.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-13T19:59:19Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-13T20:39:15Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "Over 50,000 Americans return from Middle East since Iran war began",
+        "url": "https://www.perplexity.ai/page/over-50000-americans-return-fr-hAYRoiSBT5m_vW3ELiclMQ",
+        "description": "The State Department said Friday that demand for charter flights is declining as the evacuation effort enters its third week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T20:28:46Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Italy escorts damaged Russian LNG tanker drifting near its coast",
+        "url": "https://www.perplexity.ai/page/italy-escorts-damaged-russian-gHzEg3FlQ_qI3skwoHhPpQ",
+        "description": "The crewless Arctic Metagaz, called a \"ticking time bomb,\" is being shadowed by the Italian navy after an alleged Ukrainian drone attack.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T20:21:36Z",
+        "sourceCount": "34 sources"
       },
       {
         "title": "Judge blocks DOJ subpoenas targeting Fed Chair Powell",
@@ -1191,6 +1209,15 @@
         "topic": "top",
         "pubDate": "2026-03-13T19:40:29Z",
         "sourceCount": "38 sources"
+      },
+      {
+        "title": "Pentagon deploys Marines, warships to Middle East as Iran escalates Hormuz attacks",
+        "url": "https://www.perplexity.ai/page/pentagon-deploys-marines-warsh-jQUacPx5TwyNyKjmf4s50Q",
+        "description": "The USS Tripoli and roughly 5,000 Marines are en route from Japan as the U.S. military struggles to reopen the strait to commercial shipping.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T16:14:46Z",
+        "sourceCount": "87 sources"
       },
       {
         "title": "Michigan synagogue attacker lost family in Israeli airstrike, mayor says",
@@ -1229,15 +1256,6 @@
         "sourceCount": "37 sources"
       },
       {
-        "title": "Hegseth says Iran's new supreme leader is 'wounded and likely disfigured'",
-        "url": "https://www.perplexity.ai/page/hegseth-says-iran-s-new-suprem-RKnwCZOBRqW1UwyE3QCHhg",
-        "description": "Mojtaba Khamenei issued his first public statement via state TV but was neither seen nor heard, deepening questions about his condition.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T12:33:37Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "Cuba confirms opening talks with U.S. after months of denial",
         "url": "https://www.perplexity.ai/page/cuba-confirms-opening-talks-wi-HS_YC5RVTy2VzwINxYR1FQ",
         "description": "President Diaz-Canel said he directed negotiations alongside Raul Castro, marking Havana's first official acknowledgment of discussions with Washington.",
@@ -1247,15 +1265,6 @@
         "sourceCount": "68 sources"
       },
       {
-        "title": "Bessent pulled from live interview to White House Situation Room amid Iran crisis",
-        "url": "https://www.perplexity.ai/page/bessent-pulled-from-live-inter-Qme5dICJTpur4G9J1AhIDw",
-        "description": "The Treasury secretary told Sky News the U.S. Navy will escort oil tankers through the Strait of Hormuz once military conditions allow.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T12:20:05Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "US military's AI-powered system struck 6,000 targets in Iran as war enters third week",
         "url": "https://www.perplexity.ai/page/us-military-s-ai-powered-syste-Vdr8zYOXTXKzVde6uS6egg",
         "description": "The Maven Smart System, built by Palantir and powered by Anthropic's Claude, compressed weeks of targeting work into hours amid growing civilian harm concerns.",
@@ -1263,6 +1272,15 @@
         "topic": "top",
         "pubDate": "2026-03-13T11:14:08Z",
         "sourceCount": "42 sources"
+      },
+      {
+        "title": "Bessent pulled from live interview to White House Situation Room amid Iran crisis",
+        "url": "https://www.perplexity.ai/page/bessent-pulled-from-live-inter-Qme5dICJTpur4G9J1AhIDw",
+        "description": "The Treasury secretary told Sky News the U.S. Navy will escort oil tankers through the Strait of Hormuz once military conditions allow.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T12:20:05Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Sri Lanka repatriates remains of 84 Iranian sailors killed in US submarine attack",
@@ -1571,15 +1589,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Iran denies laying mines in Hormuz, says some nations granted safe passage",
-        "url": "https://www.perplexity.ai/page/iran-denies-laying-mines-in-ho-1gcq1gVrQq6DbmTgPSMrIQ",
-        "description": "Deputy FM Takht-Ravanchi called U.S. mine-laying claims untrue and confirmed select countries, including India, have negotiated transit through the strait.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T17:58:57Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "Trump administration sues California over EV mandates",
         "url": "https://www.perplexity.ai/page/trump-administration-sues-cali-7fLsrT.wQkKBFGuImDHUgw",
         "description": "The DOJ filed suit seeking to invalidate California's remaining zero-emission vehicle rules, calling them illegal under federal law.",
@@ -1589,13 +1598,13 @@
         "sourceCount": "37 sources"
       },
       {
-        "title": "Iran launches drone strikes on Israeli bases as war enters day 13",
-        "url": "https://www.perplexity.ai/page/iran-launches-drone-strikes-on-1gNxo5AzTRCr8Fctoesi9w",
-        "description": "Iran claims its drones hit two airbases and Shin Bet headquarters, while coordinated Hezbollah barrages send millions of Israelis to shelters.",
+        "title": "Iran, Lebanon seek expanded UNESCO protections as strikes damage heritage sites",
+        "url": "https://www.perplexity.ai/page/iran-lebanon-seek-expanded-une-Ko2H72GlS3Cs8dv4GjZWkg",
+        "description": "At least four World Heritage sites have sustained verified damage since the U.S.-Israeli campaign began Feb. 28, UNESCO confirmed.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-12T18:24:15Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-03-12T14:40:37Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "States rush to set rounding rules as pennies vanish from registers",
@@ -1616,13 +1625,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Iran, Lebanon seek expanded UNESCO protections as strikes damage heritage sites",
-        "url": "https://www.perplexity.ai/page/iran-lebanon-seek-expanded-une-Ko2H72GlS3Cs8dv4GjZWkg",
-        "description": "At least four World Heritage sites have sustained verified damage since the U.S.-Israeli campaign began Feb. 28, UNESCO confirmed.",
+        "title": "Iran launches drone strikes on Israeli bases as war enters day 13",
+        "url": "https://www.perplexity.ai/page/iran-launches-drone-strikes-on-1gNxo5AzTRCr8Fctoesi9w",
+        "description": "Iran claims its drones hit two airbases and Shin Bet headquarters, while coordinated Hezbollah barrages send millions of Israelis to shelters.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-12T14:40:37Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-03-12T18:24:15Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "China's mediation helps ease Pakistan-Afghanistan fighting, officials say",
@@ -2334,15 +2343,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T20:35:46Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Russia says it is 'not neutral' in US-Iran war",
-        "url": "https://www.perplexity.ai/page/russia-says-it-is-not-neutral-j0weJvT7SwCgpEy81XtIlA",
-        "description": "Ambassador Kelin told Sky News that Moscow is \"supportive\" of Iran and would \"seriously\" consider providing assistance if asked.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T11:44:57Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
