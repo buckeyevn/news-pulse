@@ -28,15 +28,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Hegseth says US planning heaviest strikes yet on Iran on Day 14",
-      "url": "https://www.perplexity.ai/page/hegseth-says-us-planning-heavi-VF1Do16kTh.d1Ly64dmPYA",
-      "description": "The defense secretary said over 15,000 targets have been hit and that Iran's new supreme leader is \"wounded and likely disfigured.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T13:43:55Z",
-      "sourceCount": "51 sources"
-    },
-    {
       "title": "Democrats warn new Trump tariffs will cost households $2,512 this year",
       "url": "https://www.perplexity.ai/page/democrats-warn-new-trump-tarif-7LkaJwY1SwyzmIhugR8Y5A",
       "description": "A Joint Economic Committee study released Friday says the post-Supreme Court tariff regime represents a 44% increase over 2025 household costs.",
@@ -46,13 +37,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Cuba confirms opening talks with U.S. after months of denial",
-      "url": "https://www.perplexity.ai/page/cuba-confirms-opening-talks-wi-HS_YC5RVTy2VzwINxYR1FQ",
-      "description": "President Diaz-Canel said he directed negotiations alongside Raul Castro, marking Havana's first official acknowledgment of discussions with Washington.",
+      "title": "Hegseth says 15,000 targets hit as war with Iran enters third week",
+      "url": "https://www.perplexity.ai/page/hegseth-says-15000-targets-hit-rVFZoupEQ0isrsNMT9s6Rg",
+      "description": "Explosions rocked Dubai on Friday as both sides intensified strikes, with oil above $100 a barrel and no diplomatic resolution in sight.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-13T12:03:40Z",
-      "sourceCount": "68 sources"
+      "pubDate": "2026-03-13T12:48:55Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "Hegseth says Iran's new supreme leader is 'wounded and likely disfigured'",
@@ -62,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-03-13T12:33:37Z",
       "sourceCount": "40 sources"
+    },
+    {
+      "title": "Cuba confirms opening talks with U.S. after months of denial",
+      "url": "https://www.perplexity.ai/page/cuba-confirms-opening-talks-wi-HS_YC5RVTy2VzwINxYR1FQ",
+      "description": "President Diaz-Canel said he directed negotiations alongside Raul Castro, marking Havana's first official acknowledgment of discussions with Washington.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T12:03:40Z",
+      "sourceCount": "68 sources"
     },
     {
       "title": "US military's AI-powered system struck 6,000 targets in Iran as war enters third week",
@@ -1153,7 +1153,7 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-13T18:23:10Z",
+  "cached_at": "2026-03-13T19:07:31Z",
   "topics": {
     "top": [
       {
@@ -1184,15 +1184,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Hegseth says US planning heaviest strikes yet on Iran on Day 14",
-        "url": "https://www.perplexity.ai/page/hegseth-says-us-planning-heavi-VF1Do16kTh.d1Ly64dmPYA",
-        "description": "The defense secretary said over 15,000 targets have been hit and that Iran's new supreme leader is \"wounded and likely disfigured.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T13:43:55Z",
-        "sourceCount": "51 sources"
-      },
-      {
         "title": "Democrats warn new Trump tariffs will cost households $2,512 this year",
         "url": "https://www.perplexity.ai/page/democrats-warn-new-trump-tarif-7LkaJwY1SwyzmIhugR8Y5A",
         "description": "A Joint Economic Committee study released Friday says the post-Supreme Court tariff regime represents a 44% increase over 2025 household costs.",
@@ -1202,13 +1193,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Cuba confirms opening talks with U.S. after months of denial",
-        "url": "https://www.perplexity.ai/page/cuba-confirms-opening-talks-wi-HS_YC5RVTy2VzwINxYR1FQ",
-        "description": "President Diaz-Canel said he directed negotiations alongside Raul Castro, marking Havana's first official acknowledgment of discussions with Washington.",
+        "title": "Hegseth says 15,000 targets hit as war with Iran enters third week",
+        "url": "https://www.perplexity.ai/page/hegseth-says-15000-targets-hit-rVFZoupEQ0isrsNMT9s6Rg",
+        "description": "Explosions rocked Dubai on Friday as both sides intensified strikes, with oil above $100 a barrel and no diplomatic resolution in sight.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-13T12:03:40Z",
-        "sourceCount": "68 sources"
+        "pubDate": "2026-03-13T12:48:55Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "Hegseth says Iran's new supreme leader is 'wounded and likely disfigured'",
@@ -1218,6 +1209,15 @@
         "topic": "top",
         "pubDate": "2026-03-13T12:33:37Z",
         "sourceCount": "40 sources"
+      },
+      {
+        "title": "Cuba confirms opening talks with U.S. after months of denial",
+        "url": "https://www.perplexity.ai/page/cuba-confirms-opening-talks-wi-HS_YC5RVTy2VzwINxYR1FQ",
+        "description": "President Diaz-Canel said he directed negotiations alongside Raul Castro, marking Havana's first official acknowledgment of discussions with Washington.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T12:03:40Z",
+        "sourceCount": "68 sources"
       },
       {
         "title": "US military's AI-powered system struck 6,000 targets in Iran as war enters third week",
