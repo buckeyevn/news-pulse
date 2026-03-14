@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Alexander the Great's lost city found in Iraq after 1,700 years",
+      "url": "https://www.perplexity.ai/page/alexander-the-great-s-lost-cit-e1p8I6EWSg6141vBwJ.YEA",
+      "description": "Archaeologists confirmed the location of Alexandria on the Tigris, a massive ancient port city buried beneath the desert of southern Iraq.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T17:38:09Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "BP wins approval for first new Gulf oilfield since Deepwater Horizon",
       "url": "https://www.perplexity.ai/page/bp-wins-approval-for-first-new-rxiJoFamT7e2Yd8DbLGb9Q",
       "description": "The Trump administration greenlit the $5 billion Kaskida project, which is expected to begin producing crude in 2029 from a field holding up to 10 billion barrels.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-10T01:58:36Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Trump declares SAVE America Act as number one priority",
-      "url": "https://www.perplexity.ai/page/trump-declares-save-america-ac-ievdtzXDTJ.kM6yBc7v_XA",
-      "description": "The president told House Republicans he won't approve any legislation until his election integrity package passes, threatening the CLARITY Act's timeline.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T02:03:45Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-14T17:13:57Z",
+  "cached_at": "2026-03-14T17:46:17Z",
   "topics": {
     "top": [
+      {
+        "title": "Alexander the Great's lost city found in Iraq after 1,700 years",
+        "url": "https://www.perplexity.ai/page/alexander-the-great-s-lost-cit-e1p8I6EWSg6141vBwJ.YEA",
+        "description": "Archaeologists confirmed the location of Alexandria on the Tigris, a massive ancient port city buried beneath the desert of southern Iraq.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T17:38:09Z",
+        "sourceCount": "24 sources"
+      },
       {
         "title": "BP wins approval for first new Gulf oilfield since Deepwater Horizon",
         "url": "https://www.perplexity.ai/page/bp-wins-approval-for-first-new-rxiJoFamT7e2Yd8DbLGb9Q",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T01:58:36Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Trump declares SAVE America Act as number one priority",
-        "url": "https://www.perplexity.ai/page/trump-declares-save-america-ac-ievdtzXDTJ.kM6yBc7v_XA",
-        "description": "The president told House Republicans he won't approve any legislation until his election integrity package passes, threatening the CLARITY Act's timeline.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T02:03:45Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
