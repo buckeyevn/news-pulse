@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Bids to break up NCAR due as dismantling plans advance",
+      "url": "https://www.perplexity.ai/page/bids-to-break-up-ncar-due-as-d-xERimiFfR12OOPmfAtbS0A",
+      "description": "Proposals from universities and private firms to absorb parts of the storied climate research center were due to the NSF on March 13.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T12:14:29Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "U.S. wraps up first-ever Arctic Edge exercise in Greenland",
+      "url": "https://www.perplexity.ai/page/u-s-wraps-up-first-ever-arctic-mFW1XpdtSpyKDDeNhyI2ug",
+      "description": "The annual training exercise expanded to Greenland for the first time, testing cruise missile defense and cold-weather survival alongside Danish and Canadian forces.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T12:11:09Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Chemistry may not be quantum computing's killer app, New Scientist reports",
       "url": "https://www.perplexity.ai/page/chemistry-may-not-be-quantum-c-0pNX9wEpSq6L4PQj20K0vw",
       "description": "Despite rapid progress in error correction, simulating complex molecules still demands far more qubits than today's machines can deliver.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-09T23:38:06Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Putin pitches Iran peace plan to Trump, backs new supreme leader",
-      "url": "https://www.perplexity.ai/page/putin-pitches-iran-peace-plan-QFtPGHeMQ76vY1p6X6ctyw",
-      "description": "On a day of diplomatic maneuvering, the Russian president proposed a swift end to the Iran war while pledging \"unwavering support\" to Mojtaba Khamenei.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T23:53:46Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "CENTCOM denies Patriot misfire, blames Iranian drone for Bahrain civilian injuries",
-      "url": "https://www.perplexity.ai/page/centcom-denies-patriot-misfire-jhUS_7hCTdqPZZpib916nw",
-      "description": "The U.S. called Russian and Iranian media reports that a Patriot missile struck a Bahrain neighborhood a \"lie,\" saying an Iranian drone injured 32 civilians.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T01:18:13Z",
-      "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-03-14T11:54:45Z",
+  "cached_at": "2026-03-14T13:03:02Z",
   "topics": {
     "top": [
+      {
+        "title": "Bids to break up NCAR due as dismantling plans advance",
+        "url": "https://www.perplexity.ai/page/bids-to-break-up-ncar-due-as-d-xERimiFfR12OOPmfAtbS0A",
+        "description": "Proposals from universities and private firms to absorb parts of the storied climate research center were due to the NSF on March 13.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T12:14:29Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "U.S. wraps up first-ever Arctic Edge exercise in Greenland",
+        "url": "https://www.perplexity.ai/page/u-s-wraps-up-first-ever-arctic-mFW1XpdtSpyKDDeNhyI2ug",
+        "description": "The annual training exercise expanded to Greenland for the first time, testing cruise missile defense and cold-weather survival alongside Danish and Canadian forces.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T12:11:09Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Chemistry may not be quantum computing's killer app, New Scientist reports",
         "url": "https://www.perplexity.ai/page/chemistry-may-not-be-quantum-c-0pNX9wEpSq6L4PQj20K0vw",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T23:38:06Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Putin pitches Iran peace plan to Trump, backs new supreme leader",
-        "url": "https://www.perplexity.ai/page/putin-pitches-iran-peace-plan-QFtPGHeMQ76vY1p6X6ctyw",
-        "description": "On a day of diplomatic maneuvering, the Russian president proposed a swift end to the Iran war while pledging \"unwavering support\" to Mojtaba Khamenei.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T23:53:46Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "CENTCOM denies Patriot misfire, blames Iranian drone for Bahrain civilian injuries",
-        "url": "https://www.perplexity.ai/page/centcom-denies-patriot-misfire-jhUS_7hCTdqPZZpib916nw",
-        "description": "The U.S. called Russian and Iranian media reports that a Patriot missile struck a Bahrain neighborhood a \"lie,\" saying an Iranian drone injured 32 civilians.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T01:18:13Z",
-        "sourceCount": "24 sources"
       }
     ],
     "tech": [],
