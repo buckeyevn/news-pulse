@@ -784,15 +784,6 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "China's mediation helps ease Pakistan-Afghanistan fighting, officials say",
-      "url": "https://www.perplexity.ai/page/china-s-mediation-helps-ease-p-tsrOs8z3SOS0e9vsg9ZOhw",
-      "description": "A message from Xi Jinping to cease hostilities contributed to a reduction in cross-border strikes along the 2,600-kilometer frontier, Pakistani officials told Reuters.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T14:00:09Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Anthropic asks appeals court to stay Pentagon blacklisting",
       "url": "https://www.perplexity.ai/page/anthropic-asks-appeals-court-t-xV_2YbHvQAykvJx0otvxPQ",
       "description": "The AI company says the supply-chain risk designation could cost it billions in revenue, with over 100 enterprise clients raising concerns.",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-03-09T22:34:25Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "RAF Typhoons down two drones over Jordan and Bahrain",
+      "url": "https://www.perplexity.ai/page/raf-typhoons-down-two-drones-o-BmP8zRUuStW4Gi0jcTXbcA",
+      "description": "Defence Secretary Healey told the Commons the UK is now flying defensive sorties over the Gulf as HMS Dragon prepares to deploy.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T22:09:06Z",
+      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-14T05:32:58Z",
+  "cached_at": "2026-03-14T06:27:39Z",
   "topics": {
     "top": [
       {
@@ -2138,15 +2138,6 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "China's mediation helps ease Pakistan-Afghanistan fighting, officials say",
-        "url": "https://www.perplexity.ai/page/china-s-mediation-helps-ease-p-tsrOs8z3SOS0e9vsg9ZOhw",
-        "description": "A message from Xi Jinping to cease hostilities contributed to a reduction in cross-border strikes along the 2,600-kilometer frontier, Pakistani officials told Reuters.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T14:00:09Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Anthropic asks appeals court to stay Pentagon blacklisting",
         "url": "https://www.perplexity.ai/page/anthropic-asks-appeals-court-t-xV_2YbHvQAykvJx0otvxPQ",
         "description": "The AI company says the supply-chain risk designation could cost it billions in revenue, with over 100 enterprise clients raising concerns.",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-09T22:34:25Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "RAF Typhoons down two drones over Jordan and Bahrain",
+        "url": "https://www.perplexity.ai/page/raf-typhoons-down-two-drones-o-BmP8zRUuStW4Gi0jcTXbcA",
+        "description": "Defence Secretary Healey told the Commons the UK is now flying defensive sorties over the Gulf as HMS Dragon prepares to deploy.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T22:09:06Z",
+        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
