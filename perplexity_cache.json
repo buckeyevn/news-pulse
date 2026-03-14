@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "NWS issues earliest-ever extreme heat watch as March heatwave grips California",
+      "url": "https://www.perplexity.ai/page/nws-issues-earliest-ever-extre-PIFY49.eRSSuo9.qFFfOoQ",
+      "description": "Temperatures next week could topple a 147-year-old record in downtown Los Angeles, with readings forecast up to 30 degrees above normal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T21:40:08Z",
+      "sourceCount": "31 sources"
+    },
+    {
       "title": "Lobbyist who helped client get Trump pardon charged with extortion",
       "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
       "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
@@ -10,13 +19,13 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "IDF says it killed two Iranian intelligence chiefs in Tehran airstrike",
-      "url": "https://www.perplexity.ai/page/idf-says-it-killed-two-iranian-x2ygP7gQSgOx0rgukv0wlg",
-      "description": "Both officers had been appointed after their predecessor was eliminated in earlier strikes during Operation Roaring Lion.",
+      "title": "U.S. strikes 90+ military targets on Iran's Kharg Island",
+      "url": "https://www.perplexity.ai/page/u-s-strikes-90-military-target-DXJxaZ8fTXmQPSooIoXslw",
+      "description": "CENTCOM confirmed the large-scale precision strike destroyed mine storage and missile bunkers while deliberately sparing the island's oil infrastructure.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-14T17:58:00Z",
-      "sourceCount": "64 sources"
+      "pubDate": "2026-03-14T19:44:20Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "UAE consulate in Erbil hit by drone for second time in a week",
@@ -28,15 +37,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Iran vows to block Strait of Hormuz after US strikes on Kharg Island",
-      "url": "https://www.perplexity.ai/page/iran-vows-to-block-strait-of-h-HO6tl.3xRhC8aGi71XDE.Q",
-      "description": "Tehran dismissed Trump's warnings and declared that oil tankers and commercial vessels belonging to \"aggressors and their allies\" will be targeted.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T19:44:10Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
       "url": "https://www.perplexity.ai/page/israeli-strikes-kill-six-in-ga-qH6fo.u7Q9KKIwtNfEBk7A",
       "description": "Gaza's civil defense agency says a pre-dawn strike in Khan Younis and a separate attack in Gaza City killed six people in the past 24 hours.",
@@ -46,6 +46,15 @@
       "sourceCount": "38 sources"
     },
     {
+      "title": "IDF says it killed two Iranian intelligence chiefs in Tehran airstrike",
+      "url": "https://www.perplexity.ai/page/idf-says-it-killed-two-iranian-x2ygP7gQSgOx0rgukv0wlg",
+      "description": "Both officers had been appointed after their predecessor was eliminated in earlier strikes during Operation Roaring Lion.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T17:58:00Z",
+      "sourceCount": "64 sources"
+    },
+    {
       "title": "Macron offers to host Israel-Lebanon talks in Paris",
       "url": "https://www.perplexity.ai/page/macron-offers-to-host-israel-l-.PtfgeK3Qm64DsEfeoXijg",
       "description": "France's president urged direct negotiations and called on Hezbollah to halt escalation and Israel to abandon plans for a ground offensive.",
@@ -53,15 +62,6 @@
       "topic": "top",
       "pubDate": "2026-03-14T13:29:06Z",
       "sourceCount": "19 sources"
-    },
-    {
-      "title": "Iran launches 49th wave of strikes on US bases across Gulf",
-      "url": "https://www.perplexity.ai/page/iran-launches-49th-wave-of-str-4OymG63ZRXumv4vsZaB3FQ",
-      "description": "The IRGC said its naval units hit American installations in the UAE, Bahrain, and Kuwait as the US-Iran conflict enters its third week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T14:24:06Z",
-      "sourceCount": "41 sources"
     },
     {
       "title": "Explosion hits Amsterdam Jewish school in 'deliberate attack'",
@@ -226,6 +226,15 @@
       "sourceCount": "11 sources"
     },
     {
+      "title": "Iran fires fresh missile barrages at Israel, Gulf states as war enters third week",
+      "url": "https://www.perplexity.ai/page/iran-fires-fresh-missile-barra-TPU6ddwSRv.IJAbhoMmxpw",
+      "description": "Fifty-eight people were injured when a ballistic missile struck northern Israel on day 14 of the conflict, as Tehran vows to keep the Strait of Hormuz closed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T00:18:47Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Qatar orders evacuations as Gulf conflict enters third week",
       "url": "https://www.perplexity.ai/page/qatar-orders-evacuations-as-gu-WhutIpejQG.Qz6JCERZgjg",
       "description": "Debris from an intercepted drone struck Dubai's financial district Friday as Qatar began evacuating residents from specified areas overnight.",
@@ -361,13 +370,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "France, Italy open talks with Iran on Hormuz passage",
-      "url": "https://www.perplexity.ai/page/france-italy-open-talks-with-i-c8asBY3FSEu5RLnjTdADXA",
-      "description": "European nations are seeking to restart energy shipments as Gulf shipping remains paralyzed by the U.S.-Israel conflict with Iran.",
+      "title": "Finland won't host nuclear arms in peacetime, Stubb says",
+      "url": "https://www.perplexity.ai/page/finland-won-t-host-nuclear-arm-AoyR.nxlTXuoZmRdZWjU7w",
+      "description": "President Stubb sought to ease tensions after Finland's government last week moved to repeal a decades-old ban on nuclear weapons within its borders.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-13T21:48:59Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-13T21:34:29Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Federal judge blocks Trump plan to end TPS for Somali immigrants",
@@ -379,15 +388,6 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Finland won't host nuclear arms in peacetime, Stubb says",
-      "url": "https://www.perplexity.ai/page/finland-won-t-host-nuclear-arm-AoyR.nxlTXuoZmRdZWjU7w",
-      "description": "President Stubb sought to ease tensions after Finland's government last week moved to repeal a decades-old ban on nuclear weapons within its borders.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T21:34:29Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Over 50,000 Americans return from Middle East since Iran war began",
       "url": "https://www.perplexity.ai/page/over-50000-americans-return-fr-hAYRoiSBT5m_vW3ELiclMQ",
       "description": "The State Department said Friday that demand for charter flights is declining as the evacuation effort enters its third week.",
@@ -395,15 +395,6 @@
       "topic": "top",
       "pubDate": "2026-03-13T20:28:46Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "South Korea's PM meets Trump after $350B investment bill clears parliament",
-      "url": "https://www.perplexity.ai/page/south-korea-s-pm-meets-trump-a-GXRB45iETwWZsZP1gxSdcg",
-      "description": "The unannounced White House meeting followed the National Assembly's passage of legislation enabling Seoul to fulfill its U.S. investment pledge.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T22:13:34Z",
-      "sourceCount": "36 sources"
     },
     {
       "title": "Italy escorts damaged Russian LNG tanker drifting near its coast",
@@ -415,6 +406,15 @@
       "sourceCount": "34 sources"
     },
     {
+      "title": "South Korea's PM meets Trump after $350B investment bill clears parliament",
+      "url": "https://www.perplexity.ai/page/south-korea-s-pm-meets-trump-a-GXRB45iETwWZsZP1gxSdcg",
+      "description": "The unannounced White House meeting followed the National Assembly's passage of legislation enabling Seoul to fulfill its U.S. investment pledge.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T22:13:34Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "Sens. Warren and Van Hollen demand Hegseth's firing over Iran school strike",
       "url": "https://www.perplexity.ai/page/sens-warren-and-van-hollen-dem-5rAav9A8S96cdzncvZ_PnQ",
       "description": "The Democratic senators say the defense secretary's rollback of civilian harm protections contributed to the deadly Feb. 28 bombing of an elementary school.",
@@ -422,15 +422,6 @@
       "topic": "top",
       "pubDate": "2026-03-13T19:55:07Z",
       "sourceCount": "59 sources"
-    },
-    {
-      "title": "UAE says Iran must halt attacks before any mediation can begin",
-      "url": "https://www.perplexity.ai/page/uae-says-iran-must-halt-attack-IJRss40BSu6eiLdPvTZxpQ",
-      "description": "Diplomat Lana Nusseibeh said the guns must go silent first but expressed confidence Trump will lead to a negotiated end to the war.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T21:48:55Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Judge blocks DOJ subpoenas targeting Fed Chair Powell",
@@ -442,6 +433,15 @@
       "sourceCount": "38 sources"
     },
     {
+      "title": "UAE says Iran must halt attacks before any mediation can begin",
+      "url": "https://www.perplexity.ai/page/uae-says-iran-must-halt-attack-IJRss40BSu6eiLdPvTZxpQ",
+      "description": "Diplomat Lana Nusseibeh said the guns must go silent first but expressed confidence Trump will lead to a negotiated end to the war.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T21:48:55Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Accused drug kingpin Marset arrested in Bolivia, flown to US",
       "url": "https://www.perplexity.ai/page/accused-drug-kingpin-marset-ar-lvCOmqvVRByANLuw7nuaJw",
       "description": "Sebastián Marset, known as \"the King of the South\" and a top DEA fugitive, was captured in a predawn raid in Santa Cruz de la Sierra.",
@@ -449,15 +449,6 @@
       "topic": "top",
       "pubDate": "2026-03-13T19:12:36Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Trump rejected Putin's offer to move Iran's uranium to Russia",
-      "url": "https://www.perplexity.ai/page/trump-rejected-putin-s-offer-t-0.v1ZzAbSuGr5behJV7UHw",
-      "description": "The proposal, made during a March 9 phone call, aimed to resolve the dispute over Iran's enriched uranium stockpile as part of a broader war settlement.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T21:20:08Z",
-      "sourceCount": "46 sources"
     },
     {
       "title": "Pakistan bombs Kandahar fuel depot, Kabul homes, ending week-long lull",
@@ -469,6 +460,15 @@
       "sourceCount": "54 sources"
     },
     {
+      "title": "Trump rejected Putin's offer to move Iran's uranium to Russia",
+      "url": "https://www.perplexity.ai/page/trump-rejected-putin-s-offer-t-0.v1ZzAbSuGr5behJV7UHw",
+      "description": "The proposal, made during a March 9 phone call, aimed to resolve the dispute over Iran's enriched uranium stockpile as part of a broader war settlement.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T21:20:08Z",
+      "sourceCount": "46 sources"
+    },
+    {
       "title": "Michigan synagogue attacker lost family in Israeli airstrike, mayor says",
       "url": "https://www.perplexity.ai/page/michigan-synagogue-attacker-lo-lEndGUQET8uPhvUGs7wJOQ",
       "description": "Ayman Mohamad Ghazali rammed a truck into Temple Israel in West Bloomfield, exchanged gunfire with security, and was killed at the scene.",
@@ -476,15 +476,6 @@
       "topic": "top",
       "pubDate": "2026-03-13T14:34:02Z",
       "sourceCount": "33 sources"
-    },
-    {
-      "title": "Japan set to join Trump's Golden Dome missile defense program",
-      "url": "https://www.perplexity.ai/page/japan-set-to-join-trump-s-gold-yXNL9oMQQ5uAyg5xOnOsFQ",
-      "description": "PM Takaichi plans to announce Japan's participation when she meets Trump in Washington on March 19, according to Japanese government sources.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T20:54:06Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Midwest farmers rush to sell stored grain as Iran war fuels price surge",
@@ -496,6 +487,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "Japan set to join Trump's Golden Dome missile defense program",
+      "url": "https://www.perplexity.ai/page/japan-set-to-join-trump-s-gold-yXNL9oMQQ5uAyg5xOnOsFQ",
+      "description": "PM Takaichi plans to announce Japan's participation when she meets Trump in Washington on March 19, according to Japanese government sources.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T20:54:06Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Hegseth says 15,000 targets hit as war with Iran enters third week",
       "url": "https://www.perplexity.ai/page/hegseth-says-15000-targets-hit-rVFZoupEQ0isrsNMT9s6Rg",
       "description": "Explosions rocked Dubai on Friday as both sides intensified strikes, with oil above $100 a barrel and no diplomatic resolution in sight.",
@@ -503,6 +503,15 @@
       "topic": "top",
       "pubDate": "2026-03-13T12:48:55Z",
       "sourceCount": "37 sources"
+    },
+    {
+      "title": "US military's AI-powered system struck 6,000 targets in Iran as war enters third week",
+      "url": "https://www.perplexity.ai/page/us-military-s-ai-powered-syste-Vdr8zYOXTXKzVde6uS6egg",
+      "description": "The Maven Smart System, built by Palantir and powered by Anthropic's Claude, compressed weeks of targeting work into hours amid growing civilian harm concerns.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T11:14:08Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "Trump signs orders to cut housing regulations, ease mortgage access",
@@ -523,13 +532,13 @@
       "sourceCount": "68 sources"
     },
     {
-      "title": "US military's AI-powered system struck 6,000 targets in Iran as war enters third week",
-      "url": "https://www.perplexity.ai/page/us-military-s-ai-powered-syste-Vdr8zYOXTXKzVde6uS6egg",
-      "description": "The Maven Smart System, built by Palantir and powered by Anthropic's Claude, compressed weeks of targeting work into hours amid growing civilian harm concerns.",
+      "title": "Sri Lanka repatriates remains of 84 Iranian sailors killed in US submarine attack",
+      "url": "https://www.perplexity.ai/page/sri-lanka-repatriates-remains-92slh_LqQWyrz.g8qUa2Sg",
+      "description": "The bodies were flown from Mattala airport nine days after a US torpedo sank the frigate IRIS Dena off Sri Lanka's southern coast.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-13T11:14:08Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-03-13T11:13:43Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Democrats warn new Trump tariffs will cost households $2,512 this year",
@@ -539,15 +548,6 @@
       "topic": "top",
       "pubDate": "2026-03-13T13:08:12Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Sri Lanka repatriates remains of 84 Iranian sailors killed in US submarine attack",
-      "url": "https://www.perplexity.ai/page/sri-lanka-repatriates-remains-92slh_LqQWyrz.g8qUa2Sg",
-      "description": "The bodies were flown from Mattala airport nine days after a US torpedo sank the frigate IRIS Dena off Sri Lanka's southern coast.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T11:13:43Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "Netanyahu says Israeli strikes killed top Iranian nuclear scientist",
@@ -1135,13 +1135,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "White House urges GOP to drop 'mass deportation' talk",
-      "url": "https://www.perplexity.ai/page/white-house-urges-gop-to-drop-MzjwspB_Rla7t3W3NIclpw",
-      "description": "Deputy Chief of Staff James Blair told House Republicans to shift messaging toward removing violent criminals as polls show eroding support.",
+      "title": "IRGC says Iran will decide when war ends, threatens Gulf oil blockade",
+      "url": "https://www.perplexity.ai/page/irgc-says-iran-will-decide-whe-ACOCU02DQ82ntccSXXZKUw",
+      "description": "Iran's Revolutionary Guards dismissed Trump's claims the conflict is nearly over, warning they would halt all regional oil exports.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T23:10:24Z",
-      "sourceCount": "22 sources"
+      "pubDate": "2026-03-10T23:53:08Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Merz calls Israel's West Bank settlement push a 'big mistake'",
@@ -1162,13 +1162,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Trump announces first new US oil refinery in 50 years",
-      "url": "https://www.perplexity.ai/page/trump-announces-first-new-us-o-TZh0HGENTfS6YT45w5Wa4w",
-      "description": "India's Reliance Industries is backing the Brownsville, Texas, facility, which will process domestic shale oil into gasoline, diesel, and jet fuel.",
+      "title": "White House urges GOP to drop 'mass deportation' talk",
+      "url": "https://www.perplexity.ai/page/white-house-urges-gop-to-drop-MzjwspB_Rla7t3W3NIclpw",
+      "description": "Deputy Chief of Staff James Blair told House Republicans to shift messaging toward removing violent criminals as polls show eroding support.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T22:09:23Z",
-      "sourceCount": "49 sources"
+      "pubDate": "2026-03-10T23:10:24Z",
+      "sourceCount": "22 sources"
     },
     {
       "title": "Musk says X Money will enter early public access in April",
@@ -1216,13 +1216,13 @@
       "sourceCount": "20 sources"
     },
     {
-      "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
-      "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
-      "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
+      "title": "Trump announces first new US oil refinery in 50 years",
+      "url": "https://www.perplexity.ai/page/trump-announces-first-new-us-o-TZh0HGENTfS6YT45w5Wa4w",
+      "description": "India's Reliance Industries is backing the Brownsville, Texas, facility, which will process domestic shale oil into gasoline, diesel, and jet fuel.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T20:23:42Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-10T22:09:23Z",
+      "sourceCount": "49 sources"
     },
     {
       "title": "Bill Ackman's Pershing Square files for $5B dual IPO on NYSE",
@@ -1241,6 +1241,15 @@
       "topic": "top",
       "pubDate": "2026-03-10T10:35:35Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
+      "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
+      "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T20:23:42Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Lawmakers in 11 states propose temporary bans on data centers",
@@ -1331,29 +1340,20 @@
       "topic": "top",
       "pubDate": "2026-03-10T02:03:36Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Kuwait's emir condemns Iran's 'brutal attack' in first address since strikes began",
-      "url": "https://www.perplexity.ai/page/kuwait-s-emir-condemns-iran-s-1ddBPdg1QhG0jCLlP6eMMw",
-      "description": "Sheikh Meshal Al-Ahmad Al-Sabah broke his silence as the country buried two more border security officers killed in the conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T01:39:47Z",
-      "sourceCount": "43 sources"
-    },
-    {
-      "title": "Pentagon IDs 7th service member killed in Iran war",
-      "url": "https://www.perplexity.ai/page/pentagon-ids-7th-service-membe-PqBsPjCoQw2aly3vRxJetA",
-      "description": "Sgt. Benjamin Pennington, 26, died Sunday from injuries sustained in a March 1 Iranian strike on Prince Sultan Air Base in Saudi Arabia.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T01:58:36Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-14T21:37:42Z",
+  "cached_at": "2026-03-14T21:57:37Z",
   "topics": {
     "top": [
+      {
+        "title": "NWS issues earliest-ever extreme heat watch as March heatwave grips California",
+        "url": "https://www.perplexity.ai/page/nws-issues-earliest-ever-extre-PIFY49.eRSSuo9.qFFfOoQ",
+        "description": "Temperatures next week could topple a 147-year-old record in downtown Los Angeles, with readings forecast up to 30 degrees above normal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T21:40:08Z",
+        "sourceCount": "31 sources"
+      },
       {
         "title": "Lobbyist who helped client get Trump pardon charged with extortion",
         "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
@@ -1364,13 +1364,13 @@
         "sourceCount": "14 sources"
       },
       {
-        "title": "IDF says it killed two Iranian intelligence chiefs in Tehran airstrike",
-        "url": "https://www.perplexity.ai/page/idf-says-it-killed-two-iranian-x2ygP7gQSgOx0rgukv0wlg",
-        "description": "Both officers had been appointed after their predecessor was eliminated in earlier strikes during Operation Roaring Lion.",
+        "title": "U.S. strikes 90+ military targets on Iran's Kharg Island",
+        "url": "https://www.perplexity.ai/page/u-s-strikes-90-military-target-DXJxaZ8fTXmQPSooIoXslw",
+        "description": "CENTCOM confirmed the large-scale precision strike destroyed mine storage and missile bunkers while deliberately sparing the island's oil infrastructure.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-14T17:58:00Z",
-        "sourceCount": "64 sources"
+        "pubDate": "2026-03-14T19:44:20Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "UAE consulate in Erbil hit by drone for second time in a week",
@@ -1382,15 +1382,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Iran vows to block Strait of Hormuz after US strikes on Kharg Island",
-        "url": "https://www.perplexity.ai/page/iran-vows-to-block-strait-of-h-HO6tl.3xRhC8aGi71XDE.Q",
-        "description": "Tehran dismissed Trump's warnings and declared that oil tankers and commercial vessels belonging to \"aggressors and their allies\" will be targeted.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T19:44:10Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
         "url": "https://www.perplexity.ai/page/israeli-strikes-kill-six-in-ga-qH6fo.u7Q9KKIwtNfEBk7A",
         "description": "Gaza's civil defense agency says a pre-dawn strike in Khan Younis and a separate attack in Gaza City killed six people in the past 24 hours.",
@@ -1400,6 +1391,15 @@
         "sourceCount": "38 sources"
       },
       {
+        "title": "IDF says it killed two Iranian intelligence chiefs in Tehran airstrike",
+        "url": "https://www.perplexity.ai/page/idf-says-it-killed-two-iranian-x2ygP7gQSgOx0rgukv0wlg",
+        "description": "Both officers had been appointed after their predecessor was eliminated in earlier strikes during Operation Roaring Lion.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T17:58:00Z",
+        "sourceCount": "64 sources"
+      },
+      {
         "title": "Macron offers to host Israel-Lebanon talks in Paris",
         "url": "https://www.perplexity.ai/page/macron-offers-to-host-israel-l-.PtfgeK3Qm64DsEfeoXijg",
         "description": "France's president urged direct negotiations and called on Hezbollah to halt escalation and Israel to abandon plans for a ground offensive.",
@@ -1407,15 +1407,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T13:29:06Z",
         "sourceCount": "19 sources"
-      },
-      {
-        "title": "Iran launches 49th wave of strikes on US bases across Gulf",
-        "url": "https://www.perplexity.ai/page/iran-launches-49th-wave-of-str-4OymG63ZRXumv4vsZaB3FQ",
-        "description": "The IRGC said its naval units hit American installations in the UAE, Bahrain, and Kuwait as the US-Iran conflict enters its third week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T14:24:06Z",
-        "sourceCount": "41 sources"
       },
       {
         "title": "Explosion hits Amsterdam Jewish school in 'deliberate attack'",
@@ -1580,6 +1571,15 @@
         "sourceCount": "11 sources"
       },
       {
+        "title": "Iran fires fresh missile barrages at Israel, Gulf states as war enters third week",
+        "url": "https://www.perplexity.ai/page/iran-fires-fresh-missile-barra-TPU6ddwSRv.IJAbhoMmxpw",
+        "description": "Fifty-eight people were injured when a ballistic missile struck northern Israel on day 14 of the conflict, as Tehran vows to keep the Strait of Hormuz closed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T00:18:47Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Qatar orders evacuations as Gulf conflict enters third week",
         "url": "https://www.perplexity.ai/page/qatar-orders-evacuations-as-gu-WhutIpejQG.Qz6JCERZgjg",
         "description": "Debris from an intercepted drone struck Dubai's financial district Friday as Qatar began evacuating residents from specified areas overnight.",
@@ -1715,13 +1715,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "France, Italy open talks with Iran on Hormuz passage",
-        "url": "https://www.perplexity.ai/page/france-italy-open-talks-with-i-c8asBY3FSEu5RLnjTdADXA",
-        "description": "European nations are seeking to restart energy shipments as Gulf shipping remains paralyzed by the U.S.-Israel conflict with Iran.",
+        "title": "Finland won't host nuclear arms in peacetime, Stubb says",
+        "url": "https://www.perplexity.ai/page/finland-won-t-host-nuclear-arm-AoyR.nxlTXuoZmRdZWjU7w",
+        "description": "President Stubb sought to ease tensions after Finland's government last week moved to repeal a decades-old ban on nuclear weapons within its borders.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-13T21:48:59Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-13T21:34:29Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Federal judge blocks Trump plan to end TPS for Somali immigrants",
@@ -1733,15 +1733,6 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Finland won't host nuclear arms in peacetime, Stubb says",
-        "url": "https://www.perplexity.ai/page/finland-won-t-host-nuclear-arm-AoyR.nxlTXuoZmRdZWjU7w",
-        "description": "President Stubb sought to ease tensions after Finland's government last week moved to repeal a decades-old ban on nuclear weapons within its borders.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T21:34:29Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Over 50,000 Americans return from Middle East since Iran war began",
         "url": "https://www.perplexity.ai/page/over-50000-americans-return-fr-hAYRoiSBT5m_vW3ELiclMQ",
         "description": "The State Department said Friday that demand for charter flights is declining as the evacuation effort enters its third week.",
@@ -1749,15 +1740,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T20:28:46Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "South Korea's PM meets Trump after $350B investment bill clears parliament",
-        "url": "https://www.perplexity.ai/page/south-korea-s-pm-meets-trump-a-GXRB45iETwWZsZP1gxSdcg",
-        "description": "The unannounced White House meeting followed the National Assembly's passage of legislation enabling Seoul to fulfill its U.S. investment pledge.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T22:13:34Z",
-        "sourceCount": "36 sources"
       },
       {
         "title": "Italy escorts damaged Russian LNG tanker drifting near its coast",
@@ -1769,6 +1751,15 @@
         "sourceCount": "34 sources"
       },
       {
+        "title": "South Korea's PM meets Trump after $350B investment bill clears parliament",
+        "url": "https://www.perplexity.ai/page/south-korea-s-pm-meets-trump-a-GXRB45iETwWZsZP1gxSdcg",
+        "description": "The unannounced White House meeting followed the National Assembly's passage of legislation enabling Seoul to fulfill its U.S. investment pledge.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T22:13:34Z",
+        "sourceCount": "36 sources"
+      },
+      {
         "title": "Sens. Warren and Van Hollen demand Hegseth's firing over Iran school strike",
         "url": "https://www.perplexity.ai/page/sens-warren-and-van-hollen-dem-5rAav9A8S96cdzncvZ_PnQ",
         "description": "The Democratic senators say the defense secretary's rollback of civilian harm protections contributed to the deadly Feb. 28 bombing of an elementary school.",
@@ -1776,15 +1767,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T19:55:07Z",
         "sourceCount": "59 sources"
-      },
-      {
-        "title": "UAE says Iran must halt attacks before any mediation can begin",
-        "url": "https://www.perplexity.ai/page/uae-says-iran-must-halt-attack-IJRss40BSu6eiLdPvTZxpQ",
-        "description": "Diplomat Lana Nusseibeh said the guns must go silent first but expressed confidence Trump will lead to a negotiated end to the war.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T21:48:55Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Judge blocks DOJ subpoenas targeting Fed Chair Powell",
@@ -1796,6 +1778,15 @@
         "sourceCount": "38 sources"
       },
       {
+        "title": "UAE says Iran must halt attacks before any mediation can begin",
+        "url": "https://www.perplexity.ai/page/uae-says-iran-must-halt-attack-IJRss40BSu6eiLdPvTZxpQ",
+        "description": "Diplomat Lana Nusseibeh said the guns must go silent first but expressed confidence Trump will lead to a negotiated end to the war.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T21:48:55Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Accused drug kingpin Marset arrested in Bolivia, flown to US",
         "url": "https://www.perplexity.ai/page/accused-drug-kingpin-marset-ar-lvCOmqvVRByANLuw7nuaJw",
         "description": "Sebastián Marset, known as \"the King of the South\" and a top DEA fugitive, was captured in a predawn raid in Santa Cruz de la Sierra.",
@@ -1803,15 +1794,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T19:12:36Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Trump rejected Putin's offer to move Iran's uranium to Russia",
-        "url": "https://www.perplexity.ai/page/trump-rejected-putin-s-offer-t-0.v1ZzAbSuGr5behJV7UHw",
-        "description": "The proposal, made during a March 9 phone call, aimed to resolve the dispute over Iran's enriched uranium stockpile as part of a broader war settlement.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T21:20:08Z",
-        "sourceCount": "46 sources"
       },
       {
         "title": "Pakistan bombs Kandahar fuel depot, Kabul homes, ending week-long lull",
@@ -1823,6 +1805,15 @@
         "sourceCount": "54 sources"
       },
       {
+        "title": "Trump rejected Putin's offer to move Iran's uranium to Russia",
+        "url": "https://www.perplexity.ai/page/trump-rejected-putin-s-offer-t-0.v1ZzAbSuGr5behJV7UHw",
+        "description": "The proposal, made during a March 9 phone call, aimed to resolve the dispute over Iran's enriched uranium stockpile as part of a broader war settlement.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T21:20:08Z",
+        "sourceCount": "46 sources"
+      },
+      {
         "title": "Michigan synagogue attacker lost family in Israeli airstrike, mayor says",
         "url": "https://www.perplexity.ai/page/michigan-synagogue-attacker-lo-lEndGUQET8uPhvUGs7wJOQ",
         "description": "Ayman Mohamad Ghazali rammed a truck into Temple Israel in West Bloomfield, exchanged gunfire with security, and was killed at the scene.",
@@ -1830,15 +1821,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T14:34:02Z",
         "sourceCount": "33 sources"
-      },
-      {
-        "title": "Japan set to join Trump's Golden Dome missile defense program",
-        "url": "https://www.perplexity.ai/page/japan-set-to-join-trump-s-gold-yXNL9oMQQ5uAyg5xOnOsFQ",
-        "description": "PM Takaichi plans to announce Japan's participation when she meets Trump in Washington on March 19, according to Japanese government sources.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T20:54:06Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Midwest farmers rush to sell stored grain as Iran war fuels price surge",
@@ -1850,6 +1832,15 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "Japan set to join Trump's Golden Dome missile defense program",
+        "url": "https://www.perplexity.ai/page/japan-set-to-join-trump-s-gold-yXNL9oMQQ5uAyg5xOnOsFQ",
+        "description": "PM Takaichi plans to announce Japan's participation when she meets Trump in Washington on March 19, according to Japanese government sources.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T20:54:06Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "Hegseth says 15,000 targets hit as war with Iran enters third week",
         "url": "https://www.perplexity.ai/page/hegseth-says-15000-targets-hit-rVFZoupEQ0isrsNMT9s6Rg",
         "description": "Explosions rocked Dubai on Friday as both sides intensified strikes, with oil above $100 a barrel and no diplomatic resolution in sight.",
@@ -1857,6 +1848,15 @@
         "topic": "top",
         "pubDate": "2026-03-13T12:48:55Z",
         "sourceCount": "37 sources"
+      },
+      {
+        "title": "US military's AI-powered system struck 6,000 targets in Iran as war enters third week",
+        "url": "https://www.perplexity.ai/page/us-military-s-ai-powered-syste-Vdr8zYOXTXKzVde6uS6egg",
+        "description": "The Maven Smart System, built by Palantir and powered by Anthropic's Claude, compressed weeks of targeting work into hours amid growing civilian harm concerns.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T11:14:08Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "Trump signs orders to cut housing regulations, ease mortgage access",
@@ -1877,13 +1877,13 @@
         "sourceCount": "68 sources"
       },
       {
-        "title": "US military's AI-powered system struck 6,000 targets in Iran as war enters third week",
-        "url": "https://www.perplexity.ai/page/us-military-s-ai-powered-syste-Vdr8zYOXTXKzVde6uS6egg",
-        "description": "The Maven Smart System, built by Palantir and powered by Anthropic's Claude, compressed weeks of targeting work into hours amid growing civilian harm concerns.",
+        "title": "Sri Lanka repatriates remains of 84 Iranian sailors killed in US submarine attack",
+        "url": "https://www.perplexity.ai/page/sri-lanka-repatriates-remains-92slh_LqQWyrz.g8qUa2Sg",
+        "description": "The bodies were flown from Mattala airport nine days after a US torpedo sank the frigate IRIS Dena off Sri Lanka's southern coast.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-13T11:14:08Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-03-13T11:13:43Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Democrats warn new Trump tariffs will cost households $2,512 this year",
@@ -1893,15 +1893,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T13:08:12Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Sri Lanka repatriates remains of 84 Iranian sailors killed in US submarine attack",
-        "url": "https://www.perplexity.ai/page/sri-lanka-repatriates-remains-92slh_LqQWyrz.g8qUa2Sg",
-        "description": "The bodies were flown from Mattala airport nine days after a US torpedo sank the frigate IRIS Dena off Sri Lanka's southern coast.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T11:13:43Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "Netanyahu says Israeli strikes killed top Iranian nuclear scientist",
@@ -2489,13 +2480,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "White House urges GOP to drop 'mass deportation' talk",
-        "url": "https://www.perplexity.ai/page/white-house-urges-gop-to-drop-MzjwspB_Rla7t3W3NIclpw",
-        "description": "Deputy Chief of Staff James Blair told House Republicans to shift messaging toward removing violent criminals as polls show eroding support.",
+        "title": "IRGC says Iran will decide when war ends, threatens Gulf oil blockade",
+        "url": "https://www.perplexity.ai/page/irgc-says-iran-will-decide-whe-ACOCU02DQ82ntccSXXZKUw",
+        "description": "Iran's Revolutionary Guards dismissed Trump's claims the conflict is nearly over, warning they would halt all regional oil exports.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T23:10:24Z",
-        "sourceCount": "22 sources"
+        "pubDate": "2026-03-10T23:53:08Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Merz calls Israel's West Bank settlement push a 'big mistake'",
@@ -2516,13 +2507,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Trump announces first new US oil refinery in 50 years",
-        "url": "https://www.perplexity.ai/page/trump-announces-first-new-us-o-TZh0HGENTfS6YT45w5Wa4w",
-        "description": "India's Reliance Industries is backing the Brownsville, Texas, facility, which will process domestic shale oil into gasoline, diesel, and jet fuel.",
+        "title": "White House urges GOP to drop 'mass deportation' talk",
+        "url": "https://www.perplexity.ai/page/white-house-urges-gop-to-drop-MzjwspB_Rla7t3W3NIclpw",
+        "description": "Deputy Chief of Staff James Blair told House Republicans to shift messaging toward removing violent criminals as polls show eroding support.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T22:09:23Z",
-        "sourceCount": "49 sources"
+        "pubDate": "2026-03-10T23:10:24Z",
+        "sourceCount": "22 sources"
       },
       {
         "title": "Musk says X Money will enter early public access in April",
@@ -2570,13 +2561,13 @@
         "sourceCount": "20 sources"
       },
       {
-        "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
-        "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
-        "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
+        "title": "Trump announces first new US oil refinery in 50 years",
+        "url": "https://www.perplexity.ai/page/trump-announces-first-new-us-o-TZh0HGENTfS6YT45w5Wa4w",
+        "description": "India's Reliance Industries is backing the Brownsville, Texas, facility, which will process domestic shale oil into gasoline, diesel, and jet fuel.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T20:23:42Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-10T22:09:23Z",
+        "sourceCount": "49 sources"
       },
       {
         "title": "Bill Ackman's Pershing Square files for $5B dual IPO on NYSE",
@@ -2595,6 +2586,15 @@
         "topic": "top",
         "pubDate": "2026-03-10T10:35:35Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
+        "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
+        "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T20:23:42Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Lawmakers in 11 states propose temporary bans on data centers",
@@ -2685,24 +2685,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T02:03:36Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Kuwait's emir condemns Iran's 'brutal attack' in first address since strikes began",
-        "url": "https://www.perplexity.ai/page/kuwait-s-emir-condemns-iran-s-1ddBPdg1QhG0jCLlP6eMMw",
-        "description": "Sheikh Meshal Al-Ahmad Al-Sabah broke his silence as the country buried two more border security officers killed in the conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T01:39:47Z",
-        "sourceCount": "43 sources"
-      },
-      {
-        "title": "Pentagon IDs 7th service member killed in Iran war",
-        "url": "https://www.perplexity.ai/page/pentagon-ids-7th-service-membe-PqBsPjCoQw2aly3vRxJetA",
-        "description": "Sgt. Benjamin Pennington, 26, died Sunday from injuries sustained in a March 1 Iranian strike on Prince Sultan Air Base in Saudi Arabia.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T01:58:36Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
