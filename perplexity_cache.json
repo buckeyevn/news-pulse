@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Mathematicians disprove 150-year-old geometry rule with doughnut-shaped surfaces",
+      "url": "https://www.perplexity.ai/page/mathematicians-disprove-150-ye-79yKDFH1TW2FOOh.37Sdpg",
+      "description": "Three researchers constructed two tori sharing the same metric and curvature but with different global shapes, resolving a longstanding open problem.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T06:32:47Z",
+      "sourceCount": "23 sources"
+    },
+    {
       "title": "DC-area airports reopen after chemical odor halts flights for hours",
       "url": "https://www.perplexity.ai/page/dc-area-airports-reopen-after-AUUPvIwERC6nrDCMGDUWUQ",
       "description": "An overheated circuit board at a Virginia air traffic control facility forced ground stops at four airports, causing delays stretching past midnight.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-09T22:34:25Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "RAF Typhoons down two drones over Jordan and Bahrain",
-      "url": "https://www.perplexity.ai/page/raf-typhoons-down-two-drones-o-BmP8zRUuStW4Gi0jcTXbcA",
-      "description": "Defence Secretary Healey told the Commons the UK is now flying defensive sorties over the Gulf as HMS Dragon prepares to deploy.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T22:09:06Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-14T06:27:39Z",
+  "cached_at": "2026-03-14T07:22:47Z",
   "topics": {
     "top": [
+      {
+        "title": "Mathematicians disprove 150-year-old geometry rule with doughnut-shaped surfaces",
+        "url": "https://www.perplexity.ai/page/mathematicians-disprove-150-ye-79yKDFH1TW2FOOh.37Sdpg",
+        "description": "Three researchers constructed two tori sharing the same metric and curvature but with different global shapes, resolving a longstanding open problem.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T06:32:47Z",
+        "sourceCount": "23 sources"
+      },
       {
         "title": "DC-area airports reopen after chemical odor halts flights for hours",
         "url": "https://www.perplexity.ai/page/dc-area-airports-reopen-after-AUUPvIwERC6nrDCMGDUWUQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T22:34:25Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "RAF Typhoons down two drones over Jordan and Bahrain",
-        "url": "https://www.perplexity.ai/page/raf-typhoons-down-two-drones-o-BmP8zRUuStW4Gi0jcTXbcA",
-        "description": "Defence Secretary Healey told the Commons the UK is now flying defensive sorties over the Gulf as HMS Dragon prepares to deploy.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T22:09:06Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
