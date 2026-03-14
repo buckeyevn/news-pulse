@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
+      "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
+      "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T22:15:08Z",
+      "sourceCount": "36 sources"
+    },
+    {
+      "title": "Iran strikes UAE oil port after U.S. bombs Kharg Island",
+      "url": "https://www.perplexity.ai/page/iran-strikes-uae-oil-port-afte-3oMZFsZqRMKzBBLsNoEQ4Q",
+      "description": "Iranian drones hit Fujairah oil storage facilities Saturday, suspending some loading operations, after U.S. strikes destroyed over 90 military targets on Kharg Island.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T22:06:56Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "NWS issues earliest-ever extreme heat watch as March heatwave grips California",
       "url": "https://www.perplexity.ai/page/nws-issues-earliest-ever-extre-PIFY49.eRSSuo9.qFFfOoQ",
       "description": "Temperatures next week could topple a 147-year-old record in downtown Los Angeles, with readings forecast up to 30 degrees above normal.",
@@ -19,13 +37,22 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "U.S. strikes 90+ military targets on Iran's Kharg Island",
-      "url": "https://www.perplexity.ai/page/u-s-strikes-90-military-target-DXJxaZ8fTXmQPSooIoXslw",
-      "description": "CENTCOM confirmed the large-scale precision strike destroyed mine storage and missile bunkers while deliberately sparing the island's oil infrastructure.",
+      "title": "EU extends Russia sanctions until September despite Hungary, Slovakia resistance",
+      "url": "https://www.perplexity.ai/page/eu-extends-russia-sanctions-un-Oh7_GDD2SByCUdGfHuEhog",
+      "description": "Around 2,600 individuals and entities, including Putin, remain subject to travel bans and asset freezes after a last-minute deal.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-14T19:44:20Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-03-14T19:18:32Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "IDF says it killed two Iranian intelligence chiefs in Tehran airstrike",
+      "url": "https://www.perplexity.ai/page/idf-says-it-killed-two-iranian-x2ygP7gQSgOx0rgukv0wlg",
+      "description": "Both officers had been appointed after their predecessor was eliminated in earlier strikes during Operation Roaring Lion.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T17:58:00Z",
+      "sourceCount": "64 sources"
     },
     {
       "title": "UAE consulate in Erbil hit by drone for second time in a week",
@@ -44,15 +71,6 @@
       "topic": "top",
       "pubDate": "2026-03-14T14:38:39Z",
       "sourceCount": "38 sources"
-    },
-    {
-      "title": "IDF says it killed two Iranian intelligence chiefs in Tehran airstrike",
-      "url": "https://www.perplexity.ai/page/idf-says-it-killed-two-iranian-x2ygP7gQSgOx0rgukv0wlg",
-      "description": "Both officers had been appointed after their predecessor was eliminated in earlier strikes during Operation Roaring Lion.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T17:58:00Z",
-      "sourceCount": "64 sources"
     },
     {
       "title": "Macron offers to host Israel-Lebanon talks in Paris",
@@ -1331,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-10T02:03:54Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Rep. Kevin Kiley leaves GOP, narrowing Johnson's House majority",
-      "url": "https://www.perplexity.ai/page/rep-kevin-kiley-leaves-gop-nar-PnQXwJriQc.VIT2NWRPFhQ",
-      "description": "The California congressman becomes the only independent in the House, citing frustration with gerrymandering and hyper-partisanship.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T02:03:36Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-14T21:57:37Z",
+  "cached_at": "2026-03-14T22:37:28Z",
   "topics": {
     "top": [
+      {
+        "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
+        "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
+        "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T22:15:08Z",
+        "sourceCount": "36 sources"
+      },
+      {
+        "title": "Iran strikes UAE oil port after U.S. bombs Kharg Island",
+        "url": "https://www.perplexity.ai/page/iran-strikes-uae-oil-port-afte-3oMZFsZqRMKzBBLsNoEQ4Q",
+        "description": "Iranian drones hit Fujairah oil storage facilities Saturday, suspending some loading operations, after U.S. strikes destroyed over 90 military targets on Kharg Island.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T22:06:56Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "NWS issues earliest-ever extreme heat watch as March heatwave grips California",
         "url": "https://www.perplexity.ai/page/nws-issues-earliest-ever-extre-PIFY49.eRSSuo9.qFFfOoQ",
@@ -1364,13 +1391,22 @@
         "sourceCount": "14 sources"
       },
       {
-        "title": "U.S. strikes 90+ military targets on Iran's Kharg Island",
-        "url": "https://www.perplexity.ai/page/u-s-strikes-90-military-target-DXJxaZ8fTXmQPSooIoXslw",
-        "description": "CENTCOM confirmed the large-scale precision strike destroyed mine storage and missile bunkers while deliberately sparing the island's oil infrastructure.",
+        "title": "EU extends Russia sanctions until September despite Hungary, Slovakia resistance",
+        "url": "https://www.perplexity.ai/page/eu-extends-russia-sanctions-un-Oh7_GDD2SByCUdGfHuEhog",
+        "description": "Around 2,600 individuals and entities, including Putin, remain subject to travel bans and asset freezes after a last-minute deal.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-14T19:44:20Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-03-14T19:18:32Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "IDF says it killed two Iranian intelligence chiefs in Tehran airstrike",
+        "url": "https://www.perplexity.ai/page/idf-says-it-killed-two-iranian-x2ygP7gQSgOx0rgukv0wlg",
+        "description": "Both officers had been appointed after their predecessor was eliminated in earlier strikes during Operation Roaring Lion.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T17:58:00Z",
+        "sourceCount": "64 sources"
       },
       {
         "title": "UAE consulate in Erbil hit by drone for second time in a week",
@@ -1389,15 +1425,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T14:38:39Z",
         "sourceCount": "38 sources"
-      },
-      {
-        "title": "IDF says it killed two Iranian intelligence chiefs in Tehran airstrike",
-        "url": "https://www.perplexity.ai/page/idf-says-it-killed-two-iranian-x2ygP7gQSgOx0rgukv0wlg",
-        "description": "Both officers had been appointed after their predecessor was eliminated in earlier strikes during Operation Roaring Lion.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T17:58:00Z",
-        "sourceCount": "64 sources"
       },
       {
         "title": "Macron offers to host Israel-Lebanon talks in Paris",
@@ -2676,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T02:03:54Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Rep. Kevin Kiley leaves GOP, narrowing Johnson's House majority",
-        "url": "https://www.perplexity.ai/page/rep-kevin-kiley-leaves-gop-nar-PnQXwJriQc.VIT2NWRPFhQ",
-        "description": "The California congressman becomes the only independent in the House, citing frustration with gerrymandering and hyper-partisanship.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T02:03:36Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
