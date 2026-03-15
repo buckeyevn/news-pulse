@@ -145,6 +145,15 @@
       "sourceCount": "38 sources"
     },
     {
+      "title": "Iranians' regime change hopes fade as bombing enters third week",
+      "url": "https://www.perplexity.ai/page/iranians-regime-change-hopes-f-A2P5En4dSyqU5e0RtW3LcA",
+      "description": "Tehran residents who cheered U.S.-Israeli strikes now face a battered but defiant security state and a new supreme leader consolidating power.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T17:50:04Z",
+      "sourceCount": "81 sources"
+    },
+    {
       "title": "Macron offers to host Israel-Lebanon talks in Paris",
       "url": "https://www.perplexity.ai/page/macron-offers-to-host-israel-l-.PtfgeK3Qm64DsEfeoXijg",
       "description": "France's president urged direct negotiations and called on Hezbollah to halt escalation and Israel to abandon plans for a ground offensive.",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-03-10T19:04:03Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "ALMA detects high methanol levels in interstellar comet 3I/ATLAS",
-      "url": "https://www.perplexity.ai/page/alma-detects-high-methanol-lev-ElNyXMX3Td.RYZw2SWRIbw",
-      "description": "The third known interstellar object to pass through our solar system has a chemical makeup unlike nearly any comet born here, researchers say.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T09:07:15Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-15T05:19:35Z",
+  "cached_at": "2026-03-15T06:15:02Z",
   "topics": {
     "top": [
       {
@@ -1497,6 +1497,15 @@
         "topic": "top",
         "pubDate": "2026-03-14T14:38:39Z",
         "sourceCount": "38 sources"
+      },
+      {
+        "title": "Iranians' regime change hopes fade as bombing enters third week",
+        "url": "https://www.perplexity.ai/page/iranians-regime-change-hopes-f-A2P5En4dSyqU5e0RtW3LcA",
+        "description": "Tehran residents who cheered U.S.-Israeli strikes now face a battered but defiant security state and a new supreme leader consolidating power.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T17:50:04Z",
+        "sourceCount": "81 sources"
       },
       {
         "title": "Macron offers to host Israel-Lebanon talks in Paris",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T19:04:03Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "ALMA detects high methanol levels in interstellar comet 3I/ATLAS",
-        "url": "https://www.perplexity.ai/page/alma-detects-high-methanol-lev-ElNyXMX3Td.RYZw2SWRIbw",
-        "description": "The third known interstellar object to pass through our solar system has a chemical makeup unlike nearly any comet born here, researchers say.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T09:07:15Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
