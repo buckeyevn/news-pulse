@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Two major offshore wind farms hit milestones on same night off New England coast",
+      "url": "https://www.perplexity.ai/page/two-major-offshore-wind-farms-epxWbJW8QAubhB_T22hIEA",
+      "description": "Revolution Wind began delivering power to the grid while Vineyard Wind completed construction of all 62 turbines on Friday evening.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-15T12:21:20Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "US-Israeli strikes on Iran enter third week with 7,600 sorties logged",
       "url": "https://www.perplexity.ai/page/us-israeli-strikes-on-iran-ent-WCpLmQeGQQaH2mkTDZXpUg",
       "description": "Satellite imagery documents widespread destruction across Iran's missile bases, nuclear sites, and naval facilities as the campaign intensifies.",
@@ -233,15 +242,6 @@
       "topic": "top",
       "pubDate": "2026-03-14T03:07:35Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "Revolution Wind delivers first power to New England grid after surviving two Trump shutdowns",
-      "url": "https://www.perplexity.ai/page/revolution-wind-delivers-first-WBQFFR6VSM.HR5edIfMvGA",
-      "description": "The $6.2 billion offshore wind farm off Rhode Island will supply 350,000 homes at roughly a third of current regional electricity prices.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T03:04:36Z",
-      "sourceCount": "52 sources"
     },
     {
       "title": "US launches emergency release of 86 million oil barrels",
@@ -1351,9 +1351,18 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-15T12:00:01Z",
+  "cached_at": "2026-03-15T13:14:35Z",
   "topics": {
     "top": [
+      {
+        "title": "Two major offshore wind farms hit milestones on same night off New England coast",
+        "url": "https://www.perplexity.ai/page/two-major-offshore-wind-farms-epxWbJW8QAubhB_T22hIEA",
+        "description": "Revolution Wind began delivering power to the grid while Vineyard Wind completed construction of all 62 turbines on Friday evening.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-15T12:21:20Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "US-Israeli strikes on Iran enter third week with 7,600 sorties logged",
         "url": "https://www.perplexity.ai/page/us-israeli-strikes-on-iran-ent-WCpLmQeGQQaH2mkTDZXpUg",
@@ -1587,15 +1596,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T03:07:35Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Revolution Wind delivers first power to New England grid after surviving two Trump shutdowns",
-        "url": "https://www.perplexity.ai/page/revolution-wind-delivers-first-WBQFFR6VSM.HR5edIfMvGA",
-        "description": "The $6.2 billion offshore wind farm off Rhode Island will supply 350,000 homes at roughly a third of current regional electricity prices.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T03:04:36Z",
-        "sourceCount": "52 sources"
       },
       {
         "title": "US launches emergency release of 86 million oil barrels",
