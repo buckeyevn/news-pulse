@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Rare Level 4 severe weather risk targets East Coast as storm outbreak continues Monday",
+      "url": "https://www.perplexity.ai/page/rare-level-4-severe-weather-ri-A31qxVCEStm4wET4DMvcjg",
+      "description": "Tornadoes, damaging winds and blizzards have already destroyed homes and grounded hundreds of flights, with the worst expected Monday in the mid-Atlantic.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T05:44:27Z",
+      "sourceCount": "43 sources"
+    },
+    {
       "title": "Iran war hits $12B as Tehran rejects ceasefire talks",
       "url": "https://www.perplexity.ai/page/iran-war-hits-12b-as-tehran-re-65bCpdBERSqAE2HFnEa3jg",
       "description": "White House adviser Kevin Hassett disclosed the cost on Sunday as Iran's foreign minister denied requesting a ceasefire, contradicting Trump's claims.",
@@ -1315,9 +1324,18 @@
       "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-03-16T05:58:41Z",
+  "cached_at": "2026-03-16T07:44:47Z",
   "topics": {
     "top": [
+      {
+        "title": "Rare Level 4 severe weather risk targets East Coast as storm outbreak continues Monday",
+        "url": "https://www.perplexity.ai/page/rare-level-4-severe-weather-ri-A31qxVCEStm4wET4DMvcjg",
+        "description": "Tornadoes, damaging winds and blizzards have already destroyed homes and grounded hundreds of flights, with the worst expected Monday in the mid-Atlantic.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T05:44:27Z",
+        "sourceCount": "43 sources"
+      },
       {
         "title": "Iran war hits $12B as Tehran rejects ceasefire talks",
         "url": "https://www.perplexity.ai/page/iran-war-hits-12b-as-tehran-re-65bCpdBERSqAE2HFnEa3jg",
