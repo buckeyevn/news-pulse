@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Judge blocks RFK Jr.'s childhood vaccine schedule overhaul",
+      "url": "https://www.perplexity.ai/page/judge-blocks-rfk-jr-s-childhoo-RrN6Yj6EQjyTOYenejEllQ",
+      "description": "A federal judge said medical groups are likely to prove that Kennedy’s overhaul of the childhood vaccine schedule and his replacement of the CDC’s vaccine advisory panel violated federal law.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T22:58:01Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Rubio orders diplomats to press allies for action against Iran",
+      "url": "https://www.perplexity.ai/page/rubio-orders-diplomats-to-pres-A_aP2jGESBSXYS6I1sc2tQ",
+      "description": "The directive, in a private cable obtained by ABC News, sets a March 20 deadline as the U.S.-Iran war enters its third week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T22:50:02Z",
+      "sourceCount": "91 sources"
+    },
+    {
+      "title": "Ukraine hits oil depot 500 km from front in latest Krasnodar Krai strike",
+      "url": "https://www.perplexity.ai/page/ukraine-hits-oil-depot-500-km-tTta7nJsTPmYjY7S4r1IiA",
+      "description": "The Labinsk attack caps a week of escalating drone strikes on southern Russia's energy network, including hits on the Tikhoretsk hub and Afipsky refinery.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T22:48:57Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "House passes bill to expand sanctions on Iran's oil trade",
       "url": "https://www.perplexity.ai/page/house-passes-bill-to-expand-sa-tlHFZl4PSFGnim2ueGpXMw",
       "description": "The measure targets foreign entities facilitating Iranian oil exports but was softened at the Trump administration's request, according to Jewish Insider.",
@@ -19,13 +46,13 @@
       "sourceCount": "22 sources"
     },
     {
-      "title": "Iran hits Dubai airport, Fujairah oil hub in new wave of drone and missile strikes",
-      "url": "https://www.perplexity.ai/page/iran-hits-dubai-airport-fujair-dCjKczJaSCyhAYEpvCYWdQ",
-      "description": "UAE intercepted six ballistic missiles and 21 drones Monday as strikes killed one person in Abu Dhabi and forced Dubai airport to suspend flights.",
+      "title": "Last detained Columbia protester freed after a year in ICE custody",
+      "url": "https://www.perplexity.ai/page/last-detained-columbia-protest-jj7ezSJsRFOpB1m.Lx3xcQ",
+      "description": "Leqaa Kordia was released Monday after the government declined to challenge a judge's third order for her release on $100,000 bond.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-16T21:54:05Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-16T22:14:05Z",
+      "sourceCount": "70 sources"
     },
     {
       "title": "Vance publicly defends Trump's Iran war, dismisses rift reports",
@@ -55,6 +82,15 @@
       "sourceCount": "14 sources"
     },
     {
+      "title": "Iran hits Dubai airport, Fujairah oil hub in new wave of drone and missile strikes",
+      "url": "https://www.perplexity.ai/page/iran-hits-dubai-airport-fujair-dCjKczJaSCyhAYEpvCYWdQ",
+      "description": "UAE intercepted six ballistic missiles and 21 drones Monday as strikes killed one person in Abu Dhabi and forced Dubai airport to suspend flights.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T21:54:05Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Cuba suffers complete electrical grid collapse",
       "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
       "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
@@ -64,15 +100,6 @@
       "sourceCount": "32 sources"
     },
     {
-      "title": "Trump discloses Rep. Dunn's terminal heart diagnosis at White House event",
-      "url": "https://www.perplexity.ai/page/trump-discloses-rep-dunn-s-ter-qhLQXmYRR1S_2X2aVPxn5Q",
-      "description": "The president revealed the Florida Republican would have been \"dead by June\" without emergency surgery, catching Speaker Johnson off guard.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T19:33:20Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "US and Iran reestablish direct contact amid ongoing conflict",
       "url": "https://www.perplexity.ai/page/us-and-iran-reestablish-direct-TYApbFLwTnuwzQf3KjZ8IA",
       "description": "Envoy Steve Witkoff and Iranian Foreign Minister Araghchi exchanged text messages, the first known direct communication since the war began Feb. 28.",
@@ -80,6 +107,15 @@
       "topic": "top",
       "pubDate": "2026-03-16T21:42:01Z",
       "sourceCount": "44 sources"
+    },
+    {
+      "title": "Trump discloses Rep. Dunn's terminal heart diagnosis at White House event",
+      "url": "https://www.perplexity.ai/page/trump-discloses-rep-dunn-s-ter-qhLQXmYRR1S_2X2aVPxn5Q",
+      "description": "The president revealed the Florida Republican would have been \"dead by June\" without emergency surgery, catching Speaker Johnson off guard.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T19:33:20Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "DOJ proposes rule to help states fast-track executions",
@@ -1252,9 +1288,36 @@
       "sourceCount": "72 sources"
     }
   ],
-  "cached_at": "2026-03-16T23:01:01Z",
+  "cached_at": "2026-03-16T23:39:57Z",
   "topics": {
     "top": [
+      {
+        "title": "Judge blocks RFK Jr.'s childhood vaccine schedule overhaul",
+        "url": "https://www.perplexity.ai/page/judge-blocks-rfk-jr-s-childhoo-RrN6Yj6EQjyTOYenejEllQ",
+        "description": "A federal judge said medical groups are likely to prove that Kennedy’s overhaul of the childhood vaccine schedule and his replacement of the CDC’s vaccine advisory panel violated federal law.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T22:58:01Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Rubio orders diplomats to press allies for action against Iran",
+        "url": "https://www.perplexity.ai/page/rubio-orders-diplomats-to-pres-A_aP2jGESBSXYS6I1sc2tQ",
+        "description": "The directive, in a private cable obtained by ABC News, sets a March 20 deadline as the U.S.-Iran war enters its third week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T22:50:02Z",
+        "sourceCount": "91 sources"
+      },
+      {
+        "title": "Ukraine hits oil depot 500 km from front in latest Krasnodar Krai strike",
+        "url": "https://www.perplexity.ai/page/ukraine-hits-oil-depot-500-km-tTta7nJsTPmYjY7S4r1IiA",
+        "description": "The Labinsk attack caps a week of escalating drone strikes on southern Russia's energy network, including hits on the Tikhoretsk hub and Afipsky refinery.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T22:48:57Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "House passes bill to expand sanctions on Iran's oil trade",
         "url": "https://www.perplexity.ai/page/house-passes-bill-to-expand-sa-tlHFZl4PSFGnim2ueGpXMw",
@@ -1274,13 +1337,13 @@
         "sourceCount": "22 sources"
       },
       {
-        "title": "Iran hits Dubai airport, Fujairah oil hub in new wave of drone and missile strikes",
-        "url": "https://www.perplexity.ai/page/iran-hits-dubai-airport-fujair-dCjKczJaSCyhAYEpvCYWdQ",
-        "description": "UAE intercepted six ballistic missiles and 21 drones Monday as strikes killed one person in Abu Dhabi and forced Dubai airport to suspend flights.",
+        "title": "Last detained Columbia protester freed after a year in ICE custody",
+        "url": "https://www.perplexity.ai/page/last-detained-columbia-protest-jj7ezSJsRFOpB1m.Lx3xcQ",
+        "description": "Leqaa Kordia was released Monday after the government declined to challenge a judge's third order for her release on $100,000 bond.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-16T21:54:05Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-16T22:14:05Z",
+        "sourceCount": "70 sources"
       },
       {
         "title": "Vance publicly defends Trump's Iran war, dismisses rift reports",
@@ -1310,6 +1373,15 @@
         "sourceCount": "14 sources"
       },
       {
+        "title": "Iran hits Dubai airport, Fujairah oil hub in new wave of drone and missile strikes",
+        "url": "https://www.perplexity.ai/page/iran-hits-dubai-airport-fujair-dCjKczJaSCyhAYEpvCYWdQ",
+        "description": "UAE intercepted six ballistic missiles and 21 drones Monday as strikes killed one person in Abu Dhabi and forced Dubai airport to suspend flights.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T21:54:05Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Cuba suffers complete electrical grid collapse",
         "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
         "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
@@ -1319,15 +1391,6 @@
         "sourceCount": "32 sources"
       },
       {
-        "title": "Trump discloses Rep. Dunn's terminal heart diagnosis at White House event",
-        "url": "https://www.perplexity.ai/page/trump-discloses-rep-dunn-s-ter-qhLQXmYRR1S_2X2aVPxn5Q",
-        "description": "The president revealed the Florida Republican would have been \"dead by June\" without emergency surgery, catching Speaker Johnson off guard.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T19:33:20Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "US and Iran reestablish direct contact amid ongoing conflict",
         "url": "https://www.perplexity.ai/page/us-and-iran-reestablish-direct-TYApbFLwTnuwzQf3KjZ8IA",
         "description": "Envoy Steve Witkoff and Iranian Foreign Minister Araghchi exchanged text messages, the first known direct communication since the war began Feb. 28.",
@@ -1335,6 +1398,15 @@
         "topic": "top",
         "pubDate": "2026-03-16T21:42:01Z",
         "sourceCount": "44 sources"
+      },
+      {
+        "title": "Trump discloses Rep. Dunn's terminal heart diagnosis at White House event",
+        "url": "https://www.perplexity.ai/page/trump-discloses-rep-dunn-s-ter-qhLQXmYRR1S_2X2aVPxn5Q",
+        "description": "The president revealed the Florida Republican would have been \"dead by June\" without emergency surgery, catching Speaker Johnson off guard.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T19:33:20Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "DOJ proposes rule to help states fast-track executions",
