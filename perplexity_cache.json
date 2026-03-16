@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Gas nears $4 a gallon as Iran war roils oil markets",
+      "url": "https://www.perplexity.ai/page/gas-nears-4-a-gallon-as-iran-w-nXseRvdGR5OscSQPqUssWg",
+      "description": "Airlines worldwide are raising fares and economists warn of broader inflation as the three-week-old conflict keeps the Strait of Hormuz shut.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T19:37:13Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "All five DNA and RNA building blocks found in asteroid Ryugu samples",
+      "url": "https://www.perplexity.ai/page/all-five-dna-and-rna-building-uoG4gMq7RwSyhxQJ9v_02w",
+      "description": "A Nature Astronomy study reports the complete set of nucleobases in Ryugu material, making it the second asteroid confirmed to carry life's genetic ingredients.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T18:42:14Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Meta finalizes $27B AI deal with Nebius amid plans to cut 16,000 jobs",
       "url": "https://www.perplexity.ai/page/meta-finalizes-27b-ai-deal-wit-10NsnMMOTYaHYeR.9ciXxQ",
       "description": "The five-year infrastructure pact, Meta's largest cloud contract, comes as the company reportedly prepares to lay off up to 20% of its workforce.",
@@ -1214,20 +1232,29 @@
       "topic": "top",
       "pubDate": "2026-03-11T19:53:40Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Trial opens for 4 men charged in Haiti president's assassination",
-      "url": "https://www.perplexity.ai/page/trial-opens-for-4-men-charged-WVwJDTvYTx.luMHaCrSNmg",
-      "description": "Prosecutors told the jury that greed and a thirst for power drove the South Florida-based conspiracy to kill Jovenel Moïse in 2021.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T02:44:47Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-16T18:39:35Z",
+  "cached_at": "2026-03-16T19:42:48Z",
   "topics": {
     "top": [
+      {
+        "title": "Gas nears $4 a gallon as Iran war roils oil markets",
+        "url": "https://www.perplexity.ai/page/gas-nears-4-a-gallon-as-iran-w-nXseRvdGR5OscSQPqUssWg",
+        "description": "Airlines worldwide are raising fares and economists warn of broader inflation as the three-week-old conflict keeps the Strait of Hormuz shut.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T19:37:13Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "All five DNA and RNA building blocks found in asteroid Ryugu samples",
+        "url": "https://www.perplexity.ai/page/all-five-dna-and-rna-building-uoG4gMq7RwSyhxQJ9v_02w",
+        "description": "A Nature Astronomy study reports the complete set of nucleobases in Ryugu material, making it the second asteroid confirmed to carry life's genetic ingredients.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T18:42:14Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Meta finalizes $27B AI deal with Nebius amid plans to cut 16,000 jobs",
         "url": "https://www.perplexity.ai/page/meta-finalizes-27b-ai-deal-wit-10NsnMMOTYaHYeR.9ciXxQ",
@@ -2442,15 +2469,6 @@
         "topic": "top",
         "pubDate": "2026-03-11T19:53:40Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Trial opens for 4 men charged in Haiti president's assassination",
-        "url": "https://www.perplexity.ai/page/trial-opens-for-4-men-charged-WVwJDTvYTx.luMHaCrSNmg",
-        "description": "Prosecutors told the jury that greed and a thirst for power drove the South Florida-based conspiracy to kill Jovenel Moïse in 2021.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T02:44:47Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
