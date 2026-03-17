@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
+      "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
+      "description": "Beijing halted diesel, gasoline, and jet fuel exports as the Strait of Hormuz closure and Iran conflict drive prices sharply higher across the region.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T14:40:13Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "AlphaFold Database adds millions of protein complex structures for the first time",
+      "url": "https://www.perplexity.ai/page/alphafold-database-adds-millio-fNY_zxXUS76WWhBX31l4qA",
+      "description": "The expansion, a collaboration between EMBL-EBI, Google DeepMind, NVIDIA, and Seoul National University, targets proteins tied to human health and disease.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T14:19:33Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "Nebius plans $3.75B note offering after $27B Meta deal",
+      "url": "https://www.perplexity.ai/page/nebius-plans-3-75b-note-offeri-LvRSKDaBTJ.24ps284vlKw",
+      "description": "The AI cloud company aims to fund data center expansion and GPU procurement a day after announcing one of the industry's largest infrastructure contracts.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T14:19:11Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Tropical peatland wildfires hit 2,000-year high, study finds",
       "url": "https://www.perplexity.ai/page/tropical-peatland-wildfires-hi-2L4_5STgQ0yHxpj0trkMRQ",
       "description": "Researchers analyzed charcoal records across four continents and linked the surge to drainage, deforestation and agricultural expansion in Southeast Asia.",
@@ -278,15 +305,6 @@
       "topic": "top",
       "pubDate": "2026-03-16T18:42:14Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Meta finalizes $27B AI deal with Nebius amid plans to cut 16,000 jobs",
-      "url": "https://www.perplexity.ai/page/meta-finalizes-27b-ai-deal-wit-10NsnMMOTYaHYeR.9ciXxQ",
-      "description": "The five-year infrastructure pact, Meta's largest cloud contract, comes as the company reportedly prepares to lay off up to 20% of its workforce.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T17:17:54Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "Cuba to let expatriates invest in and own businesses on the island",
@@ -1295,38 +1313,38 @@
       "topic": "top",
       "pubDate": "2026-03-11T23:25:26Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "Israel plans military base in Somaliland to counter Houthis",
-      "url": "https://www.perplexity.ai/page/israel-plans-military-base-in-FITIO23bRS2LalCWRH_dsQ",
-      "description": "A strategic security partnership with the breakaway territory would give Israel an intelligence and operational foothold across the Gulf of Aden from Yemen.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T19:59:38Z",
-      "sourceCount": "25 sources"
-    },
-    {
-      "title": "Romania approves US use of two air bases for Iran operations",
-      "url": "https://www.perplexity.ai/page/romania-approves-us-use-of-two-7K3PSSYrQ9Csg5BCcXsFpw",
-      "description": "Parliament backed deploying refueling aircraft, surveillance gear, and 800 additional US troops at two bases for an initial 90 days.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T20:38:50Z",
-      "sourceCount": "11 sources"
-    },
-    {
-      "title": "Trump personally ordered DOJ to revive law firm sanctions fight",
-      "url": "https://www.perplexity.ai/page/trump-personally-ordered-doj-t-r4ErRy_ZS0GXnu2zBvrOhA",
-      "description": "The president told aides \"I never signed off on that\" after learning the Justice Department had moved to drop its appeals, according to the Journal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T20:29:18Z",
-      "sourceCount": "43 sources"
     }
   ],
-  "cached_at": "2026-03-17T14:45:11Z",
+  "cached_at": "2026-03-17T15:48:05Z",
   "topics": {
     "top": [
+      {
+        "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
+        "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
+        "description": "Beijing halted diesel, gasoline, and jet fuel exports as the Strait of Hormuz closure and Iran conflict drive prices sharply higher across the region.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T14:40:13Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "AlphaFold Database adds millions of protein complex structures for the first time",
+        "url": "https://www.perplexity.ai/page/alphafold-database-adds-millio-fNY_zxXUS76WWhBX31l4qA",
+        "description": "The expansion, a collaboration between EMBL-EBI, Google DeepMind, NVIDIA, and Seoul National University, targets proteins tied to human health and disease.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T14:19:33Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "Nebius plans $3.75B note offering after $27B Meta deal",
+        "url": "https://www.perplexity.ai/page/nebius-plans-3-75b-note-offeri-LvRSKDaBTJ.24ps284vlKw",
+        "description": "The AI cloud company aims to fund data center expansion and GPU procurement a day after announcing one of the industry's largest infrastructure contracts.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T14:19:11Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Tropical peatland wildfires hit 2,000-year high, study finds",
         "url": "https://www.perplexity.ai/page/tropical-peatland-wildfires-hi-2L4_5STgQ0yHxpj0trkMRQ",
@@ -1605,15 +1623,6 @@
         "topic": "top",
         "pubDate": "2026-03-16T18:42:14Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Meta finalizes $27B AI deal with Nebius amid plans to cut 16,000 jobs",
-        "url": "https://www.perplexity.ai/page/meta-finalizes-27b-ai-deal-wit-10NsnMMOTYaHYeR.9ciXxQ",
-        "description": "The five-year infrastructure pact, Meta's largest cloud contract, comes as the company reportedly prepares to lay off up to 20% of its workforce.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T17:17:54Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "Cuba to let expatriates invest in and own businesses on the island",
@@ -2622,33 +2631,6 @@
         "topic": "top",
         "pubDate": "2026-03-11T23:25:26Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "Israel plans military base in Somaliland to counter Houthis",
-        "url": "https://www.perplexity.ai/page/israel-plans-military-base-in-FITIO23bRS2LalCWRH_dsQ",
-        "description": "A strategic security partnership with the breakaway territory would give Israel an intelligence and operational foothold across the Gulf of Aden from Yemen.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T19:59:38Z",
-        "sourceCount": "25 sources"
-      },
-      {
-        "title": "Romania approves US use of two air bases for Iran operations",
-        "url": "https://www.perplexity.ai/page/romania-approves-us-use-of-two-7K3PSSYrQ9Csg5BCcXsFpw",
-        "description": "Parliament backed deploying refueling aircraft, surveillance gear, and 800 additional US troops at two bases for an initial 90 days.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T20:38:50Z",
-        "sourceCount": "11 sources"
-      },
-      {
-        "title": "Trump personally ordered DOJ to revive law firm sanctions fight",
-        "url": "https://www.perplexity.ai/page/trump-personally-ordered-doj-t-r4ErRy_ZS0GXnu2zBvrOhA",
-        "description": "The president told aides \"I never signed off on that\" after learning the Justice Department had moved to drop its appeals, according to the Journal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T20:29:18Z",
-        "sourceCount": "43 sources"
       }
     ],
     "tech": [],
