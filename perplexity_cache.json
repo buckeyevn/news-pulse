@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "U.S. confirms Tesla, LG Energy Solution's $4.3B battery plant deal",
+      "url": "https://www.perplexity.ai/page/u-s-confirms-tesla-lg-energy-s-A42OldQYR4O9W6LtNeFUtA",
+      "description": "The Lansing, Michigan facility will produce LFP cells for Tesla's Megapack 3 energy storage systems, with production set to begin in 2027.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T10:48:17Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Oil prices rebound as Iran escalates Gulf attacks",
       "url": "https://www.perplexity.ai/page/oil-prices-rebound-as-iran-esc-3eicdAG1SC2OV76KS4oZZg",
       "description": "Brent crude held above $100 a barrel as fresh Iranian drone strikes hit UAE energy infrastructure and commercial shipping through the Strait of Hormuz remains halted.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-03-17T10:41:27Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "U.S. Navy awards Gecko Robotics $71M to deploy AI and robots across Pacific Fleet",
+      "url": "https://www.perplexity.ai/page/u-s-navy-awards-gecko-robotics-Vv2MztV7TxqJkWXwvr9nNw",
+      "description": "The five-year contract, the Navy's largest robotics deal, will use wall-climbing robots to inspect 18 ships and help reach 80% fleet readiness by 2027.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T10:41:10Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "NASA taps Mars rover to watch the Sun ahead of Artemis II launch",
@@ -19,15 +37,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "U.S. transfers sacred Oak Flat land to Rio Tinto-BHP copper venture",
-      "url": "https://www.perplexity.ai/page/u-s-transfers-sacred-oak-flat-or.76aKOQOSS4Wowu2pODg",
-      "description": "The Forest Service handed over 2,400 acres of Arizona's Tonto National Forest, clearing the way for one of North America's largest copper mines despite tribal opposition.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T02:23:59Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "UAE reopens airspace after first full closure since Iran war began",
       "url": "https://www.perplexity.ai/page/uae-reopens-airspace-after-fir-ep3zFieGSLaJ2C.TuEJS_Q",
       "description": "The two-hour shutdown came as air defenses intercepted Iranian drones and missiles, with explosions heard across Dubai.",
@@ -35,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-03-17T04:18:19Z",
       "sourceCount": "41 sources"
+    },
+    {
+      "title": "U.S. transfers sacred Oak Flat land to Rio Tinto-BHP copper venture",
+      "url": "https://www.perplexity.ai/page/u-s-transfers-sacred-oak-flat-or.76aKOQOSS4Wowu2pODg",
+      "description": "The Forest Service handed over 2,400 acres of Arizona's Tonto National Forest, clearing the way for one of North America's largest copper mines despite tribal opposition.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T02:23:59Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "SK Group chairman says chip wafer shortage to last until 2030",
@@ -1295,20 +1313,20 @@
       "topic": "top",
       "pubDate": "2026-03-11T22:54:39Z",
       "sourceCount": "56 sources"
-    },
-    {
-      "title": "Kilauea's 1,000-foot lava fountains force closures on Big Island",
-      "url": "https://www.perplexity.ai/page/kilauea-s-1000-foot-lava-fount-BTHgQ9aCT5ea3fJFXsOoog",
-      "description": "Episode 43 of the ongoing eruption showered communities with volcanic debris, closing Highway 11 and parts of Hawaii Volcanoes National Park.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T16:13:58Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-17T11:08:47Z",
+  "cached_at": "2026-03-17T11:56:09Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. confirms Tesla, LG Energy Solution's $4.3B battery plant deal",
+        "url": "https://www.perplexity.ai/page/u-s-confirms-tesla-lg-energy-s-A42OldQYR4O9W6LtNeFUtA",
+        "description": "The Lansing, Michigan facility will produce LFP cells for Tesla's Megapack 3 energy storage systems, with production set to begin in 2027.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T10:48:17Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Oil prices rebound as Iran escalates Gulf attacks",
         "url": "https://www.perplexity.ai/page/oil-prices-rebound-as-iran-esc-3eicdAG1SC2OV76KS4oZZg",
@@ -1317,6 +1335,15 @@
         "topic": "top",
         "pubDate": "2026-03-17T10:41:27Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "U.S. Navy awards Gecko Robotics $71M to deploy AI and robots across Pacific Fleet",
+        "url": "https://www.perplexity.ai/page/u-s-navy-awards-gecko-robotics-Vv2MztV7TxqJkWXwvr9nNw",
+        "description": "The five-year contract, the Navy's largest robotics deal, will use wall-climbing robots to inspect 18 ships and help reach 80% fleet readiness by 2027.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T10:41:10Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "NASA taps Mars rover to watch the Sun ahead of Artemis II launch",
@@ -1328,15 +1355,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "U.S. transfers sacred Oak Flat land to Rio Tinto-BHP copper venture",
-        "url": "https://www.perplexity.ai/page/u-s-transfers-sacred-oak-flat-or.76aKOQOSS4Wowu2pODg",
-        "description": "The Forest Service handed over 2,400 acres of Arizona's Tonto National Forest, clearing the way for one of North America's largest copper mines despite tribal opposition.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T02:23:59Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "UAE reopens airspace after first full closure since Iran war began",
         "url": "https://www.perplexity.ai/page/uae-reopens-airspace-after-fir-ep3zFieGSLaJ2C.TuEJS_Q",
         "description": "The two-hour shutdown came as air defenses intercepted Iranian drones and missiles, with explosions heard across Dubai.",
@@ -1344,6 +1362,15 @@
         "topic": "top",
         "pubDate": "2026-03-17T04:18:19Z",
         "sourceCount": "41 sources"
+      },
+      {
+        "title": "U.S. transfers sacred Oak Flat land to Rio Tinto-BHP copper venture",
+        "url": "https://www.perplexity.ai/page/u-s-transfers-sacred-oak-flat-or.76aKOQOSS4Wowu2pODg",
+        "description": "The Forest Service handed over 2,400 acres of Arizona's Tonto National Forest, clearing the way for one of North America's largest copper mines despite tribal opposition.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T02:23:59Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "SK Group chairman says chip wafer shortage to last until 2030",
@@ -2604,15 +2631,6 @@
         "topic": "top",
         "pubDate": "2026-03-11T22:54:39Z",
         "sourceCount": "56 sources"
-      },
-      {
-        "title": "Kilauea's 1,000-foot lava fountains force closures on Big Island",
-        "url": "https://www.perplexity.ai/page/kilauea-s-1000-foot-lava-fount-BTHgQ9aCT5ea3fJFXsOoog",
-        "description": "Episode 43 of the ongoing eruption showered communities with volcanic debris, closing Highway 11 and parts of Hawaii Volcanoes National Park.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T16:13:58Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
