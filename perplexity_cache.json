@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Mastercard to buy stablecoin firm BVNK for up to $1.8B",
+      "url": "https://www.perplexity.ai/page/mastercard-to-buy-stablecoin-f-IuT3hdJ6ROKR8_TpK4a9Ig",
+      "description": "The deal is the largest stablecoin acquisition ever, eclipsing Stripe's $1.1 billion purchase of Bridge in 2025.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T17:39:47Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "US diesel tops $5 a gallon for first time since 2022",
       "url": "https://www.perplexity.ai/page/us-diesel-tops-5-a-gallon-for-bhp7Wd9lRZ2LsK1StUkdlQ",
       "description": "The national average hit $5.04, up 34% since the Iran war began, as the Strait of Hormuz remains largely closed to oil traffic.",
@@ -1295,20 +1304,20 @@
       "topic": "top",
       "pubDate": "2026-03-12T01:48:54Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "Iran, Hezbollah launch largest joint barrage as war enters day 12",
-      "url": "https://www.perplexity.ai/page/iran-hezbollah-launch-largest-J2tYlzyUTtmOW08iU3Sgvw",
-      "description": "Over 150 missiles and 30 drones were fired toward Israel in a three-hour window as both sides escalate strikes across the region.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T23:39:15Z",
-      "sourceCount": "40 sources"
     }
   ],
-  "cached_at": "2026-03-17T16:50:59Z",
+  "cached_at": "2026-03-17T17:54:18Z",
   "topics": {
     "top": [
+      {
+        "title": "Mastercard to buy stablecoin firm BVNK for up to $1.8B",
+        "url": "https://www.perplexity.ai/page/mastercard-to-buy-stablecoin-f-IuT3hdJ6ROKR8_TpK4a9Ig",
+        "description": "The deal is the largest stablecoin acquisition ever, eclipsing Stripe's $1.1 billion purchase of Bridge in 2025.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T17:39:47Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "US diesel tops $5 a gallon for first time since 2022",
         "url": "https://www.perplexity.ai/page/us-diesel-tops-5-a-gallon-for-bhp7Wd9lRZ2LsK1StUkdlQ",
@@ -2604,15 +2613,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T01:48:54Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Iran, Hezbollah launch largest joint barrage as war enters day 12",
-        "url": "https://www.perplexity.ai/page/iran-hezbollah-launch-largest-J2tYlzyUTtmOW08iU3Sgvw",
-        "description": "Over 150 missiles and 30 drones were fired toward Israel in a three-hour window as both sides escalate strikes across the region.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T23:39:15Z",
-        "sourceCount": "40 sources"
       }
     ],
     "tech": [],
