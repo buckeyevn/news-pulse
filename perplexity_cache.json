@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "NASA taps Mars rover to watch the Sun ahead of Artemis II launch",
+      "url": "https://www.perplexity.ai/page/nasa-taps-mars-rover-to-watch-Qhvk4_ivQBuROafgCqattw",
+      "description": "The Perseverance rover can spot sunspots two weeks early from Mars, giving mission teams advance warning as the April 1 launch window nears.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T07:03:54Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "White House plans escort coalition to reopen Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/white-house-plans-escort-coali-Y0EXDw.ET3mPbtUXykYHLA",
       "description": "Three weeks into the Iran war, the strait's closure has disrupted 20% of global oil and gas supply, with Asia and Australia hit hardest.",
@@ -1333,9 +1342,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-17T07:02:28Z",
+  "cached_at": "2026-03-17T08:00:23Z",
   "topics": {
     "top": [
+      {
+        "title": "NASA taps Mars rover to watch the Sun ahead of Artemis II launch",
+        "url": "https://www.perplexity.ai/page/nasa-taps-mars-rover-to-watch-Qhvk4_ivQBuROafgCqattw",
+        "description": "The Perseverance rover can spot sunspots two weeks early from Mars, giving mission teams advance warning as the April 1 launch window nears.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T07:03:54Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "White House plans escort coalition to reopen Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/white-house-plans-escort-coali-Y0EXDw.ET3mPbtUXykYHLA",
