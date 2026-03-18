@@ -19,6 +19,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "Researchers expose DarkSword, an iPhone exploit chain targeting millions of devices",
+      "url": "https://www.perplexity.ai/page/researchers-expose-darksword-a-cFidbVjJRIWBVzO_OAxQyQ",
+      "description": "Lookout, Google, and iVerify disclosed a sophisticated \"hit-and-run\" iOS exploit that silently steals passwords, crypto wallets, and messages via compromised websites.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T18:07:45Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Antarctic ice cores show ocean heat, not CO2, drove ancient climate shifts",
       "url": "https://www.perplexity.ai/page/antarctic-ice-cores-show-ocean-0rkXuH1bTSm7GxCED_UIYw",
       "description": "Two studies published Wednesday in Nature find that global ocean temperatures swung dramatically over 3 million years while greenhouse gas levels stayed broadly stable.",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-03-12T19:13:48Z",
       "sourceCount": "41 sources"
-    },
-    {
-      "title": "Israeli drone strike on Lebanese University kills two senior academics",
-      "url": "https://www.perplexity.ai/page/israeli-drone-strike-on-lebane-3BFVpNNuSn2UlSBFdD8_9A",
-      "description": "The faculty of sciences director and a professor were killed on the Hadath campus near Beirut's southern suburbs amid intensified Israeli bombardment across Lebanon.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T18:44:13Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-18T19:33:52Z",
+  "cached_at": "2026-03-18T20:05:04Z",
   "topics": {
     "top": [
       {
@@ -1370,6 +1370,15 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-18T18:08:24Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Researchers expose DarkSword, an iPhone exploit chain targeting millions of devices",
+        "url": "https://www.perplexity.ai/page/researchers-expose-darksword-a-cFidbVjJRIWBVzO_OAxQyQ",
+        "description": "Lookout, Google, and iVerify disclosed a sophisticated \"hit-and-run\" iOS exploit that silently steals passwords, crypto wallets, and messages via compromised websites.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T18:07:45Z",
         "sourceCount": "15 sources"
       },
       {
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T19:13:48Z",
         "sourceCount": "41 sources"
-      },
-      {
-        "title": "Israeli drone strike on Lebanese University kills two senior academics",
-        "url": "https://www.perplexity.ai/page/israeli-drone-strike-on-lebane-3BFVpNNuSn2UlSBFdD8_9A",
-        "description": "The faculty of sciences director and a professor were killed on the Hadath campus near Beirut's southern suburbs amid intensified Israeli bombardment across Lebanon.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T18:44:13Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
