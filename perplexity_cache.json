@@ -10,6 +10,15 @@
       "sourceCount": "21 sources"
     },
     {
+      "title": "EPFL, CSEM set record 30% efficiency for triple-junction solar cell",
+      "url": "https://www.perplexity.ai/page/epfl-csem-set-record-30-effici-K2FhYA3vSM6vh0N9sCS_DQ",
+      "description": "The perovskite-silicon device more than doubled the team's 2018 prototype efficiency, surpassing the previous certified record of 27.1%.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T07:10:35Z",
+      "sourceCount": "35 sources"
+    },
+    {
       "title": "BHP taps Americas chief Brandon Craig as next CEO",
       "url": "https://www.perplexity.ai/page/bhp-taps-americas-chief-brando-rHBzoYWdSDW2Fnv0e.MK9g",
       "description": "Craig, who oversaw BHP's rise to become the world's largest copper producer, will succeed Mike Henry on July 1.",
@@ -53,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-03-18T02:28:21Z",
       "sourceCount": "36 sources"
+    },
+    {
+      "title": "China pledges emergency aid to Iran, Jordan, Lebanon and Iraq",
+      "url": "https://www.perplexity.ai/page/china-pledges-emergency-aid-to-5PWXaYoITsyjYwtLk.vVQQ",
+      "description": "Beijing announced humanitarian assistance for four Middle Eastern nations as the U.S.-Israeli conflict with Iran enters its third week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T01:29:54Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Pentagon says 157 killed in drug boat strikes since September",
@@ -170,6 +188,15 @@
       "topic": "top",
       "pubDate": "2026-03-17T18:35:15Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Pentagon begins engineering work to replace Anthropic AI",
+      "url": "https://www.perplexity.ai/page/pentagon-begins-engineering-wo-p2KwN4zOT0Wq4kodi5zArw",
+      "description": "The Defense Department's top AI official said integration of a new large language model is already underway as the military moves past Anthropic's Claude.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T18:29:48Z",
+      "sourceCount": "87 sources"
     },
     {
       "title": "Democrats introduce BETS OFF Act to ban prediction market trades on government actions",
@@ -1322,36 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-03-12T18:09:01Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Trump administration sues California over EV mandates",
-      "url": "https://www.perplexity.ai/page/trump-administration-sues-cali-7fLsrT.wQkKBFGuImDHUgw",
-      "description": "The DOJ filed suit seeking to invalidate California's remaining zero-emission vehicle rules, calling them illegal under federal law.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T17:25:06Z",
-      "sourceCount": "37 sources"
-    },
-    {
-      "title": "Iran, Lebanon seek expanded UNESCO protections as strikes damage heritage sites",
-      "url": "https://www.perplexity.ai/page/iran-lebanon-seek-expanded-une-Ko2H72GlS3Cs8dv4GjZWkg",
-      "description": "At least four World Heritage sites have sustained verified damage since the U.S.-Israeli campaign began Feb. 28, UNESCO confirmed.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T14:40:37Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Iran denies laying mines in Hormuz, says some nations granted safe passage",
-      "url": "https://www.perplexity.ai/page/iran-denies-laying-mines-in-ho-1gcq1gVrQq6DbmTgPSMrIQ",
-      "description": "Deputy FM Takht-Ravanchi called U.S. mine-laying claims untrue and confirmed select countries, including India, have negotiated transit through the strait.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T17:58:57Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-18T09:07:57Z",
+  "cached_at": "2026-03-18T10:11:47Z",
   "topics": {
     "top": [
       {
@@ -1362,6 +1362,15 @@
         "topic": "top",
         "pubDate": "2026-03-18T07:32:16Z",
         "sourceCount": "21 sources"
+      },
+      {
+        "title": "EPFL, CSEM set record 30% efficiency for triple-junction solar cell",
+        "url": "https://www.perplexity.ai/page/epfl-csem-set-record-30-effici-K2FhYA3vSM6vh0N9sCS_DQ",
+        "description": "The perovskite-silicon device more than doubled the team's 2018 prototype efficiency, surpassing the previous certified record of 27.1%.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T07:10:35Z",
+        "sourceCount": "35 sources"
       },
       {
         "title": "BHP taps Americas chief Brandon Craig as next CEO",
@@ -1407,6 +1416,15 @@
         "topic": "top",
         "pubDate": "2026-03-18T02:28:21Z",
         "sourceCount": "36 sources"
+      },
+      {
+        "title": "China pledges emergency aid to Iran, Jordan, Lebanon and Iraq",
+        "url": "https://www.perplexity.ai/page/china-pledges-emergency-aid-to-5PWXaYoITsyjYwtLk.vVQQ",
+        "description": "Beijing announced humanitarian assistance for four Middle Eastern nations as the U.S.-Israeli conflict with Iran enters its third week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T01:29:54Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Pentagon says 157 killed in drug boat strikes since September",
@@ -1524,6 +1542,15 @@
         "topic": "top",
         "pubDate": "2026-03-17T18:35:15Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Pentagon begins engineering work to replace Anthropic AI",
+        "url": "https://www.perplexity.ai/page/pentagon-begins-engineering-wo-p2KwN4zOT0Wq4kodi5zArw",
+        "description": "The Defense Department's top AI official said integration of a new large language model is already underway as the military moves past Anthropic's Claude.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T18:29:48Z",
+        "sourceCount": "87 sources"
       },
       {
         "title": "Democrats introduce BETS OFF Act to ban prediction market trades on government actions",
@@ -2675,33 +2702,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-12T18:09:01Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Trump administration sues California over EV mandates",
-        "url": "https://www.perplexity.ai/page/trump-administration-sues-cali-7fLsrT.wQkKBFGuImDHUgw",
-        "description": "The DOJ filed suit seeking to invalidate California's remaining zero-emission vehicle rules, calling them illegal under federal law.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T17:25:06Z",
-        "sourceCount": "37 sources"
-      },
-      {
-        "title": "Iran, Lebanon seek expanded UNESCO protections as strikes damage heritage sites",
-        "url": "https://www.perplexity.ai/page/iran-lebanon-seek-expanded-une-Ko2H72GlS3Cs8dv4GjZWkg",
-        "description": "At least four World Heritage sites have sustained verified damage since the U.S.-Israeli campaign began Feb. 28, UNESCO confirmed.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T14:40:37Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Iran denies laying mines in Hormuz, says some nations granted safe passage",
-        "url": "https://www.perplexity.ai/page/iran-denies-laying-mines-in-ho-1gcq1gVrQq6DbmTgPSMrIQ",
-        "description": "Deputy FM Takht-Ravanchi called U.S. mine-laying claims untrue and confirmed select countries, including India, have negotiated transit through the strait.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T17:58:57Z",
         "sourceCount": "30 sources"
       }
     ],
