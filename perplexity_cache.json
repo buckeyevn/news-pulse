@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Vance vows gas prices will fall once Iran conflict ends",
+      "url": "https://www.perplexity.ai/page/vance-vows-gas-prices-will-fal-xWtChJLSSjibCpAW1vstMA",
+      "description": "As average gas prices hit $3.84 per gallon, the vice president called the surge \"temporary\" and promised a return to pre-war levels.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T22:44:31Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Iran allows trickle of ships through Hormuz as blockade enters third week",
       "url": "https://www.perplexity.ai/page/iran-allows-trickle-of-ships-t-ciwGVwZcQ.OANxIgSt025w",
       "description": "Traffic through the strait remains down over 95%, but Iran has begun granting selective passage to allied nations as hundreds of vessels wait outside.",
@@ -25,15 +34,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-18T20:43:46Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Vance, Wright to meet oil execs as gas prices surge amid Iran conflict",
-      "url": "https://www.perplexity.ai/page/vance-wright-to-meet-oil-execs-HjY.gsW9SP24egy5h91ZKg",
-      "description": "The national average for regular gas hit $3.84, up more than 85 cents since the U.S.-Israeli military conflict with Iran began in late February.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T20:17:20Z",
       "sourceCount": "29 sources"
     },
     {
@@ -1351,9 +1351,18 @@
       "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-03-18T22:16:53Z",
+  "cached_at": "2026-03-18T22:52:22Z",
   "topics": {
     "top": [
+      {
+        "title": "Vance vows gas prices will fall once Iran conflict ends",
+        "url": "https://www.perplexity.ai/page/vance-vows-gas-prices-will-fal-xWtChJLSSjibCpAW1vstMA",
+        "description": "As average gas prices hit $3.84 per gallon, the vice president called the surge \"temporary\" and promised a return to pre-war levels.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T22:44:31Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Iran allows trickle of ships through Hormuz as blockade enters third week",
         "url": "https://www.perplexity.ai/page/iran-allows-trickle-of-ships-t-ciwGVwZcQ.OANxIgSt025w",
@@ -1379,15 +1388,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-18T20:43:46Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Vance, Wright to meet oil execs as gas prices surge amid Iran conflict",
-        "url": "https://www.perplexity.ai/page/vance-wright-to-meet-oil-execs-HjY.gsW9SP24egy5h91ZKg",
-        "description": "The national average for regular gas hit $3.84, up more than 85 cents since the U.S.-Israeli military conflict with Iran began in late February.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T20:17:20Z",
         "sourceCount": "29 sources"
       },
       {
