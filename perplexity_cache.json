@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "BHP taps Americas chief Brandon Craig as next CEO",
+      "url": "https://www.perplexity.ai/page/bhp-taps-americas-chief-brando-rHBzoYWdSDW2Fnv0e.MK9g",
+      "description": "Craig, who oversaw BHP's rise to become the world's largest copper producer, will succeed Mike Henry on July 1.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T06:06:34Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Oil prices fall as U.S. inventory surge, Iraq export deal offset Gulf tensions",
+      "url": "https://www.perplexity.ai/page/oil-prices-fall-as-u-s-invento-HTOVaCXZQ.6s2wSawJERdg",
+      "description": "Brent crude and WTI both declined Wednesday after API data showed a far larger-than-expected build in U.S. stockpiles.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T06:02:30Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "BP locks out 800 workers at largest Midwest refinery",
       "url": "https://www.perplexity.ai/page/bp-locks-out-800-workers-at-la-HEtjUvDnR2CFF1a3HqlLqw",
       "description": "The lockout at the Whiting, Indiana, facility takes effect March 19 after months of failed contract talks with United Steelworkers members.",
@@ -55,13 +73,13 @@
       "sourceCount": "38 sources"
     },
     {
-      "title": "Trump says US will leave Iran 'in the very near future'",
-      "url": "https://www.perplexity.ai/page/trump-says-us-will-leave-iran-zy8dEuw1TECyMpaap9m2mw",
-      "description": "The president said the US is \"not ready to leave yet\" but offered his most direct signal that the three-week military campaign could be winding down.",
+      "title": "Roberts calls personal attacks on judges 'dangerous' after Trump tirade",
+      "url": "https://www.perplexity.ai/page/roberts-calls-personal-attacks-aNX8i2LVS5yIG_CDZ2A7aw",
+      "description": "The chief justice urged critics across the political spectrum to stop targeting judges personally, days after Trump called the Supreme Court \"inept.\"",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-17T22:20:25Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-03-17T20:07:13Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "Russia sharing satellite imagery, drone tech with Iran",
@@ -82,13 +100,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Roberts calls personal attacks on judges 'dangerous' after Trump tirade",
-      "url": "https://www.perplexity.ai/page/roberts-calls-personal-attacks-aNX8i2LVS5yIG_CDZ2A7aw",
-      "description": "The chief justice urged critics across the political spectrum to stop targeting judges personally, days after Trump called the Supreme Court \"inept.\"",
+      "title": "Comer subpoenas AG Bondi over Epstein files handling",
+      "url": "https://www.perplexity.ai/page/comer-subpoenas-ag-bondi-over-o.ORvat2SYqjoskLb_JjIw",
+      "description": "The House Oversight chairman demands Bondi testify on April 14 about the DOJ's compliance with the Epstein Files Transparency Act.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-17T20:07:13Z",
-      "sourceCount": "24 sources"
+      "pubDate": "2026-03-17T19:36:15Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "IQM, Zurich Instruments build quantum error correction system with NVIDIA",
@@ -107,15 +125,6 @@
       "topic": "top",
       "pubDate": "2026-03-17T19:11:11Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Comer subpoenas AG Bondi over Epstein files handling",
-      "url": "https://www.perplexity.ai/page/comer-subpoenas-ag-bondi-over-o.ORvat2SYqjoskLb_JjIw",
-      "description": "The House Oversight chairman demands Bondi testify on April 14 about the DOJ's compliance with the Epstein Files Transparency Act.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T19:36:15Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "Zelenskyy meets Starmer, Rutte in London as Iran war shifts focus from Ukraine",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-12T16:27:01Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "States rush to set rounding rules as pennies vanish from registers",
-      "url": "https://www.perplexity.ai/page/states-rush-to-set-rounding-ru-2U9kbCR.Riuf5IvotE.ErA",
-      "description": "Bills in six states await governors' signatures while Indiana signed one of the first rounding laws, as a federal fix remains stalled in Congress.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T14:19:21Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-18T06:15:15Z",
+  "cached_at": "2026-03-18T07:33:02Z",
   "topics": {
     "top": [
+      {
+        "title": "BHP taps Americas chief Brandon Craig as next CEO",
+        "url": "https://www.perplexity.ai/page/bhp-taps-americas-chief-brando-rHBzoYWdSDW2Fnv0e.MK9g",
+        "description": "Craig, who oversaw BHP's rise to become the world's largest copper producer, will succeed Mike Henry on July 1.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T06:06:34Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Oil prices fall as U.S. inventory surge, Iraq export deal offset Gulf tensions",
+        "url": "https://www.perplexity.ai/page/oil-prices-fall-as-u-s-invento-HTOVaCXZQ.6s2wSawJERdg",
+        "description": "Brent crude and WTI both declined Wednesday after API data showed a far larger-than-expected build in U.S. stockpiles.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T06:02:30Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "BP locks out 800 workers at largest Midwest refinery",
         "url": "https://www.perplexity.ai/page/bp-locks-out-800-workers-at-la-HEtjUvDnR2CFF1a3HqlLqw",
@@ -1409,13 +1427,13 @@
         "sourceCount": "38 sources"
       },
       {
-        "title": "Trump says US will leave Iran 'in the very near future'",
-        "url": "https://www.perplexity.ai/page/trump-says-us-will-leave-iran-zy8dEuw1TECyMpaap9m2mw",
-        "description": "The president said the US is \"not ready to leave yet\" but offered his most direct signal that the three-week military campaign could be winding down.",
+        "title": "Roberts calls personal attacks on judges 'dangerous' after Trump tirade",
+        "url": "https://www.perplexity.ai/page/roberts-calls-personal-attacks-aNX8i2LVS5yIG_CDZ2A7aw",
+        "description": "The chief justice urged critics across the political spectrum to stop targeting judges personally, days after Trump called the Supreme Court \"inept.\"",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-17T22:20:25Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-03-17T20:07:13Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "Russia sharing satellite imagery, drone tech with Iran",
@@ -1436,13 +1454,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Roberts calls personal attacks on judges 'dangerous' after Trump tirade",
-        "url": "https://www.perplexity.ai/page/roberts-calls-personal-attacks-aNX8i2LVS5yIG_CDZ2A7aw",
-        "description": "The chief justice urged critics across the political spectrum to stop targeting judges personally, days after Trump called the Supreme Court \"inept.\"",
+        "title": "Comer subpoenas AG Bondi over Epstein files handling",
+        "url": "https://www.perplexity.ai/page/comer-subpoenas-ag-bondi-over-o.ORvat2SYqjoskLb_JjIw",
+        "description": "The House Oversight chairman demands Bondi testify on April 14 about the DOJ's compliance with the Epstein Files Transparency Act.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-17T20:07:13Z",
-        "sourceCount": "24 sources"
+        "pubDate": "2026-03-17T19:36:15Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "IQM, Zurich Instruments build quantum error correction system with NVIDIA",
@@ -1461,15 +1479,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T19:11:11Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Comer subpoenas AG Bondi over Epstein files handling",
-        "url": "https://www.perplexity.ai/page/comer-subpoenas-ag-bondi-over-o.ORvat2SYqjoskLb_JjIw",
-        "description": "The House Oversight chairman demands Bondi testify on April 14 about the DOJ's compliance with the Epstein Files Transparency Act.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T19:36:15Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "Zelenskyy meets Starmer, Rutte in London as Iran war shifts focus from Ukraine",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T16:27:01Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "States rush to set rounding rules as pennies vanish from registers",
-        "url": "https://www.perplexity.ai/page/states-rush-to-set-rounding-ru-2U9kbCR.Riuf5IvotE.ErA",
-        "description": "Bills in six states await governors' signatures while Indiana signed one of the first rounding laws, as a federal fix remains stalled in Congress.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T14:19:21Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
