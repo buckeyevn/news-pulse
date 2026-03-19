@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Bank of England holds rates unanimously as Iran war reshapes outlook",
-      "url": "https://www.perplexity.ai/page/bank-of-england-holds-rates-un-AOJqOGjsQWuukId4wop3aQ",
-      "description": "The MPC's 9-0 vote marks a sharp shift from February's 5-4 split, as rising energy prices from the Middle East conflict shelve rate cut hopes.",
+      "title": "Hegseth says Iran war has no timeline as US launches largest strikes yet",
+      "url": "https://www.perplexity.ai/page/hegseth-says-iran-war-has-no-t-Q3okOtiITLyIwMC_U3RyaA",
+      "description": "The defense secretary said the end of the 20-day conflict \"will be at the president's choosing\" as the Pentagon prepares its biggest strike package to date.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-19T13:07:03Z",
-      "sourceCount": "38 sources"
+      "pubDate": "2026-03-19T14:07:32Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "US jobless claims fall to lowest level since January",
@@ -28,22 +28,13 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Rockefeller scientists build mass spectrometer that traps a billion ions at once",
-      "url": "https://www.perplexity.ai/page/rockefeller-scientists-build-m-PNblA_SVSb.h9rJA9OH9ag",
+      "title": "Scientists build mass spectrometer that traps a billion ions at once",
+      "url": "https://www.perplexity.ai/page/scientists-build-mass-spectrom-PNblA_SVSb.h9rJA9OH9ag",
       "description": "The new MultiQ-IT prototype processes ions in parallel rather than one at a time, a leap its creators compare to the shift from serial to parallel computing.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-19T10:00:54Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Eight states sue to block Nexstar's acquisition of Tegna",
-      "url": "https://www.perplexity.ai/page/eight-states-sue-to-block-nexs-57KVmFc1QyOKp0PPBzbR9g",
-      "description": "The coalition argues the deal would illegally concentrate local TV ownership, raise cable bills, and gut newsrooms across 31 markets.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T09:26:14Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "IAEA chief says status of Iran's new underground enrichment site is unknown",
@@ -1205,37 +1196,19 @@
       "topic": "top",
       "pubDate": "2026-03-13T11:13:43Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Netanyahu says Israeli strikes killed top Iranian nuclear scientist",
-      "url": "https://www.perplexity.ai/page/netanyahu-says-israeli-strikes-EjAbTaQtRnOmxKy6kt66Mw",
-      "description": "The claim came during his first press conference since the U.S.-Israeli war on Iran began Feb. 28, now in its 14th day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T08:18:48Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Japan set to join Trump's Golden Dome missile defense program",
-      "url": "https://www.perplexity.ai/page/japan-set-to-join-trump-s-gold-yXNL9oMQQ5uAyg5xOnOsFQ",
-      "description": "PM Takaichi plans to announce Japan's participation when she meets Trump in Washington on March 19, according to Japanese government sources.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T20:54:06Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-19T13:52:40Z",
+  "cached_at": "2026-03-19T14:45:44Z",
   "topics": {
     "top": [
       {
-        "title": "Bank of England holds rates unanimously as Iran war reshapes outlook",
-        "url": "https://www.perplexity.ai/page/bank-of-england-holds-rates-un-AOJqOGjsQWuukId4wop3aQ",
-        "description": "The MPC's 9-0 vote marks a sharp shift from February's 5-4 split, as rising energy prices from the Middle East conflict shelve rate cut hopes.",
+        "title": "Hegseth says Iran war has no timeline as US launches largest strikes yet",
+        "url": "https://www.perplexity.ai/page/hegseth-says-iran-war-has-no-t-Q3okOtiITLyIwMC_U3RyaA",
+        "description": "The defense secretary said the end of the 20-day conflict \"will be at the president's choosing\" as the Pentagon prepares its biggest strike package to date.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-19T13:07:03Z",
-        "sourceCount": "38 sources"
+        "pubDate": "2026-03-19T14:07:32Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "US jobless claims fall to lowest level since January",
@@ -1256,22 +1229,13 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Rockefeller scientists build mass spectrometer that traps a billion ions at once",
-        "url": "https://www.perplexity.ai/page/rockefeller-scientists-build-m-PNblA_SVSb.h9rJA9OH9ag",
+        "title": "Scientists build mass spectrometer that traps a billion ions at once",
+        "url": "https://www.perplexity.ai/page/scientists-build-mass-spectrom-PNblA_SVSb.h9rJA9OH9ag",
         "description": "The new MultiQ-IT prototype processes ions in parallel rather than one at a time, a leap its creators compare to the shift from serial to parallel computing.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-19T10:00:54Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Eight states sue to block Nexstar's acquisition of Tegna",
-        "url": "https://www.perplexity.ai/page/eight-states-sue-to-block-nexs-57KVmFc1QyOKp0PPBzbR9g",
-        "description": "The coalition argues the deal would illegally concentrate local TV ownership, raise cable bills, and gut newsrooms across 31 markets.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T09:26:14Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "IAEA chief says status of Iran's new underground enrichment site is unknown",
@@ -2433,24 +2397,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T11:13:43Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Netanyahu says Israeli strikes killed top Iranian nuclear scientist",
-        "url": "https://www.perplexity.ai/page/netanyahu-says-israeli-strikes-EjAbTaQtRnOmxKy6kt66Mw",
-        "description": "The claim came during his first press conference since the U.S.-Israeli war on Iran began Feb. 28, now in its 14th day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T08:18:48Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Japan set to join Trump's Golden Dome missile defense program",
-        "url": "https://www.perplexity.ai/page/japan-set-to-join-trump-s-gold-yXNL9oMQQ5uAyg5xOnOsFQ",
-        "description": "PM Takaichi plans to announce Japan's participation when she meets Trump in Washington on March 19, according to Japanese government sources.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T20:54:06Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
