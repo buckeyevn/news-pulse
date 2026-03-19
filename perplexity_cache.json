@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Oil surges as Israel strikes Iran's South Pars gas field, sparking Gulf retaliation",
+      "url": "https://www.perplexity.ai/page/oil-surges-as-israel-strikes-i-i5cAY67PQDCzDnNoRhJjmg",
+      "description": "Iran launched retaliatory missile strikes on Qatar's Ras Laffan LNG hub after Israeli jets hit the world's largest natural gas field in a U.S.-coordinated operation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T06:19:54Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Tel Aviv researchers develop laser technique for longer-lasting battery anodes",
+      "url": "https://www.perplexity.ai/page/tel-aviv-researchers-develop-l-4ChKBT6fSsKc8lyZZhFGDQ",
+      "description": "A single-step, room-temperature laser process produces silicon-graphene anodes that retain over 98% capacity after 2,000 charge cycles.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T05:55:03Z",
+      "sourceCount": "22 sources"
+    },
+    {
       "title": "Iran war energy crisis sparks global push for renewables",
       "url": "https://www.perplexity.ai/page/iran-war-energy-crisis-sparks-pQ6i7tj4RaaLqLEjmeM.9Q",
       "description": "UN climate chief says the Strait of Hormuz blockade proves fossil fuel dependence threatens national security, urging faster adoption of clean energy.",
@@ -17,15 +35,6 @@
       "topic": "top",
       "pubDate": "2026-03-19T03:25:35Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Trump weighs sending ground troops to Iran in escalation of war plans",
-      "url": "https://www.perplexity.ai/page/trump-weighs-sending-ground-tr-.rjk1IKwTw2pk2suxt5mDA",
-      "description": "The administration is considering seizing Kharg Island and securing enriched uranium stockpiles, but no decision has been made, officials say.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T02:09:59Z",
-      "sourceCount": "42 sources"
     },
     {
       "title": "U.S. wholesale prices jump more than expected in February",
@@ -1322,38 +1331,29 @@
       "topic": "top",
       "pubDate": "2026-03-12T21:23:02Z",
       "sourceCount": "43 sources"
-    },
-    {
-      "title": "US envoy rebukes Czechs for falling short of NATO spending target",
-      "url": "https://www.perplexity.ai/page/us-envoy-rebukes-czechs-for-fa-nCO7kDFnQciiUvnjfXD22w",
-      "description": "Czech lawmakers approved a 2026 budget allocating just 1.7% of GDP to defense, well below NATO's 5% goal agreed at The Hague Summit.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T19:38:49Z",
-      "sourceCount": "40 sources"
-    },
-    {
-      "title": "Israel says it struck nuclear weapons site in Tehran",
-      "url": "https://www.perplexity.ai/page/israel-says-it-struck-nuclear-n3ImPM25RfiIx5eOj1sheQ",
-      "description": "The IDF said the Taleghan compound was tied to Iran's covert AMAD nuclear weapons program, as the war enters its third week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T21:06:41Z",
-      "sourceCount": "53 sources"
-    },
-    {
-      "title": "US reopens DEA office in Dominican Republic after corruption probe",
-      "url": "https://www.perplexity.ai/page/us-reopens-dea-office-in-domin-bKghFlkIQWqoiMhySTLsCg",
-      "description": "The Santo Domingo office was shuttered in February after a senior agent was arrested on bribery and visa fraud charges.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T19:23:27Z",
-      "sourceCount": "79 sources"
     }
   ],
-  "cached_at": "2026-03-19T05:48:16Z",
+  "cached_at": "2026-03-19T06:41:21Z",
   "topics": {
     "top": [
+      {
+        "title": "Oil surges as Israel strikes Iran's South Pars gas field, sparking Gulf retaliation",
+        "url": "https://www.perplexity.ai/page/oil-surges-as-israel-strikes-i-i5cAY67PQDCzDnNoRhJjmg",
+        "description": "Iran launched retaliatory missile strikes on Qatar's Ras Laffan LNG hub after Israeli jets hit the world's largest natural gas field in a U.S.-coordinated operation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T06:19:54Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Tel Aviv researchers develop laser technique for longer-lasting battery anodes",
+        "url": "https://www.perplexity.ai/page/tel-aviv-researchers-develop-l-4ChKBT6fSsKc8lyZZhFGDQ",
+        "description": "A single-step, room-temperature laser process produces silicon-graphene anodes that retain over 98% capacity after 2,000 charge cycles.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T05:55:03Z",
+        "sourceCount": "22 sources"
+      },
       {
         "title": "Iran war energy crisis sparks global push for renewables",
         "url": "https://www.perplexity.ai/page/iran-war-energy-crisis-sparks-pQ6i7tj4RaaLqLEjmeM.9Q",
@@ -1371,15 +1371,6 @@
         "topic": "top",
         "pubDate": "2026-03-19T03:25:35Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Trump weighs sending ground troops to Iran in escalation of war plans",
-        "url": "https://www.perplexity.ai/page/trump-weighs-sending-ground-tr-.rjk1IKwTw2pk2suxt5mDA",
-        "description": "The administration is considering seizing Kharg Island and securing enriched uranium stockpiles, but no decision has been made, officials say.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T02:09:59Z",
-        "sourceCount": "42 sources"
       },
       {
         "title": "U.S. wholesale prices jump more than expected in February",
@@ -2676,33 +2667,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T21:23:02Z",
         "sourceCount": "43 sources"
-      },
-      {
-        "title": "US envoy rebukes Czechs for falling short of NATO spending target",
-        "url": "https://www.perplexity.ai/page/us-envoy-rebukes-czechs-for-fa-nCO7kDFnQciiUvnjfXD22w",
-        "description": "Czech lawmakers approved a 2026 budget allocating just 1.7% of GDP to defense, well below NATO's 5% goal agreed at The Hague Summit.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T19:38:49Z",
-        "sourceCount": "40 sources"
-      },
-      {
-        "title": "Israel says it struck nuclear weapons site in Tehran",
-        "url": "https://www.perplexity.ai/page/israel-says-it-struck-nuclear-n3ImPM25RfiIx5eOj1sheQ",
-        "description": "The IDF said the Taleghan compound was tied to Iran's covert AMAD nuclear weapons program, as the war enters its third week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T21:06:41Z",
-        "sourceCount": "53 sources"
-      },
-      {
-        "title": "US reopens DEA office in Dominican Republic after corruption probe",
-        "url": "https://www.perplexity.ai/page/us-reopens-dea-office-in-domin-bKghFlkIQWqoiMhySTLsCg",
-        "description": "The Santo Domingo office was shuttered in February after a senior agent was arrested on bribery and visa fraud charges.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T19:23:27Z",
-        "sourceCount": "79 sources"
       }
     ],
     "tech": [],
