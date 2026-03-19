@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Oil tops $112 as Gulf attacks intensify; Fed, BOJ hold rates steady",
-      "url": "https://www.perplexity.ai/page/oil-tops-112-as-gulf-attacks-i-V8HAcmRIRJGRGGAxTWVQ7A",
-      "description": "Asian markets fell sharply Thursday as crude surged on Middle East infrastructure strikes and central banks paused rate changes amid rising uncertainty.",
+      "title": "Oil surges past $118 as Iran strikes Gulf energy sites",
+      "url": "https://www.perplexity.ai/page/oil-surges-past-118-as-iran-st-T6JQr6eVQgK406ZknItYaw",
+      "description": "Brent crude spiked to its highest level in years after Iranian missiles hit facilities in Qatar, Saudi Arabia, and the UAE, deepening recession fears.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-19T10:44:14Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-19T12:12:23Z",
+      "sourceCount": "43 sources"
     },
     {
       "title": "Iran considers charging transit fees in Strait of Hormuz",
@@ -1250,28 +1250,19 @@
       "topic": "top",
       "pubDate": "2026-03-13T20:02:30Z",
       "sourceCount": "72 sources"
-    },
-    {
-      "title": "ByteDance taps Malaysia partner to deploy 36,000 Nvidia Blackwell chips",
-      "url": "https://www.perplexity.ai/page/bytedance-taps-malaysia-partne-9VTEMgHoS7W6CvPUA03vhQ",
-      "description": "The TikTok parent is working with Aolani Cloud to build AI computing capacity outside China, skirting U.S. export controls on direct chip sales.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T03:24:42Z",
-      "sourceCount": "40 sources"
     }
   ],
-  "cached_at": "2026-03-19T11:47:09Z",
+  "cached_at": "2026-03-19T12:30:47Z",
   "topics": {
     "top": [
       {
-        "title": "Oil tops $112 as Gulf attacks intensify; Fed, BOJ hold rates steady",
-        "url": "https://www.perplexity.ai/page/oil-tops-112-as-gulf-attacks-i-V8HAcmRIRJGRGGAxTWVQ7A",
-        "description": "Asian markets fell sharply Thursday as crude surged on Middle East infrastructure strikes and central banks paused rate changes amid rising uncertainty.",
+        "title": "Oil surges past $118 as Iran strikes Gulf energy sites",
+        "url": "https://www.perplexity.ai/page/oil-surges-past-118-as-iran-st-T6JQr6eVQgK406ZknItYaw",
+        "description": "Brent crude spiked to its highest level in years after Iranian missiles hit facilities in Qatar, Saudi Arabia, and the UAE, deepening recession fears.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-19T10:44:14Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-19T12:12:23Z",
+        "sourceCount": "43 sources"
       },
       {
         "title": "Iran considers charging transit fees in Strait of Hormuz",
@@ -2514,15 +2505,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T20:02:30Z",
         "sourceCount": "72 sources"
-      },
-      {
-        "title": "ByteDance taps Malaysia partner to deploy 36,000 Nvidia Blackwell chips",
-        "url": "https://www.perplexity.ai/page/bytedance-taps-malaysia-partne-9VTEMgHoS7W6CvPUA03vhQ",
-        "description": "The TikTok parent is working with Aolani Cloud to build AI computing capacity outside China, skirting U.S. export controls on direct chip sales.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T03:24:42Z",
-        "sourceCount": "40 sources"
       }
     ],
     "tech": [],
