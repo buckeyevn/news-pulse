@@ -1,13 +1,31 @@
 {
   "stories": [
     {
-      "title": "Oil surges as Israel strikes Iran's South Pars gas field, sparking Gulf retaliation",
-      "url": "https://www.perplexity.ai/page/oil-surges-as-israel-strikes-i-i5cAY67PQDCzDnNoRhJjmg",
-      "description": "Iran launched retaliatory missile strikes on Qatar's Ras Laffan LNG hub after Israeli jets hit the world's largest natural gas field in a U.S.-coordinated operation.",
+      "title": "Lynas begins samarium production in Malaysia ahead of schedule",
+      "url": "https://www.perplexity.ai/page/lynas-begins-samarium-producti-i2jmS4SKQiy7nUA_GCikhw",
+      "description": "The Australian miner says it is now the only producer of the critical defense mineral outside of China.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-19T06:19:54Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-19T07:24:32Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Iran strikes Qatar, Saudi energy sites as Hormuz blockade chokes oil flows",
+      "url": "https://www.perplexity.ai/page/iran-strikes-qatar-saudi-energ-5m_hD7DIQ3G9bQlZHCvv_Q",
+      "description": "Missile attacks hit Qatar's Ras Laffan LNG complex as only 89 ships crossed the strait in the first two weeks of March, down from thousands normally.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T07:19:31Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "IAEA chief says status of Iran's new underground enrichment site is unknown",
+      "url": "https://www.perplexity.ai/page/iaea-chief-says-status-of-iran-1B8nJ.gWRTqcZSTM8C6Bdw",
+      "description": "Rafael Grossi said inspectors have never visited the Isfahan facility and cannot determine whether centrifuges have been installed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T07:04:03Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Tel Aviv researchers develop laser technique for longer-lasting battery anodes",
@@ -1333,17 +1351,35 @@
       "sourceCount": "43 sources"
     }
   ],
-  "cached_at": "2026-03-19T06:41:21Z",
+  "cached_at": "2026-03-19T07:37:08Z",
   "topics": {
     "top": [
       {
-        "title": "Oil surges as Israel strikes Iran's South Pars gas field, sparking Gulf retaliation",
-        "url": "https://www.perplexity.ai/page/oil-surges-as-israel-strikes-i-i5cAY67PQDCzDnNoRhJjmg",
-        "description": "Iran launched retaliatory missile strikes on Qatar's Ras Laffan LNG hub after Israeli jets hit the world's largest natural gas field in a U.S.-coordinated operation.",
+        "title": "Lynas begins samarium production in Malaysia ahead of schedule",
+        "url": "https://www.perplexity.ai/page/lynas-begins-samarium-producti-i2jmS4SKQiy7nUA_GCikhw",
+        "description": "The Australian miner says it is now the only producer of the critical defense mineral outside of China.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-19T06:19:54Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-19T07:24:32Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Iran strikes Qatar, Saudi energy sites as Hormuz blockade chokes oil flows",
+        "url": "https://www.perplexity.ai/page/iran-strikes-qatar-saudi-energ-5m_hD7DIQ3G9bQlZHCvv_Q",
+        "description": "Missile attacks hit Qatar's Ras Laffan LNG complex as only 89 ships crossed the strait in the first two weeks of March, down from thousands normally.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T07:19:31Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "IAEA chief says status of Iran's new underground enrichment site is unknown",
+        "url": "https://www.perplexity.ai/page/iaea-chief-says-status-of-iran-1B8nJ.gWRTqcZSTM8C6Bdw",
+        "description": "Rafael Grossi said inspectors have never visited the Isfahan facility and cannot determine whether centrifuges have been installed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T07:04:03Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Tel Aviv researchers develop laser technique for longer-lasting battery anodes",
