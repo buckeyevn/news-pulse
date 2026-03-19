@@ -1,21 +1,48 @@
 {
   "stories": [
     {
+      "title": "Hegseth says Iran campaign has no timeline, decision is Trump’s",
+      "url": "https://www.perplexity.ai/page/hegseth-says-iran-campaign-has-YM6chtFlRomIUKBlgGCenw",
+      "description": "Hegseth confirmed the funding request and said over 7,000 targets have been struck as Operation Epic Fury enters its third week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T16:20:49Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Apple on track to top $1B in AI app fees in 2026",
+      "url": "https://www.perplexity.ai/page/apple-on-track-to-top-1b-in-ai-9HJREnVwR6uyVIEXlyiLcg",
+      "description": "The iPhone maker collected nearly $900 million from generative AI apps in 2025 — mostly from ChatGPT — without building its own AI models.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T16:20:29Z",
+      "sourceCount": "12 sources"
+    },
+    {
+      "title": "Iran proposes charging tolls on ships transiting the Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/iran-proposes-charging-tolls-o-WuFyxOVATKqHpbJealxddQ",
+      "description": "Parliament is drafting a bill to impose fees on vessels using the waterway, which carries a fifth of global oil and gas shipments.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T16:16:39Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "US new-home sales fell to lowest level since 2022 in January",
+      "url": "https://www.perplexity.ai/page/us-new-home-sales-fell-to-lowe-yPcpZKAXSW6JGbOBWK_4qQ",
+      "description": "Sales plunged 17.6% from December to an annualized 587,000-unit pace, far worse than economists expected, as winter storms and rising headwinds weighed on buyers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T15:56:50Z",
+      "sourceCount": "38 sources"
+    },
+    {
       "title": "Germany weighs windfall tax on oil firms as US Democrats push similar bill",
       "url": "https://www.perplexity.ai/page/germany-weighs-windfall-tax-on-CZXK0b3vRD2WjAjlLzhHBw",
       "description": "Lawmakers on both sides of the Atlantic are moving to tax oil company profits as crude prices surge amid the war on Iran.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-19T15:19:10Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Iran strikes Gulf energy sites as oil tops $115",
-      "url": "https://www.perplexity.ai/page/iran-strikes-gulf-energy-sites-_jicy9BURIyr_EETrSmInQ",
-      "description": "Brent crude surged to its highest level since 2022 after Iranian drones and missiles hit refineries and gas facilities across Saudi Arabia, Qatar, Kuwait, and the UAE.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T14:59:54Z",
       "sourceCount": "30 sources"
     },
     {
@@ -28,13 +55,13 @@
       "sourceCount": "36 sources"
     },
     {
-      "title": "Lewandowski demanded payments from contractors for DHS contracts",
-      "url": "https://www.perplexity.ai/page/lewandowski-demanded-payments-OoUWk4UpRm.ZlnYCuz8Y.Q",
-      "description": "Lawmakers allege Trump ally Corey Lewandowski acted as a \"shadow chief of staff\" and sought personal payments tied to government deals.",
+      "title": "1 in 10 drop ACA coverage after subsidies expire, survey finds",
+      "url": "https://www.perplexity.ai/page/1-in-10-drop-aca-coverage-afte-44Q2PgZ1RmeqMv_6czkd8w",
+      "description": "After enhanced premium tax credits expired, 80% of returning marketplace enrollees report higher costs and 55% are cutting back on food and basics.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-19T13:09:18Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-19T13:34:33Z",
+      "sourceCount": "45 sources"
     },
     {
       "title": "US jobless claims fall to lowest level since January",
@@ -53,6 +80,24 @@
       "topic": "top",
       "pubDate": "2026-03-19T10:03:40Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Lewandowski demanded payments from contractors for DHS contracts",
+      "url": "https://www.perplexity.ai/page/lewandowski-demanded-payments-OoUWk4UpRm.ZlnYCuz8Y.Q",
+      "description": "Lawmakers allege Trump ally Corey Lewandowski acted as a \"shadow chief of staff\" and sought personal payments tied to government deals.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T13:09:18Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Democrats storm out of Bondi's Epstein briefing, vow to enforce subpoena",
+      "url": "https://www.perplexity.ai/page/democrats-storm-out-of-bondi-s-.2mqz.GpQoeZzZQvPF8Fuw",
+      "description": "House Democrats left a closed-door session with the attorney general, saying she refused to commit to a sworn deposition on the Epstein files.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T10:09:50Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Scientists build mass spectrometer that traps a billion ions at once",
@@ -100,6 +145,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "Pentagon seeks over $200B from White House to fund Iran war",
+      "url": "https://www.perplexity.ai/page/pentagon-seeks-over-200b-from-oAYB6PE1TMCRicQv35S7xg",
+      "description": "The request, reported by The Washington Post, would expand munitions production but faces deep skepticism in Congress and within the administration itself.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T04:44:23Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Gabbard defers to Trump on whether Iran posed imminent threat before war",
       "url": "https://www.perplexity.ai/page/gabbard-defers-to-trump-on-whe-1OHZKmwtT4Wnn8vy5Ng7YQ",
       "description": "At a Senate hearing, the DNI refused to say whether U.S. intelligence assessed an imminent Iranian threat, saying only the president can make that call.",
@@ -127,6 +181,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "Vance vows gas prices will fall once Iran conflict ends",
+      "url": "https://www.perplexity.ai/page/vance-vows-gas-prices-will-fal-xWtChJLSSjibCpAW1vstMA",
+      "description": "As average gas prices hit $3.84 per gallon, the vice president called the surge \"temporary\" and promised a return to pre-war levels.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T22:44:31Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "U.S. wholesale prices jump more than expected in February",
       "url": "https://www.perplexity.ai/page/u-s-wholesale-prices-jump-more-lupsupmGSFCiP8WwLK_X4Q",
       "description": "The Producer Price Index rose 0.7% in February, more than double the forecast, as food and energy costs surged across the supply chain.",
@@ -134,15 +197,6 @@
       "topic": "top",
       "pubDate": "2026-03-18T22:30:48Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Iran allows trickle of ships through Hormuz as blockade enters third week",
-      "url": "https://www.perplexity.ai/page/iran-allows-trickle-of-ships-t-ciwGVwZcQ.OANxIgSt025w",
-      "description": "Traffic through the strait remains down over 95%, but Iran has begun granting selective passage to allied nations as hundreds of vessels wait outside.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T20:44:09Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "DOJ antitrust chief calls political favoritism in Paramount-Warner deal 'ludicrous'",
@@ -154,15 +208,6 @@
       "sourceCount": "52 sources"
     },
     {
-      "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
-      "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
-      "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T20:43:46Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Germany, France warn Iran war risks global escalation",
       "url": "https://www.perplexity.ai/page/germany-france-warn-iran-war-r-DDqnoGRMRxiIgZN2_qPwrQ",
       "description": "Chancellor Merz told parliament that Washington never consulted Europe and has \"no convincing plan\" for how the military operation could succeed.",
@@ -170,6 +215,15 @@
       "topic": "top",
       "pubDate": "2026-03-18T20:14:29Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
+      "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
+      "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T20:43:46Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Australian scientists build world's first quantum battery prototype",
@@ -350,15 +404,6 @@
       "topic": "top",
       "pubDate": "2026-03-17T19:30:07Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Comer subpoenas AG Bondi over Epstein files handling",
-      "url": "https://www.perplexity.ai/page/comer-subpoenas-ag-bondi-over-o.ORvat2SYqjoskLb_JjIw",
-      "description": "The House Oversight chairman demands Bondi testify on April 14 about the DOJ's compliance with the Epstein Files Transparency Act.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T19:36:15Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
@@ -1252,9 +1297,45 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-19T15:38:59Z",
+  "cached_at": "2026-03-19T16:41:05Z",
   "topics": {
     "top": [
+      {
+        "title": "Hegseth says Iran campaign has no timeline, decision is Trump’s",
+        "url": "https://www.perplexity.ai/page/hegseth-says-iran-campaign-has-YM6chtFlRomIUKBlgGCenw",
+        "description": "Hegseth confirmed the funding request and said over 7,000 targets have been struck as Operation Epic Fury enters its third week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T16:20:49Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Apple on track to top $1B in AI app fees in 2026",
+        "url": "https://www.perplexity.ai/page/apple-on-track-to-top-1b-in-ai-9HJREnVwR6uyVIEXlyiLcg",
+        "description": "The iPhone maker collected nearly $900 million from generative AI apps in 2025 — mostly from ChatGPT — without building its own AI models.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T16:20:29Z",
+        "sourceCount": "12 sources"
+      },
+      {
+        "title": "Iran proposes charging tolls on ships transiting the Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/iran-proposes-charging-tolls-o-WuFyxOVATKqHpbJealxddQ",
+        "description": "Parliament is drafting a bill to impose fees on vessels using the waterway, which carries a fifth of global oil and gas shipments.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T16:16:39Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "US new-home sales fell to lowest level since 2022 in January",
+        "url": "https://www.perplexity.ai/page/us-new-home-sales-fell-to-lowe-yPcpZKAXSW6JGbOBWK_4qQ",
+        "description": "Sales plunged 17.6% from December to an annualized 587,000-unit pace, far worse than economists expected, as winter storms and rising headwinds weighed on buyers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T15:56:50Z",
+        "sourceCount": "38 sources"
+      },
       {
         "title": "Germany weighs windfall tax on oil firms as US Democrats push similar bill",
         "url": "https://www.perplexity.ai/page/germany-weighs-windfall-tax-on-CZXK0b3vRD2WjAjlLzhHBw",
@@ -1262,15 +1343,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-19T15:19:10Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Iran strikes Gulf energy sites as oil tops $115",
-        "url": "https://www.perplexity.ai/page/iran-strikes-gulf-energy-sites-_jicy9BURIyr_EETrSmInQ",
-        "description": "Brent crude surged to its highest level since 2022 after Iranian drones and missiles hit refineries and gas facilities across Saudi Arabia, Qatar, Kuwait, and the UAE.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T14:59:54Z",
         "sourceCount": "30 sources"
       },
       {
@@ -1283,13 +1355,13 @@
         "sourceCount": "36 sources"
       },
       {
-        "title": "Lewandowski demanded payments from contractors for DHS contracts",
-        "url": "https://www.perplexity.ai/page/lewandowski-demanded-payments-OoUWk4UpRm.ZlnYCuz8Y.Q",
-        "description": "Lawmakers allege Trump ally Corey Lewandowski acted as a \"shadow chief of staff\" and sought personal payments tied to government deals.",
+        "title": "1 in 10 drop ACA coverage after subsidies expire, survey finds",
+        "url": "https://www.perplexity.ai/page/1-in-10-drop-aca-coverage-afte-44Q2PgZ1RmeqMv_6czkd8w",
+        "description": "After enhanced premium tax credits expired, 80% of returning marketplace enrollees report higher costs and 55% are cutting back on food and basics.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-19T13:09:18Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-19T13:34:33Z",
+        "sourceCount": "45 sources"
       },
       {
         "title": "US jobless claims fall to lowest level since January",
@@ -1308,6 +1380,24 @@
         "topic": "top",
         "pubDate": "2026-03-19T10:03:40Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Lewandowski demanded payments from contractors for DHS contracts",
+        "url": "https://www.perplexity.ai/page/lewandowski-demanded-payments-OoUWk4UpRm.ZlnYCuz8Y.Q",
+        "description": "Lawmakers allege Trump ally Corey Lewandowski acted as a \"shadow chief of staff\" and sought personal payments tied to government deals.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T13:09:18Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Democrats storm out of Bondi's Epstein briefing, vow to enforce subpoena",
+        "url": "https://www.perplexity.ai/page/democrats-storm-out-of-bondi-s-.2mqz.GpQoeZzZQvPF8Fuw",
+        "description": "House Democrats left a closed-door session with the attorney general, saying she refused to commit to a sworn deposition on the Epstein files.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T10:09:50Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Scientists build mass spectrometer that traps a billion ions at once",
@@ -1355,6 +1445,15 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "Pentagon seeks over $200B from White House to fund Iran war",
+        "url": "https://www.perplexity.ai/page/pentagon-seeks-over-200b-from-oAYB6PE1TMCRicQv35S7xg",
+        "description": "The request, reported by The Washington Post, would expand munitions production but faces deep skepticism in Congress and within the administration itself.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T04:44:23Z",
+        "sourceCount": "26 sources"
+      },
+      {
         "title": "Gabbard defers to Trump on whether Iran posed imminent threat before war",
         "url": "https://www.perplexity.ai/page/gabbard-defers-to-trump-on-whe-1OHZKmwtT4Wnn8vy5Ng7YQ",
         "description": "At a Senate hearing, the DNI refused to say whether U.S. intelligence assessed an imminent Iranian threat, saying only the president can make that call.",
@@ -1382,6 +1481,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "Vance vows gas prices will fall once Iran conflict ends",
+        "url": "https://www.perplexity.ai/page/vance-vows-gas-prices-will-fal-xWtChJLSSjibCpAW1vstMA",
+        "description": "As average gas prices hit $3.84 per gallon, the vice president called the surge \"temporary\" and promised a return to pre-war levels.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T22:44:31Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "U.S. wholesale prices jump more than expected in February",
         "url": "https://www.perplexity.ai/page/u-s-wholesale-prices-jump-more-lupsupmGSFCiP8WwLK_X4Q",
         "description": "The Producer Price Index rose 0.7% in February, more than double the forecast, as food and energy costs surged across the supply chain.",
@@ -1389,15 +1497,6 @@
         "topic": "top",
         "pubDate": "2026-03-18T22:30:48Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Iran allows trickle of ships through Hormuz as blockade enters third week",
-        "url": "https://www.perplexity.ai/page/iran-allows-trickle-of-ships-t-ciwGVwZcQ.OANxIgSt025w",
-        "description": "Traffic through the strait remains down over 95%, but Iran has begun granting selective passage to allied nations as hundreds of vessels wait outside.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T20:44:09Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "DOJ antitrust chief calls political favoritism in Paramount-Warner deal 'ludicrous'",
@@ -1409,15 +1508,6 @@
         "sourceCount": "52 sources"
       },
       {
-        "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
-        "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
-        "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T20:43:46Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Germany, France warn Iran war risks global escalation",
         "url": "https://www.perplexity.ai/page/germany-france-warn-iran-war-r-DDqnoGRMRxiIgZN2_qPwrQ",
         "description": "Chancellor Merz told parliament that Washington never consulted Europe and has \"no convincing plan\" for how the military operation could succeed.",
@@ -1425,6 +1515,15 @@
         "topic": "top",
         "pubDate": "2026-03-18T20:14:29Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
+        "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
+        "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T20:43:46Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Australian scientists build world's first quantum battery prototype",
@@ -1605,15 +1704,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T19:30:07Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Comer subpoenas AG Bondi over Epstein files handling",
-        "url": "https://www.perplexity.ai/page/comer-subpoenas-ag-bondi-over-o.ORvat2SYqjoskLb_JjIw",
-        "description": "The House Oversight chairman demands Bondi testify on April 14 about the DOJ's compliance with the Epstein Files Transparency Act.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T19:36:15Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
