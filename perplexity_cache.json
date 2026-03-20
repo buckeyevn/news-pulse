@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
-      "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
+      "title": "Aid ships depart Mexico for Cuba amid island's worst energy crisis in decades",
+      "url": "https://www.perplexity.ai/page/aid-ships-depart-mexico-for-cu-2SqMBQcFTtu1jdEEhcVEvg",
+      "description": "The Nuestra América Convoy is delivering over 20 tons of food, medicine, and solar panels as Cuba endures crippling blackouts and a fuel shortage.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T18:36:15Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-20T20:47:57Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
+      "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T20:47:33Z",
+      "sourceCount": "62 sources"
     },
     {
       "title": "Oil prices spike as Israel, Iran trade strikes on energy infrastructure",
@@ -28,13 +37,31 @@
       "sourceCount": "33 sources"
     },
     {
-      "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
-      "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
-      "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
+      "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
+      "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T17:25:26Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-20T18:36:15Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
+      "url": "https://www.perplexity.ai/page/us-military-readies-guantanamo-6Zidvow_TvGMCNXm4a.VmA",
+      "description": "DeSantis warned of mass migration to Florida as the SOUTHCOM commander told Congress the military has plans to handle refugees at Guantanamo Bay.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T16:29:28Z",
+      "sourceCount": "72 sources"
+    },
+    {
+      "title": "DOJ sues Harvard over alleged antisemitism on campus",
+      "url": "https://www.perplexity.ai/page/doj-sues-harvard-over-alleged-sn_Hn06aTDW9HsaEVhuV_w",
+      "description": "The lawsuit seeks billions in taxpayer funds back and accuses the university of being \"deliberately indifferent\" to harassment of Jewish and Israeli students.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T16:23:35Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
@@ -44,6 +71,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T14:26:09Z",
       "sourceCount": "35 sources"
+    },
+    {
+      "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
+      "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
+      "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T17:25:26Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Trump privately concedes deportation push went too far, WSJ reports",
@@ -71,24 +107,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T10:23:48Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
-      "url": "https://www.perplexity.ai/page/us-military-readies-guantanamo-6Zidvow_TvGMCNXm4a.VmA",
-      "description": "DeSantis warned of mass migration to Florida as the SOUTHCOM commander told Congress the military has plans to handle refugees at Guantanamo Bay.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T16:29:28Z",
-      "sourceCount": "72 sources"
-    },
-    {
-      "title": "DOJ sues Harvard over alleged antisemitism on campus",
-      "url": "https://www.perplexity.ai/page/doj-sues-harvard-over-alleged-sn_Hn06aTDW9HsaEVhuV_w",
-      "description": "The lawsuit seeks billions in taxpayer funds back and accuses the university of being \"deliberately indifferent\" to harassment of Jewish and Israeli students.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T16:23:35Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
@@ -1207,17 +1225,26 @@
       "sourceCount": "40 sources"
     }
   ],
-  "cached_at": "2026-03-20T20:47:02Z",
+  "cached_at": "2026-03-20T21:17:38Z",
   "topics": {
     "top": [
       {
-        "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
-        "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
+        "title": "Aid ships depart Mexico for Cuba amid island's worst energy crisis in decades",
+        "url": "https://www.perplexity.ai/page/aid-ships-depart-mexico-for-cu-2SqMBQcFTtu1jdEEhcVEvg",
+        "description": "The Nuestra América Convoy is delivering over 20 tons of food, medicine, and solar panels as Cuba endures crippling blackouts and a fuel shortage.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T18:36:15Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-20T20:47:57Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
+        "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T20:47:33Z",
+        "sourceCount": "62 sources"
       },
       {
         "title": "Oil prices spike as Israel, Iran trade strikes on energy infrastructure",
@@ -1238,13 +1265,31 @@
         "sourceCount": "33 sources"
       },
       {
-        "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
-        "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
-        "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
+        "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
+        "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T17:25:26Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-20T18:36:15Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
+        "url": "https://www.perplexity.ai/page/us-military-readies-guantanamo-6Zidvow_TvGMCNXm4a.VmA",
+        "description": "DeSantis warned of mass migration to Florida as the SOUTHCOM commander told Congress the military has plans to handle refugees at Guantanamo Bay.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T16:29:28Z",
+        "sourceCount": "72 sources"
+      },
+      {
+        "title": "DOJ sues Harvard over alleged antisemitism on campus",
+        "url": "https://www.perplexity.ai/page/doj-sues-harvard-over-alleged-sn_Hn06aTDW9HsaEVhuV_w",
+        "description": "The lawsuit seeks billions in taxpayer funds back and accuses the university of being \"deliberately indifferent\" to harassment of Jewish and Israeli students.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T16:23:35Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
@@ -1254,6 +1299,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T14:26:09Z",
         "sourceCount": "35 sources"
+      },
+      {
+        "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
+        "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
+        "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T17:25:26Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Trump privately concedes deportation push went too far, WSJ reports",
@@ -1281,24 +1335,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T10:23:48Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
-        "url": "https://www.perplexity.ai/page/us-military-readies-guantanamo-6Zidvow_TvGMCNXm4a.VmA",
-        "description": "DeSantis warned of mass migration to Florida as the SOUTHCOM commander told Congress the military has plans to handle refugees at Guantanamo Bay.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T16:29:28Z",
-        "sourceCount": "72 sources"
-      },
-      {
-        "title": "DOJ sues Harvard over alleged antisemitism on campus",
-        "url": "https://www.perplexity.ai/page/doj-sues-harvard-over-alleged-sn_Hn06aTDW9HsaEVhuV_w",
-        "description": "The lawsuit seeks billions in taxpayer funds back and accuses the university of being \"deliberately indifferent\" to harassment of Jewish and Israeli students.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T16:23:35Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
