@@ -1205,27 +1205,9 @@
       "topic": "top",
       "pubDate": "2026-03-14T22:06:56Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "EU extends Russia sanctions until September despite Hungary, Slovakia resistance",
-      "url": "https://www.perplexity.ai/page/eu-extends-russia-sanctions-un-Oh7_GDD2SByCUdGfHuEhog",
-      "description": "Around 2,600 individuals and entities, including Putin, remain subject to travel bans and asset freezes after a last-minute deal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T19:18:32Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "Lobbyist who helped client get Trump pardon charged with extortion",
-      "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
-      "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T21:10:54Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-20T19:58:26Z",
+  "cached_at": "2026-03-20T20:47:02Z",
   "topics": {
     "top": [
       {
@@ -2433,24 +2415,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T22:06:56Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "EU extends Russia sanctions until September despite Hungary, Slovakia resistance",
-        "url": "https://www.perplexity.ai/page/eu-extends-russia-sanctions-un-Oh7_GDD2SByCUdGfHuEhog",
-        "description": "Around 2,600 individuals and entities, including Putin, remain subject to travel bans and asset freezes after a last-minute deal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T19:18:32Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Lobbyist who helped client get Trump pardon charged with extortion",
-        "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
-        "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T21:10:54Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
