@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "White House offers immigration concessions as TSA crisis deepens in fifth week of shutdown",
+      "url": "https://www.perplexity.ai/page/white-house-offers-immigration-RsnA.lCsRdOeycdM8sudcA",
+      "description": "With airports nearing a breaking point, the White House released details of proposed immigration enforcement changes for the first time in an effort to end the standoff.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T23:04:00Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Oil dips as Iran allows more ships through Hormuz",
       "url": "https://www.perplexity.ai/page/oil-dips-as-iran-allows-more-s-qC8uvh9rQgCxQI6WJhe7qw",
       "description": "Brent crude eased from 2022 highs after ship-tracking data showed Iran letting more vessels transit the strait, though prices remain elevated.",
@@ -667,13 +676,13 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Democrats send DHS funding proposal amid month-long shutdown",
-      "url": "https://www.perplexity.ai/page/democrats-send-dhs-funding-pro-JTCOHPoVTaqa3qle1Lr4_g",
-      "description": "A top TSA official said the agency is \"fully stretched\" and may have to close airports as callout rates surge among 50,000 unpaid officers.",
+      "title": "Amazon CEO Jassy says AI could push AWS to $600B in annual sales by 2036",
+      "url": "https://www.perplexity.ai/page/amazon-ceo-jassy-says-ai-could-ulQvc36VTfGT9_ye.5e6mg",
+      "description": "The projection, made at an internal all-hands meeting, doubles Jassy's own prior estimate and implies a fivefold increase from AWS's 2025 revenue.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-17T21:36:46Z",
-      "sourceCount": "38 sources"
+      "pubDate": "2026-03-17T21:17:43Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "UK adviser believed Iran deal was in reach before US-led attack",
@@ -685,15 +694,6 @@
       "sourceCount": "61 sources"
     },
     {
-      "title": "Amazon CEO Jassy says AI could push AWS to $600B in annual sales by 2036",
-      "url": "https://www.perplexity.ai/page/amazon-ceo-jassy-says-ai-could-ulQvc36VTfGT9_ye.5e6mg",
-      "description": "The projection, made at an internal all-hands meeting, doubles Jassy's own prior estimate and implies a fivefold increase from AWS's 2025 revenue.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T21:17:43Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
       "url": "https://www.perplexity.ai/page/moldova-summons-russian-envoy-HLrqaGBJS9WrFvBE3KqmRA",
       "description": "Officials presented the ambassador with contaminated river water as cities remain without supply after a March 7 attack on a Ukrainian hydropower plant.",
@@ -701,6 +701,15 @@
       "topic": "top",
       "pubDate": "2026-03-17T19:30:07Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
+      "url": "https://www.perplexity.ai/page/pentagon-raises-golden-dome-co-q_gZwgomRsCxY.j_F_wuww",
+      "description": "The $10 billion increase will accelerate satellite tracking, sensor and communications programs central to the homeland missile defense shield.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:11:11Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Russia sharing satellite imagery, drone tech with Iran",
@@ -728,15 +737,6 @@
       "topic": "top",
       "pubDate": "2026-03-17T19:56:43Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
-      "url": "https://www.perplexity.ai/page/pentagon-raises-golden-dome-co-q_gZwgomRsCxY.j_F_wuww",
-      "description": "The $10 billion increase will accelerate satellite tracking, sensor and communications programs central to the homeland missile defense shield.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T19:11:11Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "UC Irvine, Tel Aviv team build ion pump with no moving parts",
@@ -1162,9 +1162,18 @@
       "sourceCount": "62 sources"
     }
   ],
-  "cached_at": "2026-03-20T22:51:54Z",
+  "cached_at": "2026-03-20T23:26:18Z",
   "topics": {
     "top": [
+      {
+        "title": "White House offers immigration concessions as TSA crisis deepens in fifth week of shutdown",
+        "url": "https://www.perplexity.ai/page/white-house-offers-immigration-RsnA.lCsRdOeycdM8sudcA",
+        "description": "With airports nearing a breaking point, the White House released details of proposed immigration enforcement changes for the first time in an effort to end the standoff.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T23:04:00Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Oil dips as Iran allows more ships through Hormuz",
         "url": "https://www.perplexity.ai/page/oil-dips-as-iran-allows-more-s-qC8uvh9rQgCxQI6WJhe7qw",
@@ -1832,13 +1841,13 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Democrats send DHS funding proposal amid month-long shutdown",
-        "url": "https://www.perplexity.ai/page/democrats-send-dhs-funding-pro-JTCOHPoVTaqa3qle1Lr4_g",
-        "description": "A top TSA official said the agency is \"fully stretched\" and may have to close airports as callout rates surge among 50,000 unpaid officers.",
+        "title": "Amazon CEO Jassy says AI could push AWS to $600B in annual sales by 2036",
+        "url": "https://www.perplexity.ai/page/amazon-ceo-jassy-says-ai-could-ulQvc36VTfGT9_ye.5e6mg",
+        "description": "The projection, made at an internal all-hands meeting, doubles Jassy's own prior estimate and implies a fivefold increase from AWS's 2025 revenue.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-17T21:36:46Z",
-        "sourceCount": "38 sources"
+        "pubDate": "2026-03-17T21:17:43Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "UK adviser believed Iran deal was in reach before US-led attack",
@@ -1850,15 +1859,6 @@
         "sourceCount": "61 sources"
       },
       {
-        "title": "Amazon CEO Jassy says AI could push AWS to $600B in annual sales by 2036",
-        "url": "https://www.perplexity.ai/page/amazon-ceo-jassy-says-ai-could-ulQvc36VTfGT9_ye.5e6mg",
-        "description": "The projection, made at an internal all-hands meeting, doubles Jassy's own prior estimate and implies a fivefold increase from AWS's 2025 revenue.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T21:17:43Z",
-        "sourceCount": "15 sources"
-      },
-      {
         "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
         "url": "https://www.perplexity.ai/page/moldova-summons-russian-envoy-HLrqaGBJS9WrFvBE3KqmRA",
         "description": "Officials presented the ambassador with contaminated river water as cities remain without supply after a March 7 attack on a Ukrainian hydropower plant.",
@@ -1866,6 +1866,15 @@
         "topic": "top",
         "pubDate": "2026-03-17T19:30:07Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
+        "url": "https://www.perplexity.ai/page/pentagon-raises-golden-dome-co-q_gZwgomRsCxY.j_F_wuww",
+        "description": "The $10 billion increase will accelerate satellite tracking, sensor and communications programs central to the homeland missile defense shield.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:11:11Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Russia sharing satellite imagery, drone tech with Iran",
@@ -1893,15 +1902,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T19:56:43Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
-        "url": "https://www.perplexity.ai/page/pentagon-raises-golden-dome-co-q_gZwgomRsCxY.j_F_wuww",
-        "description": "The $10 billion increase will accelerate satellite tracking, sensor and communications programs central to the homeland missile defense shield.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T19:11:11Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "UC Irvine, Tel Aviv team build ion pump with no moving parts",
