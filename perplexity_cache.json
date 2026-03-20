@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Treasury yields jump as Iran war fuels inflation fears",
-      "url": "https://www.perplexity.ai/page/treasury-yields-jump-as-iran-w-tZLMLLueQqeVXrg5UFJ1lQ",
-      "description": "Bond markets rattled a day after the Fed held rates steady and raised its 2026 inflation forecast, citing uncertainty from the Middle East conflict.",
+      "title": "US bans Russian oil shipments to Cuba as two tankers approach",
+      "url": "https://www.perplexity.ai/page/us-bans-russian-oil-shipments-TBZNeS3kTayjGvShRRbF.w",
+      "description": "OFAC issued a new license blocking Russian-origin crude transactions with Cuba, even as two vessels carrying fuel near the island.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T13:22:13Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-20T14:25:45Z",
+      "sourceCount": "13 sources"
+    },
+    {
+      "title": "Seven allies back Hormuz effort as US weighs Kharg Island seizure",
+      "url": "https://www.perplexity.ai/page/seven-allies-back-hormuz-effor-24WRD7HlShqAbstUiVjuUg",
+      "description": "Seven nations issued a joint statement supporting safe passage through the Strait of Hormuz, but stopped short of committing forces.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T14:16:32Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "IRGC charges ships for 'safe' Hormuz passage",
@@ -19,24 +28,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "European gas eases after U.S., Israel move to calm Gulf energy fears",
-      "url": "https://www.perplexity.ai/page/european-gas-eases-after-u-s-i-yRA5Sc7xRiSRGuKuPcH.Lw",
-      "description": "Benchmark futures pulled back Friday but remain on track for a roughly 20% weekly gain after strikes on Gulf facilities doubled prices since the war began.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T12:36:32Z",
-      "sourceCount": "43 sources"
-    },
-    {
-      "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/allies-resist-trump-s-push-for-PCZAQFxvQzut0WB3kFUHMw",
-      "description": "The U.S. has sunk over 120 Iranian naval vessels and is ramping up strikes, but Japan and France have stopped short of committing to escort operations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T12:30:18Z",
-      "sourceCount": "54 sources"
-    },
-    {
       "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
       "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-moon-rocket-NnpokAUZQEeFVhU7VTs3uw",
       "description": "The SLS rocket started its 4-mile trek to Pad 39B early Friday, setting up a targeted April 1 crewed lunar launch.",
@@ -46,13 +37,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "European stocks rally as oil retreats from 2022 highs",
-      "url": "https://www.perplexity.ai/page/european-stocks-rally-as-oil-r-b5DE.0_BS6664n_lPOzw3Q",
-      "description": "Netanyahu's pledge to pause strikes on Iran's gas fields and U.S. diplomatic signals helped ease oil prices, lifting European equities on Friday.",
+      "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/allies-resist-trump-s-push-for-PCZAQFxvQzut0WB3kFUHMw",
+      "description": "The U.S. has sunk over 120 Iranian naval vessels and is ramping up strikes, but Japan and France have stopped short of committing to escort operations.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T12:09:45Z",
-      "sourceCount": "37 sources"
+      "pubDate": "2026-03-20T12:30:18Z",
+      "sourceCount": "54 sources"
     },
     {
       "title": "Israel strikes Tehran infrastructure as Gulf energy crisis deepens",
@@ -71,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T06:13:53Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Oil drops as allies pledge to secure Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/oil-drops-as-allies-pledge-to-tIdo6NoeQuahpuZxu_BAbg",
+      "description": "Six European nations and Japan agreed to help ensure safe passage through the strait, while the U.S. outlined plans to boost supply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T05:35:38Z",
+      "sourceCount": "64 sources"
     },
     {
       "title": "Alibaba, Tencent shed $66 billion as AI plans fail to convince investors",
@@ -152,15 +152,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T00:08:27Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "Cuba braces for first Russian oil delivery in months amid energy crisis",
-      "url": "https://www.perplexity.ai/page/cuba-braces-for-first-russian-xDo3QWRjTw6QuYARjSN__w",
-      "description": "Two tankers carrying fuel are crossing the Atlantic after a U.S. blockade cut off foreign oil shipments, triggering blackouts lasting up to 29 hours.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T23:48:38Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "IAEA chief says Iran's nuclear program survives strikes",
@@ -467,6 +458,15 @@
       "topic": "top",
       "pubDate": "2026-03-18T18:11:06Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
+      "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
+      "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T20:43:46Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "FAA ends visual separation for helicopters near airports nationwide",
@@ -1162,30 +1162,12 @@
       "sourceCount": "36 sources"
     },
     {
-      "title": "Iran strikes UAE oil port after U.S. bombs Kharg Island",
-      "url": "https://www.perplexity.ai/page/iran-strikes-uae-oil-port-afte-3oMZFsZqRMKzBBLsNoEQ4Q",
-      "description": "Iranian drones hit Fujairah oil storage facilities Saturday, suspending some loading operations, after U.S. strikes destroyed over 90 military targets on Kharg Island.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T22:06:56Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "EU extends Russia sanctions until September despite Hungary, Slovakia resistance",
       "url": "https://www.perplexity.ai/page/eu-extends-russia-sanctions-un-Oh7_GDD2SByCUdGfHuEhog",
       "description": "Around 2,600 individuals and entities, including Putin, remain subject to travel bans and asset freezes after a last-minute deal.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-14T19:18:32Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "Lobbyist who helped client get Trump pardon charged with extortion",
-      "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
-      "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T21:10:54Z",
       "sourceCount": "14 sources"
     },
     {
@@ -1198,6 +1180,15 @@
       "sourceCount": "64 sources"
     },
     {
+      "title": "Lobbyist who helped client get Trump pardon charged with extortion",
+      "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
+      "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T21:10:54Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "UAE consulate in Erbil hit by drone for second time in a week",
       "url": "https://www.perplexity.ai/page/uae-consulate-in-erbil-hit-by-_WSosPN6SGqyUwgkeQrq.g",
       "description": "Two security personnel were wounded in Saturday's strike, which the UAE called an \"unprovoked terrorist drone attack\" and a violation of international law.",
@@ -1207,15 +1198,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
-      "url": "https://www.perplexity.ai/page/israeli-strikes-kill-six-in-ga-qH6fo.u7Q9KKIwtNfEBk7A",
-      "description": "Gaza's civil defense agency says a pre-dawn strike in Khan Younis and a separate attack in Gaza City killed six people in the past 24 hours.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T14:38:39Z",
-      "sourceCount": "38 sources"
-    },
-    {
       "title": "Iranians' regime change hopes fade as bombing enters third week",
       "url": "https://www.perplexity.ai/page/iranians-regime-change-hopes-f-A2P5En4dSyqU5e0RtW3LcA",
       "description": "Tehran residents who cheered U.S.-Israeli strikes now face a battered but defiant security state and a new supreme leader consolidating power.",
@@ -1223,6 +1205,15 @@
       "topic": "top",
       "pubDate": "2026-03-14T17:50:04Z",
       "sourceCount": "81 sources"
+    },
+    {
+      "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
+      "url": "https://www.perplexity.ai/page/israeli-strikes-kill-six-in-ga-qH6fo.u7Q9KKIwtNfEBk7A",
+      "description": "Gaza's civil defense agency says a pre-dawn strike in Khan Younis and a separate attack in Gaza City killed six people in the past 24 hours.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T14:38:39Z",
+      "sourceCount": "38 sources"
     },
     {
       "title": "Explosion hits Amsterdam Jewish school in 'deliberate attack'",
@@ -1252,17 +1243,26 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-20T13:42:24Z",
+  "cached_at": "2026-03-20T14:32:07Z",
   "topics": {
     "top": [
       {
-        "title": "Treasury yields jump as Iran war fuels inflation fears",
-        "url": "https://www.perplexity.ai/page/treasury-yields-jump-as-iran-w-tZLMLLueQqeVXrg5UFJ1lQ",
-        "description": "Bond markets rattled a day after the Fed held rates steady and raised its 2026 inflation forecast, citing uncertainty from the Middle East conflict.",
+        "title": "US bans Russian oil shipments to Cuba as two tankers approach",
+        "url": "https://www.perplexity.ai/page/us-bans-russian-oil-shipments-TBZNeS3kTayjGvShRRbF.w",
+        "description": "OFAC issued a new license blocking Russian-origin crude transactions with Cuba, even as two vessels carrying fuel near the island.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T13:22:13Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-20T14:25:45Z",
+        "sourceCount": "13 sources"
+      },
+      {
+        "title": "Seven allies back Hormuz effort as US weighs Kharg Island seizure",
+        "url": "https://www.perplexity.ai/page/seven-allies-back-hormuz-effor-24WRD7HlShqAbstUiVjuUg",
+        "description": "Seven nations issued a joint statement supporting safe passage through the Strait of Hormuz, but stopped short of committing forces.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T14:16:32Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "IRGC charges ships for 'safe' Hormuz passage",
@@ -1274,24 +1274,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "European gas eases after U.S., Israel move to calm Gulf energy fears",
-        "url": "https://www.perplexity.ai/page/european-gas-eases-after-u-s-i-yRA5Sc7xRiSRGuKuPcH.Lw",
-        "description": "Benchmark futures pulled back Friday but remain on track for a roughly 20% weekly gain after strikes on Gulf facilities doubled prices since the war began.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T12:36:32Z",
-        "sourceCount": "43 sources"
-      },
-      {
-        "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/allies-resist-trump-s-push-for-PCZAQFxvQzut0WB3kFUHMw",
-        "description": "The U.S. has sunk over 120 Iranian naval vessels and is ramping up strikes, but Japan and France have stopped short of committing to escort operations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T12:30:18Z",
-        "sourceCount": "54 sources"
-      },
-      {
         "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
         "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-moon-rocket-NnpokAUZQEeFVhU7VTs3uw",
         "description": "The SLS rocket started its 4-mile trek to Pad 39B early Friday, setting up a targeted April 1 crewed lunar launch.",
@@ -1301,13 +1283,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "European stocks rally as oil retreats from 2022 highs",
-        "url": "https://www.perplexity.ai/page/european-stocks-rally-as-oil-r-b5DE.0_BS6664n_lPOzw3Q",
-        "description": "Netanyahu's pledge to pause strikes on Iran's gas fields and U.S. diplomatic signals helped ease oil prices, lifting European equities on Friday.",
+        "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/allies-resist-trump-s-push-for-PCZAQFxvQzut0WB3kFUHMw",
+        "description": "The U.S. has sunk over 120 Iranian naval vessels and is ramping up strikes, but Japan and France have stopped short of committing to escort operations.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T12:09:45Z",
-        "sourceCount": "37 sources"
+        "pubDate": "2026-03-20T12:30:18Z",
+        "sourceCount": "54 sources"
       },
       {
         "title": "Israel strikes Tehran infrastructure as Gulf energy crisis deepens",
@@ -1326,6 +1308,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T06:13:53Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Oil drops as allies pledge to secure Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/oil-drops-as-allies-pledge-to-tIdo6NoeQuahpuZxu_BAbg",
+        "description": "Six European nations and Japan agreed to help ensure safe passage through the strait, while the U.S. outlined plans to boost supply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T05:35:38Z",
+        "sourceCount": "64 sources"
       },
       {
         "title": "Alibaba, Tencent shed $66 billion as AI plans fail to convince investors",
@@ -1407,15 +1398,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T00:08:27Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "Cuba braces for first Russian oil delivery in months amid energy crisis",
-        "url": "https://www.perplexity.ai/page/cuba-braces-for-first-russian-xDo3QWRjTw6QuYARjSN__w",
-        "description": "Two tankers carrying fuel are crossing the Atlantic after a U.S. blockade cut off foreign oil shipments, triggering blackouts lasting up to 29 hours.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T23:48:38Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "IAEA chief says Iran's nuclear program survives strikes",
@@ -1722,6 +1704,15 @@
         "topic": "top",
         "pubDate": "2026-03-18T18:11:06Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
+        "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
+        "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T20:43:46Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "FAA ends visual separation for helicopters near airports nationwide",
@@ -2417,30 +2408,12 @@
         "sourceCount": "36 sources"
       },
       {
-        "title": "Iran strikes UAE oil port after U.S. bombs Kharg Island",
-        "url": "https://www.perplexity.ai/page/iran-strikes-uae-oil-port-afte-3oMZFsZqRMKzBBLsNoEQ4Q",
-        "description": "Iranian drones hit Fujairah oil storage facilities Saturday, suspending some loading operations, after U.S. strikes destroyed over 90 military targets on Kharg Island.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T22:06:56Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "EU extends Russia sanctions until September despite Hungary, Slovakia resistance",
         "url": "https://www.perplexity.ai/page/eu-extends-russia-sanctions-un-Oh7_GDD2SByCUdGfHuEhog",
         "description": "Around 2,600 individuals and entities, including Putin, remain subject to travel bans and asset freezes after a last-minute deal.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-14T19:18:32Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Lobbyist who helped client get Trump pardon charged with extortion",
-        "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
-        "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T21:10:54Z",
         "sourceCount": "14 sources"
       },
       {
@@ -2453,6 +2426,15 @@
         "sourceCount": "64 sources"
       },
       {
+        "title": "Lobbyist who helped client get Trump pardon charged with extortion",
+        "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
+        "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T21:10:54Z",
+        "sourceCount": "14 sources"
+      },
+      {
         "title": "UAE consulate in Erbil hit by drone for second time in a week",
         "url": "https://www.perplexity.ai/page/uae-consulate-in-erbil-hit-by-_WSosPN6SGqyUwgkeQrq.g",
         "description": "Two security personnel were wounded in Saturday's strike, which the UAE called an \"unprovoked terrorist drone attack\" and a violation of international law.",
@@ -2462,15 +2444,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
-        "url": "https://www.perplexity.ai/page/israeli-strikes-kill-six-in-ga-qH6fo.u7Q9KKIwtNfEBk7A",
-        "description": "Gaza's civil defense agency says a pre-dawn strike in Khan Younis and a separate attack in Gaza City killed six people in the past 24 hours.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T14:38:39Z",
-        "sourceCount": "38 sources"
-      },
-      {
         "title": "Iranians' regime change hopes fade as bombing enters third week",
         "url": "https://www.perplexity.ai/page/iranians-regime-change-hopes-f-A2P5En4dSyqU5e0RtW3LcA",
         "description": "Tehran residents who cheered U.S.-Israeli strikes now face a battered but defiant security state and a new supreme leader consolidating power.",
@@ -2478,6 +2451,15 @@
         "topic": "top",
         "pubDate": "2026-03-14T17:50:04Z",
         "sourceCount": "81 sources"
+      },
+      {
+        "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
+        "url": "https://www.perplexity.ai/page/israeli-strikes-kill-six-in-ga-qH6fo.u7Q9KKIwtNfEBk7A",
+        "description": "Gaza's civil defense agency says a pre-dawn strike in Khan Younis and a separate attack in Gaza City killed six people in the past 24 hours.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T14:38:39Z",
+        "sourceCount": "38 sources"
       },
       {
         "title": "Explosion hits Amsterdam Jewish school in 'deliberate attack'",
