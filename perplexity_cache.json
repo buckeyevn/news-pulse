@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Oil prices dip as Israel, US vow to ease Gulf energy strikes",
-      "url": "https://www.perplexity.ai/page/oil-prices-dip-as-israel-us-vo-uW1pb_0wRsSXt.hwFEnlxw",
-      "description": "Brent crude pulled back Friday after Israel pledged to halt attacks on Iranian energy facilities and Trump warned Tehran against further Gulf strikes.",
+      "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
+      "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
+      "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T14:37:53Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-20T17:25:26Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Trump privately concedes deportation push went too far, WSJ reports",
+      "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
+      "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T17:25:01Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
@@ -17,6 +26,33 @@
       "topic": "top",
       "pubDate": "2026-03-20T14:26:09Z",
       "sourceCount": "35 sources"
+    },
+    {
+      "title": "Oil prices dip as Israel, US vow to ease Gulf energy strikes",
+      "url": "https://www.perplexity.ai/page/oil-prices-dip-as-israel-us-vo-uW1pb_0wRsSXt.hwFEnlxw",
+      "description": "Brent crude pulled back Friday after Israel pledged to halt attacks on Iranian energy facilities and Trump warned Tehran against further Gulf strikes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T14:37:53Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
+      "url": "https://www.perplexity.ai/page/us-military-readies-guantanamo-6Zidvow_TvGMCNXm4a.VmA",
+      "description": "DeSantis warned of mass migration to Florida as the SOUTHCOM commander told Congress the military has plans to handle refugees at Guantanamo Bay.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T16:29:28Z",
+      "sourceCount": "72 sources"
+    },
+    {
+      "title": "DOJ sues Harvard over alleged antisemitism on campus",
+      "url": "https://www.perplexity.ai/page/doj-sues-harvard-over-alleged-sn_Hn06aTDW9HsaEVhuV_w",
+      "description": "The lawsuit seeks billions in taxpayer funds back and accuses the university of being \"deliberately indifferent\" to harassment of Jewish and Israeli students.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T16:23:35Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "IRGC charges ships for 'safe' Hormuz passage",
@@ -1196,29 +1232,38 @@
       "topic": "top",
       "pubDate": "2026-03-14T15:12:07Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
-      "url": "https://www.perplexity.ai/page/israeli-strikes-kill-six-in-ga-qH6fo.u7Q9KKIwtNfEBk7A",
-      "description": "Gaza's civil defense agency says a pre-dawn strike in Khan Younis and a separate attack in Gaza City killed six people in the past 24 hours.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T14:38:39Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "Iranians' regime change hopes fade as bombing enters third week",
-      "url": "https://www.perplexity.ai/page/iranians-regime-change-hopes-f-A2P5En4dSyqU5e0RtW3LcA",
-      "description": "Tehran residents who cheered U.S.-Israeli strikes now face a battered but defiant security state and a new supreme leader consolidating power.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T17:50:04Z",
-      "sourceCount": "81 sources"
     }
   ],
-  "cached_at": "2026-03-20T17:02:22Z",
+  "cached_at": "2026-03-20T17:51:13Z",
   "topics": {
     "top": [
+      {
+        "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
+        "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
+        "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T17:25:26Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Trump privately concedes deportation push went too far, WSJ reports",
+        "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
+        "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T17:25:01Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
+        "url": "https://www.perplexity.ai/page/amazon-developing-ai-powered-s-UJdZDiQHR0SWUlvoziQ01g",
+        "description": "The project, codenamed \"Transformer,\" would center on Alexa and AI-driven interactions rather than competing on hardware specs with Apple and Samsung.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T14:26:09Z",
+        "sourceCount": "35 sources"
+      },
       {
         "title": "Oil prices dip as Israel, US vow to ease Gulf energy strikes",
         "url": "https://www.perplexity.ai/page/oil-prices-dip-as-israel-us-vo-uW1pb_0wRsSXt.hwFEnlxw",
@@ -1229,13 +1274,22 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
-        "url": "https://www.perplexity.ai/page/amazon-developing-ai-powered-s-UJdZDiQHR0SWUlvoziQ01g",
-        "description": "The project, codenamed \"Transformer,\" would center on Alexa and AI-driven interactions rather than competing on hardware specs with Apple and Samsung.",
+        "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
+        "url": "https://www.perplexity.ai/page/us-military-readies-guantanamo-6Zidvow_TvGMCNXm4a.VmA",
+        "description": "DeSantis warned of mass migration to Florida as the SOUTHCOM commander told Congress the military has plans to handle refugees at Guantanamo Bay.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T14:26:09Z",
-        "sourceCount": "35 sources"
+        "pubDate": "2026-03-20T16:29:28Z",
+        "sourceCount": "72 sources"
+      },
+      {
+        "title": "DOJ sues Harvard over alleged antisemitism on campus",
+        "url": "https://www.perplexity.ai/page/doj-sues-harvard-over-alleged-sn_Hn06aTDW9HsaEVhuV_w",
+        "description": "The lawsuit seeks billions in taxpayer funds back and accuses the university of being \"deliberately indifferent\" to harassment of Jewish and Israeli students.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T16:23:35Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "IRGC charges ships for 'safe' Hormuz passage",
@@ -2415,24 +2469,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T15:12:07Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
-        "url": "https://www.perplexity.ai/page/israeli-strikes-kill-six-in-ga-qH6fo.u7Q9KKIwtNfEBk7A",
-        "description": "Gaza's civil defense agency says a pre-dawn strike in Khan Younis and a separate attack in Gaza City killed six people in the past 24 hours.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T14:38:39Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "Iranians' regime change hopes fade as bombing enters third week",
-        "url": "https://www.perplexity.ai/page/iranians-regime-change-hopes-f-A2P5En4dSyqU5e0RtW3LcA",
-        "description": "Tehran residents who cheered U.S.-Israeli strikes now face a battered but defiant security state and a new supreme leader consolidating power.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T17:50:04Z",
-        "sourceCount": "81 sources"
       }
     ],
     "tech": [],
