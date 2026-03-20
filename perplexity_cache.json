@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Old-growth forests store far more carbon than logged ones, study finds",
+      "url": "https://www.perplexity.ai/page/old-growth-forests-store-far-m-uiMrLX7BQkOVYGb5AKnlCQ",
+      "description": "A decade-long study published in Science reveals Sweden's primary forests hold 83% more carbon than managed woodlands, driven largely by overlooked soil reserves.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T06:13:53Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
       "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
       "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-14T00:04:12Z",
       "sourceCount": "36 sources"
-    },
-    {
-      "title": "Iranian strike damages 5 US refueling planes at Saudi base",
-      "url": "https://www.perplexity.ai/page/iranian-strike-damages-5-us-re-c2jLxwOETGK4Pudl.WKDFw",
-      "description": "The planes at Prince Sultan Air Base are being repaired with no casualties reported, according to The Wall Street Journal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T23:42:56Z",
-      "sourceCount": "67 sources"
     }
   ],
-  "cached_at": "2026-03-20T06:07:23Z",
+  "cached_at": "2026-03-20T07:13:32Z",
   "topics": {
     "top": [
+      {
+        "title": "Old-growth forests store far more carbon than logged ones, study finds",
+        "url": "https://www.perplexity.ai/page/old-growth-forests-store-far-m-uiMrLX7BQkOVYGb5AKnlCQ",
+        "description": "A decade-long study published in Science reveals Sweden's primary forests hold 83% more carbon than managed woodlands, driven largely by overlooked soil reserves.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T06:13:53Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
         "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T00:04:12Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "Iranian strike damages 5 US refueling planes at Saudi base",
-        "url": "https://www.perplexity.ai/page/iranian-strike-damages-5-us-re-c2jLxwOETGK4Pudl.WKDFw",
-        "description": "The planes at Prince Sultan Air Base are being repaired with no casualties reported, according to The Wall Street Journal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T23:42:56Z",
-        "sourceCount": "67 sources"
       }
     ],
     "tech": [],
