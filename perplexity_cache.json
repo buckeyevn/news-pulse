@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
+      "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
+      "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T18:59:26Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "UK expands US base access to strike Iran's Strait of Hormuz missile sites",
       "url": "https://www.perplexity.ai/page/uk-expands-us-base-access-to-s-JrazaoqPSxOB1vYETvjOTA",
       "description": "Starmer had initially limited US use of British bases to defensive measures but broadened the terms Friday to include protecting commercial shipping.",
@@ -1187,20 +1196,20 @@
       "topic": "top",
       "pubDate": "2026-03-16T05:03:13Z",
       "sourceCount": "45 sources"
-    },
-    {
-      "title": "'One Battle After Another' wins best picture at 98th Academy Awards",
-      "url": "https://www.perplexity.ai/page/one-battle-after-another-wins-mScnf9FySSOVhRkYohiW4g",
-      "description": "Paul Thomas Anderson's political thriller took home six Oscars, including best director and adapted screenplay, in his first Academy Award wins.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T02:42:53Z",
-      "sourceCount": "52 sources"
     }
   ],
-  "cached_at": "2026-03-21T19:16:40Z",
+  "cached_at": "2026-03-21T19:41:40Z",
   "topics": {
     "top": [
+      {
+        "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
+        "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
+        "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T18:59:26Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "UK expands US base access to strike Iran's Strait of Hormuz missile sites",
         "url": "https://www.perplexity.ai/page/uk-expands-us-base-access-to-s-JrazaoqPSxOB1vYETvjOTA",
@@ -2388,15 +2397,6 @@
         "topic": "top",
         "pubDate": "2026-03-16T05:03:13Z",
         "sourceCount": "45 sources"
-      },
-      {
-        "title": "'One Battle After Another' wins best picture at 98th Academy Awards",
-        "url": "https://www.perplexity.ai/page/one-battle-after-another-wins-mScnf9FySSOVhRkYohiW4g",
-        "description": "Paul Thomas Anderson's political thriller took home six Oscars, including best director and adapted screenplay, in his first Academy Award wins.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T02:42:53Z",
-        "sourceCount": "52 sources"
       }
     ],
     "tech": [],
