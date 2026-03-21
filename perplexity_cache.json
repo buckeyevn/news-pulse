@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "DOGE staff rewriting NRC nuclear safety rules, ProPublica finds",
-      "url": "https://www.perplexity.ai/page/doge-staff-rewriting-nrc-nucle-IjgMMJUFQqWO7WKcGlJILA",
-      "description": "Silicon Valley-backed firms gained advance access to Trump's nuclear executive orders and the chance to suggest edits, according to the investigation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T20:48:18Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "US says it struck 8,000 Iranian targets in three weeks of war",
       "url": "https://www.perplexity.ai/page/us-says-it-struck-8000-iranian-ZWMuU8n8SjOat.wNwnaYFw",
       "description": "CENTCOM says 130 Iranian vessels have been destroyed, calling it the largest elimination of a navy since World War II.",
@@ -17,15 +8,6 @@
       "topic": "top",
       "pubDate": "2026-03-21T19:29:13Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
-      "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
-      "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T16:35:05Z",
-      "sourceCount": "26 sources"
     },
     {
       "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
@@ -37,6 +19,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
+      "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
+      "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T16:35:05Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "UK expands US base access to strike Iran's Strait of Hormuz missile sites",
       "url": "https://www.perplexity.ai/page/uk-expands-us-base-access-to-s-JrazaoqPSxOB1vYETvjOTA",
       "description": "Starmer had initially limited US use of British bases to defensive measures but broadened the terms Friday to include protecting commercial shipping.",
@@ -46,15 +37,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Ukraine, US hold bilateral talks in Miami as Russia sits out",
-      "url": "https://www.perplexity.ai/page/ukraine-us-hold-bilateral-talk-Qoqbd4boQu.iZSWtikabVg",
-      "description": "The meeting marks the first direct engagement since trilateral peace negotiations stalled after the US-Israeli conflict with Iran erupted in late February.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T16:25:50Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "Indian, Asian refiners move to buy Iranian oil after US sanctions waiver",
       "url": "https://www.perplexity.ai/page/indian-asian-refiners-move-to-7lA2_aiiTIaW_NWVTjn6oA",
       "description": "The 30-day exemption covers roughly 170 million barrels of Iranian crude already at sea, the third such waiver in two weeks.",
@@ -62,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-03-21T11:19:15Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "Ukraine, US hold bilateral talks in Miami as Russia sits out",
+      "url": "https://www.perplexity.ai/page/ukraine-us-hold-bilateral-talk-Qoqbd4boQu.iZSWtikabVg",
+      "description": "The meeting marks the first direct engagement since trilateral peace negotiations stalled after the US-Israeli conflict with Iran erupted in late February.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T16:25:50Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Iran says Natanz nuclear site struck again as Israel warns of escalation",
@@ -1216,18 +1207,9 @@
       "sourceCount": "45 sources"
     }
   ],
-  "cached_at": "2026-03-21T20:59:19Z",
+  "cached_at": "2026-03-21T21:35:28Z",
   "topics": {
     "top": [
-      {
-        "title": "DOGE staff rewriting NRC nuclear safety rules, ProPublica finds",
-        "url": "https://www.perplexity.ai/page/doge-staff-rewriting-nrc-nucle-IjgMMJUFQqWO7WKcGlJILA",
-        "description": "Silicon Valley-backed firms gained advance access to Trump's nuclear executive orders and the chance to suggest edits, according to the investigation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T20:48:18Z",
-        "sourceCount": "15 sources"
-      },
       {
         "title": "US says it struck 8,000 Iranian targets in three weeks of war",
         "url": "https://www.perplexity.ai/page/us-says-it-struck-8000-iranian-ZWMuU8n8SjOat.wNwnaYFw",
@@ -1236,15 +1218,6 @@
         "topic": "top",
         "pubDate": "2026-03-21T19:29:13Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
-        "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
-        "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T16:35:05Z",
-        "sourceCount": "26 sources"
       },
       {
         "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
@@ -1256,6 +1229,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
+        "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
+        "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T16:35:05Z",
+        "sourceCount": "26 sources"
+      },
+      {
         "title": "UK expands US base access to strike Iran's Strait of Hormuz missile sites",
         "url": "https://www.perplexity.ai/page/uk-expands-us-base-access-to-s-JrazaoqPSxOB1vYETvjOTA",
         "description": "Starmer had initially limited US use of British bases to defensive measures but broadened the terms Friday to include protecting commercial shipping.",
@@ -1265,15 +1247,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Ukraine, US hold bilateral talks in Miami as Russia sits out",
-        "url": "https://www.perplexity.ai/page/ukraine-us-hold-bilateral-talk-Qoqbd4boQu.iZSWtikabVg",
-        "description": "The meeting marks the first direct engagement since trilateral peace negotiations stalled after the US-Israeli conflict with Iran erupted in late February.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T16:25:50Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "Indian, Asian refiners move to buy Iranian oil after US sanctions waiver",
         "url": "https://www.perplexity.ai/page/indian-asian-refiners-move-to-7lA2_aiiTIaW_NWVTjn6oA",
         "description": "The 30-day exemption covers roughly 170 million barrels of Iranian crude already at sea, the third such waiver in two weeks.",
@@ -1281,6 +1254,15 @@
         "topic": "top",
         "pubDate": "2026-03-21T11:19:15Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Ukraine, US hold bilateral talks in Miami as Russia sits out",
+        "url": "https://www.perplexity.ai/page/ukraine-us-hold-bilateral-talk-Qoqbd4boQu.iZSWtikabVg",
+        "description": "The meeting marks the first direct engagement since trilateral peace negotiations stalled after the US-Israeli conflict with Iran erupted in late February.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T16:25:50Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Iran says Natanz nuclear site struck again as Israel warns of escalation",
