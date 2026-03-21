@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "USDA announces disaster aid as war, wildfires hammer Nebraska farms",
+      "url": "https://www.perplexity.ai/page/usda-announces-disaster-aid-as-Xr9_DKx0TeCsCaVRcfxDog",
+      "description": "Historic wildfires and Iran war-driven fertilizer shortages are compounding losses for Nebraska producers heading into spring planting season.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T22:36:29Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "US says it struck 8,000 Iranian targets in three weeks of war",
       "url": "https://www.perplexity.ai/page/us-says-it-struck-8000-iranian-ZWMuU8n8SjOat.wNwnaYFw",
       "description": "CENTCOM says 130 Iranian vessels have been destroyed, calling it the largest elimination of a navy since World War II.",
@@ -685,15 +694,6 @@
       "sourceCount": "75 sources"
     },
     {
-      "title": "Iran war squeezes US farmers as fertilizer costs soar ahead of planting",
-      "url": "https://www.perplexity.ai/page/iran-war-squeezes-us-farmers-a-6_ao7v3JSRuEZXT854pMXA",
-      "description": "Some farmers who haven't preordered fertilizer may not secure supplies for spring planting, the Farm Bureau Federation warns.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T18:04:22Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Cuba vows 'impregnable resistance' after Trump threatens to 'take' island",
       "url": "https://www.perplexity.ai/page/cuba-vows-impregnable-resistan-filUtqSoSIq291hD5iqXMA",
       "description": "Diaz-Canel's defiance came as Cuba restored power after a 29-hour blackout tied to a U.S. oil blockade that has left the island in crisis.",
@@ -1207,9 +1207,18 @@
       "sourceCount": "45 sources"
     }
   ],
-  "cached_at": "2026-03-21T22:31:46Z",
+  "cached_at": "2026-03-21T22:56:07Z",
   "topics": {
     "top": [
+      {
+        "title": "USDA announces disaster aid as war, wildfires hammer Nebraska farms",
+        "url": "https://www.perplexity.ai/page/usda-announces-disaster-aid-as-Xr9_DKx0TeCsCaVRcfxDog",
+        "description": "Historic wildfires and Iran war-driven fertilizer shortages are compounding losses for Nebraska producers heading into spring planting season.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T22:36:29Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "US says it struck 8,000 Iranian targets in three weeks of war",
         "url": "https://www.perplexity.ai/page/us-says-it-struck-8000-iranian-ZWMuU8n8SjOat.wNwnaYFw",
@@ -1893,15 +1902,6 @@
         "topic": "top",
         "pubDate": "2026-03-18T18:05:45Z",
         "sourceCount": "75 sources"
-      },
-      {
-        "title": "Iran war squeezes US farmers as fertilizer costs soar ahead of planting",
-        "url": "https://www.perplexity.ai/page/iran-war-squeezes-us-farmers-a-6_ao7v3JSRuEZXT854pMXA",
-        "description": "Some farmers who haven't preordered fertilizer may not secure supplies for spring planting, the Farm Bureau Federation warns.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T18:04:22Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "Cuba vows 'impregnable resistance' after Trump threatens to 'take' island",
