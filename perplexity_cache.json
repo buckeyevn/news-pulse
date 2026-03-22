@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "IAEA says no radiation leaks after strikes near nuclear sites in Iran, Israel",
-      "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-leaks-a-RV0HTJkITx6bYoFT8Lkm4A",
-      "description": "Tit-for-tat attacks hit near Natanz and Dimona on day 23 of the war, with IAEA chief Grossi urging \"maximum military restraint.\"",
+      "title": "Houthis could enter Iran war as soon as Monday",
+      "url": "https://www.perplexity.ai/page/houthis-could-enter-iran-war-a-0dPFR0cxSsuPbbfuL9Ef0g",
+      "description": "Saudi Arabia is working to deter the group as it reinforces positions near a key Red Sea port, threatening a second maritime front.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-22T16:34:00Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-22T16:34:28Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Rising gas prices are wiping out Trump tax refunds, economists warn",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-03-22T01:24:07Z",
       "sourceCount": "38 sources"
+    },
+    {
+      "title": "IAEA says no radiation leaks after strikes near nuclear sites in Iran, Israel",
+      "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-leaks-a-RV0HTJkITx6bYoFT8Lkm4A",
+      "description": "Tit-for-tat attacks hit near Natanz and Dimona on day 23 of the war, with IAEA chief Grossi urging \"maximum military restraint.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-22T16:34:00Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
@@ -106,6 +115,15 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-21T16:46:40Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Gold suffers worst weekly drop since 1983 as war stokes rate fears",
+      "url": "https://www.perplexity.ai/page/gold-suffers-worst-weekly-drop-k_GGjadeSc2GVtQbSjd_jQ",
+      "description": "The metal shed roughly 10% in a week, defying its safe-haven reputation as the Iran conflict rewired inflation and interest rate expectations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T10:28:47Z",
       "sourceCount": "30 sources"
     },
     {
@@ -1207,17 +1225,17 @@
       "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-03-22T16:45:45Z",
+  "cached_at": "2026-03-22T17:13:51Z",
   "topics": {
     "top": [
       {
-        "title": "IAEA says no radiation leaks after strikes near nuclear sites in Iran, Israel",
-        "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-leaks-a-RV0HTJkITx6bYoFT8Lkm4A",
-        "description": "Tit-for-tat attacks hit near Natanz and Dimona on day 23 of the war, with IAEA chief Grossi urging \"maximum military restraint.\"",
+        "title": "Houthis could enter Iran war as soon as Monday",
+        "url": "https://www.perplexity.ai/page/houthis-could-enter-iran-war-a-0dPFR0cxSsuPbbfuL9Ef0g",
+        "description": "Saudi Arabia is working to deter the group as it reinforces positions near a key Red Sea port, threatening a second maritime front.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-22T16:34:00Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-22T16:34:28Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Rising gas prices are wiping out Trump tax refunds, economists warn",
@@ -1236,6 +1254,15 @@
         "topic": "top",
         "pubDate": "2026-03-22T01:24:07Z",
         "sourceCount": "38 sources"
+      },
+      {
+        "title": "IAEA says no radiation leaks after strikes near nuclear sites in Iran, Israel",
+        "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-leaks-a-RV0HTJkITx6bYoFT8Lkm4A",
+        "description": "Tit-for-tat attacks hit near Natanz and Dimona on day 23 of the war, with IAEA chief Grossi urging \"maximum military restraint.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-22T16:34:00Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
@@ -1316,6 +1343,15 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-21T16:46:40Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Gold suffers worst weekly drop since 1983 as war stokes rate fears",
+        "url": "https://www.perplexity.ai/page/gold-suffers-worst-weekly-drop-k_GGjadeSc2GVtQbSjd_jQ",
+        "description": "The metal shed roughly 10% in a week, defying its safe-haven reputation as the Iran conflict rewired inflation and interest rate expectations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T10:28:47Z",
         "sourceCount": "30 sources"
       },
       {
