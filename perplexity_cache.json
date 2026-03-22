@@ -136,15 +136,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "International aid convoys converge on Havana amid U.S. oil blockade",
-      "url": "https://www.perplexity.ai/page/international-aid-convoys-conv-KUGWM0obQDC2GZHX0Ya32Q",
-      "description": "Activists from 19 countries are delivering over 20 tons of medical supplies, food, and solar equipment as Cuba faces its worst economic crisis in decades.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T02:18:10Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "Switzerland halts new arms exports to US over Iran war",
       "url": "https://www.perplexity.ai/page/switzerland-halts-new-arms-exp-0DKDpQ4OTaqhsi3pj1GpJg",
       "description": "Bern cited its neutrality obligations, saying no new weapons licenses have been issued to Washington since the conflict began Feb. 28.",
@@ -413,6 +404,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T00:08:27Z",
       "sourceCount": "40 sources"
+    },
+    {
+      "title": "Cuba braces for first Russian oil delivery in months amid energy crisis",
+      "url": "https://www.perplexity.ai/page/cuba-braces-for-first-russian-xDo3QWRjTw6QuYARjSN__w",
+      "description": "Two tankers carrying fuel are crossing the Atlantic after a U.S. blockade cut off foreign oil shipments, triggering blackouts lasting up to 29 hours.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T23:48:38Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "IAEA chief says Iran's nuclear program survives strikes",
@@ -1216,7 +1216,7 @@
       "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-03-22T15:16:40Z",
+  "cached_at": "2026-03-22T15:45:02Z",
   "topics": {
     "top": [
       {
@@ -1352,15 +1352,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-21T13:08:27Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "International aid convoys converge on Havana amid U.S. oil blockade",
-        "url": "https://www.perplexity.ai/page/international-aid-convoys-conv-KUGWM0obQDC2GZHX0Ya32Q",
-        "description": "Activists from 19 countries are delivering over 20 tons of medical supplies, food, and solar equipment as Cuba faces its worst economic crisis in decades.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T02:18:10Z",
         "sourceCount": "30 sources"
       },
       {
@@ -1632,6 +1623,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T00:08:27Z",
         "sourceCount": "40 sources"
+      },
+      {
+        "title": "Cuba braces for first Russian oil delivery in months amid energy crisis",
+        "url": "https://www.perplexity.ai/page/cuba-braces-for-first-russian-xDo3QWRjTw6QuYARjSN__w",
+        "description": "Two tankers carrying fuel are crossing the Atlantic after a U.S. blockade cut off foreign oil shipments, triggering blackouts lasting up to 29 hours.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T23:48:38Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "IAEA chief says Iran's nuclear program survives strikes",
