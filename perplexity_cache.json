@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Rising gas prices are wiping out Trump tax refunds, economists warn",
+      "url": "https://www.perplexity.ai/page/rising-gas-prices-are-wiping-o-e7kDFH07Rh6XPVjXiU8lgA",
+      "description": "Stanford economists found the typical household will spend $740 more on gas this year, nearly matching the $748 boost in tax refunds from the One Big Beautiful Bill Act.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-22T12:32:53Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Senate blocks transgender sports ban amendment to voting bill",
       "url": "https://www.perplexity.ai/page/senate-blocks-transgender-spor-8niWniMhSQKpOS5dI1QyNg",
       "description": "The 49-41 party-line vote rejected a GOP push to attach the ban to the SAVE America Act during a rare weekend session.",
@@ -1216,9 +1225,18 @@
       "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-03-22T11:52:57Z",
+  "cached_at": "2026-03-22T12:51:45Z",
   "topics": {
     "top": [
+      {
+        "title": "Rising gas prices are wiping out Trump tax refunds, economists warn",
+        "url": "https://www.perplexity.ai/page/rising-gas-prices-are-wiping-o-e7kDFH07Rh6XPVjXiU8lgA",
+        "description": "Stanford economists found the typical household will spend $740 more on gas this year, nearly matching the $748 boost in tax refunds from the One Big Beautiful Bill Act.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-22T12:32:53Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Senate blocks transgender sports ban amendment to voting bill",
         "url": "https://www.perplexity.ai/page/senate-blocks-transgender-spor-8niWniMhSQKpOS5dI1QyNg",
