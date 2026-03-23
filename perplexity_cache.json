@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Newark Airport grounds flights after smoke forces tower evacuation",
+      "url": "https://www.perplexity.ai/page/newark-airport-grounds-flights-R27P_lYUQY.xQTJ_Z.YBWg",
+      "description": "An elevator malfunction caused a burning smell that led controllers to evacuate to a backup facility, halting arrivals and departures.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T13:11:18Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "EU broadcasters urge gatekeeper rules for smart TVs, virtual assistants",
       "url": "https://www.perplexity.ai/page/eu-broadcasters-urge-gatekeepe-9GNFxchjRZeaP1wjV.EOdw",
       "description": "Major European broadcasters asked antitrust chief Teresa Ribera to designate smart TV platforms and AI assistants as gatekeepers under the Digital Markets Act.",
@@ -10,6 +19,15 @@
       "sourceCount": "25 sources"
     },
     {
+      "title": "Trump postpones strikes on Iran, citing 'productive' talks",
+      "url": "https://www.perplexity.ai/page/trump-postpones-strikes-on-ira-k.MSg2VTSWagM_kI58udtg",
+      "description": "The five-day pause came hours before his 48-hour ultimatum to reopen the Strait of Hormuz was set to expire, triggering a global market rally.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T11:53:16Z",
+      "sourceCount": "82 sources"
+    },
+    {
       "title": "Sinopec says it won't buy Iranian crude despite U.S. sanctions waiver",
       "url": "https://www.perplexity.ai/page/sinopec-says-it-won-t-buy-iran-6oGKiiYmQSCm5Q7bVZe.jA",
       "description": "China's largest refiner is cutting runs by 5% and pushing Beijing to release state oil reserves as the Strait of Hormuz crisis squeezes supply.",
@@ -17,15 +35,6 @@
       "topic": "top",
       "pubDate": "2026-03-23T10:39:12Z",
       "sourceCount": "36 sources"
-    },
-    {
-      "title": "IEA says energy crisis now worse than 1970s oil shocks combined",
-      "url": "https://www.perplexity.ai/page/iea-says-energy-crisis-now-wor-QTWhqoVsTvuAOrlSrpUjLA",
-      "description": "The agency's chief cited 11 million barrels per day in lost oil supply as Trump's 48-hour ultimatum to Iran nears its Monday evening deadline.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T08:54:18Z",
-      "sourceCount": "44 sources"
     },
     {
       "title": "Berkshire Hathaway to buy $1.8B stake in Japan's Tokio Marine",
@@ -44,15 +53,6 @@
       "topic": "top",
       "pubDate": "2026-03-23T07:23:41Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Singapore, Australia pledge to keep energy flowing amid Middle East war",
-      "url": "https://www.perplexity.ai/page/singapore-australia-pledge-to-pJ_Y44_zQKm1QVqGI0BWnw",
-      "description": "The two leaders committed to ensuring LNG and diesel trade continues as conflict disrupts Asian fuel markets and panic buying hits Australia.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T07:22:37Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "WMO says Earth's climate 'more out of balance' than ever",
@@ -251,15 +251,6 @@
       "topic": "top",
       "pubDate": "2026-03-21T10:18:52Z",
       "sourceCount": "75 sources"
-    },
-    {
-      "title": "Trump lifts sanctions on Iranian oil at sea to ease surging prices",
-      "url": "https://www.perplexity.ai/page/trump-lifts-sanctions-on-irani-ck75RJYFRs.ezOexHpDnAg",
-      "description": "The Treasury Department issued a general license Friday permitting global sale of roughly 140 million barrels of Iranian crude through April 19.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T06:51:30Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Switzerland halts new arms exports to US over Iran war",
@@ -1052,29 +1043,20 @@
       "topic": "top",
       "pubDate": "2026-03-17T07:03:54Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Fire on USS Gerald R. Ford burned 30 hours, displaced 600 sailors",
-      "url": "https://www.perplexity.ai/page/fire-on-uss-gerald-r-ford-burn-iS8pFNpgQeS0gKGsq34skQ",
-      "description": "A New York Times report reveals the full scope of the blaze aboard the carrier, now approaching 10 months at sea in the Red Sea.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T03:07:57Z",
-      "sourceCount": "39 sources"
-    },
-    {
-      "title": "Taliban says Pakistani airstrike on Kabul hospital killed 400",
-      "url": "https://www.perplexity.ai/page/taliban-says-pakistani-airstri-DGQKYosARbqppHzbiLkXJw",
-      "description": "The strike hit a 2,000-bed drug rehabilitation facility Monday evening, marking one of the deadliest attacks in the weeks-long conflict between the neighbors.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T02:25:11Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-23T12:33:34Z",
+  "cached_at": "2026-03-23T13:59:42Z",
   "topics": {
     "top": [
+      {
+        "title": "Newark Airport grounds flights after smoke forces tower evacuation",
+        "url": "https://www.perplexity.ai/page/newark-airport-grounds-flights-R27P_lYUQY.xQTJ_Z.YBWg",
+        "description": "An elevator malfunction caused a burning smell that led controllers to evacuate to a backup facility, halting arrivals and departures.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T13:11:18Z",
+        "sourceCount": "42 sources"
+      },
       {
         "title": "EU broadcasters urge gatekeeper rules for smart TVs, virtual assistants",
         "url": "https://www.perplexity.ai/page/eu-broadcasters-urge-gatekeepe-9GNFxchjRZeaP1wjV.EOdw",
@@ -1085,6 +1067,15 @@
         "sourceCount": "25 sources"
       },
       {
+        "title": "Trump postpones strikes on Iran, citing 'productive' talks",
+        "url": "https://www.perplexity.ai/page/trump-postpones-strikes-on-ira-k.MSg2VTSWagM_kI58udtg",
+        "description": "The five-day pause came hours before his 48-hour ultimatum to reopen the Strait of Hormuz was set to expire, triggering a global market rally.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T11:53:16Z",
+        "sourceCount": "82 sources"
+      },
+      {
         "title": "Sinopec says it won't buy Iranian crude despite U.S. sanctions waiver",
         "url": "https://www.perplexity.ai/page/sinopec-says-it-won-t-buy-iran-6oGKiiYmQSCm5Q7bVZe.jA",
         "description": "China's largest refiner is cutting runs by 5% and pushing Beijing to release state oil reserves as the Strait of Hormuz crisis squeezes supply.",
@@ -1092,15 +1083,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T10:39:12Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "IEA says energy crisis now worse than 1970s oil shocks combined",
-        "url": "https://www.perplexity.ai/page/iea-says-energy-crisis-now-wor-QTWhqoVsTvuAOrlSrpUjLA",
-        "description": "The agency's chief cited 11 million barrels per day in lost oil supply as Trump's 48-hour ultimatum to Iran nears its Monday evening deadline.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T08:54:18Z",
-        "sourceCount": "44 sources"
       },
       {
         "title": "Berkshire Hathaway to buy $1.8B stake in Japan's Tokio Marine",
@@ -1119,15 +1101,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T07:23:41Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Singapore, Australia pledge to keep energy flowing amid Middle East war",
-        "url": "https://www.perplexity.ai/page/singapore-australia-pledge-to-pJ_Y44_zQKm1QVqGI0BWnw",
-        "description": "The two leaders committed to ensuring LNG and diesel trade continues as conflict disrupts Asian fuel markets and panic buying hits Australia.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T07:22:37Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "WMO says Earth's climate 'more out of balance' than ever",
@@ -1326,15 +1299,6 @@
         "topic": "top",
         "pubDate": "2026-03-21T10:18:52Z",
         "sourceCount": "75 sources"
-      },
-      {
-        "title": "Trump lifts sanctions on Iranian oil at sea to ease surging prices",
-        "url": "https://www.perplexity.ai/page/trump-lifts-sanctions-on-irani-ck75RJYFRs.ezOexHpDnAg",
-        "description": "The Treasury Department issued a general license Friday permitting global sale of roughly 140 million barrels of Iranian crude through April 19.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T06:51:30Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Switzerland halts new arms exports to US over Iran war",
@@ -2127,24 +2091,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T07:03:54Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Fire on USS Gerald R. Ford burned 30 hours, displaced 600 sailors",
-        "url": "https://www.perplexity.ai/page/fire-on-uss-gerald-r-ford-burn-iS8pFNpgQeS0gKGsq34skQ",
-        "description": "A New York Times report reveals the full scope of the blaze aboard the carrier, now approaching 10 months at sea in the Red Sea.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T03:07:57Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "Taliban says Pakistani airstrike on Kabul hospital killed 400",
-        "url": "https://www.perplexity.ai/page/taliban-says-pakistani-airstri-DGQKYosARbqppHzbiLkXJw",
-        "description": "The strike hit a 2,000-bed drug rehabilitation facility Monday evening, marking one of the deadliest attacks in the weeks-long conflict between the neighbors.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T02:25:11Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
