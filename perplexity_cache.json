@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "IEA says energy crisis now worse than 1970s oil shocks combined",
-      "url": "https://www.perplexity.ai/page/iea-says-energy-crisis-now-wor-QTWhqoVsTvuAOrlSrpUjLA",
-      "description": "The agency's chief cited 11 million barrels per day in lost oil supply as Trump's 48-hour ultimatum to Iran nears its Monday evening deadline.",
+      "title": "FTSE 100 hits 3-month low as Trump's Iran ultimatum rocks global markets",
+      "url": "https://www.perplexity.ai/page/ftse-100-hits-3-month-low-as-t-z7Z_dGmaTnmO0PNMSFm0qg",
+      "description": "European and Asian stock markets sold off sharply Monday after Trump threatened to strike Iran's power plants unless the Strait of Hormuz reopens within 48 hours.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-23T08:54:18Z",
-      "sourceCount": "44 sources"
+      "pubDate": "2026-03-23T11:22:14Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Sinopec says it won't buy Iranian crude despite U.S. sanctions waiver",
+      "url": "https://www.perplexity.ai/page/sinopec-says-it-won-t-buy-iran-6oGKiiYmQSCm5Q7bVZe.jA",
+      "description": "China's largest refiner is cutting runs by 5% and pushing Beijing to release state oil reserves as the Strait of Hormuz crisis squeezes supply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T10:39:12Z",
+      "sourceCount": "36 sources"
     },
     {
       "title": "Berkshire Hathaway to buy $1.8B stake in Japan's Tokio Marine",
@@ -17,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-03-23T08:17:49Z",
       "sourceCount": "86 sources"
+    },
+    {
+      "title": "Iran threatens Gulf strikes as Trump's Hormuz deadline expires",
+      "url": "https://www.perplexity.ai/page/iran-threatens-gulf-strikes-as-FXXbSRsRRq6R4rxzdqKbJg",
+      "description": "Tehran vowed to target power and water facilities across the Persian Gulf if the U.S. attacks Iranian energy infrastructure.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T11:14:00Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "IAEA chief says no war can end Iran's nuclear program",
@@ -1097,91 +1115,28 @@
       "topic": "top",
       "pubDate": "2026-03-16T23:13:15Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Judge blocks RFK Jr.'s childhood vaccine schedule overhaul",
-      "url": "https://www.perplexity.ai/page/judge-blocks-rfk-jr-s-childhoo-RrN6Yj6EQjyTOYenejEllQ",
-      "description": "A federal judge said medical groups are likely to prove that Kennedy’s overhaul of the childhood vaccine schedule and his replacement of the CDC’s vaccine advisory panel violated federal law.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T22:58:01Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Rubio orders diplomats to press allies for action against Iran",
-      "url": "https://www.perplexity.ai/page/rubio-orders-diplomats-to-pres-A_aP2jGESBSXYS6I1sc2tQ",
-      "description": "The directive, in a private cable obtained by ABC News, sets a March 20 deadline as the U.S.-Iran war enters its third week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T22:50:02Z",
-      "sourceCount": "91 sources"
-    },
-    {
-      "title": "Ukraine hits oil depot 500 km from front in latest Krasnodar Krai strike",
-      "url": "https://www.perplexity.ai/page/ukraine-hits-oil-depot-500-km-tTta7nJsTPmYjY7S4r1IiA",
-      "description": "The Labinsk attack caps a week of escalating drone strikes on southern Russia's energy network, including hits on the Tikhoretsk hub and Afipsky refinery.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T22:48:57Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Vance publicly defends Trump's Iran war, dismisses rift reports",
-      "url": "https://www.perplexity.ai/page/vance-publicly-defends-trump-s-9g4LdwZmSlyYvKbQDX5llQ",
-      "description": "The vice president called Trump a \"smart president\" and said he trusts him to avoid past mistakes, despite his own history of opposing foreign wars.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T22:39:21Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "EU sanctions 16 Iranian officials over January protest crackdown",
-      "url": "https://www.perplexity.ai/page/eu-sanctions-16-iranian-offici-kXusWxlvQ5y6_nZgOzDhgQ",
-      "description": "The measures target IRGC commanders, judiciary members, and a surveillance tech firm, bringing EU human rights sanctions on Iran to 263 individuals and 53 entities.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T22:39:09Z",
-      "sourceCount": "22 sources"
-    },
-    {
-      "title": "Last detained Columbia protester freed after a year in ICE custody",
-      "url": "https://www.perplexity.ai/page/last-detained-columbia-protest-jj7ezSJsRFOpB1m.Lx3xcQ",
-      "description": "Leqaa Kordia was released Monday after the government declined to challenge a judge's third order for her release on $100,000 bond.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T22:14:05Z",
-      "sourceCount": "70 sources"
-    },
-    {
-      "title": "Trump says he'll have the 'honor of taking Cuba'",
-      "url": "https://www.perplexity.ai/page/trump-says-he-ll-have-the-hono-QSNDg0odTjKmIapZkObNDQ",
-      "description": "The president's most aggressive remarks yet on Cuba came during a White House event, as both governments have confirmed ongoing diplomatic talks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T21:41:16Z",
-      "sourceCount": "73 sources"
-    },
-    {
-      "title": "EU sanctions 13 over Bucha massacre and Kremlin disinformation",
-      "url": "https://www.perplexity.ai/page/eu-sanctions-13-over-bucha-mas-i2Pi4A3gQZiUZhEyRDQ.Rw",
-      "description": "The measures target nine Russian military officers linked to the 2022 killings and four individuals accused of spreading pro-Kremlin propaganda.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T22:39:07Z",
-      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-23T09:53:45Z",
+  "cached_at": "2026-03-23T11:44:36Z",
   "topics": {
     "top": [
       {
-        "title": "IEA says energy crisis now worse than 1970s oil shocks combined",
-        "url": "https://www.perplexity.ai/page/iea-says-energy-crisis-now-wor-QTWhqoVsTvuAOrlSrpUjLA",
-        "description": "The agency's chief cited 11 million barrels per day in lost oil supply as Trump's 48-hour ultimatum to Iran nears its Monday evening deadline.",
+        "title": "FTSE 100 hits 3-month low as Trump's Iran ultimatum rocks global markets",
+        "url": "https://www.perplexity.ai/page/ftse-100-hits-3-month-low-as-t-z7Z_dGmaTnmO0PNMSFm0qg",
+        "description": "European and Asian stock markets sold off sharply Monday after Trump threatened to strike Iran's power plants unless the Strait of Hormuz reopens within 48 hours.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-23T08:54:18Z",
-        "sourceCount": "44 sources"
+        "pubDate": "2026-03-23T11:22:14Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Sinopec says it won't buy Iranian crude despite U.S. sanctions waiver",
+        "url": "https://www.perplexity.ai/page/sinopec-says-it-won-t-buy-iran-6oGKiiYmQSCm5Q7bVZe.jA",
+        "description": "China's largest refiner is cutting runs by 5% and pushing Beijing to release state oil reserves as the Strait of Hormuz crisis squeezes supply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T10:39:12Z",
+        "sourceCount": "36 sources"
       },
       {
         "title": "Berkshire Hathaway to buy $1.8B stake in Japan's Tokio Marine",
@@ -1191,6 +1146,15 @@
         "topic": "top",
         "pubDate": "2026-03-23T08:17:49Z",
         "sourceCount": "86 sources"
+      },
+      {
+        "title": "Iran threatens Gulf strikes as Trump's Hormuz deadline expires",
+        "url": "https://www.perplexity.ai/page/iran-threatens-gulf-strikes-as-FXXbSRsRRq6R4rxzdqKbJg",
+        "description": "Tehran vowed to target power and water facilities across the Persian Gulf if the U.S. attacks Iranian energy infrastructure.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T11:14:00Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "IAEA chief says no war can end Iran's nuclear program",
@@ -2271,78 +2235,6 @@
         "topic": "top",
         "pubDate": "2026-03-16T23:13:15Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Judge blocks RFK Jr.'s childhood vaccine schedule overhaul",
-        "url": "https://www.perplexity.ai/page/judge-blocks-rfk-jr-s-childhoo-RrN6Yj6EQjyTOYenejEllQ",
-        "description": "A federal judge said medical groups are likely to prove that Kennedy’s overhaul of the childhood vaccine schedule and his replacement of the CDC’s vaccine advisory panel violated federal law.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T22:58:01Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Rubio orders diplomats to press allies for action against Iran",
-        "url": "https://www.perplexity.ai/page/rubio-orders-diplomats-to-pres-A_aP2jGESBSXYS6I1sc2tQ",
-        "description": "The directive, in a private cable obtained by ABC News, sets a March 20 deadline as the U.S.-Iran war enters its third week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T22:50:02Z",
-        "sourceCount": "91 sources"
-      },
-      {
-        "title": "Ukraine hits oil depot 500 km from front in latest Krasnodar Krai strike",
-        "url": "https://www.perplexity.ai/page/ukraine-hits-oil-depot-500-km-tTta7nJsTPmYjY7S4r1IiA",
-        "description": "The Labinsk attack caps a week of escalating drone strikes on southern Russia's energy network, including hits on the Tikhoretsk hub and Afipsky refinery.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T22:48:57Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Vance publicly defends Trump's Iran war, dismisses rift reports",
-        "url": "https://www.perplexity.ai/page/vance-publicly-defends-trump-s-9g4LdwZmSlyYvKbQDX5llQ",
-        "description": "The vice president called Trump a \"smart president\" and said he trusts him to avoid past mistakes, despite his own history of opposing foreign wars.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T22:39:21Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "EU sanctions 16 Iranian officials over January protest crackdown",
-        "url": "https://www.perplexity.ai/page/eu-sanctions-16-iranian-offici-kXusWxlvQ5y6_nZgOzDhgQ",
-        "description": "The measures target IRGC commanders, judiciary members, and a surveillance tech firm, bringing EU human rights sanctions on Iran to 263 individuals and 53 entities.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T22:39:09Z",
-        "sourceCount": "22 sources"
-      },
-      {
-        "title": "Last detained Columbia protester freed after a year in ICE custody",
-        "url": "https://www.perplexity.ai/page/last-detained-columbia-protest-jj7ezSJsRFOpB1m.Lx3xcQ",
-        "description": "Leqaa Kordia was released Monday after the government declined to challenge a judge's third order for her release on $100,000 bond.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T22:14:05Z",
-        "sourceCount": "70 sources"
-      },
-      {
-        "title": "Trump says he'll have the 'honor of taking Cuba'",
-        "url": "https://www.perplexity.ai/page/trump-says-he-ll-have-the-hono-QSNDg0odTjKmIapZkObNDQ",
-        "description": "The president's most aggressive remarks yet on Cuba came during a White House event, as both governments have confirmed ongoing diplomatic talks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T21:41:16Z",
-        "sourceCount": "73 sources"
-      },
-      {
-        "title": "EU sanctions 13 over Bucha massacre and Kremlin disinformation",
-        "url": "https://www.perplexity.ai/page/eu-sanctions-13-over-bucha-mas-i2Pi4A3gQZiUZhEyRDQ.Rw",
-        "description": "The measures target nine Russian military officers linked to the 2022 killings and four individuals accused of spreading pro-Kremlin propaganda.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T22:39:07Z",
-        "sourceCount": "23 sources"
       }
     ],
     "tech": [],
