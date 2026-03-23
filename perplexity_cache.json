@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Stocks surge as Trump postpones strikes on Iran",
+      "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-postpone-LkLsDlDETnyttiNAUlye2g",
+      "description": "The Dow jumped more than 900 points and oil prices tumbled after Trump announced a five-day pause on military action, citing productive talks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T14:45:49Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Both pilots killed as jet hits fire truck at LaGuardia",
+      "url": "https://www.perplexity.ai/page/both-pilots-killed-as-jet-hits-750hnM4QSo.2mLUYWOhSOA",
+      "description": "Air traffic control audio reveals a controller frantically shouting \"stop\" before an Air Canada Express plane struck a fire truck on the runway.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T14:08:14Z",
+      "sourceCount": "23 sources"
+    },
+    {
       "title": "Newark Airport grounds flights after smoke forces tower evacuation",
       "url": "https://www.perplexity.ai/page/newark-airport-grounds-flights-R27P_lYUQY.xQTJ_Z.YBWg",
       "description": "An elevator malfunction caused a burning smell that led controllers to evacuate to a backup facility, halting arrivals and departures.",
@@ -10,40 +28,22 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "EU broadcasters urge gatekeeper rules for smart TVs, virtual assistants",
-      "url": "https://www.perplexity.ai/page/eu-broadcasters-urge-gatekeepe-9GNFxchjRZeaP1wjV.EOdw",
-      "description": "Major European broadcasters asked antitrust chief Teresa Ribera to designate smart TV platforms and AI assistants as gatekeepers under the Digital Markets Act.",
+      "title": "ICE agents begin deploying to 14 U.S. airports amid DHS shutdown",
+      "url": "https://www.perplexity.ai/page/ice-agents-begin-deploying-to-3KXiBNRAQZ2TBKSkCa1MRA",
+      "description": "The deployment, directed by border czar Tom Homan, aims to ease security lines that have stretched to three hours as unpaid TSA officers quit or call out.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-23T12:27:23Z",
-      "sourceCount": "25 sources"
+      "pubDate": "2026-03-23T14:08:49Z",
+      "sourceCount": "23 sources"
     },
     {
-      "title": "Trump postpones strikes on Iran, citing 'productive' talks",
-      "url": "https://www.perplexity.ai/page/trump-postpones-strikes-on-ira-k.MSg2VTSWagM_kI58udtg",
-      "description": "The five-day pause came hours before his 48-hour ultimatum to reopen the Strait of Hormuz was set to expire, triggering a global market rally.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T11:53:16Z",
-      "sourceCount": "82 sources"
-    },
-    {
-      "title": "Sinopec says it won't buy Iranian crude despite U.S. sanctions waiver",
+      "title": "Sinopec says it won't buy Iranian crude despite US sanctions waiver",
       "url": "https://www.perplexity.ai/page/sinopec-says-it-won-t-buy-iran-6oGKiiYmQSCm5Q7bVZe.jA",
       "description": "China's largest refiner is cutting runs by 5% and pushing Beijing to release state oil reserves as the Strait of Hormuz crisis squeezes supply.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-23T10:39:12Z",
       "sourceCount": "36 sources"
-    },
-    {
-      "title": "Berkshire Hathaway to buy $1.8B stake in Japan's Tokio Marine",
-      "url": "https://www.perplexity.ai/page/berkshire-hathaway-to-buy-1-8b-dGOCYfFTTcCAg3_AVLMTyA",
-      "description": "The deal extends Warren Buffett's firm beyond Japanese trading houses into insurance, pairing two of the world's largest reinsurance players.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T08:17:49Z",
-      "sourceCount": "86 sources"
     },
     {
       "title": "IAEA chief says no war can end Iran's nuclear program",
@@ -188,15 +188,6 @@
       "topic": "top",
       "pubDate": "2026-03-22T01:18:47Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "G7 demands Iran halt attacks, vows to protect energy supplies",
-      "url": "https://www.perplexity.ai/page/g7-demands-iran-halt-attacks-v-ovw3CEKXQMOuKRzmKIJPPQ",
-      "description": "The joint statement condemned strikes across eight Middle Eastern nations and backed the right of targeted countries to defend themselves.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T22:38:34Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "US says it struck 8,000 Iranian targets in three weeks of war",
@@ -1045,9 +1036,27 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-23T13:59:42Z",
+  "cached_at": "2026-03-23T15:10:22Z",
   "topics": {
     "top": [
+      {
+        "title": "Stocks surge as Trump postpones strikes on Iran",
+        "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-postpone-LkLsDlDETnyttiNAUlye2g",
+        "description": "The Dow jumped more than 900 points and oil prices tumbled after Trump announced a five-day pause on military action, citing productive talks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T14:45:49Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Both pilots killed as jet hits fire truck at LaGuardia",
+        "url": "https://www.perplexity.ai/page/both-pilots-killed-as-jet-hits-750hnM4QSo.2mLUYWOhSOA",
+        "description": "Air traffic control audio reveals a controller frantically shouting \"stop\" before an Air Canada Express plane struck a fire truck on the runway.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T14:08:14Z",
+        "sourceCount": "23 sources"
+      },
       {
         "title": "Newark Airport grounds flights after smoke forces tower evacuation",
         "url": "https://www.perplexity.ai/page/newark-airport-grounds-flights-R27P_lYUQY.xQTJ_Z.YBWg",
@@ -1058,40 +1067,22 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "EU broadcasters urge gatekeeper rules for smart TVs, virtual assistants",
-        "url": "https://www.perplexity.ai/page/eu-broadcasters-urge-gatekeepe-9GNFxchjRZeaP1wjV.EOdw",
-        "description": "Major European broadcasters asked antitrust chief Teresa Ribera to designate smart TV platforms and AI assistants as gatekeepers under the Digital Markets Act.",
+        "title": "ICE agents begin deploying to 14 U.S. airports amid DHS shutdown",
+        "url": "https://www.perplexity.ai/page/ice-agents-begin-deploying-to-3KXiBNRAQZ2TBKSkCa1MRA",
+        "description": "The deployment, directed by border czar Tom Homan, aims to ease security lines that have stretched to three hours as unpaid TSA officers quit or call out.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-23T12:27:23Z",
-        "sourceCount": "25 sources"
+        "pubDate": "2026-03-23T14:08:49Z",
+        "sourceCount": "23 sources"
       },
       {
-        "title": "Trump postpones strikes on Iran, citing 'productive' talks",
-        "url": "https://www.perplexity.ai/page/trump-postpones-strikes-on-ira-k.MSg2VTSWagM_kI58udtg",
-        "description": "The five-day pause came hours before his 48-hour ultimatum to reopen the Strait of Hormuz was set to expire, triggering a global market rally.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T11:53:16Z",
-        "sourceCount": "82 sources"
-      },
-      {
-        "title": "Sinopec says it won't buy Iranian crude despite U.S. sanctions waiver",
+        "title": "Sinopec says it won't buy Iranian crude despite US sanctions waiver",
         "url": "https://www.perplexity.ai/page/sinopec-says-it-won-t-buy-iran-6oGKiiYmQSCm5Q7bVZe.jA",
         "description": "China's largest refiner is cutting runs by 5% and pushing Beijing to release state oil reserves as the Strait of Hormuz crisis squeezes supply.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-23T10:39:12Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "Berkshire Hathaway to buy $1.8B stake in Japan's Tokio Marine",
-        "url": "https://www.perplexity.ai/page/berkshire-hathaway-to-buy-1-8b-dGOCYfFTTcCAg3_AVLMTyA",
-        "description": "The deal extends Warren Buffett's firm beyond Japanese trading houses into insurance, pairing two of the world's largest reinsurance players.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T08:17:49Z",
-        "sourceCount": "86 sources"
       },
       {
         "title": "IAEA chief says no war can end Iran's nuclear program",
@@ -1236,15 +1227,6 @@
         "topic": "top",
         "pubDate": "2026-03-22T01:18:47Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "G7 demands Iran halt attacks, vows to protect energy supplies",
-        "url": "https://www.perplexity.ai/page/g7-demands-iran-halt-attacks-v-ovw3CEKXQMOuKRzmKIJPPQ",
-        "description": "The joint statement condemned strikes across eight Middle Eastern nations and backed the right of targeted countries to defend themselves.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T22:38:34Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "US says it struck 8,000 Iranian targets in three weeks of war",
