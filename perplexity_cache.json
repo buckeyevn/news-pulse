@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "WMO says Earth's climate 'more out of balance' than ever",
+      "url": "https://www.perplexity.ai/page/wmo-says-earth-s-climate-more-lFponMlOTYC_4cCeubFOUQ",
+      "description": "The agency's annual report finds 2015-2025 was the hottest 11-year stretch on record, with energy imbalance at a 65-year high.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T06:06:56Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "NATO chief says 22 nations joining effort to reopen Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/nato-chief-says-22-nations-joi-9McoO6eFRSump_BW1x5yNQ",
       "description": "Rutte sought to ease tensions with Trump, revealing a UK-led multinational coalition is coordinating to secure the vital oil shipping lane.",
@@ -197,15 +206,6 @@
       "topic": "top",
       "pubDate": "2026-03-21T11:19:15Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Gold suffers worst weekly drop since 1983 as war stokes rate fears",
-      "url": "https://www.perplexity.ai/page/gold-suffers-worst-weekly-drop-k_GGjadeSc2GVtQbSjd_jQ",
-      "description": "The metal shed roughly 10% in a week, defying its safe-haven reputation as the Iran conflict rewired inflation and interest rate expectations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T10:28:47Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "Democrats conduct informal vote counts on ousting Schumer",
@@ -1223,29 +1223,20 @@
       "topic": "top",
       "pubDate": "2026-03-16T17:17:54Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Cuba to let expatriates invest in and own businesses on the island",
-      "url": "https://www.perplexity.ai/page/cuba-to-let-expatriates-invest-atjVo326QUS9E3q7TJH0XA",
-      "description": "Deputy Prime Minister Fraga announced the reforms in an NBC News interview, as the island faces its worst energy and economic crisis in decades.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T16:45:20Z",
-      "sourceCount": "39 sources"
-    },
-    {
-      "title": "Susie Wiles diagnosed with early-stage breast cancer",
-      "url": "https://www.perplexity.ai/page/susie-wiles-diagnosed-with-ear-6WZUL058S9mwhbB4rEEZ9g",
-      "description": "Trump announced the diagnosis on Truth Social, saying his chief of staff has an \"excellent\" prognosis and will keep working during treatment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T16:23:25Z",
-      "sourceCount": "90 sources"
     }
   ],
-  "cached_at": "2026-03-23T05:19:24Z",
+  "cached_at": "2026-03-23T06:44:52Z",
   "topics": {
     "top": [
+      {
+        "title": "WMO says Earth's climate 'more out of balance' than ever",
+        "url": "https://www.perplexity.ai/page/wmo-says-earth-s-climate-more-lFponMlOTYC_4cCeubFOUQ",
+        "description": "The agency's annual report finds 2015-2025 was the hottest 11-year stretch on record, with energy imbalance at a 65-year high.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T06:06:56Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "NATO chief says 22 nations joining effort to reopen Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/nato-chief-says-22-nations-joi-9McoO6eFRSump_BW1x5yNQ",
@@ -1443,15 +1434,6 @@
         "topic": "top",
         "pubDate": "2026-03-21T11:19:15Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Gold suffers worst weekly drop since 1983 as war stokes rate fears",
-        "url": "https://www.perplexity.ai/page/gold-suffers-worst-weekly-drop-k_GGjadeSc2GVtQbSjd_jQ",
-        "description": "The metal shed roughly 10% in a week, defying its safe-haven reputation as the Iran conflict rewired inflation and interest rate expectations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T10:28:47Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "Democrats conduct informal vote counts on ousting Schumer",
@@ -2469,24 +2451,6 @@
         "topic": "top",
         "pubDate": "2026-03-16T17:17:54Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Cuba to let expatriates invest in and own businesses on the island",
-        "url": "https://www.perplexity.ai/page/cuba-to-let-expatriates-invest-atjVo326QUS9E3q7TJH0XA",
-        "description": "Deputy Prime Minister Fraga announced the reforms in an NBC News interview, as the island faces its worst energy and economic crisis in decades.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T16:45:20Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "Susie Wiles diagnosed with early-stage breast cancer",
-        "url": "https://www.perplexity.ai/page/susie-wiles-diagnosed-with-ear-6WZUL058S9mwhbB4rEEZ9g",
-        "description": "Trump announced the diagnosis on Truth Social, saying his chief of staff has an \"excellent\" prognosis and will keep working during treatment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T16:23:25Z",
-        "sourceCount": "90 sources"
       }
     ],
     "tech": [],
