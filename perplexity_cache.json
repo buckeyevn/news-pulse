@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Warren calls Pentagon's Anthropic blacklist 'retaliation'",
+      "url": "https://www.perplexity.ai/page/warren-calls-pentagon-s-anthro-xSqqbdVXQlqKh.WceQcInQ",
+      "description": "The senator urged Defense Secretary Hegseth to justify the supply-chain risk label ahead of a key court hearing Tuesday in San Francisco.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T18:19:21Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Toyota invests $1B in Kentucky, Indiana plants",
       "url": "https://www.perplexity.ai/page/toyota-invests-1b-in-kentucky-jVqLtlA_R8er_uvTuYJSAg",
       "description": "The funding will prepare its Georgetown factory for a second battery electric vehicle and boost output of the Camry, RAV4 and Grand Highlander.",
@@ -1144,9 +1153,18 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-23T18:07:20Z",
+  "cached_at": "2026-03-23T19:13:03Z",
   "topics": {
     "top": [
+      {
+        "title": "Warren calls Pentagon's Anthropic blacklist 'retaliation'",
+        "url": "https://www.perplexity.ai/page/warren-calls-pentagon-s-anthro-xSqqbdVXQlqKh.WceQcInQ",
+        "description": "The senator urged Defense Secretary Hegseth to justify the supply-chain risk label ahead of a key court hearing Tuesday in San Francisco.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T18:19:21Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Toyota invests $1B in Kentucky, Indiana plants",
         "url": "https://www.perplexity.ai/page/toyota-invests-1b-in-kentucky-jVqLtlA_R8er_uvTuYJSAg",
