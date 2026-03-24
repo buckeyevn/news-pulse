@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "SMFG preparing possible takeover of Jefferies, FT reports",
+      "url": "https://www.perplexity.ai/page/smfg-preparing-possible-takeov-5aOjHSnfSPuqjJqh.TQ1ZQ",
+      "description": "Japan's second-largest lender has assembled a team to act if Jefferies' share price, down over 36% this year, presents an opening.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T11:15:08Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Gallup: Only 28% of US workers say it's a good time to find a quality job",
       "url": "https://www.perplexity.ai/page/gallup-only-28-of-us-workers-s-VdwPjVWbSEepPHUMAcmtNA",
       "description": "For the first time in Gallup's tracking, more American workers report struggling in their lives than thriving, as job market confidence hits a multiyear low.",
@@ -1169,56 +1178,20 @@
       "topic": "top",
       "pubDate": "2026-03-17T19:02:14Z",
       "sourceCount": "13 sources"
-    },
-    {
-      "title": "Ukraine accepts EU offer to fund Druzhba pipeline repairs",
-      "url": "https://www.perplexity.ai/page/ukraine-accepts-eu-offer-to-fu-9vD_Dzq4STix5GNy06adzw",
-      "description": "The deal aims to break Hungary's veto on a €90 billion aid package for Kyiv ahead of this week's EU summit.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T18:47:37Z",
-      "sourceCount": "40 sources"
-    },
-    {
-      "title": "Microsoft unifies Copilot teams, shifts Suleyman to superintelligence role",
-      "url": "https://www.perplexity.ai/page/microsoft-unifies-copilot-team-OSxbgf.OSuK5z7zY9yBY3w",
-      "description": "CEO Satya Nadella merged commercial and consumer Copilot divisions under new EVP Jacob Andreou while redirecting AI chief Mustafa Suleyman to frontier model development.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T18:35:15Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Pentagon begins engineering work to replace Anthropic AI",
-      "url": "https://www.perplexity.ai/page/pentagon-begins-engineering-wo-p2KwN4zOT0Wq4kodi5zArw",
-      "description": "The Defense Department's top AI official said integration of a new large language model is already underway as the military moves past Anthropic's Claude.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T18:29:48Z",
-      "sourceCount": "87 sources"
-    },
-    {
-      "title": "Democrats introduce BETS OFF Act to ban prediction market trades on government actions",
-      "url": "https://www.perplexity.ai/page/democrats-introduce-bets-off-a-WQQ3N94YT.OFxQxIYzqg3A",
-      "description": "The bill is the fifth proposal this year targeting the fast-growing industry, spurred by suspicious trading ahead of U.S. strikes on Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T17:58:27Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Mastercard to buy stablecoin firm BVNK for up to $1.8B",
-      "url": "https://www.perplexity.ai/page/mastercard-to-buy-stablecoin-f-IuT3hdJ6ROKR8_TpK4a9Ig",
-      "description": "The deal is the largest stablecoin acquisition ever, eclipsing Stripe's $1.1 billion purchase of Bridge in 2025.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T17:39:47Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-24T10:35:05Z",
+  "cached_at": "2026-03-24T11:29:54Z",
   "topics": {
     "top": [
+      {
+        "title": "SMFG preparing possible takeover of Jefferies, FT reports",
+        "url": "https://www.perplexity.ai/page/smfg-preparing-possible-takeov-5aOjHSnfSPuqjJqh.TQ1ZQ",
+        "description": "Japan's second-largest lender has assembled a team to act if Jefferies' share price, down over 36% this year, presents an opening.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T11:15:08Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Gallup: Only 28% of US workers say it's a good time to find a quality job",
         "url": "https://www.perplexity.ai/page/gallup-only-28-of-us-workers-s-VdwPjVWbSEepPHUMAcmtNA",
@@ -2388,51 +2361,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T19:02:14Z",
         "sourceCount": "13 sources"
-      },
-      {
-        "title": "Ukraine accepts EU offer to fund Druzhba pipeline repairs",
-        "url": "https://www.perplexity.ai/page/ukraine-accepts-eu-offer-to-fu-9vD_Dzq4STix5GNy06adzw",
-        "description": "The deal aims to break Hungary's veto on a €90 billion aid package for Kyiv ahead of this week's EU summit.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T18:47:37Z",
-        "sourceCount": "40 sources"
-      },
-      {
-        "title": "Microsoft unifies Copilot teams, shifts Suleyman to superintelligence role",
-        "url": "https://www.perplexity.ai/page/microsoft-unifies-copilot-team-OSxbgf.OSuK5z7zY9yBY3w",
-        "description": "CEO Satya Nadella merged commercial and consumer Copilot divisions under new EVP Jacob Andreou while redirecting AI chief Mustafa Suleyman to frontier model development.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T18:35:15Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Pentagon begins engineering work to replace Anthropic AI",
-        "url": "https://www.perplexity.ai/page/pentagon-begins-engineering-wo-p2KwN4zOT0Wq4kodi5zArw",
-        "description": "The Defense Department's top AI official said integration of a new large language model is already underway as the military moves past Anthropic's Claude.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T18:29:48Z",
-        "sourceCount": "87 sources"
-      },
-      {
-        "title": "Democrats introduce BETS OFF Act to ban prediction market trades on government actions",
-        "url": "https://www.perplexity.ai/page/democrats-introduce-bets-off-a-WQQ3N94YT.OFxQxIYzqg3A",
-        "description": "The bill is the fifth proposal this year targeting the fast-growing industry, spurred by suspicious trading ahead of U.S. strikes on Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T17:58:27Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Mastercard to buy stablecoin firm BVNK for up to $1.8B",
-        "url": "https://www.perplexity.ai/page/mastercard-to-buy-stablecoin-f-IuT3hdJ6ROKR8_TpK4a9Ig",
-        "description": "The deal is the largest stablecoin acquisition ever, eclipsing Stripe's $1.1 billion purchase of Bridge in 2025.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T17:39:47Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
