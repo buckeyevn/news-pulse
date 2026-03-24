@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Saudi crown prince urges Trump to escalate Iran war, deploy ground troops",
+      "url": "https://www.perplexity.ai/page/saudi-crown-prince-urges-trump-tSKokBDtQ.CHndWwxuCB0A",
+      "description": "Mohammed bin Salman has called the U.S.-Israeli campaign a \"historic opportunity\" to topple Tehran's government, according to the New York Times.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T15:47:24Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Russia launches 16 Rassvet satellites to rival Starlink",
       "url": "https://www.perplexity.ai/page/russia-launches-16-rassvet-sat-BK9BTBQ8TOSEERnHhB2X_g",
       "description": "Bureau 1440 deployed its first operational batch from Plesetsk Cosmodrome on March 23, targeting commercial broadband service by 2027.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-03-24T14:25:17Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Israel to occupy southern Lebanon up to Litani River, defence minister says",
-      "url": "https://www.perplexity.ai/page/israel-to-occupy-southern-leba-2G0lTlYJTj68MPsMF9hIgQ",
-      "description": "Defense Minister Katz declared Israel will seize a \"defensive buffer\" covering nearly a tenth of Lebanon, the first explicit statement of such intent.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T14:14:43Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "Japan to release 53M barrels from national oil reserves starting March 26",
@@ -28,13 +28,22 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "U.S. stock futures slip as Iran denies peace talks with Washington",
-      "url": "https://www.perplexity.ai/page/u-s-stock-futures-slip-as-iran-JEz2eyQHQL6zTsoa_Uvmyw",
-      "description": "Monday's rally faded after Tehran rejected Trump's claims of \"productive\" negotiations, sending oil prices back up and rattling investors.",
+      "title": "Senate nears deal to end six-week DHS shutdown after Trump meeting",
+      "url": "https://www.perplexity.ai/page/senate-nears-deal-to-end-six-w-VCPV7Bm7SduZswbPzbFqzQ",
+      "description": "Republicans proposed funding most of DHS while moving ICE money and election legislation through reconciliation separately.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-24T11:23:40Z",
-      "sourceCount": "45 sources"
+      "pubDate": "2026-03-24T15:10:58Z",
+      "sourceCount": "34 sources"
+    },
+    {
+      "title": "Israel to occupy southern Lebanon up to Litani River, defence minister says",
+      "url": "https://www.perplexity.ai/page/israel-to-occupy-southern-leba-2G0lTlYJTj68MPsMF9hIgQ",
+      "description": "Defense Minister Katz declared Israel will seize a \"defensive buffer\" covering nearly a tenth of Lebanon, the first explicit statement of such intent.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T14:14:43Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Gallup: Only 28% of US workers say it's a good time to find a quality job",
@@ -46,21 +55,30 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "US stock futures slip as Iran denies peace talks with Washington",
+      "url": "https://www.perplexity.ai/page/us-stock-futures-slip-as-iran-JEz2eyQHQL6zTsoa_Uvmyw",
+      "description": "Monday's rally faded after Tehran rejected Trump's claims of \"productive\" negotiations, sending oil prices back up and rattling investors.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T11:23:40Z",
+      "sourceCount": "45 sources"
+    },
+    {
+      "title": "Saudi Arabia, UAE edge toward joining war on Iran",
+      "url": "https://www.perplexity.ai/page/saudi-arabia-uae-edge-toward-j-NSmFxV.qRlOjRfcEgVypQA",
+      "description": "Riyadh opened King Fahd Air Base to U.S. forces while the UAE dismantled Iranian institutions in Dubai, the Wall Street Journal reported.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T08:01:06Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "China mapping ocean floor for submarine warfare, Reuters finds",
       "url": "https://www.perplexity.ai/page/china-mapping-ocean-floor-for-WRZPQzOGRxqXIAIN6EuAdA",
       "description": "A Reuters investigation tracked 42 Chinese research vessels systematically charting seabeds across the Pacific, Indian, and Arctic oceans over five years.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-24T07:56:57Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Iran fires missiles at Israel as IRGC rejects Trump's peace talk claims",
-      "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-OzB9vLUnRRaukju8EfelJg",
-      "description": "Salvos hit Tel Aviv and Haifa overnight as Trump postponed strikes on Iran for five days, citing progress in talks Tehran says never happened.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T09:54:04Z",
       "sourceCount": "27 sources"
     },
     {
@@ -71,6 +89,15 @@
       "topic": "top",
       "pubDate": "2026-03-24T07:33:54Z",
       "sourceCount": "35 sources"
+    },
+    {
+      "title": "Iran fires missiles at Israel as IRGC rejects Trump's peace talk claims",
+      "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-OzB9vLUnRRaukju8EfelJg",
+      "description": "Salvos hit Tel Aviv and Haifa overnight as Trump postponed strikes on Iran for five days, citing progress in talks Tehran says never happened.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T09:54:04Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Magnitude 7.6 earthquake strikes near Tonga; no tsunami threat",
@@ -397,13 +424,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Houthis could enter Iran war as soon as Monday",
-      "url": "https://www.perplexity.ai/page/houthis-could-enter-iran-war-a-0dPFR0cxSsuPbbfuL9Ef0g",
-      "description": "Saudi Arabia is working to deter the group as it reinforces positions near a key Red Sea port, threatening a second maritime front.",
+      "title": "Senate blocks transgender sports ban amendment to voting bill",
+      "url": "https://www.perplexity.ai/page/senate-blocks-transgender-spor-8niWniMhSQKpOS5dI1QyNg",
+      "description": "The 49-41 party-line vote rejected a GOP push to attach the ban to the SAVE America Act during a rare weekend session.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-22T16:34:28Z",
-      "sourceCount": "40 sources"
+      "pubDate": "2026-03-22T01:24:07Z",
+      "sourceCount": "38 sources"
     },
     {
       "title": "Trump draws bipartisan rebuke for celebrating Mueller's death",
@@ -424,13 +451,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Senate blocks transgender sports ban amendment to voting bill",
-      "url": "https://www.perplexity.ai/page/senate-blocks-transgender-spor-8niWniMhSQKpOS5dI1QyNg",
-      "description": "The 49-41 party-line vote rejected a GOP push to attach the ban to the SAVE America Act during a rare weekend session.",
+      "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
+      "url": "https://www.perplexity.ai/page/us-envoy-calls-miami-talks-wit-q0fDj1ghQ360f48y9yCRGA",
+      "description": "Special Envoy Steve Witkoff said discussions with Ukrainian officials focused on narrowing gaps toward a peace deal as both sides traded fire Saturday.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-22T01:24:07Z",
-      "sourceCount": "38 sources"
+      "pubDate": "2026-03-22T01:18:47Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "Cuba suffers third nationwide blackout in March as US oil blockade tightens",
@@ -442,15 +469,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
-      "url": "https://www.perplexity.ai/page/us-envoy-calls-miami-talks-wit-q0fDj1ghQ360f48y9yCRGA",
-      "description": "Special Envoy Steve Witkoff said discussions with Ukrainian officials focused on narrowing gaps toward a peace deal as both sides traded fire Saturday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T01:18:47Z",
-      "sourceCount": "42 sources"
-    },
-    {
       "title": "US says it struck 8,000 Iranian targets in three weeks of war",
       "url": "https://www.perplexity.ai/page/us-says-it-struck-8000-iranian-ZWMuU8n8SjOat.wNwnaYFw",
       "description": "CENTCOM says 130 Iranian vessels have been destroyed, calling it the largest elimination of a navy since World War II.",
@@ -460,15 +478,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
-      "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
-      "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T18:59:26Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
       "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
       "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
@@ -476,6 +485,15 @@
       "topic": "top",
       "pubDate": "2026-03-21T16:35:05Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
+      "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
+      "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T18:59:26Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "UK expands US base access to strike Iran's Strait of Hormuz missile sites",
@@ -1079,29 +1097,20 @@
       "topic": "top",
       "pubDate": "2026-03-18T18:04:22Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Kremlin condemns 'murder' of Iran's Ali Larijani in U.S.-Israeli strikes",
-      "url": "https://www.perplexity.ai/page/kremlin-condemns-murder-of-ira-GtrYH577QiidOY8IA.36hw",
-      "description": "Spokesman Dmitry Peskov called the killing of Iran's de facto wartime leader an attack on a \"sovereign and independent\" nation's leadership.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T12:03:46Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Trump asks to delay Xi summit by a month over Iran war",
-      "url": "https://www.perplexity.ai/page/trump-asks-to-delay-xi-summit-XIfumgrVRD2055o3Vkg_eA",
-      "description": "The president told reporters the ongoing conflict requires him to stay in Washington, pushing back a Beijing trip planned for late March.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T07:32:16Z",
-      "sourceCount": "21 sources"
     }
   ],
-  "cached_at": "2026-03-24T14:53:23Z",
+  "cached_at": "2026-03-24T16:07:28Z",
   "topics": {
     "top": [
+      {
+        "title": "Saudi crown prince urges Trump to escalate Iran war, deploy ground troops",
+        "url": "https://www.perplexity.ai/page/saudi-crown-prince-urges-trump-tSKokBDtQ.CHndWwxuCB0A",
+        "description": "Mohammed bin Salman has called the U.S.-Israeli campaign a \"historic opportunity\" to topple Tehran's government, according to the New York Times.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T15:47:24Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Russia launches 16 Rassvet satellites to rival Starlink",
         "url": "https://www.perplexity.ai/page/russia-launches-16-rassvet-sat-BK9BTBQ8TOSEERnHhB2X_g",
@@ -1110,15 +1119,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T14:25:17Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Israel to occupy southern Lebanon up to Litani River, defence minister says",
-        "url": "https://www.perplexity.ai/page/israel-to-occupy-southern-leba-2G0lTlYJTj68MPsMF9hIgQ",
-        "description": "Defense Minister Katz declared Israel will seize a \"defensive buffer\" covering nearly a tenth of Lebanon, the first explicit statement of such intent.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T14:14:43Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "Japan to release 53M barrels from national oil reserves starting March 26",
@@ -1130,13 +1130,22 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "U.S. stock futures slip as Iran denies peace talks with Washington",
-        "url": "https://www.perplexity.ai/page/u-s-stock-futures-slip-as-iran-JEz2eyQHQL6zTsoa_Uvmyw",
-        "description": "Monday's rally faded after Tehran rejected Trump's claims of \"productive\" negotiations, sending oil prices back up and rattling investors.",
+        "title": "Senate nears deal to end six-week DHS shutdown after Trump meeting",
+        "url": "https://www.perplexity.ai/page/senate-nears-deal-to-end-six-w-VCPV7Bm7SduZswbPzbFqzQ",
+        "description": "Republicans proposed funding most of DHS while moving ICE money and election legislation through reconciliation separately.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-24T11:23:40Z",
-        "sourceCount": "45 sources"
+        "pubDate": "2026-03-24T15:10:58Z",
+        "sourceCount": "34 sources"
+      },
+      {
+        "title": "Israel to occupy southern Lebanon up to Litani River, defence minister says",
+        "url": "https://www.perplexity.ai/page/israel-to-occupy-southern-leba-2G0lTlYJTj68MPsMF9hIgQ",
+        "description": "Defense Minister Katz declared Israel will seize a \"defensive buffer\" covering nearly a tenth of Lebanon, the first explicit statement of such intent.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T14:14:43Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Gallup: Only 28% of US workers say it's a good time to find a quality job",
@@ -1148,21 +1157,30 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "US stock futures slip as Iran denies peace talks with Washington",
+        "url": "https://www.perplexity.ai/page/us-stock-futures-slip-as-iran-JEz2eyQHQL6zTsoa_Uvmyw",
+        "description": "Monday's rally faded after Tehran rejected Trump's claims of \"productive\" negotiations, sending oil prices back up and rattling investors.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T11:23:40Z",
+        "sourceCount": "45 sources"
+      },
+      {
+        "title": "Saudi Arabia, UAE edge toward joining war on Iran",
+        "url": "https://www.perplexity.ai/page/saudi-arabia-uae-edge-toward-j-NSmFxV.qRlOjRfcEgVypQA",
+        "description": "Riyadh opened King Fahd Air Base to U.S. forces while the UAE dismantled Iranian institutions in Dubai, the Wall Street Journal reported.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T08:01:06Z",
+        "sourceCount": "25 sources"
+      },
+      {
         "title": "China mapping ocean floor for submarine warfare, Reuters finds",
         "url": "https://www.perplexity.ai/page/china-mapping-ocean-floor-for-WRZPQzOGRxqXIAIN6EuAdA",
         "description": "A Reuters investigation tracked 42 Chinese research vessels systematically charting seabeds across the Pacific, Indian, and Arctic oceans over five years.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-24T07:56:57Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Iran fires missiles at Israel as IRGC rejects Trump's peace talk claims",
-        "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-OzB9vLUnRRaukju8EfelJg",
-        "description": "Salvos hit Tel Aviv and Haifa overnight as Trump postponed strikes on Iran for five days, citing progress in talks Tehran says never happened.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T09:54:04Z",
         "sourceCount": "27 sources"
       },
       {
@@ -1173,6 +1191,15 @@
         "topic": "top",
         "pubDate": "2026-03-24T07:33:54Z",
         "sourceCount": "35 sources"
+      },
+      {
+        "title": "Iran fires missiles at Israel as IRGC rejects Trump's peace talk claims",
+        "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-OzB9vLUnRRaukju8EfelJg",
+        "description": "Salvos hit Tel Aviv and Haifa overnight as Trump postponed strikes on Iran for five days, citing progress in talks Tehran says never happened.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T09:54:04Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Magnitude 7.6 earthquake strikes near Tonga; no tsunami threat",
@@ -1499,13 +1526,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Houthis could enter Iran war as soon as Monday",
-        "url": "https://www.perplexity.ai/page/houthis-could-enter-iran-war-a-0dPFR0cxSsuPbbfuL9Ef0g",
-        "description": "Saudi Arabia is working to deter the group as it reinforces positions near a key Red Sea port, threatening a second maritime front.",
+        "title": "Senate blocks transgender sports ban amendment to voting bill",
+        "url": "https://www.perplexity.ai/page/senate-blocks-transgender-spor-8niWniMhSQKpOS5dI1QyNg",
+        "description": "The 49-41 party-line vote rejected a GOP push to attach the ban to the SAVE America Act during a rare weekend session.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-22T16:34:28Z",
-        "sourceCount": "40 sources"
+        "pubDate": "2026-03-22T01:24:07Z",
+        "sourceCount": "38 sources"
       },
       {
         "title": "Trump draws bipartisan rebuke for celebrating Mueller's death",
@@ -1526,13 +1553,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Senate blocks transgender sports ban amendment to voting bill",
-        "url": "https://www.perplexity.ai/page/senate-blocks-transgender-spor-8niWniMhSQKpOS5dI1QyNg",
-        "description": "The 49-41 party-line vote rejected a GOP push to attach the ban to the SAVE America Act during a rare weekend session.",
+        "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
+        "url": "https://www.perplexity.ai/page/us-envoy-calls-miami-talks-wit-q0fDj1ghQ360f48y9yCRGA",
+        "description": "Special Envoy Steve Witkoff said discussions with Ukrainian officials focused on narrowing gaps toward a peace deal as both sides traded fire Saturday.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-22T01:24:07Z",
-        "sourceCount": "38 sources"
+        "pubDate": "2026-03-22T01:18:47Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "Cuba suffers third nationwide blackout in March as US oil blockade tightens",
@@ -1544,15 +1571,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
-        "url": "https://www.perplexity.ai/page/us-envoy-calls-miami-talks-wit-q0fDj1ghQ360f48y9yCRGA",
-        "description": "Special Envoy Steve Witkoff said discussions with Ukrainian officials focused on narrowing gaps toward a peace deal as both sides traded fire Saturday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T01:18:47Z",
-        "sourceCount": "42 sources"
-      },
-      {
         "title": "US says it struck 8,000 Iranian targets in three weeks of war",
         "url": "https://www.perplexity.ai/page/us-says-it-struck-8000-iranian-ZWMuU8n8SjOat.wNwnaYFw",
         "description": "CENTCOM says 130 Iranian vessels have been destroyed, calling it the largest elimination of a navy since World War II.",
@@ -1562,15 +1580,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
-        "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
-        "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T18:59:26Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
         "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
         "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
@@ -1578,6 +1587,15 @@
         "topic": "top",
         "pubDate": "2026-03-21T16:35:05Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
+        "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
+        "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T18:59:26Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "UK expands US base access to strike Iran's Strait of Hormuz missile sites",
@@ -2181,24 +2199,6 @@
         "topic": "top",
         "pubDate": "2026-03-18T18:04:22Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Kremlin condemns 'murder' of Iran's Ali Larijani in U.S.-Israeli strikes",
-        "url": "https://www.perplexity.ai/page/kremlin-condemns-murder-of-ira-GtrYH577QiidOY8IA.36hw",
-        "description": "Spokesman Dmitry Peskov called the killing of Iran's de facto wartime leader an attack on a \"sovereign and independent\" nation's leadership.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T12:03:46Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Trump asks to delay Xi summit by a month over Iran war",
-        "url": "https://www.perplexity.ai/page/trump-asks-to-delay-xi-summit-XIfumgrVRD2055o3Vkg_eA",
-        "description": "The president told reporters the ongoing conflict requires him to stay in Washington, pushing back a Beijing trip planned for late March.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T07:32:16Z",
-        "sourceCount": "21 sources"
       }
     ],
     "tech": [],
