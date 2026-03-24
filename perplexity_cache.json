@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Japan to release 53M barrels from national oil reserves starting March 26",
+      "url": "https://www.perplexity.ai/page/japan-to-release-53m-barrels-f-n8fa9MB4RFS.McLFZR.lsg",
+      "description": "The drawdown from 11 stockpiling bases is part of an 80-million-barrel effort and the IEA's coordinated 400-million-barrel emergency release amid the Strait of Hormuz crisis.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T11:46:46Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "U.S. stock futures slip as Iran denies peace talks with Washington",
+      "url": "https://www.perplexity.ai/page/u-s-stock-futures-slip-as-iran-JEz2eyQHQL6zTsoa_Uvmyw",
+      "description": "Monday's rally faded after Tehran rejected Trump's claims of \"productive\" negotiations, sending oil prices back up and rattling investors.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T11:23:40Z",
+      "sourceCount": "45 sources"
+    },
+    {
       "title": "SMFG preparing possible takeover of Jefferies, FT reports",
       "url": "https://www.perplexity.ai/page/smfg-preparing-possible-takeov-5aOjHSnfSPuqjJqh.TQ1ZQ",
       "description": "Japan's second-largest lender has assembled a team to act if Jefferies' share price, down over 36% this year, presents an opening.",
@@ -316,15 +334,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Trump postpones strikes on Iran, citing 'productive' talks",
-      "url": "https://www.perplexity.ai/page/trump-postpones-strikes-on-ira-k.MSg2VTSWagM_kI58udtg",
-      "description": "The five-day pause came hours before his 48-hour ultimatum to reopen the Strait of Hormuz was set to expire, triggering a global market rally.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T11:53:16Z",
-      "sourceCount": "82 sources"
-    },
-    {
       "title": "WMO says Earth's climate 'more out of balance' than ever",
       "url": "https://www.perplexity.ai/page/wmo-says-earth-s-climate-more-lFponMlOTYC_4cCeubFOUQ",
       "description": "The agency's annual report finds 2015-2025 was the hottest 11-year stretch on record, with energy imbalance at a 65-year high.",
@@ -332,15 +341,6 @@
       "topic": "top",
       "pubDate": "2026-03-23T06:06:56Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Bessent defends easing Russia, Iran oil sanctions on Meet the Press",
-      "url": "https://www.perplexity.ai/page/bessent-defends-easing-russia-J6eKwfYrTu2eTx4ZZOqprQ",
-      "description": "Treasury Secretary said Russia would gain at most $2 billion from the waiver — or face $150-per-barrel oil prices without it.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T01:23:19Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "NATO chief says 22 nations joining effort to reopen Strait of Hormuz",
@@ -352,6 +352,15 @@
       "sourceCount": "39 sources"
     },
     {
+      "title": "Bessent defends easing Russia, Iran oil sanctions on Meet the Press",
+      "url": "https://www.perplexity.ai/page/bessent-defends-easing-russia-J6eKwfYrTu2eTx4ZZOqprQ",
+      "description": "Treasury Secretary said Russia would gain at most $2 billion from the waiver — or face $150-per-barrel oil prices without it.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T01:23:19Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Mossad plan to spark Iran uprising stalls three weeks into war",
       "url": "https://www.perplexity.ai/page/mossad-plan-to-spark-iran-upri-iPGWn325RBCRqLu906F1eg",
       "description": "Intelligence chief Barnea promised Netanyahu that Israeli operations could trigger regime-toppling unrest, but no uprising has materialized.",
@@ -359,15 +368,6 @@
       "topic": "top",
       "pubDate": "2026-03-22T22:18:48Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Zelenskyy demands tighter Russia sanctions as Florida peace talks enter day two",
-      "url": "https://www.perplexity.ai/page/zelenskyy-demands-tighter-russ-AMbU3.hbTkWWgfrwbd4a8g",
-      "description": "Ukraine's president cited 1,550 drone strikes in one week, saying eased oil sanctions fund Russia's war as bilateral talks with the U.S. continue.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T19:18:55Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Cuba says its military is preparing for possible U.S. aggression",
@@ -379,6 +379,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "Zelenskyy demands tighter Russia sanctions as Florida peace talks enter day two",
+      "url": "https://www.perplexity.ai/page/zelenskyy-demands-tighter-russ-AMbU3.hbTkWWgfrwbd4a8g",
+      "description": "Ukraine's president cited 1,550 drone strikes in one week, saying eased oil sanctions fund Russia's war as bilateral talks with the U.S. continue.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-22T19:18:55Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Houthis could enter Iran war as soon as Monday",
       "url": "https://www.perplexity.ai/page/houthis-could-enter-iran-war-a-0dPFR0cxSsuPbbfuL9Ef0g",
       "description": "Saudi Arabia is working to deter the group as it reinforces positions near a key Red Sea port, threatening a second maritime front.",
@@ -386,15 +395,6 @@
       "topic": "top",
       "pubDate": "2026-03-22T16:34:28Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "Senate blocks transgender sports ban amendment to voting bill",
-      "url": "https://www.perplexity.ai/page/senate-blocks-transgender-spor-8niWniMhSQKpOS5dI1QyNg",
-      "description": "The 49-41 party-line vote rejected a GOP push to attach the ban to the SAVE America Act during a rare weekend session.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T01:24:07Z",
-      "sourceCount": "38 sources"
     },
     {
       "title": "Trump draws bipartisan rebuke for celebrating Mueller's death",
@@ -415,13 +415,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
-      "url": "https://www.perplexity.ai/page/us-envoy-calls-miami-talks-wit-q0fDj1ghQ360f48y9yCRGA",
-      "description": "Special Envoy Steve Witkoff said discussions with Ukrainian officials focused on narrowing gaps toward a peace deal as both sides traded fire Saturday.",
+      "title": "Senate blocks transgender sports ban amendment to voting bill",
+      "url": "https://www.perplexity.ai/page/senate-blocks-transgender-spor-8niWniMhSQKpOS5dI1QyNg",
+      "description": "The 49-41 party-line vote rejected a GOP push to attach the ban to the SAVE America Act during a rare weekend session.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-22T01:18:47Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-03-22T01:24:07Z",
+      "sourceCount": "38 sources"
     },
     {
       "title": "Cuba suffers third nationwide blackout in March as US oil blockade tightens",
@@ -433,6 +433,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
+      "url": "https://www.perplexity.ai/page/us-envoy-calls-miami-talks-wit-q0fDj1ghQ360f48y9yCRGA",
+      "description": "Special Envoy Steve Witkoff said discussions with Ukrainian officials focused on narrowing gaps toward a peace deal as both sides traded fire Saturday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-22T01:18:47Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "US says it struck 8,000 Iranian targets in three weeks of war",
       "url": "https://www.perplexity.ai/page/us-says-it-struck-8000-iranian-ZWMuU8n8SjOat.wNwnaYFw",
       "description": "CENTCOM says 130 Iranian vessels have been destroyed, calling it the largest elimination of a navy since World War II.",
@@ -442,15 +451,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
-      "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
-      "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T16:35:05Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
       "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
       "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
@@ -458,6 +458,15 @@
       "topic": "top",
       "pubDate": "2026-03-21T18:59:26Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
+      "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
+      "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T16:35:05Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "UK expands US base access to strike Iran's Strait of Hormuz missile sites",
@@ -494,6 +503,15 @@
       "topic": "top",
       "pubDate": "2026-03-21T06:55:52Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "Trump lifts sanctions on Iranian oil at sea to ease surging prices",
+      "url": "https://www.perplexity.ai/page/trump-lifts-sanctions-on-irani-ck75RJYFRs.ezOexHpDnAg",
+      "description": "The Treasury Department issued a general license Friday permitting global sale of roughly 140 million barrels of Iranian crude through April 19.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T06:51:30Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Switzerland halts new arms exports to US over Iran war",
@@ -1160,29 +1178,29 @@
       "topic": "top",
       "pubDate": "2026-03-17T19:30:07Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
-      "url": "https://www.perplexity.ai/page/pentagon-raises-golden-dome-co-q_gZwgomRsCxY.j_F_wuww",
-      "description": "The $10 billion increase will accelerate satellite tracking, sensor and communications programs central to the homeland missile defense shield.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T19:11:11Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "UC Irvine, Tel Aviv team build ion pump with no moving parts",
-      "url": "https://www.perplexity.ai/page/uc-irvine-tel-aviv-team-build-.Cr9CjleTHCzxyU8xSlVhg",
-      "description": "The ratchet-based device removes salt and heavy metals from water using only a low-voltage electrical signal, with no chemical reactions required.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T19:02:14Z",
-      "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-03-24T11:29:54Z",
+  "cached_at": "2026-03-24T12:07:54Z",
   "topics": {
     "top": [
+      {
+        "title": "Japan to release 53M barrels from national oil reserves starting March 26",
+        "url": "https://www.perplexity.ai/page/japan-to-release-53m-barrels-f-n8fa9MB4RFS.McLFZR.lsg",
+        "description": "The drawdown from 11 stockpiling bases is part of an 80-million-barrel effort and the IEA's coordinated 400-million-barrel emergency release amid the Strait of Hormuz crisis.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T11:46:46Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "U.S. stock futures slip as Iran denies peace talks with Washington",
+        "url": "https://www.perplexity.ai/page/u-s-stock-futures-slip-as-iran-JEz2eyQHQL6zTsoa_Uvmyw",
+        "description": "Monday's rally faded after Tehran rejected Trump's claims of \"productive\" negotiations, sending oil prices back up and rattling investors.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T11:23:40Z",
+        "sourceCount": "45 sources"
+      },
       {
         "title": "SMFG preparing possible takeover of Jefferies, FT reports",
         "url": "https://www.perplexity.ai/page/smfg-preparing-possible-takeov-5aOjHSnfSPuqjJqh.TQ1ZQ",
@@ -1499,15 +1517,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Trump postpones strikes on Iran, citing 'productive' talks",
-        "url": "https://www.perplexity.ai/page/trump-postpones-strikes-on-ira-k.MSg2VTSWagM_kI58udtg",
-        "description": "The five-day pause came hours before his 48-hour ultimatum to reopen the Strait of Hormuz was set to expire, triggering a global market rally.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T11:53:16Z",
-        "sourceCount": "82 sources"
-      },
-      {
         "title": "WMO says Earth's climate 'more out of balance' than ever",
         "url": "https://www.perplexity.ai/page/wmo-says-earth-s-climate-more-lFponMlOTYC_4cCeubFOUQ",
         "description": "The agency's annual report finds 2015-2025 was the hottest 11-year stretch on record, with energy imbalance at a 65-year high.",
@@ -1515,15 +1524,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T06:06:56Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Bessent defends easing Russia, Iran oil sanctions on Meet the Press",
-        "url": "https://www.perplexity.ai/page/bessent-defends-easing-russia-J6eKwfYrTu2eTx4ZZOqprQ",
-        "description": "Treasury Secretary said Russia would gain at most $2 billion from the waiver — or face $150-per-barrel oil prices without it.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T01:23:19Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "NATO chief says 22 nations joining effort to reopen Strait of Hormuz",
@@ -1535,6 +1535,15 @@
         "sourceCount": "39 sources"
       },
       {
+        "title": "Bessent defends easing Russia, Iran oil sanctions on Meet the Press",
+        "url": "https://www.perplexity.ai/page/bessent-defends-easing-russia-J6eKwfYrTu2eTx4ZZOqprQ",
+        "description": "Treasury Secretary said Russia would gain at most $2 billion from the waiver — or face $150-per-barrel oil prices without it.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T01:23:19Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Mossad plan to spark Iran uprising stalls three weeks into war",
         "url": "https://www.perplexity.ai/page/mossad-plan-to-spark-iran-upri-iPGWn325RBCRqLu906F1eg",
         "description": "Intelligence chief Barnea promised Netanyahu that Israeli operations could trigger regime-toppling unrest, but no uprising has materialized.",
@@ -1542,15 +1551,6 @@
         "topic": "top",
         "pubDate": "2026-03-22T22:18:48Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Zelenskyy demands tighter Russia sanctions as Florida peace talks enter day two",
-        "url": "https://www.perplexity.ai/page/zelenskyy-demands-tighter-russ-AMbU3.hbTkWWgfrwbd4a8g",
-        "description": "Ukraine's president cited 1,550 drone strikes in one week, saying eased oil sanctions fund Russia's war as bilateral talks with the U.S. continue.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T19:18:55Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Cuba says its military is preparing for possible U.S. aggression",
@@ -1562,6 +1562,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "Zelenskyy demands tighter Russia sanctions as Florida peace talks enter day two",
+        "url": "https://www.perplexity.ai/page/zelenskyy-demands-tighter-russ-AMbU3.hbTkWWgfrwbd4a8g",
+        "description": "Ukraine's president cited 1,550 drone strikes in one week, saying eased oil sanctions fund Russia's war as bilateral talks with the U.S. continue.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-22T19:18:55Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "Houthis could enter Iran war as soon as Monday",
         "url": "https://www.perplexity.ai/page/houthis-could-enter-iran-war-a-0dPFR0cxSsuPbbfuL9Ef0g",
         "description": "Saudi Arabia is working to deter the group as it reinforces positions near a key Red Sea port, threatening a second maritime front.",
@@ -1569,15 +1578,6 @@
         "topic": "top",
         "pubDate": "2026-03-22T16:34:28Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "Senate blocks transgender sports ban amendment to voting bill",
-        "url": "https://www.perplexity.ai/page/senate-blocks-transgender-spor-8niWniMhSQKpOS5dI1QyNg",
-        "description": "The 49-41 party-line vote rejected a GOP push to attach the ban to the SAVE America Act during a rare weekend session.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T01:24:07Z",
-        "sourceCount": "38 sources"
       },
       {
         "title": "Trump draws bipartisan rebuke for celebrating Mueller's death",
@@ -1598,13 +1598,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
-        "url": "https://www.perplexity.ai/page/us-envoy-calls-miami-talks-wit-q0fDj1ghQ360f48y9yCRGA",
-        "description": "Special Envoy Steve Witkoff said discussions with Ukrainian officials focused on narrowing gaps toward a peace deal as both sides traded fire Saturday.",
+        "title": "Senate blocks transgender sports ban amendment to voting bill",
+        "url": "https://www.perplexity.ai/page/senate-blocks-transgender-spor-8niWniMhSQKpOS5dI1QyNg",
+        "description": "The 49-41 party-line vote rejected a GOP push to attach the ban to the SAVE America Act during a rare weekend session.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-22T01:18:47Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-03-22T01:24:07Z",
+        "sourceCount": "38 sources"
       },
       {
         "title": "Cuba suffers third nationwide blackout in March as US oil blockade tightens",
@@ -1616,6 +1616,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
+        "url": "https://www.perplexity.ai/page/us-envoy-calls-miami-talks-wit-q0fDj1ghQ360f48y9yCRGA",
+        "description": "Special Envoy Steve Witkoff said discussions with Ukrainian officials focused on narrowing gaps toward a peace deal as both sides traded fire Saturday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-22T01:18:47Z",
+        "sourceCount": "42 sources"
+      },
+      {
         "title": "US says it struck 8,000 Iranian targets in three weeks of war",
         "url": "https://www.perplexity.ai/page/us-says-it-struck-8000-iranian-ZWMuU8n8SjOat.wNwnaYFw",
         "description": "CENTCOM says 130 Iranian vessels have been destroyed, calling it the largest elimination of a navy since World War II.",
@@ -1625,15 +1634,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
-        "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
-        "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T16:35:05Z",
-        "sourceCount": "26 sources"
-      },
-      {
         "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
         "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
         "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
@@ -1641,6 +1641,15 @@
         "topic": "top",
         "pubDate": "2026-03-21T18:59:26Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
+        "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
+        "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T16:35:05Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "UK expands US base access to strike Iran's Strait of Hormuz missile sites",
@@ -1677,6 +1686,15 @@
         "topic": "top",
         "pubDate": "2026-03-21T06:55:52Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Trump lifts sanctions on Iranian oil at sea to ease surging prices",
+        "url": "https://www.perplexity.ai/page/trump-lifts-sanctions-on-irani-ck75RJYFRs.ezOexHpDnAg",
+        "description": "The Treasury Department issued a general license Friday permitting global sale of roughly 140 million barrels of Iranian crude through April 19.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T06:51:30Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Switzerland halts new arms exports to US over Iran war",
@@ -2343,24 +2361,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T19:30:07Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
-        "url": "https://www.perplexity.ai/page/pentagon-raises-golden-dome-co-q_gZwgomRsCxY.j_F_wuww",
-        "description": "The $10 billion increase will accelerate satellite tracking, sensor and communications programs central to the homeland missile defense shield.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T19:11:11Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "UC Irvine, Tel Aviv team build ion pump with no moving parts",
-        "url": "https://www.perplexity.ai/page/uc-irvine-tel-aviv-team-build-.Cr9CjleTHCzxyU8xSlVhg",
-        "description": "The ratchet-based device removes salt and heavy metals from water using only a low-voltage electrical signal, with no chemical reactions required.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T19:02:14Z",
-        "sourceCount": "13 sources"
       }
     ],
     "tech": [],
