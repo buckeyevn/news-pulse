@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Study finds Europe's last Neanderthals descended from one small group",
-      "url": "https://www.perplexity.ai/page/study-finds-europe-s-last-nean-IU7FziIETl6s5rU1MDiK0g",
-      "description": "New DNA analysis traced nearly all Late Neanderthals to a single lineage that emerged from a climate refuge in southwestern France around 65,000 years ago.",
+      "title": "Russia launches 16 Rassvet satellites to rival Starlink",
+      "url": "https://www.perplexity.ai/page/russia-launches-16-rassvet-sat-BK9BTBQ8TOSEERnHhB2X_g",
+      "description": "Bureau 1440 deployed its first operational batch from Plesetsk Cosmodrome on March 23, targeting commercial broadband service by 2027.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-24T13:38:40Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-24T14:25:17Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Israel to occupy southern Lebanon up to Litani River, defence minister says",
+      "url": "https://www.perplexity.ai/page/israel-to-occupy-southern-leba-2G0lTlYJTj68MPsMF9hIgQ",
+      "description": "Defense Minister Katz declared Israel will seize a \"defensive buffer\" covering nearly a tenth of Lebanon, the first explicit statement of such intent.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T14:14:43Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Japan to release 53M barrels from national oil reserves starting March 26",
@@ -28,15 +37,6 @@
       "sourceCount": "45 sources"
     },
     {
-      "title": "UN report finds freshwater fish migrations collapsing worldwide",
-      "url": "https://www.perplexity.ai/page/un-report-finds-freshwater-fis-OnySll.pSMSY.32vgMOnNA",
-      "description": "A sweeping new assessment identifies 325 species needing international protection as migratory freshwater fish populations have plunged 81% since 1970.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T13:38:33Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Gallup: Only 28% of US workers say it's a good time to find a quality job",
       "url": "https://www.perplexity.ai/page/gallup-only-28-of-us-workers-s-VdwPjVWbSEepPHUMAcmtNA",
       "description": "For the first time in Gallup's tracking, more American workers report struggling in their lives than thriving, as job market confidence hits a multiyear low.",
@@ -46,21 +46,21 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Iran fires missiles at Israel as IRGC rejects Trump's peace talk claims",
-      "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-OzB9vLUnRRaukju8EfelJg",
-      "description": "Salvos hit Tel Aviv and Haifa overnight as Trump postponed strikes on Iran for five days, citing progress in talks Tehran says never happened.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T09:54:04Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "China mapping ocean floor for submarine warfare, Reuters finds",
       "url": "https://www.perplexity.ai/page/china-mapping-ocean-floor-for-WRZPQzOGRxqXIAIN6EuAdA",
       "description": "A Reuters investigation tracked 42 Chinese research vessels systematically charting seabeds across the Pacific, Indian, and Arctic oceans over five years.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-24T07:56:57Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Iran fires missiles at Israel as IRGC rejects Trump's peace talk claims",
+      "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-OzB9vLUnRRaukju8EfelJg",
+      "description": "Salvos hit Tel Aviv and Haifa overnight as Trump postponed strikes on Iran for five days, citing progress in talks Tehran says never happened.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T09:54:04Z",
       "sourceCount": "27 sources"
     },
     {
@@ -1097,28 +1097,28 @@
       "topic": "top",
       "pubDate": "2026-03-18T07:32:16Z",
       "sourceCount": "21 sources"
-    },
-    {
-      "title": "BP locks out 800 union workers at largest Midwest refinery",
-      "url": "https://www.perplexity.ai/page/bp-locks-out-800-union-workers-HEtjUvDnR2CFF1a3HqlLqw",
-      "description": "The lockout at the Whiting, Indiana, facility takes effect March 19 after months of failed contract talks with United Steelworkers members.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T05:58:23Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-24T13:51:17Z",
+  "cached_at": "2026-03-24T14:53:23Z",
   "topics": {
     "top": [
       {
-        "title": "Study finds Europe's last Neanderthals descended from one small group",
-        "url": "https://www.perplexity.ai/page/study-finds-europe-s-last-nean-IU7FziIETl6s5rU1MDiK0g",
-        "description": "New DNA analysis traced nearly all Late Neanderthals to a single lineage that emerged from a climate refuge in southwestern France around 65,000 years ago.",
+        "title": "Russia launches 16 Rassvet satellites to rival Starlink",
+        "url": "https://www.perplexity.ai/page/russia-launches-16-rassvet-sat-BK9BTBQ8TOSEERnHhB2X_g",
+        "description": "Bureau 1440 deployed its first operational batch from Plesetsk Cosmodrome on March 23, targeting commercial broadband service by 2027.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-24T13:38:40Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-24T14:25:17Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Israel to occupy southern Lebanon up to Litani River, defence minister says",
+        "url": "https://www.perplexity.ai/page/israel-to-occupy-southern-leba-2G0lTlYJTj68MPsMF9hIgQ",
+        "description": "Defense Minister Katz declared Israel will seize a \"defensive buffer\" covering nearly a tenth of Lebanon, the first explicit statement of such intent.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T14:14:43Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Japan to release 53M barrels from national oil reserves starting March 26",
@@ -1139,15 +1139,6 @@
         "sourceCount": "45 sources"
       },
       {
-        "title": "UN report finds freshwater fish migrations collapsing worldwide",
-        "url": "https://www.perplexity.ai/page/un-report-finds-freshwater-fis-OnySll.pSMSY.32vgMOnNA",
-        "description": "A sweeping new assessment identifies 325 species needing international protection as migratory freshwater fish populations have plunged 81% since 1970.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T13:38:33Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Gallup: Only 28% of US workers say it's a good time to find a quality job",
         "url": "https://www.perplexity.ai/page/gallup-only-28-of-us-workers-s-VdwPjVWbSEepPHUMAcmtNA",
         "description": "For the first time in Gallup's tracking, more American workers report struggling in their lives than thriving, as job market confidence hits a multiyear low.",
@@ -1157,21 +1148,21 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Iran fires missiles at Israel as IRGC rejects Trump's peace talk claims",
-        "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-OzB9vLUnRRaukju8EfelJg",
-        "description": "Salvos hit Tel Aviv and Haifa overnight as Trump postponed strikes on Iran for five days, citing progress in talks Tehran says never happened.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T09:54:04Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "China mapping ocean floor for submarine warfare, Reuters finds",
         "url": "https://www.perplexity.ai/page/china-mapping-ocean-floor-for-WRZPQzOGRxqXIAIN6EuAdA",
         "description": "A Reuters investigation tracked 42 Chinese research vessels systematically charting seabeds across the Pacific, Indian, and Arctic oceans over five years.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-24T07:56:57Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Iran fires missiles at Israel as IRGC rejects Trump's peace talk claims",
+        "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-OzB9vLUnRRaukju8EfelJg",
+        "description": "Salvos hit Tel Aviv and Haifa overnight as Trump postponed strikes on Iran for five days, citing progress in talks Tehran says never happened.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T09:54:04Z",
         "sourceCount": "27 sources"
       },
       {
@@ -2208,15 +2199,6 @@
         "topic": "top",
         "pubDate": "2026-03-18T07:32:16Z",
         "sourceCount": "21 sources"
-      },
-      {
-        "title": "BP locks out 800 union workers at largest Midwest refinery",
-        "url": "https://www.perplexity.ai/page/bp-locks-out-800-union-workers-HEtjUvDnR2CFF1a3HqlLqw",
-        "description": "The lockout at the Whiting, Indiana, facility takes effect March 19 after months of failed contract talks with United Steelworkers members.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T05:58:23Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
