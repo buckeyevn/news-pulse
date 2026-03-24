@@ -1,31 +1,31 @@
 {
   "stories": [
     {
-      "title": "Saudi crown prince urges Trump to escalate Iran war, deploy ground troops",
-      "url": "https://www.perplexity.ai/page/saudi-crown-prince-urges-trump-tSKokBDtQ.CHndWwxuCB0A",
-      "description": "Mohammed bin Salman has called the U.S.-Israeli campaign a \"historic opportunity\" to topple Tehran's government, according to the New York Times.",
+      "title": "Pilots warned of LaGuardia hazards before deadly crash, CNN review finds",
+      "url": "https://www.perplexity.ai/page/pilots-warned-of-laguardia-haz-K6jtvLAQSIS06yITxC_4Gg",
+      "description": "A CNN review of two years of safety reports revealed repeated warnings about miscommunication and near-misses at the airport before Sunday's fatal collision.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-24T15:47:24Z",
+      "pubDate": "2026-03-24T16:31:51Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Iran war oil crisis revives US renewable energy debate",
+      "url": "https://www.perplexity.ai/page/iran-war-oil-crisis-revives-us-Qud8XD1DQPGQ67a6o8zHVA",
+      "description": "The largest oil supply disruption in history has Democrats pushing clean energy legislation as gas prices top $3.70 a gallon.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T16:18:24Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Iran fears ceasefire talks are a trap to kill its remaining leaders",
+      "url": "https://www.perplexity.ai/page/iran-fears-ceasefire-talks-are-4duYOEaOQqWPXyogxQvlug",
+      "description": "Tehran suspects face-to-face negotiations could be used to target parliament speaker Ghalibaf, one of few surviving senior officials.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T16:06:17Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Russia launches 16 Rassvet satellites to rival Starlink",
-      "url": "https://www.perplexity.ai/page/russia-launches-16-rassvet-sat-BK9BTBQ8TOSEERnHhB2X_g",
-      "description": "Bureau 1440 deployed its first operational batch from Plesetsk Cosmodrome on March 23, targeting commercial broadband service by 2027.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T14:25:17Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Japan to release 53M barrels from national oil reserves starting March 26",
-      "url": "https://www.perplexity.ai/page/japan-to-release-53m-barrels-f-n8fa9MB4RFS.McLFZR.lsg",
-      "description": "The drawdown from 11 stockpiling bases is part of an 80-million-barrel effort and the IEA's coordinated 400-million-barrel emergency release amid the Strait of Hormuz crisis.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T11:46:46Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Senate nears deal to end six-week DHS shutdown after Trump meeting",
@@ -37,13 +37,40 @@
       "sourceCount": "34 sources"
     },
     {
-      "title": "Israel to occupy southern Lebanon up to Litani River, defence minister says",
-      "url": "https://www.perplexity.ai/page/israel-to-occupy-southern-leba-2G0lTlYJTj68MPsMF9hIgQ",
-      "description": "Defense Minister Katz declared Israel will seize a \"defensive buffer\" covering nearly a tenth of Lebanon, the first explicit statement of such intent.",
+      "title": "Taliban frees American academic Dennis Coyle after over a year in detention",
+      "url": "https://www.perplexity.ai/page/taliban-frees-american-academi-Dv79KBHhR5CqJHLAkxtciQ",
+      "description": "Coyle, a 64-year-old linguist held in near-solitary confinement since January 2025, was reunited with his family in Kabul on Eid al-Fitr.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-24T14:14:43Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-03-24T14:47:26Z",
+      "sourceCount": "23 sources"
+    },
+    {
+      "title": "Russia launches 16 Rassvet satellites to rival Starlink",
+      "url": "https://www.perplexity.ai/page/russia-launches-16-rassvet-sat-BK9BTBQ8TOSEERnHhB2X_g",
+      "description": "Bureau 1440 deployed its first operational batch from Plesetsk Cosmodrome on March 23, targeting commercial broadband service by 2027.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T14:25:17Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Saudi crown prince urges Trump to escalate Iran war, deploy ground troops",
+      "url": "https://www.perplexity.ai/page/saudi-crown-prince-urges-trump-tSKokBDtQ.CHndWwxuCB0A",
+      "description": "Mohammed bin Salman has called the U.S.-Israeli campaign a \"historic opportunity\" to topple Tehran's government, according to the New York Times.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T15:47:24Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Japan to release 53M barrels from national oil reserves starting March 26",
+      "url": "https://www.perplexity.ai/page/japan-to-release-53m-barrels-f-n8fa9MB4RFS.McLFZR.lsg",
+      "description": "The drawdown from 11 stockpiling bases is part of an 80-million-barrel effort and the IEA's coordinated 400-million-barrel emergency release amid the Strait of Hormuz crisis.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T11:46:46Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Gallup: Only 28% of US workers say it's a good time to find a quality job",
@@ -55,22 +82,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "US stock futures slip as Iran denies peace talks with Washington",
-      "url": "https://www.perplexity.ai/page/us-stock-futures-slip-as-iran-JEz2eyQHQL6zTsoa_Uvmyw",
-      "description": "Monday's rally faded after Tehran rejected Trump's claims of \"productive\" negotiations, sending oil prices back up and rattling investors.",
+      "title": "Israel to occupy southern Lebanon up to Litani River, defence minister says",
+      "url": "https://www.perplexity.ai/page/israel-to-occupy-southern-leba-2G0lTlYJTj68MPsMF9hIgQ",
+      "description": "Defense Minister Katz declared Israel will seize a \"defensive buffer\" covering nearly a tenth of Lebanon, the first explicit statement of such intent.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-24T11:23:40Z",
-      "sourceCount": "45 sources"
-    },
-    {
-      "title": "Saudi Arabia, UAE edge toward joining war on Iran",
-      "url": "https://www.perplexity.ai/page/saudi-arabia-uae-edge-toward-j-NSmFxV.qRlOjRfcEgVypQA",
-      "description": "Riyadh opened King Fahd Air Base to U.S. forces while the UAE dismantled Iranian institutions in Dubai, the Wall Street Journal reported.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T08:01:06Z",
-      "sourceCount": "25 sources"
+      "pubDate": "2026-03-24T14:14:43Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "China mapping ocean floor for submarine warfare, Reuters finds",
@@ -116,6 +134,15 @@
       "topic": "top",
       "pubDate": "2026-03-24T05:54:08Z",
       "sourceCount": "35 sources"
+    },
+    {
+      "title": "Saudi Arabia, UAE edge toward joining war on Iran",
+      "url": "https://www.perplexity.ai/page/saudi-arabia-uae-edge-toward-j-NSmFxV.qRlOjRfcEgVypQA",
+      "description": "Riyadh opened King Fahd Air Base to U.S. forces while the UAE dismantled Iranian institutions in Dubai, the Wall Street Journal reported.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T08:01:06Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "ISS images of Russian missile strike on Kyiv verified by analysts",
@@ -1079,55 +1106,37 @@
       "topic": "top",
       "pubDate": "2026-03-18T18:08:24Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Antarctic ice cores show ocean heat, not CO2, drove ancient climate shifts",
-      "url": "https://www.perplexity.ai/page/antarctic-ice-cores-show-ocean-0rkXuH1bTSm7GxCED_UIYw",
-      "description": "Two studies published Wednesday in Nature find that global ocean temperatures swung dramatically over 3 million years while greenhouse gas levels stayed broadly stable.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T18:05:45Z",
-      "sourceCount": "75 sources"
-    },
-    {
-      "title": "Iran war squeezes US farmers as fertilizer costs soar ahead of planting",
-      "url": "https://www.perplexity.ai/page/iran-war-squeezes-us-farmers-a-6_ao7v3JSRuEZXT854pMXA",
-      "description": "Some farmers who haven't preordered fertilizer may not secure supplies for spring planting, the Farm Bureau Federation warns.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T18:04:22Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-24T16:07:28Z",
+  "cached_at": "2026-03-24T17:14:19Z",
   "topics": {
     "top": [
       {
-        "title": "Saudi crown prince urges Trump to escalate Iran war, deploy ground troops",
-        "url": "https://www.perplexity.ai/page/saudi-crown-prince-urges-trump-tSKokBDtQ.CHndWwxuCB0A",
-        "description": "Mohammed bin Salman has called the U.S.-Israeli campaign a \"historic opportunity\" to topple Tehran's government, according to the New York Times.",
+        "title": "Pilots warned of LaGuardia hazards before deadly crash, CNN review finds",
+        "url": "https://www.perplexity.ai/page/pilots-warned-of-laguardia-haz-K6jtvLAQSIS06yITxC_4Gg",
+        "description": "A CNN review of two years of safety reports revealed repeated warnings about miscommunication and near-misses at the airport before Sunday's fatal collision.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-24T15:47:24Z",
+        "pubDate": "2026-03-24T16:31:51Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Iran war oil crisis revives US renewable energy debate",
+        "url": "https://www.perplexity.ai/page/iran-war-oil-crisis-revives-us-Qud8XD1DQPGQ67a6o8zHVA",
+        "description": "The largest oil supply disruption in history has Democrats pushing clean energy legislation as gas prices top $3.70 a gallon.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T16:18:24Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Iran fears ceasefire talks are a trap to kill its remaining leaders",
+        "url": "https://www.perplexity.ai/page/iran-fears-ceasefire-talks-are-4duYOEaOQqWPXyogxQvlug",
+        "description": "Tehran suspects face-to-face negotiations could be used to target parliament speaker Ghalibaf, one of few surviving senior officials.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T16:06:17Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Russia launches 16 Rassvet satellites to rival Starlink",
-        "url": "https://www.perplexity.ai/page/russia-launches-16-rassvet-sat-BK9BTBQ8TOSEERnHhB2X_g",
-        "description": "Bureau 1440 deployed its first operational batch from Plesetsk Cosmodrome on March 23, targeting commercial broadband service by 2027.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T14:25:17Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Japan to release 53M barrels from national oil reserves starting March 26",
-        "url": "https://www.perplexity.ai/page/japan-to-release-53m-barrels-f-n8fa9MB4RFS.McLFZR.lsg",
-        "description": "The drawdown from 11 stockpiling bases is part of an 80-million-barrel effort and the IEA's coordinated 400-million-barrel emergency release amid the Strait of Hormuz crisis.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T11:46:46Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Senate nears deal to end six-week DHS shutdown after Trump meeting",
@@ -1139,13 +1148,40 @@
         "sourceCount": "34 sources"
       },
       {
-        "title": "Israel to occupy southern Lebanon up to Litani River, defence minister says",
-        "url": "https://www.perplexity.ai/page/israel-to-occupy-southern-leba-2G0lTlYJTj68MPsMF9hIgQ",
-        "description": "Defense Minister Katz declared Israel will seize a \"defensive buffer\" covering nearly a tenth of Lebanon, the first explicit statement of such intent.",
+        "title": "Taliban frees American academic Dennis Coyle after over a year in detention",
+        "url": "https://www.perplexity.ai/page/taliban-frees-american-academi-Dv79KBHhR5CqJHLAkxtciQ",
+        "description": "Coyle, a 64-year-old linguist held in near-solitary confinement since January 2025, was reunited with his family in Kabul on Eid al-Fitr.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-24T14:14:43Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-03-24T14:47:26Z",
+        "sourceCount": "23 sources"
+      },
+      {
+        "title": "Russia launches 16 Rassvet satellites to rival Starlink",
+        "url": "https://www.perplexity.ai/page/russia-launches-16-rassvet-sat-BK9BTBQ8TOSEERnHhB2X_g",
+        "description": "Bureau 1440 deployed its first operational batch from Plesetsk Cosmodrome on March 23, targeting commercial broadband service by 2027.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T14:25:17Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Saudi crown prince urges Trump to escalate Iran war, deploy ground troops",
+        "url": "https://www.perplexity.ai/page/saudi-crown-prince-urges-trump-tSKokBDtQ.CHndWwxuCB0A",
+        "description": "Mohammed bin Salman has called the U.S.-Israeli campaign a \"historic opportunity\" to topple Tehran's government, according to the New York Times.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T15:47:24Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Japan to release 53M barrels from national oil reserves starting March 26",
+        "url": "https://www.perplexity.ai/page/japan-to-release-53m-barrels-f-n8fa9MB4RFS.McLFZR.lsg",
+        "description": "The drawdown from 11 stockpiling bases is part of an 80-million-barrel effort and the IEA's coordinated 400-million-barrel emergency release amid the Strait of Hormuz crisis.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T11:46:46Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Gallup: Only 28% of US workers say it's a good time to find a quality job",
@@ -1157,22 +1193,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "US stock futures slip as Iran denies peace talks with Washington",
-        "url": "https://www.perplexity.ai/page/us-stock-futures-slip-as-iran-JEz2eyQHQL6zTsoa_Uvmyw",
-        "description": "Monday's rally faded after Tehran rejected Trump's claims of \"productive\" negotiations, sending oil prices back up and rattling investors.",
+        "title": "Israel to occupy southern Lebanon up to Litani River, defence minister says",
+        "url": "https://www.perplexity.ai/page/israel-to-occupy-southern-leba-2G0lTlYJTj68MPsMF9hIgQ",
+        "description": "Defense Minister Katz declared Israel will seize a \"defensive buffer\" covering nearly a tenth of Lebanon, the first explicit statement of such intent.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-24T11:23:40Z",
-        "sourceCount": "45 sources"
-      },
-      {
-        "title": "Saudi Arabia, UAE edge toward joining war on Iran",
-        "url": "https://www.perplexity.ai/page/saudi-arabia-uae-edge-toward-j-NSmFxV.qRlOjRfcEgVypQA",
-        "description": "Riyadh opened King Fahd Air Base to U.S. forces while the UAE dismantled Iranian institutions in Dubai, the Wall Street Journal reported.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T08:01:06Z",
-        "sourceCount": "25 sources"
+        "pubDate": "2026-03-24T14:14:43Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "China mapping ocean floor for submarine warfare, Reuters finds",
@@ -1218,6 +1245,15 @@
         "topic": "top",
         "pubDate": "2026-03-24T05:54:08Z",
         "sourceCount": "35 sources"
+      },
+      {
+        "title": "Saudi Arabia, UAE edge toward joining war on Iran",
+        "url": "https://www.perplexity.ai/page/saudi-arabia-uae-edge-toward-j-NSmFxV.qRlOjRfcEgVypQA",
+        "description": "Riyadh opened King Fahd Air Base to U.S. forces while the UAE dismantled Iranian institutions in Dubai, the Wall Street Journal reported.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T08:01:06Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "ISS images of Russian missile strike on Kyiv verified by analysts",
@@ -2180,24 +2216,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-18T18:08:24Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Antarctic ice cores show ocean heat, not CO2, drove ancient climate shifts",
-        "url": "https://www.perplexity.ai/page/antarctic-ice-cores-show-ocean-0rkXuH1bTSm7GxCED_UIYw",
-        "description": "Two studies published Wednesday in Nature find that global ocean temperatures swung dramatically over 3 million years while greenhouse gas levels stayed broadly stable.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T18:05:45Z",
-        "sourceCount": "75 sources"
-      },
-      {
-        "title": "Iran war squeezes US farmers as fertilizer costs soar ahead of planting",
-        "url": "https://www.perplexity.ai/page/iran-war-squeezes-us-farmers-a-6_ao7v3JSRuEZXT854pMXA",
-        "description": "Some farmers who haven't preordered fertilizer may not secure supplies for spring planting, the Farm Bureau Federation warns.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T18:04:22Z",
         "sourceCount": "15 sources"
       }
     ],
