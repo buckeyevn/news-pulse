@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Sunken Soviet sub is leaking radioactive material, study finds",
+      "url": "https://www.perplexity.ai/page/sunken-soviet-sub-is-leaking-r-31bv2h4yS66cxO_4dtAT6A",
+      "description": "A new PNAS study confirms the Komsomolets submarine is releasing strontium, cesium, uranium, and plutonium into the Norwegian Sea from its corroding hull.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T07:33:54Z",
+      "sourceCount": "35 sources"
+    },
+    {
+      "title": "Magnitude 7.6 earthquake strikes near Tonga; no tsunami threat",
+      "url": "https://www.perplexity.ai/page/magnitude-7-6-earthquake-strik-S_.mDH.UQm2xSSuHMg2GFg",
+      "description": "The deep quake hit 153 km west of Neiafu on Tuesday with no immediate reports of damage or casualties, according to USGS.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T06:12:31Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "AWS Bahrain region disrupted by drones for second time this month",
       "url": "https://www.perplexity.ai/page/aws-bahrain-region-disrupted-b-ebLMwO8LS_iRhh0ByFuseg",
       "description": "Amazon confirmed drone activity knocked out its cloud computing region in Bahrain again, as the company urges customers to migrate workloads elsewhere.",
@@ -1223,20 +1241,29 @@
       "topic": "top",
       "pubDate": "2026-03-17T14:39:51Z",
       "sourceCount": "78 sources"
-    },
-    {
-      "title": "AlphaFold Database adds millions of protein complex structures for the first time",
-      "url": "https://www.perplexity.ai/page/alphafold-database-adds-millio-fNY_zxXUS76WWhBX31l4qA",
-      "description": "The expansion, a collaboration between EMBL-EBI, Google DeepMind, NVIDIA, and Seoul National University, targets proteins tied to human health and disease.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T14:19:33Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-24T06:45:30Z",
+  "cached_at": "2026-03-24T07:44:12Z",
   "topics": {
     "top": [
+      {
+        "title": "Sunken Soviet sub is leaking radioactive material, study finds",
+        "url": "https://www.perplexity.ai/page/sunken-soviet-sub-is-leaking-r-31bv2h4yS66cxO_4dtAT6A",
+        "description": "A new PNAS study confirms the Komsomolets submarine is releasing strontium, cesium, uranium, and plutonium into the Norwegian Sea from its corroding hull.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T07:33:54Z",
+        "sourceCount": "35 sources"
+      },
+      {
+        "title": "Magnitude 7.6 earthquake strikes near Tonga; no tsunami threat",
+        "url": "https://www.perplexity.ai/page/magnitude-7-6-earthquake-strik-S_.mDH.UQm2xSSuHMg2GFg",
+        "description": "The deep quake hit 153 km west of Neiafu on Tuesday with no immediate reports of damage or casualties, according to USGS.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T06:12:31Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "AWS Bahrain region disrupted by drones for second time this month",
         "url": "https://www.perplexity.ai/page/aws-bahrain-region-disrupted-b-ebLMwO8LS_iRhh0ByFuseg",
@@ -2460,15 +2487,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T14:39:51Z",
         "sourceCount": "78 sources"
-      },
-      {
-        "title": "AlphaFold Database adds millions of protein complex structures for the first time",
-        "url": "https://www.perplexity.ai/page/alphafold-database-adds-millio-fNY_zxXUS76WWhBX31l4qA",
-        "description": "The expansion, a collaboration between EMBL-EBI, Google DeepMind, NVIDIA, and Seoul National University, targets proteins tied to human health and disease.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T14:19:33Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
