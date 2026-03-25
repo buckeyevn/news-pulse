@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "US Army raises max enlistment age to 42, eases marijuana rules",
-      "url": "https://www.perplexity.ai/page/us-army-raises-max-enlistment-hJBiSf.2R2mqJ8Lj4t91ig",
-      "description": "Updated regulation published March 20 also drops the waiver requirement for a single marijuana possession conviction to speed up recruiting.",
+      "title": "New York Times accuses Pentagon of defying court order on press access",
+      "url": "https://www.perplexity.ai/page/new-york-times-accuses-pentago-ubGFOjUTSbWz.FJi_G.QPw",
+      "description": "The paper filed a new motion Tuesday after the department closed its press corridor and imposed escort requirements days after a judge struck down its media policy.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-25T01:57:22Z",
-      "sourceCount": "62 sources"
+      "pubDate": "2026-03-25T02:58:58Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Prosecutor admitted no crime evidence in DOJ probe of Fed's Powell",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-03-25T01:45:06Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "US Army raises max enlistment age to 42, eases marijuana rules",
+      "url": "https://www.perplexity.ai/page/us-army-raises-max-enlistment-hJBiSf.2R2mqJ8Lj4t91ig",
+      "description": "Updated regulation published March 20 also drops the waiver requirement for a single marijuana possession conviction to speed up recruiting.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T01:57:22Z",
+      "sourceCount": "62 sources"
     },
     {
       "title": "Oil drops as US sends Iran 15-point ceasefire proposal",
@@ -1340,28 +1349,19 @@
       "topic": "top",
       "pubDate": "2026-03-19T09:15:49Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "BOJ holds rates steady, warns Middle East oil shock could fuel inflation",
-      "url": "https://www.perplexity.ai/page/boj-holds-rates-steady-warns-m-xB0lRvsBRDOiQbltKQy2NQ",
-      "description": "The central bank kept its policy rate at 0.75% as surging energy prices from the Iran conflict complicate the outlook for further tightening.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T07:34:39Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-25T05:08:36Z",
+  "cached_at": "2026-03-25T06:14:33Z",
   "topics": {
     "top": [
       {
-        "title": "US Army raises max enlistment age to 42, eases marijuana rules",
-        "url": "https://www.perplexity.ai/page/us-army-raises-max-enlistment-hJBiSf.2R2mqJ8Lj4t91ig",
-        "description": "Updated regulation published March 20 also drops the waiver requirement for a single marijuana possession conviction to speed up recruiting.",
+        "title": "New York Times accuses Pentagon of defying court order on press access",
+        "url": "https://www.perplexity.ai/page/new-york-times-accuses-pentago-ubGFOjUTSbWz.FJi_G.QPw",
+        "description": "The paper filed a new motion Tuesday after the department closed its press corridor and imposed escort requirements days after a judge struck down its media policy.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-25T01:57:22Z",
-        "sourceCount": "62 sources"
+        "pubDate": "2026-03-25T02:58:58Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Prosecutor admitted no crime evidence in DOJ probe of Fed's Powell",
@@ -1380,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-03-25T01:45:06Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "US Army raises max enlistment age to 42, eases marijuana rules",
+        "url": "https://www.perplexity.ai/page/us-army-raises-max-enlistment-hJBiSf.2R2mqJ8Lj4t91ig",
+        "description": "Updated regulation published March 20 also drops the waiver requirement for a single marijuana possession conviction to speed up recruiting.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T01:57:22Z",
+        "sourceCount": "62 sources"
       },
       {
         "title": "Oil drops as US sends Iran 15-point ceasefire proposal",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-19T09:15:49Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "BOJ holds rates steady, warns Middle East oil shock could fuel inflation",
-        "url": "https://www.perplexity.ai/page/boj-holds-rates-steady-warns-m-xB0lRvsBRDOiQbltKQy2NQ",
-        "description": "The central bank kept its policy rate at 0.75% as surging energy prices from the Iran conflict complicate the outlook for further tightening.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T07:34:39Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
