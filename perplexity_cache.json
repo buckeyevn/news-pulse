@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "U.S. gas prices hit $3.98 as lawmakers push tax suspensions",
+      "url": "https://www.perplexity.ai/page/u-s-gas-prices-hit-3-98-as-law-U4bm6CfuSSmn_fWW47jprQ",
+      "description": "The national average has surged more than $1 in under a month, driven by the Iran conflict, with Georgia suspending its gas tax and Congress weighing a federal pause.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T12:26:23Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "US ships 30,000 barrels of fuel to Cuba's private sector",
+      "url": "https://www.perplexity.ai/page/us-ships-30000-barrels-of-fuel-jieOjAI7RlCO5e5oKBi9sg",
+      "description": "The Trump administration's dual strategy of blockading Cuba's government while supplying private businesses is gaining traction, according to Reuters.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T12:23:04Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "NASA confirms Artemis II is go for April 1 moon launch",
+      "url": "https://www.perplexity.ai/page/nasa-confirms-artemis-ii-is-go-hSrsZ2AHTU.Bcp2N_I1D1Q",
+      "description": "Four astronauts are set to become the first humans to travel to the moon in over 50 years aboard a 10-day test flight.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T12:20:27Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "New York Times accuses Pentagon of defying court order on press access",
+      "url": "https://www.perplexity.ai/page/new-york-times-accuses-pentago-ubGFOjUTSbWz.FJi_G.QPw",
+      "description": "The paper filed a new motion Tuesday after the department closed its press corridor and imposed escort requirements days after a judge struck down its media policy.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T02:58:58Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Trump sends 15-point peace plan to Iran as Hormuz opens to some ships",
       "url": "https://www.perplexity.ai/page/trump-sends-15-point-peace-pla-NhoQWjwbRPK0VT_B.nmWwA",
       "description": "Iran told the IMO that \"non-hostile\" vessels may transit the Strait of Hormuz, while the U.S. conveyed a ceasefire proposal through Pakistan.",
@@ -19,13 +55,13 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "New York Times accuses Pentagon of defying court order on press access",
-      "url": "https://www.perplexity.ai/page/new-york-times-accuses-pentago-ubGFOjUTSbWz.FJi_G.QPw",
-      "description": "The paper filed a new motion Tuesday after the department closed its press corridor and imposed escort requirements days after a judge struck down its media policy.",
+      "title": "US Army raises max enlistment age to 42, eases marijuana rules",
+      "url": "https://www.perplexity.ai/page/us-army-raises-max-enlistment-hJBiSf.2R2mqJ8Lj4t91ig",
+      "description": "Updated regulation published March 20 also drops the waiver requirement for a single marijuana possession conviction to speed up recruiting.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-25T02:58:58Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-25T01:57:22Z",
+      "sourceCount": "62 sources"
     },
     {
       "title": "Prosecutor admitted no crime evidence in DOJ probe of Fed's Powell",
@@ -46,15 +82,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "US Army raises max enlistment age to 42, eases marijuana rules",
-      "url": "https://www.perplexity.ai/page/us-army-raises-max-enlistment-hJBiSf.2R2mqJ8Lj4t91ig",
-      "description": "Updated regulation published March 20 also drops the waiver requirement for a single marijuana possession conviction to speed up recruiting.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T01:57:22Z",
-      "sourceCount": "62 sources"
-    },
-    {
       "title": "Israeli airstrike hits Christian town north of Beirut for first time",
       "url": "https://www.perplexity.ai/page/israeli-airstrike-hits-christi-ghMBlElkSESJD889wBJGlA",
       "description": "The strike on Sahel Alma marks a widening of Israel's air campaign into previously untouched areas of Lebanon amid the escalating war with Hezbollah.",
@@ -64,15 +91,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "SpaceX aims to file for record-setting IPO in the next two weeks",
-      "url": "https://www.perplexity.ai/page/spacex-aims-to-file-for-record-nONBVN4bR_2QfF.uTj.NMA",
-      "description": "The rocket and satellite company is moving toward what could be the largest public offering in history, with a June listing as the target.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T00:37:25Z",
-      "sourceCount": "65 sources"
-    },
-    {
       "title": "US assessing how to resume nuclear weapons testing",
       "url": "https://www.perplexity.ai/page/us-assessing-how-to-resume-nuc-g5WuWF3.RbmwHdjReGxzNg",
       "description": "Undersecretary DiNanno told lawmakers the administration has made no decisions on a testing program but did not rule out underground explosive tests.",
@@ -80,6 +98,15 @@
       "topic": "top",
       "pubDate": "2026-03-25T00:58:37Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "SpaceX aims to file for record-setting IPO in the next two weeks",
+      "url": "https://www.perplexity.ai/page/spacex-aims-to-file-for-record-nONBVN4bR_2QfF.uTj.NMA",
+      "description": "The rocket and satellite company is moving toward what could be the largest public offering in history, with a June listing as the target.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:37:25Z",
+      "sourceCount": "65 sources"
     },
     {
       "title": "DHS shutdown delayed NTSB investigators probing deadly LaGuardia crash",
@@ -640,13 +667,13 @@
       "sourceCount": "45 sources"
     },
     {
-      "title": "Pakistan emerges as lead mediator between US and Iran",
-      "url": "https://www.perplexity.ai/page/pakistan-emerges-as-lead-media-Vs_tlmgvSeyQFpFyKZFxeQ",
-      "description": "Army chief Munir spoke with Trump on Sunday as Islamabad pitched hosting peace talks this week, according to the Financial Times.",
+      "title": "China urges US, Israel to halt Middle East fighting, warns of 'vicious cycle'",
+      "url": "https://www.perplexity.ai/page/china-urges-us-israel-to-halt-ZXdjpwrLSdWpryXLdiH_9Q",
+      "description": "Beijing's diplomatic push comes as Trump postpones threatened strikes on Iranian power plants for five days amid disputed peace talks with Tehran.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-23T21:14:21Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-23T19:33:56Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Toyota invests $1B in Kentucky, Indiana plants",
@@ -667,21 +694,12 @@
       "sourceCount": "35 sources"
     },
     {
-      "title": "China urges US, Israel to halt Middle East fighting, warns of 'vicious cycle'",
-      "url": "https://www.perplexity.ai/page/china-urges-us-israel-to-halt-ZXdjpwrLSdWpryXLdiH_9Q",
-      "description": "Beijing's diplomatic push comes as Trump postpones threatened strikes on Iranian power plants for five days amid disputed peace talks with Tehran.",
+      "title": "Trump admin pays TotalEnergies $928M to exit offshore wind",
+      "url": "https://www.perplexity.ai/page/trump-admin-pays-totalenergies-PVPU0LVGSVu3OJ1gE890tw",
+      "description": "The deal cancels two East Coast wind leases and redirects the funds into LNG and oil production, marking a new tactic after courts blocked project suspensions.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-23T19:33:56Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Wright calls oil disruptions 'temporary,' urges producers to boost output",
-      "url": "https://www.perplexity.ai/page/wright-calls-oil-disruptions-t-RiChN1yTRO.Y1LgsG.f4kw",
-      "description": "At CERAWeek, the energy secretary said prices haven't risen enough to curb demand as the U.S. ramps up its historic SPR drawdown.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T15:54:47Z",
+      "pubDate": "2026-03-23T17:49:01Z",
       "sourceCount": "30 sources"
     },
     {
@@ -694,15 +712,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Trump tells ICE agents to drop masks at airports as deployment begins",
-      "url": "https://www.perplexity.ai/page/trump-tells-ice-agents-to-drop-Rb32EpISSkCVyzIAES.Pzw",
-      "description": "ICE agents arrived at 14 major U.S. airports Monday to ease TSA staffing shortages caused by the five-week partial DHS shutdown.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T16:07:32Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "Both pilots killed as jet hits fire truck at LaGuardia",
       "url": "https://www.perplexity.ai/page/both-pilots-killed-as-jet-hits-750hnM4QSo.2mLUYWOhSOA",
       "description": "Air traffic control audio reveals a controller frantically shouting \"stop\" before an Air Canada Express plane struck a fire truck on the runway.",
@@ -712,6 +721,24 @@
       "sourceCount": "23 sources"
     },
     {
+      "title": "Trump tells ICE agents to drop masks at airports as deployment begins",
+      "url": "https://www.perplexity.ai/page/trump-tells-ice-agents-to-drop-Rb32EpISSkCVyzIAES.Pzw",
+      "description": "ICE agents arrived at 14 major U.S. airports Monday to ease TSA staffing shortages caused by the five-week partial DHS shutdown.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T16:07:32Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Wright calls oil disruptions 'temporary,' urges producers to boost output",
+      "url": "https://www.perplexity.ai/page/wright-calls-oil-disruptions-t-RiChN1yTRO.Y1LgsG.f4kw",
+      "description": "At CERAWeek, the energy secretary said prices haven't risen enough to curb demand as the U.S. ramps up its historic SPR drawdown.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T15:54:47Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Newark Airport grounds flights after smoke forces tower evacuation",
       "url": "https://www.perplexity.ai/page/newark-airport-grounds-flights-R27P_lYUQY.xQTJ_Z.YBWg",
       "description": "An elevator malfunction caused a burning smell that led controllers to evacuate to a backup facility, halting arrivals and departures.",
@@ -719,15 +746,6 @@
       "topic": "top",
       "pubDate": "2026-03-23T13:11:18Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Trump admin pays TotalEnergies $928M to exit offshore wind",
-      "url": "https://www.perplexity.ai/page/trump-admin-pays-totalenergies-PVPU0LVGSVu3OJ1gE890tw",
-      "description": "The deal cancels two East Coast wind leases and redirects the funds into LNG and oil production, marking a new tactic after courts blocked project suspensions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T17:49:01Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "Sinopec says it won't buy Iranian crude despite US sanctions waiver",
@@ -1313,38 +1331,47 @@
       "topic": "top",
       "pubDate": "2026-03-19T10:00:54Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "US intelligence says China not planning Taiwan invasion in 2027",
-      "url": "https://www.perplexity.ai/page/us-intelligence-says-china-not-ubQamz0lT4KmSLoaoTpfUg",
-      "description": "The annual threat assessment found Beijing prefers unification without force and has no fixed timeline, softening earlier Pentagon warnings.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T09:15:49Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "BOJ holds rates steady, warns Middle East oil shock could fuel inflation",
-      "url": "https://www.perplexity.ai/page/boj-holds-rates-steady-warns-m-xB0lRvsBRDOiQbltKQy2NQ",
-      "description": "The central bank kept its policy rate at 0.75% as surging energy prices from the Iran conflict complicate the outlook for further tightening.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T07:34:39Z",
-      "sourceCount": "42 sources"
-    },
-    {
-      "title": "IAEA chief says status of Iran's new underground enrichment site is unknown",
-      "url": "https://www.perplexity.ai/page/iaea-chief-says-status-of-iran-1B8nJ.gWRTqcZSTM8C6Bdw",
-      "description": "Rafael Grossi said inspectors have never visited the Isfahan facility and cannot determine whether centrifuges have been installed.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T07:04:03Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-25T12:04:39Z",
+  "cached_at": "2026-03-25T13:48:28Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. gas prices hit $3.98 as lawmakers push tax suspensions",
+        "url": "https://www.perplexity.ai/page/u-s-gas-prices-hit-3-98-as-law-U4bm6CfuSSmn_fWW47jprQ",
+        "description": "The national average has surged more than $1 in under a month, driven by the Iran conflict, with Georgia suspending its gas tax and Congress weighing a federal pause.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T12:26:23Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "US ships 30,000 barrels of fuel to Cuba's private sector",
+        "url": "https://www.perplexity.ai/page/us-ships-30000-barrels-of-fuel-jieOjAI7RlCO5e5oKBi9sg",
+        "description": "The Trump administration's dual strategy of blockading Cuba's government while supplying private businesses is gaining traction, according to Reuters.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T12:23:04Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "NASA confirms Artemis II is go for April 1 moon launch",
+        "url": "https://www.perplexity.ai/page/nasa-confirms-artemis-ii-is-go-hSrsZ2AHTU.Bcp2N_I1D1Q",
+        "description": "Four astronauts are set to become the first humans to travel to the moon in over 50 years aboard a 10-day test flight.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T12:20:27Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "New York Times accuses Pentagon of defying court order on press access",
+        "url": "https://www.perplexity.ai/page/new-york-times-accuses-pentago-ubGFOjUTSbWz.FJi_G.QPw",
+        "description": "The paper filed a new motion Tuesday after the department closed its press corridor and imposed escort requirements days after a judge struck down its media policy.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T02:58:58Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Trump sends 15-point peace plan to Iran as Hormuz opens to some ships",
         "url": "https://www.perplexity.ai/page/trump-sends-15-point-peace-pla-NhoQWjwbRPK0VT_B.nmWwA",
@@ -1364,13 +1391,13 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "New York Times accuses Pentagon of defying court order on press access",
-        "url": "https://www.perplexity.ai/page/new-york-times-accuses-pentago-ubGFOjUTSbWz.FJi_G.QPw",
-        "description": "The paper filed a new motion Tuesday after the department closed its press corridor and imposed escort requirements days after a judge struck down its media policy.",
+        "title": "US Army raises max enlistment age to 42, eases marijuana rules",
+        "url": "https://www.perplexity.ai/page/us-army-raises-max-enlistment-hJBiSf.2R2mqJ8Lj4t91ig",
+        "description": "Updated regulation published March 20 also drops the waiver requirement for a single marijuana possession conviction to speed up recruiting.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-25T02:58:58Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-25T01:57:22Z",
+        "sourceCount": "62 sources"
       },
       {
         "title": "Prosecutor admitted no crime evidence in DOJ probe of Fed's Powell",
@@ -1391,15 +1418,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "US Army raises max enlistment age to 42, eases marijuana rules",
-        "url": "https://www.perplexity.ai/page/us-army-raises-max-enlistment-hJBiSf.2R2mqJ8Lj4t91ig",
-        "description": "Updated regulation published March 20 also drops the waiver requirement for a single marijuana possession conviction to speed up recruiting.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T01:57:22Z",
-        "sourceCount": "62 sources"
-      },
-      {
         "title": "Israeli airstrike hits Christian town north of Beirut for first time",
         "url": "https://www.perplexity.ai/page/israeli-airstrike-hits-christi-ghMBlElkSESJD889wBJGlA",
         "description": "The strike on Sahel Alma marks a widening of Israel's air campaign into previously untouched areas of Lebanon amid the escalating war with Hezbollah.",
@@ -1409,15 +1427,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "SpaceX aims to file for record-setting IPO in the next two weeks",
-        "url": "https://www.perplexity.ai/page/spacex-aims-to-file-for-record-nONBVN4bR_2QfF.uTj.NMA",
-        "description": "The rocket and satellite company is moving toward what could be the largest public offering in history, with a June listing as the target.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T00:37:25Z",
-        "sourceCount": "65 sources"
-      },
-      {
         "title": "US assessing how to resume nuclear weapons testing",
         "url": "https://www.perplexity.ai/page/us-assessing-how-to-resume-nuc-g5WuWF3.RbmwHdjReGxzNg",
         "description": "Undersecretary DiNanno told lawmakers the administration has made no decisions on a testing program but did not rule out underground explosive tests.",
@@ -1425,6 +1434,15 @@
         "topic": "top",
         "pubDate": "2026-03-25T00:58:37Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "SpaceX aims to file for record-setting IPO in the next two weeks",
+        "url": "https://www.perplexity.ai/page/spacex-aims-to-file-for-record-nONBVN4bR_2QfF.uTj.NMA",
+        "description": "The rocket and satellite company is moving toward what could be the largest public offering in history, with a June listing as the target.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:37:25Z",
+        "sourceCount": "65 sources"
       },
       {
         "title": "DHS shutdown delayed NTSB investigators probing deadly LaGuardia crash",
@@ -1985,13 +2003,13 @@
         "sourceCount": "45 sources"
       },
       {
-        "title": "Pakistan emerges as lead mediator between US and Iran",
-        "url": "https://www.perplexity.ai/page/pakistan-emerges-as-lead-media-Vs_tlmgvSeyQFpFyKZFxeQ",
-        "description": "Army chief Munir spoke with Trump on Sunday as Islamabad pitched hosting peace talks this week, according to the Financial Times.",
+        "title": "China urges US, Israel to halt Middle East fighting, warns of 'vicious cycle'",
+        "url": "https://www.perplexity.ai/page/china-urges-us-israel-to-halt-ZXdjpwrLSdWpryXLdiH_9Q",
+        "description": "Beijing's diplomatic push comes as Trump postpones threatened strikes on Iranian power plants for five days amid disputed peace talks with Tehran.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-23T21:14:21Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-23T19:33:56Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Toyota invests $1B in Kentucky, Indiana plants",
@@ -2012,21 +2030,12 @@
         "sourceCount": "35 sources"
       },
       {
-        "title": "China urges US, Israel to halt Middle East fighting, warns of 'vicious cycle'",
-        "url": "https://www.perplexity.ai/page/china-urges-us-israel-to-halt-ZXdjpwrLSdWpryXLdiH_9Q",
-        "description": "Beijing's diplomatic push comes as Trump postpones threatened strikes on Iranian power plants for five days amid disputed peace talks with Tehran.",
+        "title": "Trump admin pays TotalEnergies $928M to exit offshore wind",
+        "url": "https://www.perplexity.ai/page/trump-admin-pays-totalenergies-PVPU0LVGSVu3OJ1gE890tw",
+        "description": "The deal cancels two East Coast wind leases and redirects the funds into LNG and oil production, marking a new tactic after courts blocked project suspensions.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-23T19:33:56Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Wright calls oil disruptions 'temporary,' urges producers to boost output",
-        "url": "https://www.perplexity.ai/page/wright-calls-oil-disruptions-t-RiChN1yTRO.Y1LgsG.f4kw",
-        "description": "At CERAWeek, the energy secretary said prices haven't risen enough to curb demand as the U.S. ramps up its historic SPR drawdown.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T15:54:47Z",
+        "pubDate": "2026-03-23T17:49:01Z",
         "sourceCount": "30 sources"
       },
       {
@@ -2039,15 +2048,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Trump tells ICE agents to drop masks at airports as deployment begins",
-        "url": "https://www.perplexity.ai/page/trump-tells-ice-agents-to-drop-Rb32EpISSkCVyzIAES.Pzw",
-        "description": "ICE agents arrived at 14 major U.S. airports Monday to ease TSA staffing shortages caused by the five-week partial DHS shutdown.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T16:07:32Z",
-        "sourceCount": "26 sources"
-      },
-      {
         "title": "Both pilots killed as jet hits fire truck at LaGuardia",
         "url": "https://www.perplexity.ai/page/both-pilots-killed-as-jet-hits-750hnM4QSo.2mLUYWOhSOA",
         "description": "Air traffic control audio reveals a controller frantically shouting \"stop\" before an Air Canada Express plane struck a fire truck on the runway.",
@@ -2057,6 +2057,24 @@
         "sourceCount": "23 sources"
       },
       {
+        "title": "Trump tells ICE agents to drop masks at airports as deployment begins",
+        "url": "https://www.perplexity.ai/page/trump-tells-ice-agents-to-drop-Rb32EpISSkCVyzIAES.Pzw",
+        "description": "ICE agents arrived at 14 major U.S. airports Monday to ease TSA staffing shortages caused by the five-week partial DHS shutdown.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T16:07:32Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Wright calls oil disruptions 'temporary,' urges producers to boost output",
+        "url": "https://www.perplexity.ai/page/wright-calls-oil-disruptions-t-RiChN1yTRO.Y1LgsG.f4kw",
+        "description": "At CERAWeek, the energy secretary said prices haven't risen enough to curb demand as the U.S. ramps up its historic SPR drawdown.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T15:54:47Z",
+        "sourceCount": "30 sources"
+      },
+      {
         "title": "Newark Airport grounds flights after smoke forces tower evacuation",
         "url": "https://www.perplexity.ai/page/newark-airport-grounds-flights-R27P_lYUQY.xQTJ_Z.YBWg",
         "description": "An elevator malfunction caused a burning smell that led controllers to evacuate to a backup facility, halting arrivals and departures.",
@@ -2064,15 +2082,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T13:11:18Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Trump admin pays TotalEnergies $928M to exit offshore wind",
-        "url": "https://www.perplexity.ai/page/trump-admin-pays-totalenergies-PVPU0LVGSVu3OJ1gE890tw",
-        "description": "The deal cancels two East Coast wind leases and redirects the funds into LNG and oil production, marking a new tactic after courts blocked project suspensions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T17:49:01Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "Sinopec says it won't buy Iranian crude despite US sanctions waiver",
@@ -2658,33 +2667,6 @@
         "topic": "top",
         "pubDate": "2026-03-19T10:00:54Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "US intelligence says China not planning Taiwan invasion in 2027",
-        "url": "https://www.perplexity.ai/page/us-intelligence-says-china-not-ubQamz0lT4KmSLoaoTpfUg",
-        "description": "The annual threat assessment found Beijing prefers unification without force and has no fixed timeline, softening earlier Pentagon warnings.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T09:15:49Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "BOJ holds rates steady, warns Middle East oil shock could fuel inflation",
-        "url": "https://www.perplexity.ai/page/boj-holds-rates-steady-warns-m-xB0lRvsBRDOiQbltKQy2NQ",
-        "description": "The central bank kept its policy rate at 0.75% as surging energy prices from the Iran conflict complicate the outlook for further tightening.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T07:34:39Z",
-        "sourceCount": "42 sources"
-      },
-      {
-        "title": "IAEA chief says status of Iran's new underground enrichment site is unknown",
-        "url": "https://www.perplexity.ai/page/iaea-chief-says-status-of-iran-1B8nJ.gWRTqcZSTM8C6Bdw",
-        "description": "Rafael Grossi said inspectors have never visited the Isfahan facility and cannot determine whether centrifuges have been installed.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T07:04:03Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
