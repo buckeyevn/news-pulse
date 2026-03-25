@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Trump rebuffed Netanyahu's push to call for Iranian uprising",
+      "url": "https://www.perplexity.ai/page/trump-rebuffed-netanyahu-s-pus-B3EwGSPlSViQTaDV3FLD2A",
+      "description": "The president told Netanyahu protesters would \"get mowed down,\" highlighting a growing rift over war strategy nearly four weeks into the Iran campaign.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T19:44:38Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "JetBlue shares surge on report it hired advisers to explore sale",
+      "url": "https://www.perplexity.ai/page/jetblue-shares-surge-on-report-NkHTUFHTSyegPJE1_QWQog",
+      "description": "The struggling airline is reportedly evaluating potential deals with United Airlines, Alaska Airlines, or Southwest Airlines.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T19:18:27Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Think tank proposes $100K cap on Social Security benefits",
+      "url": "https://www.perplexity.ai/page/think-tank-proposes-100k-cap-o-d_zBnTWTSmKycPESGxKRJQ",
+      "description": "The Committee for a Responsible Federal Budget's \"Six Figure Limit\" plan would trim payouts to wealthy retirees as the program faces insolvency by 2032.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T19:18:18Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "NASA climate scientist Kate Marvel quits, citing Trump's 'attacks on science'",
       "url": "https://www.perplexity.ai/page/nasa-climate-scientist-kate-ma-R5o.2skISeirFtKYHi4Lng",
       "description": "Marvel said a year of funding uncertainty and dismantled programs left her unable to do meaningful work at the Goddard Institute for Space Studies.",
@@ -8,15 +35,6 @@
       "topic": "top",
       "pubDate": "2026-03-25T19:05:38Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "U.N. report finds migratory freshwater fish declined 81% since 1970",
-      "url": "https://www.perplexity.ai/page/u-n-report-finds-migratory-fre-g49PqSyKSKCN1M13E5H0pg",
-      "description": "The assessment, released at CMS COP15 in Brazil, identifies 325 species needing urgent cross-border conservation as dams, pollution, and overfishing drive collapse.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T18:58:36Z",
-      "sourceCount": "23 sources"
     },
     {
       "title": "TSA chief warns of airport closures as DHS shutdown hits Day 40",
@@ -1322,38 +1340,38 @@
       "topic": "top",
       "pubDate": "2026-03-19T18:20:59Z",
       "sourceCount": "41 sources"
-    },
-    {
-      "title": "US new-home sales fell to lowest level since 2022 in January",
-      "url": "https://www.perplexity.ai/page/us-new-home-sales-fell-to-lowe-yPcpZKAXSW6JGbOBWK_4qQ",
-      "description": "Sales plunged 17.6% from December to an annualized 587,000-unit pace, far worse than economists expected, as winter storms and rising headwinds weighed on buyers.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T15:56:50Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "36 states and cities sue Trump over climate rule rollbacks",
-      "url": "https://www.perplexity.ai/page/36-states-and-cities-sue-trump-lvmZKqGjSxmBnI1.7EB.xg",
-      "description": "New York and California lead a coalition challenging the EPA's revocation of the endangerment finding and repeal of tailpipe emissions rules.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T18:30:29Z",
-      "sourceCount": "39 sources"
-    },
-    {
-      "title": "US F-35 makes emergency landing after suspected Iranian strike",
-      "url": "https://www.perplexity.ai/page/us-f-35-makes-emergency-landin-IhOBxeV0QreZTm7ZPQq4FA",
-      "description": "The incident marks the first reported case of Iran hitting a US aircraft since the conflict began on Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T17:07:19Z",
-      "sourceCount": "49 sources"
     }
   ],
-  "cached_at": "2026-03-25T19:13:15Z",
+  "cached_at": "2026-03-25T19:56:22Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump rebuffed Netanyahu's push to call for Iranian uprising",
+        "url": "https://www.perplexity.ai/page/trump-rebuffed-netanyahu-s-pus-B3EwGSPlSViQTaDV3FLD2A",
+        "description": "The president told Netanyahu protesters would \"get mowed down,\" highlighting a growing rift over war strategy nearly four weeks into the Iran campaign.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T19:44:38Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "JetBlue shares surge on report it hired advisers to explore sale",
+        "url": "https://www.perplexity.ai/page/jetblue-shares-surge-on-report-NkHTUFHTSyegPJE1_QWQog",
+        "description": "The struggling airline is reportedly evaluating potential deals with United Airlines, Alaska Airlines, or Southwest Airlines.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T19:18:27Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Think tank proposes $100K cap on Social Security benefits",
+        "url": "https://www.perplexity.ai/page/think-tank-proposes-100k-cap-o-d_zBnTWTSmKycPESGxKRJQ",
+        "description": "The Committee for a Responsible Federal Budget's \"Six Figure Limit\" plan would trim payouts to wealthy retirees as the program faces insolvency by 2032.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T19:18:18Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "NASA climate scientist Kate Marvel quits, citing Trump's 'attacks on science'",
         "url": "https://www.perplexity.ai/page/nasa-climate-scientist-kate-ma-R5o.2skISeirFtKYHi4Lng",
@@ -1362,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T19:05:38Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "U.N. report finds migratory freshwater fish declined 81% since 1970",
-        "url": "https://www.perplexity.ai/page/u-n-report-finds-migratory-fre-g49PqSyKSKCN1M13E5H0pg",
-        "description": "The assessment, released at CMS COP15 in Brazil, identifies 325 species needing urgent cross-border conservation as dams, pollution, and overfishing drive collapse.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T18:58:36Z",
-        "sourceCount": "23 sources"
       },
       {
         "title": "TSA chief warns of airport closures as DHS shutdown hits Day 40",
@@ -2676,33 +2685,6 @@
         "topic": "top",
         "pubDate": "2026-03-19T18:20:59Z",
         "sourceCount": "41 sources"
-      },
-      {
-        "title": "US new-home sales fell to lowest level since 2022 in January",
-        "url": "https://www.perplexity.ai/page/us-new-home-sales-fell-to-lowe-yPcpZKAXSW6JGbOBWK_4qQ",
-        "description": "Sales plunged 17.6% from December to an annualized 587,000-unit pace, far worse than economists expected, as winter storms and rising headwinds weighed on buyers.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T15:56:50Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "36 states and cities sue Trump over climate rule rollbacks",
-        "url": "https://www.perplexity.ai/page/36-states-and-cities-sue-trump-lvmZKqGjSxmBnI1.7EB.xg",
-        "description": "New York and California lead a coalition challenging the EPA's revocation of the endangerment finding and repeal of tailpipe emissions rules.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T18:30:29Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "US F-35 makes emergency landing after suspected Iranian strike",
-        "url": "https://www.perplexity.ai/page/us-f-35-makes-emergency-landin-IhOBxeV0QreZTm7ZPQq4FA",
-        "description": "The incident marks the first reported case of Iran hitting a US aircraft since the conflict began on Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T17:07:19Z",
-        "sourceCount": "49 sources"
       }
     ],
     "tech": [],
