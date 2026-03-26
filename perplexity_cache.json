@@ -1,12 +1,21 @@
 {
   "stories": [
     {
-      "title": "Asian stocks waver as Iran sets five conditions for ceasefire",
-      "url": "https://www.perplexity.ai/page/asian-stocks-waver-as-iran-set-m.h5XSp0RXqogUeC3_3YGA",
-      "description": "Wall Street closed higher Wednesday on hopes for a Middle East peace deal, but Iran's demands left Thursday's Asian markets struggling for direction.",
+      "title": "Iran quietly reviews US ceasefire plan despite public rejection",
+      "url": "https://www.perplexity.ai/page/iran-quietly-reviews-us-ceasef-uOHxaHgVSz.DCQOGeUH1tw",
+      "description": "Pakistan says it has not received a formal reply from Tehran, even as Iranian officials publicly dismiss the 15-point proposal to end the Gulf war.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-26T05:23:12Z",
+      "pubDate": "2026-03-26T08:40:11Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Southeast Asia turns to nuclear power to fuel AI data center boom",
+      "url": "https://www.perplexity.ai/page/southeast-asia-turns-to-nuclea-6EmYSboPSiWgvRsRAuz9XA",
+      "description": "Five ASEAN nations are pursuing nuclear energy as AI-driven electricity demand surges and the Iran conflict disrupts fossil fuel supplies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T08:03:02Z",
       "sourceCount": "30 sources"
     },
     {
@@ -1315,6 +1324,15 @@
       "sourceCount": "8 sources"
     },
     {
+      "title": "Oil prices spike as Israel, Iran trade strikes on energy infrastructure",
+      "url": "https://www.perplexity.ai/page/oil-prices-spike-as-israel-ira-ROXxDyVZSBeaO6DsyNLPxg",
+      "description": "Iran attacked Gulf energy sites including Qatar's main LNG hub after Israel struck Iran's South Pars gas field, deepening a regional energy crisis.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T18:15:34Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "U.S. prosecutors open criminal probes into Colombia's President",
       "url": "https://www.perplexity.ai/page/u-s-prosecutors-open-criminal-14Qkrc2TTLu_5c_zQNfELQ",
       "description": "Federal offices in Manhattan and Brooklyn are examining whether Petro met with drug traffickers or received narcotics-linked campaign donations.",
@@ -1324,43 +1342,34 @@
       "sourceCount": "33 sources"
     },
     {
-      "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
-      "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
-      "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
+      "title": "Denmark planned to destroy Greenland runways if US invaded",
+      "url": "https://www.perplexity.ai/page/denmark-planned-to-destroy-gre-NRyRUjPjQneQG5uppmE03Q",
+      "description": "Danish broadcaster DR revealed that troops deployed to Greenland in January carried explosives to sabotage airstrips, with orders to fight if the U.S. attacked.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T17:25:26Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
-      "url": "https://www.perplexity.ai/page/amazon-developing-ai-powered-s-UJdZDiQHR0SWUlvoziQ01g",
-      "description": "The project, codenamed \"Transformer,\" would center on Alexa and AI-driven interactions rather than competing on hardware specs with Apple and Samsung.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T14:26:09Z",
-      "sourceCount": "35 sources"
-    },
-    {
-      "title": "Trump privately concedes deportation push went too far, WSJ reports",
-      "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
-      "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T17:25:01Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-03-20T21:20:46Z",
+      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-26T08:01:58Z",
+  "cached_at": "2026-03-26T09:11:16Z",
   "topics": {
     "top": [
       {
-        "title": "Asian stocks waver as Iran sets five conditions for ceasefire",
-        "url": "https://www.perplexity.ai/page/asian-stocks-waver-as-iran-set-m.h5XSp0RXqogUeC3_3YGA",
-        "description": "Wall Street closed higher Wednesday on hopes for a Middle East peace deal, but Iran's demands left Thursday's Asian markets struggling for direction.",
+        "title": "Iran quietly reviews US ceasefire plan despite public rejection",
+        "url": "https://www.perplexity.ai/page/iran-quietly-reviews-us-ceasef-uOHxaHgVSz.DCQOGeUH1tw",
+        "description": "Pakistan says it has not received a formal reply from Tehran, even as Iranian officials publicly dismiss the 15-point proposal to end the Gulf war.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-26T05:23:12Z",
+        "pubDate": "2026-03-26T08:40:11Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Southeast Asia turns to nuclear power to fuel AI data center boom",
+        "url": "https://www.perplexity.ai/page/southeast-asia-turns-to-nuclea-6EmYSboPSiWgvRsRAuz9XA",
+        "description": "Five ASEAN nations are pursuing nuclear energy as AI-driven electricity demand surges and the Iran conflict disrupts fossil fuel supplies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T08:03:02Z",
         "sourceCount": "30 sources"
       },
       {
@@ -2669,6 +2678,15 @@
         "sourceCount": "8 sources"
       },
       {
+        "title": "Oil prices spike as Israel, Iran trade strikes on energy infrastructure",
+        "url": "https://www.perplexity.ai/page/oil-prices-spike-as-israel-ira-ROXxDyVZSBeaO6DsyNLPxg",
+        "description": "Iran attacked Gulf energy sites including Qatar's main LNG hub after Israel struck Iran's South Pars gas field, deepening a regional energy crisis.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T18:15:34Z",
+        "sourceCount": "30 sources"
+      },
+      {
         "title": "U.S. prosecutors open criminal probes into Colombia's President",
         "url": "https://www.perplexity.ai/page/u-s-prosecutors-open-criminal-14Qkrc2TTLu_5c_zQNfELQ",
         "description": "Federal offices in Manhattan and Brooklyn are examining whether Petro met with drug traffickers or received narcotics-linked campaign donations.",
@@ -2678,31 +2696,13 @@
         "sourceCount": "33 sources"
       },
       {
-        "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
-        "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
-        "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
+        "title": "Denmark planned to destroy Greenland runways if US invaded",
+        "url": "https://www.perplexity.ai/page/denmark-planned-to-destroy-gre-NRyRUjPjQneQG5uppmE03Q",
+        "description": "Danish broadcaster DR revealed that troops deployed to Greenland in January carried explosives to sabotage airstrips, with orders to fight if the U.S. attacked.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T17:25:26Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
-        "url": "https://www.perplexity.ai/page/amazon-developing-ai-powered-s-UJdZDiQHR0SWUlvoziQ01g",
-        "description": "The project, codenamed \"Transformer,\" would center on Alexa and AI-driven interactions rather than competing on hardware specs with Apple and Samsung.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T14:26:09Z",
-        "sourceCount": "35 sources"
-      },
-      {
-        "title": "Trump privately concedes deportation push went too far, WSJ reports",
-        "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
-        "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T17:25:01Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-03-20T21:20:46Z",
+        "sourceCount": "23 sources"
       }
     ],
     "tech": [],
