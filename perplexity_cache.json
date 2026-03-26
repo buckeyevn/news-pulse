@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "GOP senators urge Trump to declare emergency to pay TSA agents",
-      "url": "https://www.perplexity.ai/page/gop-senators-urge-trump-to-dec-IP_8sHjTTUOckzwkVCs.tA",
-      "description": "Senate Republicans are exploring a national emergency declaration to unlock funds for unpaid TSA workers as the DHS shutdown hits day 41.",
+      "title": "House passes DHS funding bill again as Senate deadlock hits Day 41",
+      "url": "https://www.perplexity.ai/page/house-passes-dhs-funding-bill-PKQSMcm1S4ODm3S9cbf1fw",
+      "description": "The Senate remains unable to clear the 60-vote filibuster threshold, with lawmakers facing a two-week recess starting Friday and no deal in sight.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-26T20:40:19Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-03-26T21:03:52Z",
+      "sourceCount": "37 sources"
+    },
+    {
+      "title": "Trump extends pause on Iran energy strikes to April 6",
+      "url": "https://www.perplexity.ai/page/trump-extends-pause-on-iran-en-jqCMQrS1TKe1fI.IjgqD0Q",
+      "description": "The 10-day extension, requested by Tehran, replaces an initial five-day halt as the White House signals both diplomatic openness and readiness to escalate.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T20:27:37Z",
+      "sourceCount": "41 sources"
     },
     {
       "title": "Study finds AI chatbots affirm users 49% more than humans do",
@@ -28,13 +37,13 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "Trump extends pause on Iran energy strikes to April 6",
-      "url": "https://www.perplexity.ai/page/trump-extends-pause-on-iran-en-jqCMQrS1TKe1fI.IjgqD0Q",
-      "description": "The 10-day extension, requested by Tehran, replaces an initial five-day halt as the White House signals both diplomatic openness and readiness to escalate.",
+      "title": "GOP senators urge Trump to declare emergency to pay TSA agents",
+      "url": "https://www.perplexity.ai/page/gop-senators-urge-trump-to-dec-IP_8sHjTTUOckzwkVCs.tA",
+      "description": "Senate Republicans are exploring a national emergency declaration to unlock funds for unpaid TSA workers as the DHS shutdown hits day 41.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-26T20:27:37Z",
-      "sourceCount": "41 sources"
+      "pubDate": "2026-03-26T20:40:19Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "UK authorizes military to board Russian shadow fleet tankers",
@@ -1340,28 +1349,28 @@
       "topic": "top",
       "pubDate": "2026-03-21T10:18:52Z",
       "sourceCount": "75 sources"
-    },
-    {
-      "title": "Israel launches new wave of strikes on Beirut targeting Hezbollah",
-      "url": "https://www.perplexity.ai/page/israel-launches-new-wave-of-st-P_NaKy30RPquChr7TrrBzg",
-      "description": "Saturday's airstrikes follow evacuation warnings as the ground offensive in southern Lebanon widens into its third week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T06:55:52Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-26T20:58:43Z",
+  "cached_at": "2026-03-26T21:41:38Z",
   "topics": {
     "top": [
       {
-        "title": "GOP senators urge Trump to declare emergency to pay TSA agents",
-        "url": "https://www.perplexity.ai/page/gop-senators-urge-trump-to-dec-IP_8sHjTTUOckzwkVCs.tA",
-        "description": "Senate Republicans are exploring a national emergency declaration to unlock funds for unpaid TSA workers as the DHS shutdown hits day 41.",
+        "title": "House passes DHS funding bill again as Senate deadlock hits Day 41",
+        "url": "https://www.perplexity.ai/page/house-passes-dhs-funding-bill-PKQSMcm1S4ODm3S9cbf1fw",
+        "description": "The Senate remains unable to clear the 60-vote filibuster threshold, with lawmakers facing a two-week recess starting Friday and no deal in sight.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-26T20:40:19Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-03-26T21:03:52Z",
+        "sourceCount": "37 sources"
+      },
+      {
+        "title": "Trump extends pause on Iran energy strikes to April 6",
+        "url": "https://www.perplexity.ai/page/trump-extends-pause-on-iran-en-jqCMQrS1TKe1fI.IjgqD0Q",
+        "description": "The 10-day extension, requested by Tehran, replaces an initial five-day halt as the White House signals both diplomatic openness and readiness to escalate.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T20:27:37Z",
+        "sourceCount": "41 sources"
       },
       {
         "title": "Study finds AI chatbots affirm users 49% more than humans do",
@@ -1382,13 +1391,13 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "Trump extends pause on Iran energy strikes to April 6",
-        "url": "https://www.perplexity.ai/page/trump-extends-pause-on-iran-en-jqCMQrS1TKe1fI.IjgqD0Q",
-        "description": "The 10-day extension, requested by Tehran, replaces an initial five-day halt as the White House signals both diplomatic openness and readiness to escalate.",
+        "title": "GOP senators urge Trump to declare emergency to pay TSA agents",
+        "url": "https://www.perplexity.ai/page/gop-senators-urge-trump-to-dec-IP_8sHjTTUOckzwkVCs.tA",
+        "description": "Senate Republicans are exploring a national emergency declaration to unlock funds for unpaid TSA workers as the DHS shutdown hits day 41.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-26T20:27:37Z",
-        "sourceCount": "41 sources"
+        "pubDate": "2026-03-26T20:40:19Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "UK authorizes military to board Russian shadow fleet tankers",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-21T10:18:52Z",
         "sourceCount": "75 sources"
-      },
-      {
-        "title": "Israel launches new wave of strikes on Beirut targeting Hezbollah",
-        "url": "https://www.perplexity.ai/page/israel-launches-new-wave-of-st-P_NaKy30RPquChr7TrrBzg",
-        "description": "Saturday's airstrikes follow evacuation warnings as the ground offensive in southern Lebanon widens into its third week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T06:55:52Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
