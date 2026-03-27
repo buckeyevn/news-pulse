@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "SpaceX IPO sparks $15M in ticker bets before filing",
+      "url": "https://www.perplexity.ai/page/spacex-ipo-sparks-15m-in-ticke-XDmL9.pXRNO5j8WrV57cCQ",
+      "description": "Polymarket wagers on SpaceX's ticker symbol, valuation, and exchange have topped $15.2 million even though the company has yet to file IPO paperwork.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T13:47:59Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Buy America law stalls affordable housing amid HUD waiver backlog",
+      "url": "https://www.perplexity.ai/page/buy-america-law-stalls-afforda-aUdT2GD5RjeJ1BS7GxQG1g",
+      "description": "Developers say HUD is taking six months or more to process waivers, adding hundreds of thousands of dollars in costs to federally funded projects.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T13:39:06Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Asia-Pacific governments rush to calm markets as Middle East war drives energy crisis",
       "url": "https://www.perplexity.ai/page/asia-pacific-governments-rush-LotXGYZPTCO5E6rwz930bg",
       "description": "From emergency budgets to fuel rationing plans, countries across the region are deploying fiscal packages and liquidity measures to counter the economic fallout.",
@@ -19,15 +37,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "SpaceX eyes IPO filing as Shotwell lands TIME cover",
-      "url": "https://www.perplexity.ai/page/spacex-eyes-ipo-filing-as-shot-iWglG8s5ToKO3z_hK.QTGg",
-      "description": "TIME profiles Gwynne Shotwell as SpaceX absorbs xAI and reportedly moves closer to filing IPO paperwork that could value the company above $1.75 trillion.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T11:14:41Z",
-      "sourceCount": "62 sources"
-    },
-    {
       "title": "Study finds cells, firms and cities all slow in adding new functions as they grow",
       "url": "https://www.perplexity.ai/page/study-finds-cells-firms-and-ci-prbo037wRWWxmlqw4UaPpg",
       "description": "Researchers identified a shared mathematical pattern governing how complex systems diversify, from bacteria to corporations to government agencies.",
@@ -35,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-03-27T10:24:13Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Ukraine, Saudi Arabia sign defense deal during Zelensky's surprise visit",
+      "url": "https://www.perplexity.ai/page/ukraine-saudi-arabia-sign-defe-Mm0SnsSUT1eS5kAaTYgCCw",
+      "description": "Kyiv is trading its battle-tested drone warfare expertise for advanced weapons and investment as both nations face Iranian-made threats.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T10:13:22Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "ECB survey shows Iran war upended eurozone inflation outlook",
@@ -53,6 +71,15 @@
       "topic": "top",
       "pubDate": "2026-03-27T08:10:33Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "Rubio presses G7 allies on Iran as Europeans hold firm on Ukraine",
+      "url": "https://www.perplexity.ai/page/rubio-presses-g7-allies-on-ira-GMZtfUGDSjSwXWWrcJxjmw",
+      "description": "Secretary of State Rubio arrived in France Friday urging allies to help reopen the Strait of Hormuz, but European partners prioritized Ukraine support.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T10:38:54Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Senate unanimously passes deal to reopen DHS after 42-day shutdown",
@@ -1322,38 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-23T06:06:56Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Bessent defends easing Russia, Iran oil sanctions on Meet the Press",
-      "url": "https://www.perplexity.ai/page/bessent-defends-easing-russia-J6eKwfYrTu2eTx4ZZOqprQ",
-      "description": "Treasury Secretary said Russia would gain at most $2 billion from the waiver — or face $150-per-barrel oil prices without it.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T01:23:19Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Cuba says its military is preparing for possible U.S. aggression",
-      "url": "https://www.perplexity.ai/page/cuba-says-its-military-is-prep-X2daRVQNRA6MBrkU6Ysvqw",
-      "description": "Deputy Foreign Minister Carlos Fernandez de Cossio said regime change is \"absolutely\" off the table despite Trump's talk of \"taking\" the island.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T22:19:11Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Mossad plan to spark Iran uprising stalls three weeks into war",
-      "url": "https://www.perplexity.ai/page/mossad-plan-to-spark-iran-upri-iPGWn325RBCRqLu906F1eg",
-      "description": "Intelligence chief Barnea promised Netanyahu that Israeli operations could trigger regime-toppling unrest, but no uprising has materialized.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T22:18:48Z",
-      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-27T13:21:42Z",
+  "cached_at": "2026-03-27T14:30:50Z",
   "topics": {
     "top": [
+      {
+        "title": "SpaceX IPO sparks $15M in ticker bets before filing",
+        "url": "https://www.perplexity.ai/page/spacex-ipo-sparks-15m-in-ticke-XDmL9.pXRNO5j8WrV57cCQ",
+        "description": "Polymarket wagers on SpaceX's ticker symbol, valuation, and exchange have topped $15.2 million even though the company has yet to file IPO paperwork.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T13:47:59Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Buy America law stalls affordable housing amid HUD waiver backlog",
+        "url": "https://www.perplexity.ai/page/buy-america-law-stalls-afforda-aUdT2GD5RjeJ1BS7GxQG1g",
+        "description": "Developers say HUD is taking six months or more to process waivers, adding hundreds of thousands of dollars in costs to federally funded projects.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T13:39:06Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Asia-Pacific governments rush to calm markets as Middle East war drives energy crisis",
         "url": "https://www.perplexity.ai/page/asia-pacific-governments-rush-LotXGYZPTCO5E6rwz930bg",
@@ -1373,15 +1391,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "SpaceX eyes IPO filing as Shotwell lands TIME cover",
-        "url": "https://www.perplexity.ai/page/spacex-eyes-ipo-filing-as-shot-iWglG8s5ToKO3z_hK.QTGg",
-        "description": "TIME profiles Gwynne Shotwell as SpaceX absorbs xAI and reportedly moves closer to filing IPO paperwork that could value the company above $1.75 trillion.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T11:14:41Z",
-        "sourceCount": "62 sources"
-      },
-      {
         "title": "Study finds cells, firms and cities all slow in adding new functions as they grow",
         "url": "https://www.perplexity.ai/page/study-finds-cells-firms-and-ci-prbo037wRWWxmlqw4UaPpg",
         "description": "Researchers identified a shared mathematical pattern governing how complex systems diversify, from bacteria to corporations to government agencies.",
@@ -1389,6 +1398,15 @@
         "topic": "top",
         "pubDate": "2026-03-27T10:24:13Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Ukraine, Saudi Arabia sign defense deal during Zelensky's surprise visit",
+        "url": "https://www.perplexity.ai/page/ukraine-saudi-arabia-sign-defe-Mm0SnsSUT1eS5kAaTYgCCw",
+        "description": "Kyiv is trading its battle-tested drone warfare expertise for advanced weapons and investment as both nations face Iranian-made threats.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T10:13:22Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "ECB survey shows Iran war upended eurozone inflation outlook",
@@ -1407,6 +1425,15 @@
         "topic": "top",
         "pubDate": "2026-03-27T08:10:33Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "Rubio presses G7 allies on Iran as Europeans hold firm on Ukraine",
+        "url": "https://www.perplexity.ai/page/rubio-presses-g7-allies-on-ira-GMZtfUGDSjSwXWWrcJxjmw",
+        "description": "Secretary of State Rubio arrived in France Friday urging allies to help reopen the Strait of Hormuz, but European partners prioritized Ukraine support.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T10:38:54Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Senate unanimously passes deal to reopen DHS after 42-day shutdown",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T06:06:56Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Bessent defends easing Russia, Iran oil sanctions on Meet the Press",
-        "url": "https://www.perplexity.ai/page/bessent-defends-easing-russia-J6eKwfYrTu2eTx4ZZOqprQ",
-        "description": "Treasury Secretary said Russia would gain at most $2 billion from the waiver — or face $150-per-barrel oil prices without it.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T01:23:19Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Cuba says its military is preparing for possible U.S. aggression",
-        "url": "https://www.perplexity.ai/page/cuba-says-its-military-is-prep-X2daRVQNRA6MBrkU6Ysvqw",
-        "description": "Deputy Foreign Minister Carlos Fernandez de Cossio said regime change is \"absolutely\" off the table despite Trump's talk of \"taking\" the island.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T22:19:11Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Mossad plan to spark Iran uprising stalls three weeks into war",
-        "url": "https://www.perplexity.ai/page/mossad-plan-to-spark-iran-upri-iPGWn325RBCRqLu906F1eg",
-        "description": "Intelligence chief Barnea promised Netanyahu that Israeli operations could trigger regime-toppling unrest, but no uprising has materialized.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T22:18:48Z",
-        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
