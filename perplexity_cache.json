@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "$1.76B laser uranium enrichment plant announced for Paducah, Kentucky",
-      "url": "https://www.perplexity.ai/page/1-76b-laser-uranium-enrichment-0BM2WhOPSHqj7vjyTt9IXQ",
-      "description": "Global Laser Enrichment plans to build the world's first commercial laser uranium enrichment facility, creating 240 jobs in what Gov. Beshear called Western Kentucky's largest-ever investment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T04:35:44Z",
-      "sourceCount": "24 sources"
-    },
-    {
       "title": "Trump to order TSA agents paid amid 41-day shutdown",
       "url": "https://www.perplexity.ai/page/trump-to-order-tsa-agents-paid-pC7PDdz2TFSD3Nadr4PQXg",
       "description": "The president said he will direct DHS Secretary Markwayne Mullin to \"immediately pay\" TSA workers, but the legal authority for the move remains unclear.",
@@ -1349,20 +1340,20 @@
       "topic": "top",
       "pubDate": "2026-03-22T19:18:55Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Trump draws bipartisan rebuke for celebrating Mueller's death",
+      "url": "https://www.perplexity.ai/page/trump-draws-bipartisan-rebuke-t16E5rMgT8elUG2laF95GA",
+      "description": "Robert Mueller, the former FBI director and special counsel in the Trump-Russia probe, died Friday at 81. Trump said he was \"glad\" on Truth Social.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-22T19:18:57Z",
+      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-27T04:42:40Z",
+  "cached_at": "2026-03-27T06:03:49Z",
   "topics": {
     "top": [
-      {
-        "title": "$1.76B laser uranium enrichment plant announced for Paducah, Kentucky",
-        "url": "https://www.perplexity.ai/page/1-76b-laser-uranium-enrichment-0BM2WhOPSHqj7vjyTt9IXQ",
-        "description": "Global Laser Enrichment plans to build the world's first commercial laser uranium enrichment facility, creating 240 jobs in what Gov. Beshear called Western Kentucky's largest-ever investment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T04:35:44Z",
-        "sourceCount": "24 sources"
-      },
       {
         "title": "Trump to order TSA agents paid amid 41-day shutdown",
         "url": "https://www.perplexity.ai/page/trump-to-order-tsa-agents-paid-pC7PDdz2TFSD3Nadr4PQXg",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-22T19:18:55Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Trump draws bipartisan rebuke for celebrating Mueller's death",
+        "url": "https://www.perplexity.ai/page/trump-draws-bipartisan-rebuke-t16E5rMgT8elUG2laF95GA",
+        "description": "Robert Mueller, the former FBI director and special counsel in the Trump-Russia probe, died Friday at 81. Trump said he was \"glad\" on Truth Social.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-22T19:18:57Z",
+        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
