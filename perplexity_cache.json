@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Leiden scientists 3D-print microrobots that swim without a brain",
+      "url": "https://www.perplexity.ai/page/leiden-scientists-3d-print-mic-qQ6_q7PBT.K.020eA0H_BA",
+      "description": "The chain-like robots navigate obstacles and adapt to surroundings using only their physical shape — no sensors, software, or electronics required.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T06:20:04Z",
+      "sourceCount": "23 sources"
+    },
+    {
+      "title": "ASU method maps protein motion in hours, not months",
+      "url": "https://www.perplexity.ai/page/asu-method-maps-protein-motion-wizaJDRWSSWLHT7XUKMENw",
+      "description": "Published in Science Advances, the technique could accelerate drug design by revealing how proteins shift between functional shapes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T06:07:12Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "IAEA says no radiation risk after strikes hit Iranian nuclear sites",
+      "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-risk-af-q72qwyvAT1euNMkTGzoHnw",
+      "description": "The agency confirmed Khondab and Khuzestan facilities were struck but contained no risk, even as warnings over Bushehr intensified.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T05:52:48Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "House passes 60-day DHS stopgap, extending record shutdown",
       "url": "https://www.perplexity.ai/page/house-passes-60-day-dhs-stopga-47o.gVrPTtSmxKEbG24mFg",
       "description": "The bill funds all of DHS through May 22, but Senate Democrats call it \"dead on arrival\" as senators leave for a two-week recess.",
@@ -19,30 +46,12 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "IAEA warns strikes near Iran’s Bushehr Plant risk radiological crisis",
-      "url": "https://www.perplexity.ai/page/iaea-warns-strikes-near-irans-U9NMdufNRbCqKt2ePqLoKw",
-      "description": "Iran confirmed a projectile hit the plant Friday with no damage, as the IAEA warned of a potential radiological accident affecting the region and beyond.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T01:19:28Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Medvedev warns nuclear conflict between Israel and Iran is now 'inevitable'",
       "url": "https://www.perplexity.ai/page/medvedev-warns-nuclear-conflic-jGuUm0UyRxmlK91ccBFaAw",
       "description": "Russia's deputy Security Council chairman blamed U.S. and Israeli military action for accelerating nuclear proliferation risks across the Middle East.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-28T00:39:42Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Trump demands Iran reopen Strait of Hormuz for peace deal",
-      "url": "https://www.perplexity.ai/page/trump-demands-iran-reopen-stra-2NflXiIjTJqpam.J_epURQ",
-      "description": "Speaking at a Miami investment summit, the president jokingly called the blockaded waterway the \"Strait of Trump\" as the U.S. awaits Iran's response to a 15-point peace proposal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T00:36:10Z",
       "sourceCount": "27 sources"
     },
     {
@@ -53,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-03-28T00:25:44Z",
       "sourceCount": "56 sources"
+    },
+    {
+      "title": "Trump demands Iran reopen Strait of Hormuz for peace deal",
+      "url": "https://www.perplexity.ai/page/trump-demands-iran-reopen-stra-2NflXiIjTJqpam.J_epURQ",
+      "description": "Speaking at a Miami investment summit, the president jokingly called the blockaded waterway the \"Strait of Trump\" as the U.S. awaits Iran's response to a 15-point peace proposal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T00:36:10Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Poland's Tusk warns of imminent escalation in Iran war",
@@ -1331,29 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-03-24T19:37:34Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
-      "url": "https://www.perplexity.ai/page/iran-war-drives-fertilizer-cos-fPsi0BiFRWiIQrsmy1k37A",
-      "description": "Surging nitrogen prices, supplier shortages, and Strait of Hormuz disruptions are compounding years of losses for American grain farmers.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T17:59:26Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "NASA cancels Lunar Gateway, will build $20B moon base",
-      "url": "https://www.perplexity.ai/page/nasa-cancels-lunar-gateway-wil-OO_uNN_gQQOL88nunEcErQ",
-      "description": "Administrator Jared Isaacman said the agency will repurpose the orbital station's components for a permanent lunar surface base over seven years.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T17:17:22Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-28T05:41:51Z",
+  "cached_at": "2026-03-28T06:39:53Z",
   "topics": {
     "top": [
+      {
+        "title": "Leiden scientists 3D-print microrobots that swim without a brain",
+        "url": "https://www.perplexity.ai/page/leiden-scientists-3d-print-mic-qQ6_q7PBT.K.020eA0H_BA",
+        "description": "The chain-like robots navigate obstacles and adapt to surroundings using only their physical shape — no sensors, software, or electronics required.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T06:20:04Z",
+        "sourceCount": "23 sources"
+      },
+      {
+        "title": "ASU method maps protein motion in hours, not months",
+        "url": "https://www.perplexity.ai/page/asu-method-maps-protein-motion-wizaJDRWSSWLHT7XUKMENw",
+        "description": "Published in Science Advances, the technique could accelerate drug design by revealing how proteins shift between functional shapes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T06:07:12Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "IAEA says no radiation risk after strikes hit Iranian nuclear sites",
+        "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-risk-af-q72qwyvAT1euNMkTGzoHnw",
+        "description": "The agency confirmed Khondab and Khuzestan facilities were struck but contained no risk, even as warnings over Bushehr intensified.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T05:52:48Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "House passes 60-day DHS stopgap, extending record shutdown",
         "url": "https://www.perplexity.ai/page/house-passes-60-day-dhs-stopga-47o.gVrPTtSmxKEbG24mFg",
@@ -1373,30 +1400,12 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "IAEA warns strikes near Iran’s Bushehr Plant risk radiological crisis",
-        "url": "https://www.perplexity.ai/page/iaea-warns-strikes-near-irans-U9NMdufNRbCqKt2ePqLoKw",
-        "description": "Iran confirmed a projectile hit the plant Friday with no damage, as the IAEA warned of a potential radiological accident affecting the region and beyond.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T01:19:28Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Medvedev warns nuclear conflict between Israel and Iran is now 'inevitable'",
         "url": "https://www.perplexity.ai/page/medvedev-warns-nuclear-conflic-jGuUm0UyRxmlK91ccBFaAw",
         "description": "Russia's deputy Security Council chairman blamed U.S. and Israeli military action for accelerating nuclear proliferation risks across the Middle East.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-28T00:39:42Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Trump demands Iran reopen Strait of Hormuz for peace deal",
-        "url": "https://www.perplexity.ai/page/trump-demands-iran-reopen-stra-2NflXiIjTJqpam.J_epURQ",
-        "description": "Speaking at a Miami investment summit, the president jokingly called the blockaded waterway the \"Strait of Trump\" as the U.S. awaits Iran's response to a 15-point peace proposal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T00:36:10Z",
         "sourceCount": "27 sources"
       },
       {
@@ -1407,6 +1416,15 @@
         "topic": "top",
         "pubDate": "2026-03-28T00:25:44Z",
         "sourceCount": "56 sources"
+      },
+      {
+        "title": "Trump demands Iran reopen Strait of Hormuz for peace deal",
+        "url": "https://www.perplexity.ai/page/trump-demands-iran-reopen-stra-2NflXiIjTJqpam.J_epURQ",
+        "description": "Speaking at a Miami investment summit, the president jokingly called the blockaded waterway the \"Strait of Trump\" as the U.S. awaits Iran's response to a 15-point peace proposal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T00:36:10Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Poland's Tusk warns of imminent escalation in Iran war",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T19:37:34Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
-        "url": "https://www.perplexity.ai/page/iran-war-drives-fertilizer-cos-fPsi0BiFRWiIQrsmy1k37A",
-        "description": "Surging nitrogen prices, supplier shortages, and Strait of Hormuz disruptions are compounding years of losses for American grain farmers.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T17:59:26Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "NASA cancels Lunar Gateway, will build $20B moon base",
-        "url": "https://www.perplexity.ai/page/nasa-cancels-lunar-gateway-wil-OO_uNN_gQQOL88nunEcErQ",
-        "description": "Administrator Jared Isaacman said the agency will repurpose the orbital station's components for a permanent lunar surface base over seven years.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T17:17:22Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
