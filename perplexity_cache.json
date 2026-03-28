@@ -190,13 +190,13 @@
       "sourceCount": "71 sources"
     },
     {
-      "title": "Russian and Iranian foreign ministers weigh conflict settlement options",
-      "url": "https://www.perplexity.ai/page/russian-and-iranian-foreign-mi-Rlsqw7o1QzKBTKbTuIrgIg",
-      "description": "Russia, a four-nation bloc, and the U.S. are all pursuing separate diplomatic tracks to end the month-long conflict in Iran.",
+      "title": "Bahrain says it intercepted 559 Iranian missiles and drones",
+      "url": "https://www.perplexity.ai/page/bahrain-says-it-intercepted-55-EB03CtJbR0CZAv3ULIDjtg",
+      "description": "Updated figures released Saturday show 174 missiles and 385 drones destroyed since the U.S.-Israeli offensive against Iran began Feb. 28.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-28T11:29:30Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-28T11:20:29Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Judge dismisses DOJ suit over Minnesota tuition for undocumented students",
@@ -205,15 +205,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-28T13:08:47Z",
-      "sourceCount": "25 sources"
-    },
-    {
-      "title": "Bahrain says it intercepted 559 Iranian missiles and drones",
-      "url": "https://www.perplexity.ai/page/bahrain-says-it-intercepted-55-EB03CtJbR0CZAv3ULIDjtg",
-      "description": "Updated figures released Saturday show 174 missiles and 385 drones destroyed since the U.S.-Israeli offensive against Iran began Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T11:20:29Z",
       "sourceCount": "25 sources"
     },
     {
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-03-25T12:23:04Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "US airstrikes kill 15 Iraq PMF fighters, including Anbar commander",
+      "url": "https://www.perplexity.ai/page/us-airstrikes-kill-15-iraq-pmf-eA1FDbkrTXq0Gszv3XiEqA",
+      "description": "The deadliest single strike since the US-Israeli war on Iran began also targeted PMF leader Falih al-Fayadh's residence in a separate attack.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:19:26Z",
+      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-28T22:51:30Z",
+  "cached_at": "2026-03-28T23:27:00Z",
   "topics": {
     "top": [
       {
@@ -1544,13 +1544,13 @@
         "sourceCount": "71 sources"
       },
       {
-        "title": "Russian and Iranian foreign ministers weigh conflict settlement options",
-        "url": "https://www.perplexity.ai/page/russian-and-iranian-foreign-mi-Rlsqw7o1QzKBTKbTuIrgIg",
-        "description": "Russia, a four-nation bloc, and the U.S. are all pursuing separate diplomatic tracks to end the month-long conflict in Iran.",
+        "title": "Bahrain says it intercepted 559 Iranian missiles and drones",
+        "url": "https://www.perplexity.ai/page/bahrain-says-it-intercepted-55-EB03CtJbR0CZAv3ULIDjtg",
+        "description": "Updated figures released Saturday show 174 missiles and 385 drones destroyed since the U.S.-Israeli offensive against Iran began Feb. 28.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-28T11:29:30Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-28T11:20:29Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Judge dismisses DOJ suit over Minnesota tuition for undocumented students",
@@ -1559,15 +1559,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-28T13:08:47Z",
-        "sourceCount": "25 sources"
-      },
-      {
-        "title": "Bahrain says it intercepted 559 Iranian missiles and drones",
-        "url": "https://www.perplexity.ai/page/bahrain-says-it-intercepted-55-EB03CtJbR0CZAv3ULIDjtg",
-        "description": "Updated figures released Saturday show 174 missiles and 385 drones destroyed since the U.S.-Israeli offensive against Iran began Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T11:20:29Z",
         "sourceCount": "25 sources"
       },
       {
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-25T12:23:04Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "US airstrikes kill 15 Iraq PMF fighters, including Anbar commander",
+        "url": "https://www.perplexity.ai/page/us-airstrikes-kill-15-iraq-pmf-eA1FDbkrTXq0Gszv3XiEqA",
+        "description": "The deadliest single strike since the US-Israeli war on Iran began also targeted PMF leader Falih al-Fayadh's residence in a separate attack.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:19:26Z",
+        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
