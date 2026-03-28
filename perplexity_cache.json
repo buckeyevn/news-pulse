@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Iran war wipes $11.5 trillion from global markets in one month",
+      "url": "https://www.perplexity.ai/page/iran-war-wipes-11-5-trillion-f-YUwCjPqXT62X1yJhnWvyLg",
+      "description": "The conflict's closure of the Strait of Hormuz has sent oil prices surging roughly 45% and left investors with few safe havens.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T09:37:17Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Japan's Kikai supervolcano is refilling with magma, study finds",
+      "url": "https://www.perplexity.ai/page/japan-s-kikai-supervolcano-is-wf4wN.3MSqG5070uHUQQKA",
+      "description": "Researchers mapped a 220-cubic-kilometer magma reservoir beneath the caldera that produced the Holocene's largest eruption 7,300 years ago.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T09:02:50Z",
+      "sourceCount": "13 sources"
+    },
+    {
       "title": "Leiden scientists 3D-print microrobots that swim without a brain",
       "url": "https://www.perplexity.ai/page/leiden-scientists-3d-print-mic-qQ6_q7PBT.K.020eA0H_BA",
       "description": "The chain-like robots navigate obstacles and adapt to surroundings using only their physical shape — no sensors, software, or electronics required.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-24T19:42:57Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Brazil court places Bolsonaro under house arrest on health grounds",
-      "url": "https://www.perplexity.ai/page/brazil-court-places-bolsonaro-2EFPRdWxQ2elNK6V6VBV5g",
-      "description": "Justice Alexandre de Moraes reversed months of denials, granting a 90-day house arrest after the ex-president was hospitalized with severe pneumonia.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T19:37:34Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
-      "url": "https://www.perplexity.ai/page/iran-war-drives-fertilizer-cos-fPsi0BiFRWiIQrsmy1k37A",
-      "description": "Surging nitrogen prices, supplier shortages, and Strait of Hormuz disruptions are compounding years of losses for American grain farmers.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T17:59:26Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-28T08:56:07Z",
+  "cached_at": "2026-03-28T09:48:16Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran war wipes $11.5 trillion from global markets in one month",
+        "url": "https://www.perplexity.ai/page/iran-war-wipes-11-5-trillion-f-YUwCjPqXT62X1yJhnWvyLg",
+        "description": "The conflict's closure of the Strait of Hormuz has sent oil prices surging roughly 45% and left investors with few safe havens.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T09:37:17Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Japan's Kikai supervolcano is refilling with magma, study finds",
+        "url": "https://www.perplexity.ai/page/japan-s-kikai-supervolcano-is-wf4wN.3MSqG5070uHUQQKA",
+        "description": "Researchers mapped a 220-cubic-kilometer magma reservoir beneath the caldera that produced the Holocene's largest eruption 7,300 years ago.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T09:02:50Z",
+        "sourceCount": "13 sources"
+      },
       {
         "title": "Leiden scientists 3D-print microrobots that swim without a brain",
         "url": "https://www.perplexity.ai/page/leiden-scientists-3d-print-mic-qQ6_q7PBT.K.020eA0H_BA",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T19:42:57Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Brazil court places Bolsonaro under house arrest on health grounds",
-        "url": "https://www.perplexity.ai/page/brazil-court-places-bolsonaro-2EFPRdWxQ2elNK6V6VBV5g",
-        "description": "Justice Alexandre de Moraes reversed months of denials, granting a 90-day house arrest after the ex-president was hospitalized with severe pneumonia.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T19:37:34Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
-        "url": "https://www.perplexity.ai/page/iran-war-drives-fertilizer-cos-fPsi0BiFRWiIQrsmy1k37A",
-        "description": "Surging nitrogen prices, supplier shortages, and Strait of Hormuz disruptions are compounding years of losses for American grain farmers.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T17:59:26Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
