@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Pentagon prepares ground operations in Iran as war enters 30th day",
-      "url": "https://www.perplexity.ai/page/pentagon-prepares-ground-opera-hYR_kwTxTWmGAYiyLlFjcQ",
-      "description": "Regional foreign ministers meet in Islamabad to seek a diplomatic resolution as the U.S. military buildup intensifies.",
+      "title": "Netanyahu orders expansion of Israel's ground invasion in southern Lebanon",
+      "url": "https://www.perplexity.ai/page/netanyahu-orders-expansion-of-y7szoOaxQ0ynlfhGhCN6yQ",
+      "description": "The Israeli PM said the military will widen its \"security strip\" as fighting with Hezbollah enters a fourth week with over 1,100 dead.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-29T16:57:03Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-29T18:18:26Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Satellite images show 88 structures destroyed at key Iran missile site",
+      "url": "https://www.perplexity.ai/page/satellite-images-show-88-struc-vooYoV1nTciugKqxNxrozg",
+      "description": "A month into Operation Epic Fury, the U.S. has confirmed destroying only about a third of Iran's missile arsenal despite thousands of strikes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T18:03:44Z",
+      "sourceCount": "47 sources"
     },
     {
       "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
@@ -26,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-03-29T16:55:21Z",
       "sourceCount": "24 sources"
+    },
+    {
+      "title": "Pentagon prepares ground operations in Iran as war enters 30th day",
+      "url": "https://www.perplexity.ai/page/pentagon-prepares-ground-opera-hYR_kwTxTWmGAYiyLlFjcQ",
+      "description": "Regional foreign ministers meet in Islamabad to seek a diplomatic resolution as the U.S. military buildup intensifies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T16:57:03Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "North Korea tests upgraded missile engine with higher thrust",
@@ -1331,37 +1349,28 @@
       "topic": "top",
       "pubDate": "2026-03-25T01:48:14Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "TSA chief tells Congress agency won't be ready for World Cup",
-      "url": "https://www.perplexity.ai/page/tsa-chief-tells-congress-agenc-RWCH5.xsQaafWSMzydFXDw",
-      "description": "Nearly 460 officers have quit and unpaid payroll nears $1 billion as the DHS shutdown enters its 39th day, the acting TSA administrator testified.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T15:48:42Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "US Army raises max enlistment age to 42, eases marijuana rules",
-      "url": "https://www.perplexity.ai/page/us-army-raises-max-enlistment-hJBiSf.2R2mqJ8Lj4t91ig",
-      "description": "Updated regulation published March 20 also drops the waiver requirement for a single marijuana possession conviction to speed up recruiting.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T01:57:22Z",
-      "sourceCount": "62 sources"
     }
   ],
-  "cached_at": "2026-03-29T17:52:28Z",
+  "cached_at": "2026-03-29T18:40:26Z",
   "topics": {
     "top": [
       {
-        "title": "Pentagon prepares ground operations in Iran as war enters 30th day",
-        "url": "https://www.perplexity.ai/page/pentagon-prepares-ground-opera-hYR_kwTxTWmGAYiyLlFjcQ",
-        "description": "Regional foreign ministers meet in Islamabad to seek a diplomatic resolution as the U.S. military buildup intensifies.",
+        "title": "Netanyahu orders expansion of Israel's ground invasion in southern Lebanon",
+        "url": "https://www.perplexity.ai/page/netanyahu-orders-expansion-of-y7szoOaxQ0ynlfhGhCN6yQ",
+        "description": "The Israeli PM said the military will widen its \"security strip\" as fighting with Hezbollah enters a fourth week with over 1,100 dead.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-29T16:57:03Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-29T18:18:26Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Satellite images show 88 structures destroyed at key Iran missile site",
+        "url": "https://www.perplexity.ai/page/satellite-images-show-88-struc-vooYoV1nTciugKqxNxrozg",
+        "description": "A month into Operation Epic Fury, the U.S. has confirmed destroying only about a third of Iran's missile arsenal despite thousands of strikes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T18:03:44Z",
+        "sourceCount": "47 sources"
       },
       {
         "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
@@ -1380,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-03-29T16:55:21Z",
         "sourceCount": "24 sources"
+      },
+      {
+        "title": "Pentagon prepares ground operations in Iran as war enters 30th day",
+        "url": "https://www.perplexity.ai/page/pentagon-prepares-ground-opera-hYR_kwTxTWmGAYiyLlFjcQ",
+        "description": "Regional foreign ministers meet in Islamabad to seek a diplomatic resolution as the U.S. military buildup intensifies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T16:57:03Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "North Korea tests upgraded missile engine with higher thrust",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T01:48:14Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "TSA chief tells Congress agency won't be ready for World Cup",
-        "url": "https://www.perplexity.ai/page/tsa-chief-tells-congress-agenc-RWCH5.xsQaafWSMzydFXDw",
-        "description": "Nearly 460 officers have quit and unpaid payroll nears $1 billion as the DHS shutdown enters its 39th day, the acting TSA administrator testified.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T15:48:42Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "US Army raises max enlistment age to 42, eases marijuana rules",
-        "url": "https://www.perplexity.ai/page/us-army-raises-max-enlistment-hJBiSf.2R2mqJ8Lj4t91ig",
-        "description": "Updated regulation published March 20 also drops the waiver requirement for a single marijuana possession conviction to speed up recruiting.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T01:57:22Z",
-        "sourceCount": "62 sources"
       }
     ],
     "tech": [],
