@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "North Korea tests upgraded missile engine with higher thrust",
+      "url": "https://www.perplexity.ai/page/north-korea-tests-upgraded-mis-3cC0ExW1TW2mJ1AVFC604Q",
+      "description": "Kim Jong Un supervised a solid-fuel engine test reaching 2,500 kilonewtons, up from 1,971 kN in September, according to state media.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T06:33:10Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Iran hits Abu Dhabi smelter, Saudi base as war widens across Gulf",
+      "url": "https://www.perplexity.ai/page/iran-hits-abu-dhabi-smelter-sa-TZuUP6J2TT6k9U2Nr2eHsw",
+      "description": "Iran struck targets across the Persian Gulf on Saturday, damaging a major UAE aluminum plant and wounding 12 U.S. troops at a Saudi air base.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T02:23:12Z",
+      "sourceCount": "45 sources"
+    },
+    {
       "title": "Trump threatens to 'expose' GOP senators opposing filibuster end amid DHS shutdown",
       "url": "https://www.perplexity.ai/page/trump-threatens-to-expose-gop-ZgYIx87cRx2C.jX_777D5w",
       "description": "As the partial DHS shutdown hit day 43, the president escalated pressure on his own party after Congress left for a two-week recess without a deal.",
@@ -8,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-03-29T01:44:09Z",
       "sourceCount": "49 sources"
-    },
-    {
-      "title": "Iran hits Bahrain refinery, aluminum smelter near US base",
-      "url": "https://www.perplexity.ai/page/iran-hits-bahrain-refinery-alu-dLyBRyXrQw.eBeiWU78t1Q",
-      "description": "Massive fires erupted at the BAPCO refinery and ALBA smelter after Iranian missile and drone strikes also targeted areas near the US Fifth Fleet headquarters.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-29T00:53:49Z",
-      "sourceCount": "52 sources"
     },
     {
       "title": "Houthis launch second attack on Israel within 24 hours, vow more strikes",
@@ -28,15 +37,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Trump claims Nobel snub, calls himself a peacemaker amid Iran war",
-      "url": "https://www.perplexity.ai/page/trump-claims-nobel-snub-calls-mNfFUJ92QsaUL6sohf__TQ",
-      "description": "At a Saudi-backed summit in Miami Beach, the president said he stopped eight wars and criticized Norway's Nobel committee while defending the conflict with Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T22:44:44Z",
-      "sourceCount": "42 sources"
-    },
-    {
       "title": "Vance wins CPAC 2028 straw poll as Rubio surges",
       "url": "https://www.perplexity.ai/page/vance-wins-cpac-2028-straw-pol-pgYdhFsrSo2eMHinthJxXw",
       "description": "Secretary of State Rubio jumped from 3% last year to 35%, while Vice President Vance's support fell from 61% to 53%.",
@@ -44,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-03-28T22:13:36Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Trump claims Nobel snub, calls himself a peacemaker amid Iran war",
+      "url": "https://www.perplexity.ai/page/trump-claims-nobel-snub-calls-mNfFUJ92QsaUL6sohf__TQ",
+      "description": "At a Saudi-backed summit in Miami Beach, the president said he stopped eight wars and criticized Norway's Nobel committee while defending the conflict with Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T22:44:44Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "FBI moves to release Swalwell files from closed spy probe",
@@ -55,15 +64,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Millions protest Trump in third 'No Kings' rallies nationwide",
-      "url": "https://www.perplexity.ai/page/millions-protest-trump-in-thir-qyfjYETZTM.1MH9pDCnhnw",
-      "description": "More than 3,300 peaceful demonstrations took place across all 50 states Saturday, with organizers anticipating record turnout.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T21:56:26Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Rosatom says Bushehr nuclear plant situation worsening after third strike",
       "url": "https://www.perplexity.ai/page/rosatom-says-bushehr-nuclear-p-cLrMVv2HSxmtE0Wkz6jI0g",
       "description": "Russia's state nuclear agency warned Saturday that conditions at Iran's only operational nuclear power plant continue to deteriorate amid repeated attacks.",
@@ -71,6 +71,15 @@
       "topic": "top",
       "pubDate": "2026-03-28T19:52:36Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Millions protest Trump in third 'No Kings' rallies nationwide",
+      "url": "https://www.perplexity.ai/page/millions-protest-trump-in-thir-qyfjYETZTM.1MH9pDCnhnw",
+      "description": "More than 3,300 peaceful demonstrations took place across all 50 states Saturday, with organizers anticipating record turnout.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T21:56:26Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "WHO says nine paramedics killed in southern Lebanon",
@@ -82,21 +91,21 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Vance says US will leave Iran 'soon' as Tehran rejects peace talks",
-      "url": "https://www.perplexity.ai/page/vance-says-us-will-leave-iran-M3Mus96jQFu59R9gMP822A",
-      "description": "The vice president said most military objectives have been met but Trump wants to continue \"a little while longer\" to ensure Iran is weakened long-term.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T20:30:49Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Drone strike hits Kurdistan president's home in Duhok",
       "url": "https://www.perplexity.ai/page/drone-strike-hits-kurdistan-pr-ivLKTB6UTUeBMEW2noyKqw",
       "description": "Iraq's PM ordered a joint federal-Kurdish investigation after a drone targeted Nechirvan Barzani's residence Saturday. No casualties were reported.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-28T19:23:33Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Vance says US will leave Iran 'soon' as Tehran rejects peace talks",
+      "url": "https://www.perplexity.ai/page/vance-says-us-will-leave-iran-M3Mus96jQFu59R9gMP822A",
+      "description": "The vice president said most military objectives have been met but Trump wants to continue \"a little while longer\" to ensure Iran is weakened long-term.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T20:30:49Z",
       "sourceCount": "28 sources"
     },
     {
@@ -109,6 +118,15 @@
       "sourceCount": "39 sources"
     },
     {
+      "title": "Israeli forces push 8 km into south Lebanon toward Litani River",
+      "url": "https://www.perplexity.ai/page/israeli-forces-push-8-km-into-fQpaEZzIQDyjMumOPjLHYQ",
+      "description": "Lebanon's defense minister said Israeli ground troops have advanced eight kilometers inland, the deepest penetration since the March 16 ground offensive began.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T14:54:05Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "'No Kings' protests sweep Europe as London draws half a million",
       "url": "https://www.perplexity.ai/page/no-kings-protests-sweep-europe-QfUZzBKCSRCl637pPFsq6Q",
       "description": "Demonstrators marched in cities across Europe and beyond Saturday, extending the American anti-Trump movement into a global day of action.",
@@ -118,15 +136,6 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "Iranian strike damages major UAE aluminum plant, workers injured",
-      "url": "https://www.perplexity.ai/page/iranian-strike-damages-major-u-AkgfRFlVQtmQMZDlUOlm7A",
-      "description": "EGA's Al Taweelah complex in Abu Dhabi, the UAE's largest aluminum-producing site, was hit Saturday amid ongoing Iranian attacks on Gulf states.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T15:50:15Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "Iran demands UN accountability over strikes on oil infrastructure",
       "url": "https://www.perplexity.ai/page/iran-demands-un-accountability-xUXfiVKsQau9tOEmU0Imcw",
       "description": "Tehran's UN ambassador filed formal complaints over March 7 and 18 attacks on energy facilities, calling them ecocide and demanding reparations.",
@@ -134,15 +143,6 @@
       "topic": "top",
       "pubDate": "2026-03-28T16:29:16Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Israeli forces push 8 km into south Lebanon toward Litani River",
-      "url": "https://www.perplexity.ai/page/israeli-forces-push-8-km-into-fQpaEZzIQDyjMumOPjLHYQ",
-      "description": "Lebanon's defense minister said Israeli ground troops have advanced eight kilometers inland, the deepest penetration since the March 16 ground offensive began.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T14:54:05Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "French police foil bomb attack outside Bank of America in Paris",
@@ -1351,9 +1351,27 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-29T05:26:01Z",
+  "cached_at": "2026-03-29T06:43:36Z",
   "topics": {
     "top": [
+      {
+        "title": "North Korea tests upgraded missile engine with higher thrust",
+        "url": "https://www.perplexity.ai/page/north-korea-tests-upgraded-mis-3cC0ExW1TW2mJ1AVFC604Q",
+        "description": "Kim Jong Un supervised a solid-fuel engine test reaching 2,500 kilonewtons, up from 1,971 kN in September, according to state media.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T06:33:10Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Iran hits Abu Dhabi smelter, Saudi base as war widens across Gulf",
+        "url": "https://www.perplexity.ai/page/iran-hits-abu-dhabi-smelter-sa-TZuUP6J2TT6k9U2Nr2eHsw",
+        "description": "Iran struck targets across the Persian Gulf on Saturday, damaging a major UAE aluminum plant and wounding 12 U.S. troops at a Saudi air base.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T02:23:12Z",
+        "sourceCount": "45 sources"
+      },
       {
         "title": "Trump threatens to 'expose' GOP senators opposing filibuster end amid DHS shutdown",
         "url": "https://www.perplexity.ai/page/trump-threatens-to-expose-gop-ZgYIx87cRx2C.jX_777D5w",
@@ -1362,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-03-29T01:44:09Z",
         "sourceCount": "49 sources"
-      },
-      {
-        "title": "Iran hits Bahrain refinery, aluminum smelter near US base",
-        "url": "https://www.perplexity.ai/page/iran-hits-bahrain-refinery-alu-dLyBRyXrQw.eBeiWU78t1Q",
-        "description": "Massive fires erupted at the BAPCO refinery and ALBA smelter after Iranian missile and drone strikes also targeted areas near the US Fifth Fleet headquarters.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-29T00:53:49Z",
-        "sourceCount": "52 sources"
       },
       {
         "title": "Houthis launch second attack on Israel within 24 hours, vow more strikes",
@@ -1382,15 +1391,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Trump claims Nobel snub, calls himself a peacemaker amid Iran war",
-        "url": "https://www.perplexity.ai/page/trump-claims-nobel-snub-calls-mNfFUJ92QsaUL6sohf__TQ",
-        "description": "At a Saudi-backed summit in Miami Beach, the president said he stopped eight wars and criticized Norway's Nobel committee while defending the conflict with Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T22:44:44Z",
-        "sourceCount": "42 sources"
-      },
-      {
         "title": "Vance wins CPAC 2028 straw poll as Rubio surges",
         "url": "https://www.perplexity.ai/page/vance-wins-cpac-2028-straw-pol-pgYdhFsrSo2eMHinthJxXw",
         "description": "Secretary of State Rubio jumped from 3% last year to 35%, while Vice President Vance's support fell from 61% to 53%.",
@@ -1398,6 +1398,15 @@
         "topic": "top",
         "pubDate": "2026-03-28T22:13:36Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Trump claims Nobel snub, calls himself a peacemaker amid Iran war",
+        "url": "https://www.perplexity.ai/page/trump-claims-nobel-snub-calls-mNfFUJ92QsaUL6sohf__TQ",
+        "description": "At a Saudi-backed summit in Miami Beach, the president said he stopped eight wars and criticized Norway's Nobel committee while defending the conflict with Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T22:44:44Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "FBI moves to release Swalwell files from closed spy probe",
@@ -1409,15 +1418,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Millions protest Trump in third 'No Kings' rallies nationwide",
-        "url": "https://www.perplexity.ai/page/millions-protest-trump-in-thir-qyfjYETZTM.1MH9pDCnhnw",
-        "description": "More than 3,300 peaceful demonstrations took place across all 50 states Saturday, with organizers anticipating record turnout.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T21:56:26Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Rosatom says Bushehr nuclear plant situation worsening after third strike",
         "url": "https://www.perplexity.ai/page/rosatom-says-bushehr-nuclear-p-cLrMVv2HSxmtE0Wkz6jI0g",
         "description": "Russia's state nuclear agency warned Saturday that conditions at Iran's only operational nuclear power plant continue to deteriorate amid repeated attacks.",
@@ -1425,6 +1425,15 @@
         "topic": "top",
         "pubDate": "2026-03-28T19:52:36Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Millions protest Trump in third 'No Kings' rallies nationwide",
+        "url": "https://www.perplexity.ai/page/millions-protest-trump-in-thir-qyfjYETZTM.1MH9pDCnhnw",
+        "description": "More than 3,300 peaceful demonstrations took place across all 50 states Saturday, with organizers anticipating record turnout.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T21:56:26Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "WHO says nine paramedics killed in southern Lebanon",
@@ -1436,21 +1445,21 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Vance says US will leave Iran 'soon' as Tehran rejects peace talks",
-        "url": "https://www.perplexity.ai/page/vance-says-us-will-leave-iran-M3Mus96jQFu59R9gMP822A",
-        "description": "The vice president said most military objectives have been met but Trump wants to continue \"a little while longer\" to ensure Iran is weakened long-term.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T20:30:49Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Drone strike hits Kurdistan president's home in Duhok",
         "url": "https://www.perplexity.ai/page/drone-strike-hits-kurdistan-pr-ivLKTB6UTUeBMEW2noyKqw",
         "description": "Iraq's PM ordered a joint federal-Kurdish investigation after a drone targeted Nechirvan Barzani's residence Saturday. No casualties were reported.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-28T19:23:33Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Vance says US will leave Iran 'soon' as Tehran rejects peace talks",
+        "url": "https://www.perplexity.ai/page/vance-says-us-will-leave-iran-M3Mus96jQFu59R9gMP822A",
+        "description": "The vice president said most military objectives have been met but Trump wants to continue \"a little while longer\" to ensure Iran is weakened long-term.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T20:30:49Z",
         "sourceCount": "28 sources"
       },
       {
@@ -1463,6 +1472,15 @@
         "sourceCount": "39 sources"
       },
       {
+        "title": "Israeli forces push 8 km into south Lebanon toward Litani River",
+        "url": "https://www.perplexity.ai/page/israeli-forces-push-8-km-into-fQpaEZzIQDyjMumOPjLHYQ",
+        "description": "Lebanon's defense minister said Israeli ground troops have advanced eight kilometers inland, the deepest penetration since the March 16 ground offensive began.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T14:54:05Z",
+        "sourceCount": "30 sources"
+      },
+      {
         "title": "'No Kings' protests sweep Europe as London draws half a million",
         "url": "https://www.perplexity.ai/page/no-kings-protests-sweep-europe-QfUZzBKCSRCl637pPFsq6Q",
         "description": "Demonstrators marched in cities across Europe and beyond Saturday, extending the American anti-Trump movement into a global day of action.",
@@ -1472,15 +1490,6 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "Iranian strike damages major UAE aluminum plant, workers injured",
-        "url": "https://www.perplexity.ai/page/iranian-strike-damages-major-u-AkgfRFlVQtmQMZDlUOlm7A",
-        "description": "EGA's Al Taweelah complex in Abu Dhabi, the UAE's largest aluminum-producing site, was hit Saturday amid ongoing Iranian attacks on Gulf states.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T15:50:15Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "Iran demands UN accountability over strikes on oil infrastructure",
         "url": "https://www.perplexity.ai/page/iran-demands-un-accountability-xUXfiVKsQau9tOEmU0Imcw",
         "description": "Tehran's UN ambassador filed formal complaints over March 7 and 18 attacks on energy facilities, calling them ecocide and demanding reparations.",
@@ -1488,15 +1497,6 @@
         "topic": "top",
         "pubDate": "2026-03-28T16:29:16Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Israeli forces push 8 km into south Lebanon toward Litani River",
-        "url": "https://www.perplexity.ai/page/israeli-forces-push-8-km-into-fQpaEZzIQDyjMumOPjLHYQ",
-        "description": "Lebanon's defense minister said Israeli ground troops have advanced eight kilometers inland, the deepest penetration since the March 16 ground offensive began.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T14:54:05Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "French police foil bomb attack outside Bank of America in Paris",
