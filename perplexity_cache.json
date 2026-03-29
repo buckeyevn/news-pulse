@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Politico names Jonathan Greenberger as editor in chief",
+      "url": "https://www.perplexity.ai/page/politico-names-jonathan-greenb-IdLi33lmQY.XEcTcW91gfA",
+      "description": "The former ABC News Washington bureau chief, who joined Politico in 2024, will succeed co-founder John Harris effective May 1.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T21:28:06Z",
+      "sourceCount": "46 sources"
+    },
+    {
       "title": "Iran vows permanent overhaul of Strait of Hormuz rules",
       "url": "https://www.perplexity.ai/page/iran-vows-permanent-overhaul-o-Cd1eKHUVTDutRiLLqbK3yg",
       "description": "Vice President Aref says Tehran will convert wartime control of the vital waterway into lasting economic and security gains.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T18:23:06Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "New York Times accuses Pentagon of defying court order on press access",
-      "url": "https://www.perplexity.ai/page/new-york-times-accuses-pentago-ubGFOjUTSbWz.FJi_G.QPw",
-      "description": "The paper filed a new motion Tuesday after the department closed its press corridor and imposed escort requirements days after a judge struck down its media policy.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T02:58:58Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-29T21:45:23Z",
+  "cached_at": "2026-03-29T22:15:29Z",
   "topics": {
     "top": [
+      {
+        "title": "Politico names Jonathan Greenberger as editor in chief",
+        "url": "https://www.perplexity.ai/page/politico-names-jonathan-greenb-IdLi33lmQY.XEcTcW91gfA",
+        "description": "The former ABC News Washington bureau chief, who joined Politico in 2024, will succeed co-founder John Harris effective May 1.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T21:28:06Z",
+        "sourceCount": "46 sources"
+      },
       {
         "title": "Iran vows permanent overhaul of Strait of Hormuz rules",
         "url": "https://www.perplexity.ai/page/iran-vows-permanent-overhaul-o-Cd1eKHUVTDutRiLLqbK3yg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T18:23:06Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "New York Times accuses Pentagon of defying court order on press access",
-        "url": "https://www.perplexity.ai/page/new-york-times-accuses-pentago-ubGFOjUTSbWz.FJi_G.QPw",
-        "description": "The paper filed a new motion Tuesday after the department closed its press corridor and imposed escort requirements days after a judge struck down its media policy.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T02:58:58Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
