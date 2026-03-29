@@ -145,15 +145,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "French police foil bomb attack outside Bank of America in Paris",
-      "url": "https://www.perplexity.ai/page/french-police-foil-bomb-attack-vPlejvy6QryMA7nEheiknw",
-      "description": "One suspect was arrested and another is at large after an improvised device was placed outside the bank's 8th arrondissement office early Saturday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T14:48:22Z",
-      "sourceCount": "24 sources"
-    },
-    {
       "title": "Poland extends border checks with Germany, Lithuania until October",
       "url": "https://www.perplexity.ai/page/poland-extends-border-checks-w-98eTpzXBT.uPPmjb0m2NXA",
       "description": "The interior ministry said Saturday the controls are needed to combat illegal migration and maintain internal security.",
@@ -163,15 +154,6 @@
       "sourceCount": "35 sources"
     },
     {
-      "title": "IDF needs 'a few more weeks' to degrade Iran's military, Israeli official says",
-      "url": "https://www.perplexity.ai/page/idf-needs-a-few-more-weeks-to-DxmuxGNbT9aYGqoNh_2uNA",
-      "description": "Israel says it has destroyed 70% of Iran's missile launchers but warns more time is needed, even as Trump extends his deadline to April 6.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T16:14:09Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "Vance says UFOs are 'demons,' vows to investigate files",
       "url": "https://www.perplexity.ai/page/vance-says-ufos-are-demons-vow-yORTqM7VTmWY976RfCM76g",
       "description": "The vice president told a podcast host he plans to visit Area 51 and use his remaining three years in office to \"get to the bottom\" of UFO files.",
@@ -179,6 +161,15 @@
       "topic": "top",
       "pubDate": "2026-03-28T13:23:29Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "IDF needs 'a few more weeks' to degrade Iran's military, Israeli official says",
+      "url": "https://www.perplexity.ai/page/idf-needs-a-few-more-weeks-to-DxmuxGNbT9aYGqoNh_2uNA",
+      "description": "Israel says it has destroyed 70% of Iran's missile launchers but warns more time is needed, even as Trump extends his deadline to April 6.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T16:14:09Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Border Patrol agent indicted for strangling handcuffed detainee",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-03-25T14:18:39Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "US assessing how to resume nuclear weapons testing",
+      "url": "https://www.perplexity.ai/page/us-assessing-how-to-resume-nuc-g5WuWF3.RbmwHdjReGxzNg",
+      "description": "Undersecretary DiNanno told lawmakers the administration has made no decisions on a testing program but did not rule out underground explosive tests.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:58:37Z",
+      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-29T12:00:40Z",
+  "cached_at": "2026-03-29T13:17:54Z",
   "topics": {
     "top": [
       {
@@ -1499,15 +1499,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "French police foil bomb attack outside Bank of America in Paris",
-        "url": "https://www.perplexity.ai/page/french-police-foil-bomb-attack-vPlejvy6QryMA7nEheiknw",
-        "description": "One suspect was arrested and another is at large after an improvised device was placed outside the bank's 8th arrondissement office early Saturday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T14:48:22Z",
-        "sourceCount": "24 sources"
-      },
-      {
         "title": "Poland extends border checks with Germany, Lithuania until October",
         "url": "https://www.perplexity.ai/page/poland-extends-border-checks-w-98eTpzXBT.uPPmjb0m2NXA",
         "description": "The interior ministry said Saturday the controls are needed to combat illegal migration and maintain internal security.",
@@ -1517,15 +1508,6 @@
         "sourceCount": "35 sources"
       },
       {
-        "title": "IDF needs 'a few more weeks' to degrade Iran's military, Israeli official says",
-        "url": "https://www.perplexity.ai/page/idf-needs-a-few-more-weeks-to-DxmuxGNbT9aYGqoNh_2uNA",
-        "description": "Israel says it has destroyed 70% of Iran's missile launchers but warns more time is needed, even as Trump extends his deadline to April 6.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T16:14:09Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "Vance says UFOs are 'demons,' vows to investigate files",
         "url": "https://www.perplexity.ai/page/vance-says-ufos-are-demons-vow-yORTqM7VTmWY976RfCM76g",
         "description": "The vice president told a podcast host he plans to visit Area 51 and use his remaining three years in office to \"get to the bottom\" of UFO files.",
@@ -1533,6 +1515,15 @@
         "topic": "top",
         "pubDate": "2026-03-28T13:23:29Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "IDF needs 'a few more weeks' to degrade Iran's military, Israeli official says",
+        "url": "https://www.perplexity.ai/page/idf-needs-a-few-more-weeks-to-DxmuxGNbT9aYGqoNh_2uNA",
+        "description": "Israel says it has destroyed 70% of Iran's missile launchers but warns more time is needed, even as Trump extends his deadline to April 6.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T16:14:09Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Border Patrol agent indicted for strangling handcuffed detainee",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-25T14:18:39Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "US assessing how to resume nuclear weapons testing",
+        "url": "https://www.perplexity.ai/page/us-assessing-how-to-resume-nuc-g5WuWF3.RbmwHdjReGxzNg",
+        "description": "Undersecretary DiNanno told lawmakers the administration has made no decisions on a testing program but did not rule out underground explosive tests.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:58:37Z",
+        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
