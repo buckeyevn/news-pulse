@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump unveils 47-story skyscraper design for Miami presidential library",
+      "url": "https://www.perplexity.ai/page/trump-unveils-47-story-skyscra-LSTajyQLT56q3Bsfd0n38A",
+      "description": "The towering glass tower would break sharply from the low-slung, campus-style buildings that have defined presidential libraries for decades.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T16:21:25Z",
+      "sourceCount": "23 sources"
+    },
+    {
       "title": "Supreme Court strikes down Colorado conversion therapy ban in 8-1 ruling",
       "url": "https://www.perplexity.ai/page/supreme-court-strikes-down-col-beD1Y1CkSeCPZPfAh4LBQw",
       "description": "The decision in Chiles v. Salazar requires courts to apply heightened First Amendment scrutiny to laws restricting talk therapy for minors.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-03-31T14:47:57Z",
       "sourceCount": "33 sources"
-    },
-    {
-      "title": "Stocks surge as Trump signals willingness to end Iran war",
-      "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-signals-fBNatVPCTdWXrWzA4idXpw",
-      "description": "The Dow, S&P 500, and Nasdaq all rallied sharply after reports that the president is open to winding down the conflict without reopening the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T14:44:22Z",
-      "sourceCount": "43 sources"
     },
     {
       "title": "US, Israel strike Isfahan and Tehran on Day 32 of Iran war",
@@ -28,6 +28,15 @@
       "sourceCount": "42 sources"
     },
     {
+      "title": "Stocks surge as Trump signals willingness to end Iran war",
+      "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-signals-fBNatVPCTdWXrWzA4idXpw",
+      "description": "The Dow, S&P 500, and Nasdaq all rallied sharply after reports that the president is open to winding down the conflict without reopening the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T14:44:22Z",
+      "sourceCount": "43 sources"
+    },
+    {
       "title": "Global banks turn to Chinese stocks as Iran war roils markets",
       "url": "https://www.perplexity.ai/page/global-banks-turn-to-chinese-s-PFqK_jkLTS6qK9HeNHLi9g",
       "description": "Reuters reports major banks are treating Chinese equities as a safe haven, with renewable energy stocks surging even as global indexes tumble.",
@@ -35,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-03-31T11:35:46Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Australia, Indonesia probe tech giants over under-16 bans",
-      "url": "https://www.perplexity.ai/page/australia-indonesia-probe-tech-wI.CsPBDQyS2tSZs3xsVAQ",
-      "description": "Both countries are investigating major platforms for failing to enforce social media age restrictions, with fines and sanctions on the table.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T07:57:23Z",
-      "sourceCount": "32 sources"
     },
     {
       "title": "Hegseth calls upcoming days 'decisive' in Iran war",
@@ -62,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-03-31T11:49:33Z",
       "sourceCount": "43 sources"
+    },
+    {
+      "title": "Australia, Indonesia probe tech giants over under-16 bans",
+      "url": "https://www.perplexity.ai/page/australia-indonesia-probe-tech-wI.CsPBDQyS2tSZs3xsVAQ",
+      "description": "Both countries are investigating major platforms for failing to enforce social media age restrictions, with fines and sanctions on the table.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T07:57:23Z",
+      "sourceCount": "32 sources"
     },
     {
       "title": "Data centers warm nearby land by up to 16°F, Cambridge study finds",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T22:48:35Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "White House misses deadline to nominate new CDC director",
-      "url": "https://www.perplexity.ai/page/white-house-misses-deadline-to-gDgFRxenSNiAuKdyQxGDVw",
-      "description": "The agency has lacked a permanent leader for over seven months as the administration struggles to find a candidate who can win Senate confirmation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T22:43:48Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-31T15:41:36Z",
+  "cached_at": "2026-03-31T16:42:03Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump unveils 47-story skyscraper design for Miami presidential library",
+        "url": "https://www.perplexity.ai/page/trump-unveils-47-story-skyscra-LSTajyQLT56q3Bsfd0n38A",
+        "description": "The towering glass tower would break sharply from the low-slung, campus-style buildings that have defined presidential libraries for decades.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T16:21:25Z",
+        "sourceCount": "23 sources"
+      },
       {
         "title": "Supreme Court strikes down Colorado conversion therapy ban in 8-1 ruling",
         "url": "https://www.perplexity.ai/page/supreme-court-strikes-down-col-beD1Y1CkSeCPZPfAh4LBQw",
@@ -1362,15 +1371,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T14:47:57Z",
         "sourceCount": "33 sources"
-      },
-      {
-        "title": "Stocks surge as Trump signals willingness to end Iran war",
-        "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-signals-fBNatVPCTdWXrWzA4idXpw",
-        "description": "The Dow, S&P 500, and Nasdaq all rallied sharply after reports that the president is open to winding down the conflict without reopening the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T14:44:22Z",
-        "sourceCount": "43 sources"
       },
       {
         "title": "US, Israel strike Isfahan and Tehran on Day 32 of Iran war",
@@ -1382,6 +1382,15 @@
         "sourceCount": "42 sources"
       },
       {
+        "title": "Stocks surge as Trump signals willingness to end Iran war",
+        "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-signals-fBNatVPCTdWXrWzA4idXpw",
+        "description": "The Dow, S&P 500, and Nasdaq all rallied sharply after reports that the president is open to winding down the conflict without reopening the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T14:44:22Z",
+        "sourceCount": "43 sources"
+      },
+      {
         "title": "Global banks turn to Chinese stocks as Iran war roils markets",
         "url": "https://www.perplexity.ai/page/global-banks-turn-to-chinese-s-PFqK_jkLTS6qK9HeNHLi9g",
         "description": "Reuters reports major banks are treating Chinese equities as a safe haven, with renewable energy stocks surging even as global indexes tumble.",
@@ -1389,15 +1398,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T11:35:46Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Australia, Indonesia probe tech giants over under-16 bans",
-        "url": "https://www.perplexity.ai/page/australia-indonesia-probe-tech-wI.CsPBDQyS2tSZs3xsVAQ",
-        "description": "Both countries are investigating major platforms for failing to enforce social media age restrictions, with fines and sanctions on the table.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T07:57:23Z",
-        "sourceCount": "32 sources"
       },
       {
         "title": "Hegseth calls upcoming days 'decisive' in Iran war",
@@ -1416,6 +1416,15 @@
         "topic": "top",
         "pubDate": "2026-03-31T11:49:33Z",
         "sourceCount": "43 sources"
+      },
+      {
+        "title": "Australia, Indonesia probe tech giants over under-16 bans",
+        "url": "https://www.perplexity.ai/page/australia-indonesia-probe-tech-wI.CsPBDQyS2tSZs3xsVAQ",
+        "description": "Both countries are investigating major platforms for failing to enforce social media age restrictions, with fines and sanctions on the table.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T07:57:23Z",
+        "sourceCount": "32 sources"
       },
       {
         "title": "Data centers warm nearby land by up to 16°F, Cambridge study finds",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T22:48:35Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "White House misses deadline to nominate new CDC director",
-        "url": "https://www.perplexity.ai/page/white-house-misses-deadline-to-gDgFRxenSNiAuKdyQxGDVw",
-        "description": "The agency has lacked a permanent leader for over seven months as the administration struggles to find a candidate who can win Senate confirmation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T22:43:48Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
