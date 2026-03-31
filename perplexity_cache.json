@@ -64,13 +64,13 @@
       "sourceCount": "59 sources"
     },
     {
-      "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
-      "url": "https://www.perplexity.ai/page/zelensky-says-russia-exploitin-MSM7RbOwTVGO_newvCdAfg",
-      "description": "In an exclusive interview, the Ukrainian president accused Moscow of sharing satellite imagery with Iran and profiting from loosened oil sanctions.",
+      "title": "Iran's parliament approves plan to toll ships in Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/iran-s-parliament-approves-pla-iRIDucx.SSST14RHmLwLNQ",
+      "description": "The commission vote formalizes a fee system already charging some vessels $2 million per passage, defying international maritime law amid ongoing U.S. peace talks.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-30T23:49:06Z",
-      "sourceCount": "52 sources"
+      "pubDate": "2026-03-30T23:58:22Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Health groups sue EPA over mercury rule rollback for coal plants",
@@ -89,6 +89,15 @@
       "topic": "top",
       "pubDate": "2026-03-31T01:43:44Z",
       "sourceCount": "43 sources"
+    },
+    {
+      "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
+      "url": "https://www.perplexity.ai/page/zelensky-says-russia-exploitin-MSM7RbOwTVGO_newvCdAfg",
+      "description": "In an exclusive interview, the Ukrainian president accused Moscow of sharing satellite imagery with Iran and profiting from loosened oil sanctions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T23:49:06Z",
+      "sourceCount": "52 sources"
     },
     {
       "title": "FBI labels Temple Isreal attack Hezbollah-inspired terrorism",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-03-25T20:11:44Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "US offers $3M bounty for financial information on Haitian gangs",
-      "url": "https://www.perplexity.ai/page/us-offers-3m-bounty-for-financ-NYxYrGD2T3avobqzqwZveA",
-      "description": "The reward targets financial networks of Viv Ansanm and Gran Grif, shifting tactics from previous bounties focused on individual gang leaders.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T22:07:10Z",
-      "sourceCount": "31 sources"
     }
   ],
-  "cached_at": "2026-03-31T10:40:11Z",
+  "cached_at": "2026-03-31T11:36:22Z",
   "topics": {
     "top": [
       {
@@ -1418,13 +1418,13 @@
         "sourceCount": "59 sources"
       },
       {
-        "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
-        "url": "https://www.perplexity.ai/page/zelensky-says-russia-exploitin-MSM7RbOwTVGO_newvCdAfg",
-        "description": "In an exclusive interview, the Ukrainian president accused Moscow of sharing satellite imagery with Iran and profiting from loosened oil sanctions.",
+        "title": "Iran's parliament approves plan to toll ships in Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/iran-s-parliament-approves-pla-iRIDucx.SSST14RHmLwLNQ",
+        "description": "The commission vote formalizes a fee system already charging some vessels $2 million per passage, defying international maritime law amid ongoing U.S. peace talks.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-30T23:49:06Z",
-        "sourceCount": "52 sources"
+        "pubDate": "2026-03-30T23:58:22Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Health groups sue EPA over mercury rule rollback for coal plants",
@@ -1443,6 +1443,15 @@
         "topic": "top",
         "pubDate": "2026-03-31T01:43:44Z",
         "sourceCount": "43 sources"
+      },
+      {
+        "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
+        "url": "https://www.perplexity.ai/page/zelensky-says-russia-exploitin-MSM7RbOwTVGO_newvCdAfg",
+        "description": "In an exclusive interview, the Ukrainian president accused Moscow of sharing satellite imagery with Iran and profiting from loosened oil sanctions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T23:49:06Z",
+        "sourceCount": "52 sources"
       },
       {
         "title": "FBI labels Temple Isreal attack Hezbollah-inspired terrorism",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T20:11:44Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "US offers $3M bounty for financial information on Haitian gangs",
-        "url": "https://www.perplexity.ai/page/us-offers-3m-bounty-for-financ-NYxYrGD2T3avobqzqwZveA",
-        "description": "The reward targets financial networks of Viv Ansanm and Gran Grif, shifting tactics from previous bounties focused on individual gang leaders.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T22:07:10Z",
-        "sourceCount": "31 sources"
       }
     ],
     "tech": [],
