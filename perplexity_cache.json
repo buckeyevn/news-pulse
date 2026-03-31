@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Australia, Indonesia probe tech giants over under-16 bans",
+      "url": "https://www.perplexity.ai/page/australia-indonesia-probe-tech-wI.CsPBDQyS2tSZs3xsVAQ",
+      "description": "Both countries are investigating major platforms for failing to enforce social media age restrictions, with fines and sanctions on the table.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T07:57:23Z",
+      "sourceCount": "32 sources"
+    },
+    {
       "title": "Data centers warm nearby land by up to 16°F, Cambridge study finds",
       "url": "https://www.perplexity.ai/page/data-centers-warm-nearby-land-iyYeaConR32O.se2dOJXbQ",
       "description": "Satellite data from roughly 6,000 facilities worldwide shows AI data centers create \"heat islands\" affecting an estimated 340 million people.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T20:11:44Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "US offers $3M bounty for financial information on Haitian gangs",
-      "url": "https://www.perplexity.ai/page/us-offers-3m-bounty-for-financ-NYxYrGD2T3avobqzqwZveA",
-      "description": "The reward targets financial networks of Viv Ansanm and Gran Grif, shifting tactics from previous bounties focused on individual gang leaders.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T22:07:10Z",
-      "sourceCount": "31 sources"
     }
   ],
-  "cached_at": "2026-03-31T07:17:16Z",
+  "cached_at": "2026-03-31T08:34:56Z",
   "topics": {
     "top": [
+      {
+        "title": "Australia, Indonesia probe tech giants over under-16 bans",
+        "url": "https://www.perplexity.ai/page/australia-indonesia-probe-tech-wI.CsPBDQyS2tSZs3xsVAQ",
+        "description": "Both countries are investigating major platforms for failing to enforce social media age restrictions, with fines and sanctions on the table.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T07:57:23Z",
+        "sourceCount": "32 sources"
+      },
       {
         "title": "Data centers warm nearby land by up to 16°F, Cambridge study finds",
         "url": "https://www.perplexity.ai/page/data-centers-warm-nearby-land-iyYeaConR32O.se2dOJXbQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T20:11:44Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "US offers $3M bounty for financial information on Haitian gangs",
-        "url": "https://www.perplexity.ai/page/us-offers-3m-bounty-for-financ-NYxYrGD2T3avobqzqwZveA",
-        "description": "The reward targets financial networks of Viv Ansanm and Gran Grif, shifting tactics from previous bounties focused on individual gang leaders.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T22:07:10Z",
-        "sourceCount": "31 sources"
       }
     ],
     "tech": [],
