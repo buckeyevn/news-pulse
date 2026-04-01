@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "ICE says it bought phone-hacking spyware to fight fentanyl",
+      "url": "https://www.perplexity.ai/page/ice-says-it-bought-phone-hacki-kZbr3xyZReCJKjAhK.Sofw",
+      "description": "The agency's disclosure to lawmakers is its first public justification for a controversial $2 million contract with Israeli spyware firm Paragon Solutions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T22:24:43Z",
+      "sourceCount": "146 sources"
+    },
+    {
       "title": "Judge lets ABA lawsuit over Trump's law firm orders proceed",
       "url": "https://www.perplexity.ai/page/judge-lets-aba-lawsuit-over-tr-EBiDKmLpTOm8BL7ATCXlqA",
       "description": "A federal judge denied the DOJ's motion to dismiss, ruling the ABA plausibly showed Trump's executive orders suppressed free expression.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T10:03:53Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "China launches two trade barrier probes against U.S.",
-      "url": "https://www.perplexity.ai/page/china-launches-two-trade-barri-FCVTjKWxTlKKGXY6yirhHg",
-      "description": "Beijing's Commerce Ministry opened investigations into U.S. supply chain disruptions and green trade restrictions, retaliating against Washington's Section 301 probes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T08:30:19Z",
-      "sourceCount": "63 sources"
     }
   ],
-  "cached_at": "2026-04-01T22:04:38Z",
+  "cached_at": "2026-04-01T22:56:26Z",
   "topics": {
     "top": [
+      {
+        "title": "ICE says it bought phone-hacking spyware to fight fentanyl",
+        "url": "https://www.perplexity.ai/page/ice-says-it-bought-phone-hacki-kZbr3xyZReCJKjAhK.Sofw",
+        "description": "The agency's disclosure to lawmakers is its first public justification for a controversial $2 million contract with Israeli spyware firm Paragon Solutions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T22:24:43Z",
+        "sourceCount": "146 sources"
+      },
       {
         "title": "Judge lets ABA lawsuit over Trump's law firm orders proceed",
         "url": "https://www.perplexity.ai/page/judge-lets-aba-lawsuit-over-tr-EBiDKmLpTOm8BL7ATCXlqA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T10:03:53Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "China launches two trade barrier probes against U.S.",
-        "url": "https://www.perplexity.ai/page/china-launches-two-trade-barri-FCVTjKWxTlKKGXY6yirhHg",
-        "description": "Beijing's Commerce Ministry opened investigations into U.S. supply chain disruptions and green trade restrictions, retaliating against Washington's Section 301 probes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T08:30:19Z",
-        "sourceCount": "63 sources"
       }
     ],
     "tech": [],
