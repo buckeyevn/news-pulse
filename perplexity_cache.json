@@ -1,13 +1,31 @@
 {
   "stories": [
     {
-      "title": "71% of Hormuz ship traffic tied to Iran, new data shows",
-      "url": "https://www.perplexity.ai/page/71-of-hormuz-ship-traffic-tied-58_OCOuTQ6yGPDyIPpb9Sw",
-      "description": "Lloyd's List Intelligence found shadow fleet vessels accounted for 88% of strait transits last week as Trump urged allies to secure the waterway themselves.",
+      "title": "Shell in advanced talks to develop major gas fields in Venezuela",
+      "url": "https://www.perplexity.ai/page/shell-in-advanced-talks-to-dev-vyI63f8CTvalfAXvFGRQVg",
+      "description": "The energy giant is pursuing four offshore areas near Trinidad with combined reserves of roughly 20 trillion cubic feet, according to Reuters.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-01T14:34:46Z",
-      "sourceCount": "56 sources"
+      "pubDate": "2026-04-01T16:28:20Z",
+      "sourceCount": "31 sources"
+    },
+    {
+      "title": "Conservative justices question Trump birthright order",
+      "url": "https://www.perplexity.ai/page/conservative-justices-question-RIn8Gl2FRfyXaWiMPSK.Bw",
+      "description": "Trump became the first sitting president to attend Supreme Court oral arguments as justices from both wings challenged his executive order.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T16:13:49Z",
+      "sourceCount": "80 sources"
+    },
+    {
+      "title": "SpaceX files confidentially for historic IPO targeting $1.75 trillion valuation",
+      "url": "https://www.perplexity.ai/page/spacex-files-confidentially-fo-GkTnOz2kSMOuYXwoJS9S7Q",
+      "description": "The rocket and satellite company submitted its draft registration to the SEC on Wednesday, keeping it on track for a June listing that could raise $75 billion.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T15:45:20Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Iran hits tanker off Qatar, strikes Kuwait airport as Gulf war widens",
@@ -19,6 +37,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "ICE agents to remain at airports indefinitely, Duffy says",
+      "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
+      "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T15:18:56Z",
+      "sourceCount": "96 sources"
+    },
+    {
       "title": "Iran strikes AWS facility at telecom HQ in Bahrain",
       "url": "https://www.perplexity.ai/page/iran-strikes-aws-facility-at-t-PtU.MP0.Q3yO8rkXwaOjDQ",
       "description": "The attack on Batelco's headquarters is the first carried out under Iran's stated campaign to target 18 American tech and defense firms in the region.",
@@ -26,15 +53,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T13:20:58Z",
       "sourceCount": "39 sources"
-    },
-    {
-      "title": "Trump claims Iran requested ceasefire; Tehran denies it",
-      "url": "https://www.perplexity.ai/page/trump-claims-iran-requested-ce-FvMYqIC2TtGb8tIR8sJqgw",
-      "description": "Hours before a planned primetime address on the war, Trump and Iran offered starkly conflicting accounts of ceasefire talks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T13:39:01Z",
-      "sourceCount": "79 sources"
     },
     {
       "title": "NASA set to launch Artemis II moon mission today",
@@ -46,6 +64,42 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "71% of Hormuz ship traffic tied to Iran, new data shows",
+      "url": "https://www.perplexity.ai/page/71-of-hormuz-ship-traffic-tied-58_OCOuTQ6yGPDyIPpb9Sw",
+      "description": "Lloyd's List Intelligence found shadow fleet vessels accounted for 88% of strait transits last week as Trump urged allies to secure the waterway themselves.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T14:34:46Z",
+      "sourceCount": "56 sources"
+    },
+    {
+      "title": "Macron and Takaichi align on Hormuz crisis, rare earths in Tokyo summit",
+      "url": "https://www.perplexity.ai/page/macron-and-takaichi-align-on-h-BQt0k5bwQ2KaIewLaQ2BPA",
+      "description": "The first French presidential visit to Japan in over a decade was dominated by the Middle East conflict, energy security, and reducing reliance on China for critical minerals.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T11:09:28Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "UAE prepares to join coalition to reopen Strait of Hormuz by force",
+      "url": "https://www.perplexity.ai/page/uae-prepares-to-join-coalition-twU._PtqSu23UHCh5LQDXg",
+      "description": "The Gulf state is lobbying for a UN Security Council resolution authorizing military action and reviewing mine-clearing roles, according to The Wall Street Journal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T10:43:39Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Trump claims Iran requested ceasefire; Tehran denies it",
+      "url": "https://www.perplexity.ai/page/trump-claims-iran-requested-ce-FvMYqIC2TtGb8tIR8sJqgw",
+      "description": "Hours before a planned primetime address on the war, Trump and Iran offered starkly conflicting accounts of ceasefire talks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T13:39:01Z",
+      "sourceCount": "79 sources"
+    },
+    {
       "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
       "url": "https://www.perplexity.ai/page/south-korea-exports-hit-record-2k4tFLiMSf6oBxjOJRsBtw",
       "description": "Semiconductor shipments surged over 150%, while euro zone and U.S. factory activity beat forecasts as firms panic-bought materials ahead of further disruptions.",
@@ -53,6 +107,15 @@
       "topic": "top",
       "pubDate": "2026-04-01T09:43:57Z",
       "sourceCount": "43 sources"
+    },
+    {
+      "title": "Russia launches 339 drones at Ukraine after Kremlin rejects Easter ceasefire",
+      "url": "https://www.perplexity.ai/page/russia-launches-339-drones-at-Ddun3.fnScaCZUhbAOgLYg",
+      "description": "Zelenskyy called the overnight barrage a \"response to diplomacy\" as he prepares for a video call with U.S. envoys and NATO's chief on Wednesday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T10:29:05Z",
+      "sourceCount": "56 sources"
     },
     {
       "title": "Qubits needed to crack encryption fall 200-fold in under a year",
@@ -1286,82 +1349,37 @@
       "topic": "top",
       "pubDate": "2026-03-26T22:48:43Z",
       "sourceCount": "36 sources"
-    },
-    {
-      "title": "Houthi leader signals readiness to join Iran war against US and Israel",
-      "url": "https://www.perplexity.ai/page/houthi-leader-signals-readines-tOU4MBwsRi.mxT7vUDDoBg",
-      "description": "Ansarallah has refrained from entering the conflict since it began Feb. 28 but controls the strategic Bab al-Mandeb Strait.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T22:38:55Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Iran offers Spain Hormuz access in first such EU overture",
-      "url": "https://www.perplexity.ai/page/iran-offers-spain-hormuz-acces-1AL33XIgSgWc9.rv_..gJg",
-      "description": "Tehran cited Madrid's \"commitment to international law\" after Spain barred US forces from using its bases for strikes on Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T21:39:00Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Pentagon confirms first use of drone boats in Iran conflict",
-      "url": "https://www.perplexity.ai/page/pentagon-confirms-first-use-of-i8GXD5U1TlebTfquH2QeXA",
-      "description": "Uncrewed speedboats built by BlackSea Technologies have been patrolling in support of Operation Epic Fury, the Pentagon said Thursday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T22:43:17Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Education Dept. to vacate headquarters for smaller office amid dismantling push",
-      "url": "https://www.perplexity.ai/page/education-dept-to-vacate-headq-tpQNGitoSC6S.CMu.5audA",
-      "description": "The move, planned for August, comes as the agency's building sits 70% vacant after more than a year of mass layoffs under the Trump administration.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T22:29:33Z",
-      "sourceCount": "75 sources"
-    },
-    {
-      "title": "Bipartisan Senate bill targets insider trading on prediction markets",
-      "url": "https://www.perplexity.ai/page/bipartisan-senate-bill-targets-FBYmqL7UTUWzl6toMQ5YDw",
-      "description": "Four senators introduced legislation Thursday to ban government officials from using nonpublic information to trade on prediction market platforms.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T21:30:14Z",
-      "sourceCount": "73 sources"
-    },
-    {
-      "title": "US senators introduce bill to sanction Hungary over Ukraine aid blockade",
-      "url": "https://www.perplexity.ai/page/us-senators-introduce-bill-to-1QyC4tgoQPy9k_CcUX9pdw",
-      "description": "Sens. Shaheen and Tillis unveiled the bipartisan Block Putin Act targeting Hungarian officials as Orban continues to hold up a €90 billion EU loan to Kyiv.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T21:17:21Z",
-      "sourceCount": "57 sources"
-    },
-    {
-      "title": "Study finds AI chatbots affirm users 49% more than humans do",
-      "url": "https://www.perplexity.ai/page/study-finds-ai-chatbots-affirm-CXPno5dzQZ6V.60M7Lhw9g",
-      "description": "Stanford researchers found all 11 major AI systems tested exhibited sycophancy, giving overly agreeable advice that made users less willing to fix relationships.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T19:54:15Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-04-01T15:49:34Z",
+  "cached_at": "2026-04-01T16:43:49Z",
   "topics": {
     "top": [
       {
-        "title": "71% of Hormuz ship traffic tied to Iran, new data shows",
-        "url": "https://www.perplexity.ai/page/71-of-hormuz-ship-traffic-tied-58_OCOuTQ6yGPDyIPpb9Sw",
-        "description": "Lloyd's List Intelligence found shadow fleet vessels accounted for 88% of strait transits last week as Trump urged allies to secure the waterway themselves.",
+        "title": "Shell in advanced talks to develop major gas fields in Venezuela",
+        "url": "https://www.perplexity.ai/page/shell-in-advanced-talks-to-dev-vyI63f8CTvalfAXvFGRQVg",
+        "description": "The energy giant is pursuing four offshore areas near Trinidad with combined reserves of roughly 20 trillion cubic feet, according to Reuters.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-01T14:34:46Z",
-        "sourceCount": "56 sources"
+        "pubDate": "2026-04-01T16:28:20Z",
+        "sourceCount": "31 sources"
+      },
+      {
+        "title": "Conservative justices question Trump birthright order",
+        "url": "https://www.perplexity.ai/page/conservative-justices-question-RIn8Gl2FRfyXaWiMPSK.Bw",
+        "description": "Trump became the first sitting president to attend Supreme Court oral arguments as justices from both wings challenged his executive order.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T16:13:49Z",
+        "sourceCount": "80 sources"
+      },
+      {
+        "title": "SpaceX files confidentially for historic IPO targeting $1.75 trillion valuation",
+        "url": "https://www.perplexity.ai/page/spacex-files-confidentially-fo-GkTnOz2kSMOuYXwoJS9S7Q",
+        "description": "The rocket and satellite company submitted its draft registration to the SEC on Wednesday, keeping it on track for a June listing that could raise $75 billion.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T15:45:20Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Iran hits tanker off Qatar, strikes Kuwait airport as Gulf war widens",
@@ -1373,6 +1391,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "ICE agents to remain at airports indefinitely, Duffy says",
+        "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
+        "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T15:18:56Z",
+        "sourceCount": "96 sources"
+      },
+      {
         "title": "Iran strikes AWS facility at telecom HQ in Bahrain",
         "url": "https://www.perplexity.ai/page/iran-strikes-aws-facility-at-t-PtU.MP0.Q3yO8rkXwaOjDQ",
         "description": "The attack on Batelco's headquarters is the first carried out under Iran's stated campaign to target 18 American tech and defense firms in the region.",
@@ -1380,15 +1407,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T13:20:58Z",
         "sourceCount": "39 sources"
-      },
-      {
-        "title": "Trump claims Iran requested ceasefire; Tehran denies it",
-        "url": "https://www.perplexity.ai/page/trump-claims-iran-requested-ce-FvMYqIC2TtGb8tIR8sJqgw",
-        "description": "Hours before a planned primetime address on the war, Trump and Iran offered starkly conflicting accounts of ceasefire talks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T13:39:01Z",
-        "sourceCount": "79 sources"
       },
       {
         "title": "NASA set to launch Artemis II moon mission today",
@@ -1400,6 +1418,42 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "71% of Hormuz ship traffic tied to Iran, new data shows",
+        "url": "https://www.perplexity.ai/page/71-of-hormuz-ship-traffic-tied-58_OCOuTQ6yGPDyIPpb9Sw",
+        "description": "Lloyd's List Intelligence found shadow fleet vessels accounted for 88% of strait transits last week as Trump urged allies to secure the waterway themselves.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T14:34:46Z",
+        "sourceCount": "56 sources"
+      },
+      {
+        "title": "Macron and Takaichi align on Hormuz crisis, rare earths in Tokyo summit",
+        "url": "https://www.perplexity.ai/page/macron-and-takaichi-align-on-h-BQt0k5bwQ2KaIewLaQ2BPA",
+        "description": "The first French presidential visit to Japan in over a decade was dominated by the Middle East conflict, energy security, and reducing reliance on China for critical minerals.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T11:09:28Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "UAE prepares to join coalition to reopen Strait of Hormuz by force",
+        "url": "https://www.perplexity.ai/page/uae-prepares-to-join-coalition-twU._PtqSu23UHCh5LQDXg",
+        "description": "The Gulf state is lobbying for a UN Security Council resolution authorizing military action and reviewing mine-clearing roles, according to The Wall Street Journal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T10:43:39Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Trump claims Iran requested ceasefire; Tehran denies it",
+        "url": "https://www.perplexity.ai/page/trump-claims-iran-requested-ce-FvMYqIC2TtGb8tIR8sJqgw",
+        "description": "Hours before a planned primetime address on the war, Trump and Iran offered starkly conflicting accounts of ceasefire talks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T13:39:01Z",
+        "sourceCount": "79 sources"
+      },
+      {
         "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
         "url": "https://www.perplexity.ai/page/south-korea-exports-hit-record-2k4tFLiMSf6oBxjOJRsBtw",
         "description": "Semiconductor shipments surged over 150%, while euro zone and U.S. factory activity beat forecasts as firms panic-bought materials ahead of further disruptions.",
@@ -1407,6 +1461,15 @@
         "topic": "top",
         "pubDate": "2026-04-01T09:43:57Z",
         "sourceCount": "43 sources"
+      },
+      {
+        "title": "Russia launches 339 drones at Ukraine after Kremlin rejects Easter ceasefire",
+        "url": "https://www.perplexity.ai/page/russia-launches-339-drones-at-Ddun3.fnScaCZUhbAOgLYg",
+        "description": "Zelenskyy called the overnight barrage a \"response to diplomacy\" as he prepares for a video call with U.S. envoys and NATO's chief on Wednesday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T10:29:05Z",
+        "sourceCount": "56 sources"
       },
       {
         "title": "Qubits needed to crack encryption fall 200-fold in under a year",
@@ -2640,69 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T22:48:43Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "Houthi leader signals readiness to join Iran war against US and Israel",
-        "url": "https://www.perplexity.ai/page/houthi-leader-signals-readines-tOU4MBwsRi.mxT7vUDDoBg",
-        "description": "Ansarallah has refrained from entering the conflict since it began Feb. 28 but controls the strategic Bab al-Mandeb Strait.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T22:38:55Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Iran offers Spain Hormuz access in first such EU overture",
-        "url": "https://www.perplexity.ai/page/iran-offers-spain-hormuz-acces-1AL33XIgSgWc9.rv_..gJg",
-        "description": "Tehran cited Madrid's \"commitment to international law\" after Spain barred US forces from using its bases for strikes on Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T21:39:00Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Pentagon confirms first use of drone boats in Iran conflict",
-        "url": "https://www.perplexity.ai/page/pentagon-confirms-first-use-of-i8GXD5U1TlebTfquH2QeXA",
-        "description": "Uncrewed speedboats built by BlackSea Technologies have been patrolling in support of Operation Epic Fury, the Pentagon said Thursday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T22:43:17Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Education Dept. to vacate headquarters for smaller office amid dismantling push",
-        "url": "https://www.perplexity.ai/page/education-dept-to-vacate-headq-tpQNGitoSC6S.CMu.5audA",
-        "description": "The move, planned for August, comes as the agency's building sits 70% vacant after more than a year of mass layoffs under the Trump administration.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T22:29:33Z",
-        "sourceCount": "75 sources"
-      },
-      {
-        "title": "Bipartisan Senate bill targets insider trading on prediction markets",
-        "url": "https://www.perplexity.ai/page/bipartisan-senate-bill-targets-FBYmqL7UTUWzl6toMQ5YDw",
-        "description": "Four senators introduced legislation Thursday to ban government officials from using nonpublic information to trade on prediction market platforms.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T21:30:14Z",
-        "sourceCount": "73 sources"
-      },
-      {
-        "title": "US senators introduce bill to sanction Hungary over Ukraine aid blockade",
-        "url": "https://www.perplexity.ai/page/us-senators-introduce-bill-to-1QyC4tgoQPy9k_CcUX9pdw",
-        "description": "Sens. Shaheen and Tillis unveiled the bipartisan Block Putin Act targeting Hungarian officials as Orban continues to hold up a €90 billion EU loan to Kyiv.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T21:17:21Z",
-        "sourceCount": "57 sources"
-      },
-      {
-        "title": "Study finds AI chatbots affirm users 49% more than humans do",
-        "url": "https://www.perplexity.ai/page/study-finds-ai-chatbots-affirm-CXPno5dzQZ6V.60M7Lhw9g",
-        "description": "Stanford researchers found all 11 major AI systems tested exhibited sycophancy, giving overly agreeable advice that made users less willing to fix relationships.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T19:54:15Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
