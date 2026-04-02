@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Korean researchers achieve lithium-air battery breakthrough",
+      "url": "https://www.perplexity.ai/page/korean-researchers-achieve-lit-foY_X.U4TTyH_DWFug6FKA",
+      "description": "A novel 2D catalyst built through atomic-scale engineering sustained over 550 charge-discharge cycles, outperforming conventional alternatives.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T10:29:54Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "NASA's Artemis II crew orbits Earth after historic moonshot launch",
       "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-crew-orbits-O_4hbqWeTa6UviIm3msR3g",
       "description": "Four astronauts launched Wednesday evening on the first crewed lunar mission since 1972 and are now preparing for the flight to the Moon.",
@@ -172,15 +181,6 @@
       "sourceCount": "32 sources"
     },
     {
-      "title": "UK to host 35-nation summit on reopening Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/uk-to-host-35-nation-summit-on-n9VD2chgSJePrnSjk7DDPw",
-      "description": "Foreign Secretary Yvette Cooper will chair Thursday's virtual meeting to explore diplomatic and military steps to restore navigation in the war-disrupted waterway.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T18:13:24Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Shell in advanced talks to develop major gas fields in Venezuela",
       "url": "https://www.perplexity.ai/page/shell-in-advanced-talks-to-dev-vyI63f8CTvalfAXvFGRQVg",
       "description": "The energy giant is pursuing four offshore areas near Trinidad with combined reserves of roughly 20 trillion cubic feet, according to Reuters.",
@@ -188,15 +188,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T16:28:20Z",
       "sourceCount": "31 sources"
-    },
-    {
-      "title": "Iran's Pezeshkian tells Americans his country 'harbors no enmity' toward them",
-      "url": "https://www.perplexity.ai/page/iran-s-pezeshkian-tells-americ-sKwHmttXTKGTZ6sXNp6s2Q",
-      "description": "The open letter bypasses the Trump administration to appeal directly to the U.S. public as the military conflict enters its fifth week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T19:24:30Z",
-      "sourceCount": "95 sources"
     },
     {
       "title": "SpaceX files confidentially for historic IPO targeting $1.75 trillion valuation",
@@ -208,6 +199,15 @@
       "sourceCount": "40 sources"
     },
     {
+      "title": "Iran's Pezeshkian tells Americans his country 'harbors no enmity' toward them",
+      "url": "https://www.perplexity.ai/page/iran-s-pezeshkian-tells-americ-sKwHmttXTKGTZ6sXNp6s2Q",
+      "description": "The open letter bypasses the Trump administration to appeal directly to the U.S. public as the military conflict enters its fifth week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T19:24:30Z",
+      "sourceCount": "95 sources"
+    },
+    {
       "title": "AOC pledges to oppose all U.S. arms funding for Israel",
       "url": "https://www.perplexity.ai/page/aoc-pledges-to-oppose-all-u-s-6pllbE1vSQWSQWnucyEJmQ",
       "description": "The commitment, made at a DSA endorsement forum Tuesday night, reverses her July 2025 vote to protect Iron Dome funding.",
@@ -217,21 +217,21 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
-      "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
-      "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T17:58:47Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Iran hits tanker off Qatar, strikes Kuwait airport as Gulf war widens",
       "url": "https://www.perplexity.ai/page/iran-hits-tanker-off-qatar-str-uXoBow6CQVW58f9z8IysSA",
       "description": "Qatar said it intercepted two of three cruise missiles from Iran, but a third struck a QatarEnergy-chartered tanker. No casualties were reported.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-01T13:28:03Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
+      "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
+      "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T17:58:47Z",
       "sourceCount": "29 sources"
     },
     {
@@ -244,15 +244,6 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Conservative justices question Trump birthright order",
-      "url": "https://www.perplexity.ai/page/conservative-justices-question-RIn8Gl2FRfyXaWiMPSK.Bw",
-      "description": "Trump became the first sitting president to attend Supreme Court oral arguments as justices from both wings challenged his executive order.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T16:13:49Z",
-      "sourceCount": "80 sources"
-    },
-    {
       "title": "Israel kills Hezbollah's Southern Front commander in Beirut naval strike",
       "url": "https://www.perplexity.ai/page/israel-kills-hezbollah-s-south-mXhqajjaQsOp7m_YA__2Aw",
       "description": "Hajj Yusuf Ismail Hashem, a 40-year Hezbollah veteran who led operations in southern Lebanon, died in an overnight strike on the Jnah district.",
@@ -260,6 +251,15 @@
       "topic": "top",
       "pubDate": "2026-04-01T12:43:14Z",
       "sourceCount": "24 sources"
+    },
+    {
+      "title": "Conservative justices question Trump birthright order",
+      "url": "https://www.perplexity.ai/page/conservative-justices-question-RIn8Gl2FRfyXaWiMPSK.Bw",
+      "description": "Trump became the first sitting president to attend Supreme Court oral arguments as justices from both wings challenged his executive order.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T16:13:49Z",
+      "sourceCount": "80 sources"
     },
     {
       "title": "Macron and Takaichi align on Hormuz crisis, rare earths in Tokyo summit",
@@ -271,15 +271,6 @@
       "sourceCount": "38 sources"
     },
     {
-      "title": "Trump to address nation on Iran as war enters day 33",
-      "url": "https://www.perplexity.ai/page/trump-to-address-nation-on-ira-aSnvZ51WRPqAtPisznD_MQ",
-      "description": "The president said Tuesday that U.S. forces would be \"leaving soon,\" predicting the conflict could end within two to three weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T16:43:47Z",
-      "sourceCount": "55 sources"
-    },
-    {
       "title": "UAE prepares to join coalition to reopen Strait of Hormuz by force",
       "url": "https://www.perplexity.ai/page/uae-prepares-to-join-coalition-twU._PtqSu23UHCh5LQDXg",
       "description": "The Gulf state is lobbying for a UN Security Council resolution authorizing military action and reviewing mine-clearing roles, according to The Wall Street Journal.",
@@ -287,6 +278,15 @@
       "topic": "top",
       "pubDate": "2026-04-01T10:43:39Z",
       "sourceCount": "42 sources"
+    },
+    {
+      "title": "Trump to address nation on Iran as war enters day 33",
+      "url": "https://www.perplexity.ai/page/trump-to-address-nation-on-ira-aSnvZ51WRPqAtPisznD_MQ",
+      "description": "The president said Tuesday that U.S. forces would be \"leaving soon,\" predicting the conflict could end within two to three weeks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T16:43:47Z",
+      "sourceCount": "55 sources"
     },
     {
       "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
@@ -298,15 +298,6 @@
       "sourceCount": "43 sources"
     },
     {
-      "title": "ICE agents to remain at airports indefinitely, Duffy says",
-      "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
-      "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T15:18:56Z",
-      "sourceCount": "96 sources"
-    },
-    {
       "title": "Qubits needed to crack encryption fall 200-fold in under a year",
       "url": "https://www.perplexity.ai/page/qubits-needed-to-crack-encrypt-5vi2rZAuSv6Qc8My4nadCQ",
       "description": "Three papers have slashed the estimated quantum computing power needed to break RSA-2048 from 20 million qubits to under 100,000, accelerating the threat to modern encryption.",
@@ -314,6 +305,15 @@
       "topic": "top",
       "pubDate": "2026-04-01T09:17:27Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "ICE agents to remain at airports indefinitely, Duffy says",
+      "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
+      "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T15:18:56Z",
+      "sourceCount": "96 sources"
     },
     {
       "title": "Parker Solar Probe data challenges models of Sun's magnetic engine",
@@ -1351,9 +1351,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-02T10:14:11Z",
+  "cached_at": "2026-04-02T11:12:29Z",
   "topics": {
     "top": [
+      {
+        "title": "Korean researchers achieve lithium-air battery breakthrough",
+        "url": "https://www.perplexity.ai/page/korean-researchers-achieve-lit-foY_X.U4TTyH_DWFug6FKA",
+        "description": "A novel 2D catalyst built through atomic-scale engineering sustained over 550 charge-discharge cycles, outperforming conventional alternatives.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T10:29:54Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "NASA's Artemis II crew orbits Earth after historic moonshot launch",
         "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-crew-orbits-O_4hbqWeTa6UviIm3msR3g",
@@ -1526,15 +1535,6 @@
         "sourceCount": "32 sources"
       },
       {
-        "title": "UK to host 35-nation summit on reopening Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/uk-to-host-35-nation-summit-on-n9VD2chgSJePrnSjk7DDPw",
-        "description": "Foreign Secretary Yvette Cooper will chair Thursday's virtual meeting to explore diplomatic and military steps to restore navigation in the war-disrupted waterway.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T18:13:24Z",
-        "sourceCount": "15 sources"
-      },
-      {
         "title": "Shell in advanced talks to develop major gas fields in Venezuela",
         "url": "https://www.perplexity.ai/page/shell-in-advanced-talks-to-dev-vyI63f8CTvalfAXvFGRQVg",
         "description": "The energy giant is pursuing four offshore areas near Trinidad with combined reserves of roughly 20 trillion cubic feet, according to Reuters.",
@@ -1542,15 +1542,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T16:28:20Z",
         "sourceCount": "31 sources"
-      },
-      {
-        "title": "Iran's Pezeshkian tells Americans his country 'harbors no enmity' toward them",
-        "url": "https://www.perplexity.ai/page/iran-s-pezeshkian-tells-americ-sKwHmttXTKGTZ6sXNp6s2Q",
-        "description": "The open letter bypasses the Trump administration to appeal directly to the U.S. public as the military conflict enters its fifth week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T19:24:30Z",
-        "sourceCount": "95 sources"
       },
       {
         "title": "SpaceX files confidentially for historic IPO targeting $1.75 trillion valuation",
@@ -1562,6 +1553,15 @@
         "sourceCount": "40 sources"
       },
       {
+        "title": "Iran's Pezeshkian tells Americans his country 'harbors no enmity' toward them",
+        "url": "https://www.perplexity.ai/page/iran-s-pezeshkian-tells-americ-sKwHmttXTKGTZ6sXNp6s2Q",
+        "description": "The open letter bypasses the Trump administration to appeal directly to the U.S. public as the military conflict enters its fifth week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T19:24:30Z",
+        "sourceCount": "95 sources"
+      },
+      {
         "title": "AOC pledges to oppose all U.S. arms funding for Israel",
         "url": "https://www.perplexity.ai/page/aoc-pledges-to-oppose-all-u-s-6pllbE1vSQWSQWnucyEJmQ",
         "description": "The commitment, made at a DSA endorsement forum Tuesday night, reverses her July 2025 vote to protect Iron Dome funding.",
@@ -1571,21 +1571,21 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
-        "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
-        "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T17:58:47Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Iran hits tanker off Qatar, strikes Kuwait airport as Gulf war widens",
         "url": "https://www.perplexity.ai/page/iran-hits-tanker-off-qatar-str-uXoBow6CQVW58f9z8IysSA",
         "description": "Qatar said it intercepted two of three cruise missiles from Iran, but a third struck a QatarEnergy-chartered tanker. No casualties were reported.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-01T13:28:03Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
+        "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
+        "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T17:58:47Z",
         "sourceCount": "29 sources"
       },
       {
@@ -1598,15 +1598,6 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Conservative justices question Trump birthright order",
-        "url": "https://www.perplexity.ai/page/conservative-justices-question-RIn8Gl2FRfyXaWiMPSK.Bw",
-        "description": "Trump became the first sitting president to attend Supreme Court oral arguments as justices from both wings challenged his executive order.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T16:13:49Z",
-        "sourceCount": "80 sources"
-      },
-      {
         "title": "Israel kills Hezbollah's Southern Front commander in Beirut naval strike",
         "url": "https://www.perplexity.ai/page/israel-kills-hezbollah-s-south-mXhqajjaQsOp7m_YA__2Aw",
         "description": "Hajj Yusuf Ismail Hashem, a 40-year Hezbollah veteran who led operations in southern Lebanon, died in an overnight strike on the Jnah district.",
@@ -1614,6 +1605,15 @@
         "topic": "top",
         "pubDate": "2026-04-01T12:43:14Z",
         "sourceCount": "24 sources"
+      },
+      {
+        "title": "Conservative justices question Trump birthright order",
+        "url": "https://www.perplexity.ai/page/conservative-justices-question-RIn8Gl2FRfyXaWiMPSK.Bw",
+        "description": "Trump became the first sitting president to attend Supreme Court oral arguments as justices from both wings challenged his executive order.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T16:13:49Z",
+        "sourceCount": "80 sources"
       },
       {
         "title": "Macron and Takaichi align on Hormuz crisis, rare earths in Tokyo summit",
@@ -1625,15 +1625,6 @@
         "sourceCount": "38 sources"
       },
       {
-        "title": "Trump to address nation on Iran as war enters day 33",
-        "url": "https://www.perplexity.ai/page/trump-to-address-nation-on-ira-aSnvZ51WRPqAtPisznD_MQ",
-        "description": "The president said Tuesday that U.S. forces would be \"leaving soon,\" predicting the conflict could end within two to three weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T16:43:47Z",
-        "sourceCount": "55 sources"
-      },
-      {
         "title": "UAE prepares to join coalition to reopen Strait of Hormuz by force",
         "url": "https://www.perplexity.ai/page/uae-prepares-to-join-coalition-twU._PtqSu23UHCh5LQDXg",
         "description": "The Gulf state is lobbying for a UN Security Council resolution authorizing military action and reviewing mine-clearing roles, according to The Wall Street Journal.",
@@ -1641,6 +1632,15 @@
         "topic": "top",
         "pubDate": "2026-04-01T10:43:39Z",
         "sourceCount": "42 sources"
+      },
+      {
+        "title": "Trump to address nation on Iran as war enters day 33",
+        "url": "https://www.perplexity.ai/page/trump-to-address-nation-on-ira-aSnvZ51WRPqAtPisznD_MQ",
+        "description": "The president said Tuesday that U.S. forces would be \"leaving soon,\" predicting the conflict could end within two to three weeks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T16:43:47Z",
+        "sourceCount": "55 sources"
       },
       {
         "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
@@ -1652,15 +1652,6 @@
         "sourceCount": "43 sources"
       },
       {
-        "title": "ICE agents to remain at airports indefinitely, Duffy says",
-        "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
-        "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T15:18:56Z",
-        "sourceCount": "96 sources"
-      },
-      {
         "title": "Qubits needed to crack encryption fall 200-fold in under a year",
         "url": "https://www.perplexity.ai/page/qubits-needed-to-crack-encrypt-5vi2rZAuSv6Qc8My4nadCQ",
         "description": "Three papers have slashed the estimated quantum computing power needed to break RSA-2048 from 20 million qubits to under 100,000, accelerating the threat to modern encryption.",
@@ -1668,6 +1659,15 @@
         "topic": "top",
         "pubDate": "2026-04-01T09:17:27Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "ICE agents to remain at airports indefinitely, Duffy says",
+        "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
+        "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T15:18:56Z",
+        "sourceCount": "96 sources"
       },
       {
         "title": "Parker Solar Probe data challenges models of Sun's magnetic engine",
