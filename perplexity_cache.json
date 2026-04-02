@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "OpenAI acquires TBPN, Silicon Valley's hit tech talk show",
+      "url": "https://www.perplexity.ai/page/openai-acquires-tbpn-silicon-v-PMW9uy5YTlWPQ5XfxMRqzw",
+      "description": "The deal extends OpenAI's reach into media, marking a departure from its recent string of developer-focused startup acquisitions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T17:48:27Z",
+      "sourceCount": "61 sources"
+    },
+    {
       "title": "IRGC claims new strikes on Amazon data center in Bahrain",
       "url": "https://www.perplexity.ai/page/irgc-claims-new-strikes-on-ama-88Rm5VY5RcOXSwHS9UD2sQ",
       "description": "Iran's military says it targeted the AWS cloud computing center as part of the 90th wave of Operation True Promise 4.",
@@ -280,13 +289,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
-      "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
-      "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
+      "title": "Macron reaffirms France won't join US-Israel war on Iran",
+      "url": "https://www.perplexity.ai/page/macron-reaffirms-france-won-t-NwdX434dQ4C3B7kXojvVDQ",
+      "description": "Speaking in Tokyo, Macron pushed back on Trump's accusation that France blocked U.S. military flights, saying France was never consulted.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-01T17:58:47Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-04-01T16:48:39Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "Israel kills Hezbollah's Southern Front commander in Beirut naval strike",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T14:49:21Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "US can confirm only a third of Iran's missiles destroyed",
-      "url": "https://www.perplexity.ai/page/us-can-confirm-only-a-third-of-hURK9jveS3mjFjPzzcuLhg",
-      "description": "Intelligence assessments contradict Trump's claim that Iran has \"very few rockets left\" as the war nears its one-month mark.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T14:36:56Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-02T20:48:04Z",
+  "cached_at": "2026-04-02T21:24:07Z",
   "topics": {
     "top": [
+      {
+        "title": "OpenAI acquires TBPN, Silicon Valley's hit tech talk show",
+        "url": "https://www.perplexity.ai/page/openai-acquires-tbpn-silicon-v-PMW9uy5YTlWPQ5XfxMRqzw",
+        "description": "The deal extends OpenAI's reach into media, marking a departure from its recent string of developer-focused startup acquisitions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T17:48:27Z",
+        "sourceCount": "61 sources"
+      },
       {
         "title": "IRGC claims new strikes on Amazon data center in Bahrain",
         "url": "https://www.perplexity.ai/page/irgc-claims-new-strikes-on-ama-88Rm5VY5RcOXSwHS9UD2sQ",
@@ -1634,13 +1643,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
-        "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
-        "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
+        "title": "Macron reaffirms France won't join US-Israel war on Iran",
+        "url": "https://www.perplexity.ai/page/macron-reaffirms-france-won-t-NwdX434dQ4C3B7kXojvVDQ",
+        "description": "Speaking in Tokyo, Macron pushed back on Trump's accusation that France blocked U.S. military flights, saying France was never consulted.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-01T17:58:47Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-04-01T16:48:39Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "Israel kills Hezbollah's Southern Front commander in Beirut naval strike",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T14:49:21Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "US can confirm only a third of Iran's missiles destroyed",
-        "url": "https://www.perplexity.ai/page/us-can-confirm-only-a-third-of-hURK9jveS3mjFjPzzcuLhg",
-        "description": "Intelligence assessments contradict Trump's claim that Iran has \"very few rockets left\" as the war nears its one-month mark.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T14:36:56Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
