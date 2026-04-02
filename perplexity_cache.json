@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "SpaceX holds talks with Saudi fund for $5B stake in record IPO",
+      "url": "https://www.perplexity.ai/page/spacex-holds-talks-with-saudi-y5QxxmvTQPe8uBXUBZxPNw",
+      "description": "The rocket and satellite company filed confidentially with the SEC this week, targeting a June listing that could raise up to $75 billion.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T18:26:20Z",
+      "sourceCount": "57 sources"
+    },
+    {
       "title": "Trump polled advisers on replacing Gabbard as DNI",
       "url": "https://www.perplexity.ai/page/trump-polled-advisers-on-repla-Yk7wQn69QOCg9Q9dAWL_vg",
       "description": "The president's frustration stems from Gabbard's handling of a deputy who challenged the administration's justification for the Iran war.",
@@ -253,15 +262,6 @@
       "sourceCount": "32 sources"
     },
     {
-      "title": "SpaceX files confidentially for historic IPO targeting $1.75 trillion valuation",
-      "url": "https://www.perplexity.ai/page/spacex-files-confidentially-fo-GkTnOz2kSMOuYXwoJS9S7Q",
-      "description": "The rocket and satellite company submitted its draft registration to the SEC on Wednesday, keeping it on track for a June listing that could raise $75 billion.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T15:45:20Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "AOC pledges to oppose all U.S. arms funding for Israel",
       "url": "https://www.perplexity.ai/page/aoc-pledges-to-oppose-all-u-s-6pllbE1vSQWSQWnucyEJmQ",
       "description": "The commitment, made at a DSA endorsement forum Tuesday night, reverses her July 2025 vote to protect Iron Dome funding.",
@@ -269,15 +269,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T13:28:15Z",
       "sourceCount": "39 sources"
-    },
-    {
-      "title": "Iran's Pezeshkian tells Americans his country 'harbors no enmity' toward them",
-      "url": "https://www.perplexity.ai/page/iran-s-pezeshkian-tells-americ-sKwHmttXTKGTZ6sXNp6s2Q",
-      "description": "The open letter bypasses the Trump administration to appeal directly to the U.S. public as the military conflict enters its fifth week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T19:24:30Z",
-      "sourceCount": "95 sources"
     },
     {
       "title": "Iran hits tanker off Qatar, strikes Kuwait airport as Gulf war widens",
@@ -289,6 +280,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "Iran's Pezeshkian tells Americans his country 'harbors no enmity' toward them",
+      "url": "https://www.perplexity.ai/page/iran-s-pezeshkian-tells-americ-sKwHmttXTKGTZ6sXNp6s2Q",
+      "description": "The open letter bypasses the Trump administration to appeal directly to the U.S. public as the military conflict enters its fifth week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T19:24:30Z",
+      "sourceCount": "95 sources"
+    },
+    {
       "title": "Iran strikes AWS facility at telecom HQ in Bahrain",
       "url": "https://www.perplexity.ai/page/iran-strikes-aws-facility-at-t-PtU.MP0.Q3yO8rkXwaOjDQ",
       "description": "The attack on Batelco's headquarters is the first carried out under Iran's stated campaign to target 18 American tech and defense firms in the region.",
@@ -296,15 +296,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T13:20:58Z",
       "sourceCount": "39 sources"
-    },
-    {
-      "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
-      "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
-      "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T17:58:47Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Israel kills Hezbollah's Southern Front commander in Beirut naval strike",
@@ -316,6 +307,15 @@
       "sourceCount": "24 sources"
     },
     {
+      "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
+      "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
+      "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T17:58:47Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
       "url": "https://www.perplexity.ai/page/south-korea-exports-hit-record-2k4tFLiMSf6oBxjOJRsBtw",
       "description": "Semiconductor shipments surged over 150%, while euro zone and U.S. factory activity beat forecasts as firms panic-bought materials ahead of further disruptions.",
@@ -323,6 +323,15 @@
       "topic": "top",
       "pubDate": "2026-04-01T09:43:57Z",
       "sourceCount": "43 sources"
+    },
+    {
+      "title": "Qubits needed to crack encryption fall 200-fold in under a year",
+      "url": "https://www.perplexity.ai/page/qubits-needed-to-crack-encrypt-5vi2rZAuSv6Qc8My4nadCQ",
+      "description": "Three papers have slashed the estimated quantum computing power needed to break RSA-2048 from 20 million qubits to under 100,000, accelerating the threat to modern encryption.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T09:17:27Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Trump to address nation on Iran as war enters day 33",
@@ -343,12 +352,12 @@
       "sourceCount": "38 sources"
     },
     {
-      "title": "Qubits needed to crack encryption fall 200-fold in under a year",
-      "url": "https://www.perplexity.ai/page/qubits-needed-to-crack-encrypt-5vi2rZAuSv6Qc8My4nadCQ",
-      "description": "Three papers have slashed the estimated quantum computing power needed to break RSA-2048 from 20 million qubits to under 100,000, accelerating the threat to modern encryption.",
+      "title": "Parker Solar Probe data challenges models of Sun's magnetic engine",
+      "url": "https://www.perplexity.ai/page/parker-solar-probe-data-challe-w3Ww_VRkQs2SKj.UROCZHA",
+      "description": "Protons and heavy ions behave differently during solar magnetic reconnection, contradicting models that assumed uniform particle acceleration.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-01T09:17:27Z",
+      "pubDate": "2026-04-01T06:32:32Z",
       "sourceCount": "15 sources"
     },
     {
@@ -361,15 +370,6 @@
       "sourceCount": "80 sources"
     },
     {
-      "title": "Parker Solar Probe data challenges models of Sun's magnetic engine",
-      "url": "https://www.perplexity.ai/page/parker-solar-probe-data-challe-w3Ww_VRkQs2SKj.UROCZHA",
-      "description": "Protons and heavy ions behave differently during solar magnetic reconnection, contradicting models that assumed uniform particle acceleration.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T06:32:32Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "USTR flags Canadian alcohol bans, 'Buy Canadian' as trade barriers",
       "url": "https://www.perplexity.ai/page/ustr-flags-canadian-alcohol-ba-SMIHU4bnSS.JhxDe3px1Dg",
       "description": "The annual report demands American liquor \"immediately and permanently\" return to provincial shelves ahead of the USMCA's first formal review in July.",
@@ -377,15 +377,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T06:10:47Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "ICE agents to remain at airports indefinitely, Duffy says",
-      "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
-      "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T15:18:56Z",
-      "sourceCount": "96 sources"
     },
     {
       "title": "New papers slash qubit estimates for codebreaking",
@@ -397,6 +388,15 @@
       "sourceCount": "14 sources"
     },
     {
+      "title": "ICE agents to remain at airports indefinitely, Duffy says",
+      "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
+      "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T15:18:56Z",
+      "sourceCount": "96 sources"
+    },
+    {
       "title": "Forest Service to move headquarters to Salt Lake City in sweeping overhaul",
       "url": "https://www.perplexity.ai/page/forest-service-to-move-headqua-zlQkl4n0R2GurgqNL19nSQ",
       "description": "The USDA announced the agency's nine regional offices will close and be replaced by 15 state directors under a new organizational model.",
@@ -406,21 +406,21 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "DHS pauses warehouse purchases for immigrant detention",
-      "url": "https://www.perplexity.ai/page/dhs-pauses-warehouse-purchases-itBIpMWjTReQq165tlJ_Dg",
-      "description": "New Secretary Mullin is reviewing the $38.3 billion detention expansion program launched by his predecessor, Kristi Noem.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T02:58:18Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "China and Pakistan propose ceasefire as Chinese ships transit Hormuz",
       "url": "https://www.perplexity.ai/page/china-and-pakistan-propose-cea-jmlJgvJJRRmu11qpbjnBOA",
       "description": "Beijing confirmed three Chinese vessels crossed the strait after coordinating with Tehran, as China and Pakistan unveiled a five-point peace plan.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-01T02:43:35Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "DHS pauses warehouse purchases for immigrant detention",
+      "url": "https://www.perplexity.ai/page/dhs-pauses-warehouse-purchases-itBIpMWjTReQq165tlJ_Dg",
+      "description": "New Secretary Mullin is reviewing the $38.3 billion detention expansion program launched by his predecessor, Kristi Noem.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T02:58:18Z",
       "sourceCount": "30 sources"
     },
     {
@@ -433,15 +433,6 @@
       "sourceCount": "38 sources"
     },
     {
-      "title": "USS Bush strike group deploys as Hegseth calls Iran war days 'decisive'",
-      "url": "https://www.perplexity.ai/page/uss-bush-strike-group-deploys-36FPMsUvRB6XpRE3AdbZ7A",
-      "description": "The carrier left Norfolk on Tuesday as the Pentagon said U.S. forces have struck over 11,000 targets in the one-month-old campaign against Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T23:03:14Z",
-      "sourceCount": "41 sources"
-    },
-    {
       "title": "Syria vows to stay out of US-Israeli war on Iran unless attacked",
       "url": "https://www.perplexity.ai/page/syria-vows-to-stay-out-of-us-i-bpCciVZESVaGNHKtcgditw",
       "description": "President Ahmed al-Sharaa declared neutrality in a London speech, saying Syria has \"had enough war\" as the conflict enters its second month.",
@@ -449,6 +440,15 @@
       "topic": "top",
       "pubDate": "2026-04-01T00:13:12Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "USS Bush strike group deploys as Hegseth calls Iran war days 'decisive'",
+      "url": "https://www.perplexity.ai/page/uss-bush-strike-group-deploys-36FPMsUvRB6XpRE3AdbZ7A",
+      "description": "The carrier left Norfolk on Tuesday as the Pentagon said U.S. forces have struck over 11,000 targets in the one-month-old campaign against Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T23:03:14Z",
+      "sourceCount": "41 sources"
     },
     {
       "title": "UN warns Lebanon at 'breaking point' as 1.1M displaced",
@@ -460,15 +460,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Rubio directs US embassies to use X and military psyops against propaganda",
-      "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
-      "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T22:23:53Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "Explosions rock Damascus as Israel intercepts Iranian missiles over Syria",
       "url": "https://www.perplexity.ai/page/explosions-rock-damascus-as-is-J6c1Bj9TQHKo0kAkRopUlw",
       "description": "Syrian state TV reported blasts across the capital on Tuesday as Israeli air defenses shot down Iranian projectiles crossing Syrian airspace.",
@@ -476,6 +467,15 @@
       "topic": "top",
       "pubDate": "2026-03-31T23:18:14Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "Rubio directs US embassies to use X and military psyops against propaganda",
+      "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
+      "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T22:23:53Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Judge blocks deal that would let churches endorse candidates",
@@ -766,13 +766,13 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Nasdaq adopts fast-entry rule to add large IPOs to index in 15 days",
-      "url": "https://www.perplexity.ai/page/nasdaq-adopts-fast-entry-rule-dgYr93Q2TUufTh.EqFrnnQ",
-      "description": "The new rules, effective May 1, cut the Nasdaq-100 waiting period from up to a year to just 15 trading days for mega-cap listings like SpaceX.",
+      "title": "TotalEnergies reaps over $1B from historic Middle East oil bet",
+      "url": "https://www.perplexity.ai/page/totalenergies-reaps-over-1b-fr-YPuEQyRFRteo.9CoJpXYpw",
+      "description": "The French energy giant bought nearly all available Dubai crude cargoes in March, exploiting war-driven market turmoil for record trading profits.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-30T14:33:04Z",
-      "sourceCount": "32 sources"
+      "pubDate": "2026-03-30T11:47:58Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Blumenthal demands SEC records after enforcement chief's exit over Trump-tied cases",
@@ -781,15 +781,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-30T16:28:42Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "TotalEnergies reaps over $1B from historic Middle East oil bet",
-      "url": "https://www.perplexity.ai/page/totalenergies-reaps-over-1b-fr-YPuEQyRFRteo.9CoJpXYpw",
-      "description": "The French energy giant bought nearly all available Dubai crude cargoes in March, exploiting war-driven market turmoil for record trading profits.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T11:47:58Z",
       "sourceCount": "27 sources"
     },
     {
@@ -802,15 +793,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Iran calls US 15-point peace proposal 'unrealistic' as Trump threatens Kharg Island seizure",
-      "url": "https://www.perplexity.ai/page/iran-calls-us-15-point-peace-p-nZtm8N9URDGm2OrmQYM.sw",
-      "description": "Tehran denied direct talks with Washington and rejected the plan's terms, while Trump signaled possible seizure of Iran's main oil export hub.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T11:24:29Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Iran war fuels mass protests and deepens splits inside the GOP",
       "url": "https://www.perplexity.ai/page/iran-war-fuels-mass-protests-a-sHY35RDaSf6r8XbtDytLTA",
       "description": "Organizers estimated 8 million people joined Saturday demonstrations across all 50 states, calling the military campaign \"an illegal war.\"",
@@ -820,6 +802,15 @@
       "sourceCount": "43 sources"
     },
     {
+      "title": "Iran calls US 15-point peace proposal 'unrealistic' as Trump threatens Kharg Island seizure",
+      "url": "https://www.perplexity.ai/page/iran-calls-us-15-point-peace-p-nZtm8N9URDGm2OrmQYM.sw",
+      "description": "Tehran denied direct talks with Washington and rejected the plan's terms, while Trump signaled possible seizure of Iran's main oil export hub.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T11:24:29Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Politico names Jonathan Greenberger as editor in chief",
       "url": "https://www.perplexity.ai/page/politico-names-jonathan-greenb-IdLi33lmQY.XEcTcW91gfA",
       "description": "The former ABC News Washington bureau chief, who joined Politico in 2024, will succeed co-founder John Harris effective May 1.",
@@ -827,6 +818,15 @@
       "topic": "top",
       "pubDate": "2026-03-29T21:28:06Z",
       "sourceCount": "46 sources"
+    },
+    {
+      "title": "Zelensky signs Gulf defense deals as Ukraine-Russia talks remain frozen",
+      "url": "https://www.perplexity.ai/page/zelensky-signs-gulf-defense-de-fIBl1q8uS0SlyRdXJv3DfQ",
+      "description": "Ukraine's president secured 10-year defense pacts with Saudi Arabia, the UAE, and Qatar while pushing the U.S. to restart trilateral peace talks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T16:39:02Z",
+      "sourceCount": "64 sources"
     },
     {
       "title": "Trump allies launch $100M AI group for midterms",
@@ -847,13 +847,13 @@
       "sourceCount": "47 sources"
     },
     {
-      "title": "Zelensky signs Gulf defense deals as Ukraine-Russia talks remain frozen",
-      "url": "https://www.perplexity.ai/page/zelensky-signs-gulf-defense-de-fIBl1q8uS0SlyRdXJv3DfQ",
-      "description": "Ukraine's president secured 10-year defense pacts with Saudi Arabia, the UAE, and Qatar while pushing the U.S. to restart trilateral peace talks.",
+      "title": "North Korea tests upgraded missile engine with higher thrust",
+      "url": "https://www.perplexity.ai/page/north-korea-tests-upgraded-mis-3cC0ExW1TW2mJ1AVFC604Q",
+      "description": "Kim Jong Un supervised a solid-fuel engine test reaching 2,500 kilonewtons, up from 1,971 kN in September, according to state media.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-29T16:39:02Z",
-      "sourceCount": "64 sources"
+      "pubDate": "2026-03-29T06:33:10Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "GOP Rep. Mace demands Congress approve any ground troop deployment to Iran",
@@ -865,15 +865,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "North Korea tests upgraded missile engine with higher thrust",
-      "url": "https://www.perplexity.ai/page/north-korea-tests-upgraded-mis-3cC0ExW1TW2mJ1AVFC604Q",
-      "description": "Kim Jong Un supervised a solid-fuel engine test reaching 2,500 kilonewtons, up from 1,971 kN in September, according to state media.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-29T06:33:10Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Iran hits Abu Dhabi smelter, Saudi base as war widens across Gulf",
       "url": "https://www.perplexity.ai/page/iran-hits-abu-dhabi-smelter-sa-TZuUP6J2TT6k9U2Nr2eHsw",
       "description": "Iran struck targets across the Persian Gulf on Saturday, damaging a major UAE aluminum plant and wounding 12 U.S. troops at a Saudi air base.",
@@ -881,15 +872,6 @@
       "topic": "top",
       "pubDate": "2026-03-29T02:23:12Z",
       "sourceCount": "45 sources"
-    },
-    {
-      "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
-      "url": "https://www.perplexity.ai/page/dhs-watchdog-probes-fema-contr-o3NshmwpR..tnmq4eHW9ww",
-      "description": "Kara Voorhies wielded broad influence over FEMA contracts but appeared on no organizational chart, according to The Wall Street Journal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-29T16:56:43Z",
-      "sourceCount": "66 sources"
     },
     {
       "title": "Houthis launch second attack on Israel within 24 hours, vow more strikes",
@@ -901,6 +883,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
+      "url": "https://www.perplexity.ai/page/dhs-watchdog-probes-fema-contr-o3NshmwpR..tnmq4eHW9ww",
+      "description": "Kara Voorhies wielded broad influence over FEMA contracts but appeared on no organizational chart, according to The Wall Street Journal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T16:56:43Z",
+      "sourceCount": "66 sources"
+    },
+    {
       "title": "Vance wins CPAC 2028 straw poll as Rubio surges",
       "url": "https://www.perplexity.ai/page/vance-wins-cpac-2028-straw-pol-pgYdhFsrSo2eMHinthJxXw",
       "description": "Secretary of State Rubio jumped from 3% last year to 35%, while Vice President Vance's support fell from 61% to 53%.",
@@ -910,13 +901,22 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Trump threatens to 'expose' GOP senators opposing filibuster end amid DHS shutdown",
-      "url": "https://www.perplexity.ai/page/trump-threatens-to-expose-gop-ZgYIx87cRx2C.jX_777D5w",
-      "description": "As the partial DHS shutdown hit day 43, the president escalated pressure on his own party after Congress left for a two-week recess without a deal.",
+      "title": "FBI moves to release Swalwell files from closed spy probe",
+      "url": "https://www.perplexity.ai/page/fbi-moves-to-release-swalwell-nWDrTkGGSl.WaX3fO5sRoA",
+      "description": "Director Kash Patel ordered agents to prepare decade-old investigative documents on Rep. Eric Swalwell tied to a suspected Chinese operative.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-29T01:44:09Z",
-      "sourceCount": "49 sources"
+      "pubDate": "2026-03-28T22:13:15Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Trump claims Nobel snub, calls himself a peacemaker amid Iran war",
+      "url": "https://www.perplexity.ai/page/trump-claims-nobel-snub-calls-mNfFUJ92QsaUL6sohf__TQ",
+      "description": "At a Saudi-backed summit in Miami Beach, the president said he stopped eight wars and criticized Norway's Nobel committee while defending the conflict with Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T22:44:44Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "Drone strike hits Kurdistan president's home in Duhok",
@@ -937,22 +937,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Trump claims Nobel snub, calls himself a peacemaker amid Iran war",
-      "url": "https://www.perplexity.ai/page/trump-claims-nobel-snub-calls-mNfFUJ92QsaUL6sohf__TQ",
-      "description": "At a Saudi-backed summit in Miami Beach, the president said he stopped eight wars and criticized Norway's Nobel committee while defending the conflict with Iran.",
+      "title": "Trump threatens to 'expose' GOP senators opposing filibuster end amid DHS shutdown",
+      "url": "https://www.perplexity.ai/page/trump-threatens-to-expose-gop-ZgYIx87cRx2C.jX_777D5w",
+      "description": "As the partial DHS shutdown hit day 43, the president escalated pressure on his own party after Congress left for a two-week recess without a deal.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-28T22:44:44Z",
-      "sourceCount": "42 sources"
-    },
-    {
-      "title": "FBI moves to release Swalwell files from closed spy probe",
-      "url": "https://www.perplexity.ai/page/fbi-moves-to-release-swalwell-nWDrTkGGSl.WaX3fO5sRoA",
-      "description": "Director Kash Patel ordered agents to prepare decade-old investigative documents on Rep. Eric Swalwell tied to a suspected Chinese operative.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T22:13:15Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-29T01:44:09Z",
+      "sourceCount": "49 sources"
     },
     {
       "title": "Poland extends border checks with Germany, Lithuania until October",
@@ -964,15 +955,6 @@
       "sourceCount": "35 sources"
     },
     {
-      "title": "'No Kings' protests sweep Europe as London draws half a million",
-      "url": "https://www.perplexity.ai/page/no-kings-protests-sweep-europe-QfUZzBKCSRCl637pPFsq6Q",
-      "description": "Demonstrators marched in cities across Europe and beyond Saturday, extending the American anti-Trump movement into a global day of action.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T18:08:42Z",
-      "sourceCount": "42 sources"
-    },
-    {
       "title": "Vance says UFOs are 'demons,' vows to investigate files",
       "url": "https://www.perplexity.ai/page/vance-says-ufos-are-demons-vow-yORTqM7VTmWY976RfCM76g",
       "description": "The vice president told a podcast host he plans to visit Area 51 and use his remaining three years in office to \"get to the bottom\" of UFO files.",
@@ -980,6 +962,15 @@
       "topic": "top",
       "pubDate": "2026-03-28T13:23:29Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "'No Kings' protests sweep Europe as London draws half a million",
+      "url": "https://www.perplexity.ai/page/no-kings-protests-sweep-europe-QfUZzBKCSRCl637pPFsq6Q",
+      "description": "Demonstrators marched in cities across Europe and beyond Saturday, extending the American anti-Trump movement into a global day of action.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T18:08:42Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "Border Patrol agent indicted for strangling handcuffed detainee",
@@ -991,15 +982,6 @@
       "sourceCount": "19 sources"
     },
     {
-      "title": "Trump weighs stripping NATO voting rights over Iran war dispute",
-      "url": "https://www.perplexity.ai/page/trump-weighs-stripping-nato-vo-jW_xigOzQI2I_6rHhBoDeg",
-      "description": "The president is considering a \"pay-to-play\" model that could exclude allies spending less than 5% of GDP on defense from key decisions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T13:08:49Z",
-      "sourceCount": "58 sources"
-    },
-    {
       "title": "Explosion hits near Erbil airport as Kurdistan attacks persist",
       "url": "https://www.perplexity.ai/page/explosion-hits-near-erbil-airp-jOrI3xxZT8KDuLdN6qdhRQ",
       "description": "Saturday's blast came a day after the US and Iraq formed a joint security committee to prevent attacks from Iraqi territory.",
@@ -1007,6 +989,15 @@
       "topic": "top",
       "pubDate": "2026-03-28T11:53:47Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Trump weighs stripping NATO voting rights over Iran war dispute",
+      "url": "https://www.perplexity.ai/page/trump-weighs-stripping-nato-vo-jW_xigOzQI2I_6rHhBoDeg",
+      "description": "The president is considering a \"pay-to-play\" model that could exclude allies spending less than 5% of GDP on defense from key decisions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T13:08:49Z",
+      "sourceCount": "58 sources"
     },
     {
       "title": "USS Gerald R. Ford arrives in Croatia for repairs after Red Sea fire",
@@ -1349,11 +1340,29 @@
       "topic": "top",
       "pubDate": "2026-03-27T14:49:48Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Iran accuses US-Israel of genocide at UN Human Rights Council",
+      "url": "https://www.perplexity.ai/page/iran-accuses-us-israel-of-geno-3onSm93eQ8W3R1fgq3WO6g",
+      "description": "Foreign Minister Araghchi addressed an emergency session Friday, calling the Minab school airstrike the \"tip of a far larger iceberg\" of war crimes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T14:49:21Z",
+      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-02T17:59:40Z",
+  "cached_at": "2026-04-02T19:10:44Z",
   "topics": {
     "top": [
+      {
+        "title": "SpaceX holds talks with Saudi fund for $5B stake in record IPO",
+        "url": "https://www.perplexity.ai/page/spacex-holds-talks-with-saudi-y5QxxmvTQPe8uBXUBZxPNw",
+        "description": "The rocket and satellite company filed confidentially with the SEC this week, targeting a June listing that could raise up to $75 billion.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T18:26:20Z",
+        "sourceCount": "57 sources"
+      },
       {
         "title": "Trump polled advisers on replacing Gabbard as DNI",
         "url": "https://www.perplexity.ai/page/trump-polled-advisers-on-repla-Yk7wQn69QOCg9Q9dAWL_vg",
@@ -1607,15 +1616,6 @@
         "sourceCount": "32 sources"
       },
       {
-        "title": "SpaceX files confidentially for historic IPO targeting $1.75 trillion valuation",
-        "url": "https://www.perplexity.ai/page/spacex-files-confidentially-fo-GkTnOz2kSMOuYXwoJS9S7Q",
-        "description": "The rocket and satellite company submitted its draft registration to the SEC on Wednesday, keeping it on track for a June listing that could raise $75 billion.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T15:45:20Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "AOC pledges to oppose all U.S. arms funding for Israel",
         "url": "https://www.perplexity.ai/page/aoc-pledges-to-oppose-all-u-s-6pllbE1vSQWSQWnucyEJmQ",
         "description": "The commitment, made at a DSA endorsement forum Tuesday night, reverses her July 2025 vote to protect Iron Dome funding.",
@@ -1623,15 +1623,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T13:28:15Z",
         "sourceCount": "39 sources"
-      },
-      {
-        "title": "Iran's Pezeshkian tells Americans his country 'harbors no enmity' toward them",
-        "url": "https://www.perplexity.ai/page/iran-s-pezeshkian-tells-americ-sKwHmttXTKGTZ6sXNp6s2Q",
-        "description": "The open letter bypasses the Trump administration to appeal directly to the U.S. public as the military conflict enters its fifth week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T19:24:30Z",
-        "sourceCount": "95 sources"
       },
       {
         "title": "Iran hits tanker off Qatar, strikes Kuwait airport as Gulf war widens",
@@ -1643,6 +1634,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "Iran's Pezeshkian tells Americans his country 'harbors no enmity' toward them",
+        "url": "https://www.perplexity.ai/page/iran-s-pezeshkian-tells-americ-sKwHmttXTKGTZ6sXNp6s2Q",
+        "description": "The open letter bypasses the Trump administration to appeal directly to the U.S. public as the military conflict enters its fifth week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T19:24:30Z",
+        "sourceCount": "95 sources"
+      },
+      {
         "title": "Iran strikes AWS facility at telecom HQ in Bahrain",
         "url": "https://www.perplexity.ai/page/iran-strikes-aws-facility-at-t-PtU.MP0.Q3yO8rkXwaOjDQ",
         "description": "The attack on Batelco's headquarters is the first carried out under Iran's stated campaign to target 18 American tech and defense firms in the region.",
@@ -1650,15 +1650,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T13:20:58Z",
         "sourceCount": "39 sources"
-      },
-      {
-        "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
-        "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
-        "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T17:58:47Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Israel kills Hezbollah's Southern Front commander in Beirut naval strike",
@@ -1670,6 +1661,15 @@
         "sourceCount": "24 sources"
       },
       {
+        "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
+        "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
+        "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T17:58:47Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
         "url": "https://www.perplexity.ai/page/south-korea-exports-hit-record-2k4tFLiMSf6oBxjOJRsBtw",
         "description": "Semiconductor shipments surged over 150%, while euro zone and U.S. factory activity beat forecasts as firms panic-bought materials ahead of further disruptions.",
@@ -1677,6 +1677,15 @@
         "topic": "top",
         "pubDate": "2026-04-01T09:43:57Z",
         "sourceCount": "43 sources"
+      },
+      {
+        "title": "Qubits needed to crack encryption fall 200-fold in under a year",
+        "url": "https://www.perplexity.ai/page/qubits-needed-to-crack-encrypt-5vi2rZAuSv6Qc8My4nadCQ",
+        "description": "Three papers have slashed the estimated quantum computing power needed to break RSA-2048 from 20 million qubits to under 100,000, accelerating the threat to modern encryption.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T09:17:27Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Trump to address nation on Iran as war enters day 33",
@@ -1697,12 +1706,12 @@
         "sourceCount": "38 sources"
       },
       {
-        "title": "Qubits needed to crack encryption fall 200-fold in under a year",
-        "url": "https://www.perplexity.ai/page/qubits-needed-to-crack-encrypt-5vi2rZAuSv6Qc8My4nadCQ",
-        "description": "Three papers have slashed the estimated quantum computing power needed to break RSA-2048 from 20 million qubits to under 100,000, accelerating the threat to modern encryption.",
+        "title": "Parker Solar Probe data challenges models of Sun's magnetic engine",
+        "url": "https://www.perplexity.ai/page/parker-solar-probe-data-challe-w3Ww_VRkQs2SKj.UROCZHA",
+        "description": "Protons and heavy ions behave differently during solar magnetic reconnection, contradicting models that assumed uniform particle acceleration.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-01T09:17:27Z",
+        "pubDate": "2026-04-01T06:32:32Z",
         "sourceCount": "15 sources"
       },
       {
@@ -1715,15 +1724,6 @@
         "sourceCount": "80 sources"
       },
       {
-        "title": "Parker Solar Probe data challenges models of Sun's magnetic engine",
-        "url": "https://www.perplexity.ai/page/parker-solar-probe-data-challe-w3Ww_VRkQs2SKj.UROCZHA",
-        "description": "Protons and heavy ions behave differently during solar magnetic reconnection, contradicting models that assumed uniform particle acceleration.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T06:32:32Z",
-        "sourceCount": "15 sources"
-      },
-      {
         "title": "USTR flags Canadian alcohol bans, 'Buy Canadian' as trade barriers",
         "url": "https://www.perplexity.ai/page/ustr-flags-canadian-alcohol-ba-SMIHU4bnSS.JhxDe3px1Dg",
         "description": "The annual report demands American liquor \"immediately and permanently\" return to provincial shelves ahead of the USMCA's first formal review in July.",
@@ -1731,15 +1731,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T06:10:47Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "ICE agents to remain at airports indefinitely, Duffy says",
-        "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
-        "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T15:18:56Z",
-        "sourceCount": "96 sources"
       },
       {
         "title": "New papers slash qubit estimates for codebreaking",
@@ -1751,6 +1742,15 @@
         "sourceCount": "14 sources"
       },
       {
+        "title": "ICE agents to remain at airports indefinitely, Duffy says",
+        "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
+        "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T15:18:56Z",
+        "sourceCount": "96 sources"
+      },
+      {
         "title": "Forest Service to move headquarters to Salt Lake City in sweeping overhaul",
         "url": "https://www.perplexity.ai/page/forest-service-to-move-headqua-zlQkl4n0R2GurgqNL19nSQ",
         "description": "The USDA announced the agency's nine regional offices will close and be replaced by 15 state directors under a new organizational model.",
@@ -1760,21 +1760,21 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "DHS pauses warehouse purchases for immigrant detention",
-        "url": "https://www.perplexity.ai/page/dhs-pauses-warehouse-purchases-itBIpMWjTReQq165tlJ_Dg",
-        "description": "New Secretary Mullin is reviewing the $38.3 billion detention expansion program launched by his predecessor, Kristi Noem.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T02:58:18Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "China and Pakistan propose ceasefire as Chinese ships transit Hormuz",
         "url": "https://www.perplexity.ai/page/china-and-pakistan-propose-cea-jmlJgvJJRRmu11qpbjnBOA",
         "description": "Beijing confirmed three Chinese vessels crossed the strait after coordinating with Tehran, as China and Pakistan unveiled a five-point peace plan.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-01T02:43:35Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "DHS pauses warehouse purchases for immigrant detention",
+        "url": "https://www.perplexity.ai/page/dhs-pauses-warehouse-purchases-itBIpMWjTReQq165tlJ_Dg",
+        "description": "New Secretary Mullin is reviewing the $38.3 billion detention expansion program launched by his predecessor, Kristi Noem.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T02:58:18Z",
         "sourceCount": "30 sources"
       },
       {
@@ -1787,15 +1787,6 @@
         "sourceCount": "38 sources"
       },
       {
-        "title": "USS Bush strike group deploys as Hegseth calls Iran war days 'decisive'",
-        "url": "https://www.perplexity.ai/page/uss-bush-strike-group-deploys-36FPMsUvRB6XpRE3AdbZ7A",
-        "description": "The carrier left Norfolk on Tuesday as the Pentagon said U.S. forces have struck over 11,000 targets in the one-month-old campaign against Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T23:03:14Z",
-        "sourceCount": "41 sources"
-      },
-      {
         "title": "Syria vows to stay out of US-Israeli war on Iran unless attacked",
         "url": "https://www.perplexity.ai/page/syria-vows-to-stay-out-of-us-i-bpCciVZESVaGNHKtcgditw",
         "description": "President Ahmed al-Sharaa declared neutrality in a London speech, saying Syria has \"had enough war\" as the conflict enters its second month.",
@@ -1803,6 +1794,15 @@
         "topic": "top",
         "pubDate": "2026-04-01T00:13:12Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "USS Bush strike group deploys as Hegseth calls Iran war days 'decisive'",
+        "url": "https://www.perplexity.ai/page/uss-bush-strike-group-deploys-36FPMsUvRB6XpRE3AdbZ7A",
+        "description": "The carrier left Norfolk on Tuesday as the Pentagon said U.S. forces have struck over 11,000 targets in the one-month-old campaign against Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T23:03:14Z",
+        "sourceCount": "41 sources"
       },
       {
         "title": "UN warns Lebanon at 'breaking point' as 1.1M displaced",
@@ -1814,15 +1814,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Rubio directs US embassies to use X and military psyops against propaganda",
-        "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
-        "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T22:23:53Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "Explosions rock Damascus as Israel intercepts Iranian missiles over Syria",
         "url": "https://www.perplexity.ai/page/explosions-rock-damascus-as-is-J6c1Bj9TQHKo0kAkRopUlw",
         "description": "Syrian state TV reported blasts across the capital on Tuesday as Israeli air defenses shot down Iranian projectiles crossing Syrian airspace.",
@@ -1830,6 +1821,15 @@
         "topic": "top",
         "pubDate": "2026-03-31T23:18:14Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Rubio directs US embassies to use X and military psyops against propaganda",
+        "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
+        "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T22:23:53Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Judge blocks deal that would let churches endorse candidates",
@@ -2120,13 +2120,13 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Nasdaq adopts fast-entry rule to add large IPOs to index in 15 days",
-        "url": "https://www.perplexity.ai/page/nasdaq-adopts-fast-entry-rule-dgYr93Q2TUufTh.EqFrnnQ",
-        "description": "The new rules, effective May 1, cut the Nasdaq-100 waiting period from up to a year to just 15 trading days for mega-cap listings like SpaceX.",
+        "title": "TotalEnergies reaps over $1B from historic Middle East oil bet",
+        "url": "https://www.perplexity.ai/page/totalenergies-reaps-over-1b-fr-YPuEQyRFRteo.9CoJpXYpw",
+        "description": "The French energy giant bought nearly all available Dubai crude cargoes in March, exploiting war-driven market turmoil for record trading profits.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-30T14:33:04Z",
-        "sourceCount": "32 sources"
+        "pubDate": "2026-03-30T11:47:58Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Blumenthal demands SEC records after enforcement chief's exit over Trump-tied cases",
@@ -2135,15 +2135,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-30T16:28:42Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "TotalEnergies reaps over $1B from historic Middle East oil bet",
-        "url": "https://www.perplexity.ai/page/totalenergies-reaps-over-1b-fr-YPuEQyRFRteo.9CoJpXYpw",
-        "description": "The French energy giant bought nearly all available Dubai crude cargoes in March, exploiting war-driven market turmoil for record trading profits.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T11:47:58Z",
         "sourceCount": "27 sources"
       },
       {
@@ -2156,15 +2147,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Iran calls US 15-point peace proposal 'unrealistic' as Trump threatens Kharg Island seizure",
-        "url": "https://www.perplexity.ai/page/iran-calls-us-15-point-peace-p-nZtm8N9URDGm2OrmQYM.sw",
-        "description": "Tehran denied direct talks with Washington and rejected the plan's terms, while Trump signaled possible seizure of Iran's main oil export hub.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T11:24:29Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Iran war fuels mass protests and deepens splits inside the GOP",
         "url": "https://www.perplexity.ai/page/iran-war-fuels-mass-protests-a-sHY35RDaSf6r8XbtDytLTA",
         "description": "Organizers estimated 8 million people joined Saturday demonstrations across all 50 states, calling the military campaign \"an illegal war.\"",
@@ -2174,6 +2156,15 @@
         "sourceCount": "43 sources"
       },
       {
+        "title": "Iran calls US 15-point peace proposal 'unrealistic' as Trump threatens Kharg Island seizure",
+        "url": "https://www.perplexity.ai/page/iran-calls-us-15-point-peace-p-nZtm8N9URDGm2OrmQYM.sw",
+        "description": "Tehran denied direct talks with Washington and rejected the plan's terms, while Trump signaled possible seizure of Iran's main oil export hub.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T11:24:29Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "Politico names Jonathan Greenberger as editor in chief",
         "url": "https://www.perplexity.ai/page/politico-names-jonathan-greenb-IdLi33lmQY.XEcTcW91gfA",
         "description": "The former ABC News Washington bureau chief, who joined Politico in 2024, will succeed co-founder John Harris effective May 1.",
@@ -2181,6 +2172,15 @@
         "topic": "top",
         "pubDate": "2026-03-29T21:28:06Z",
         "sourceCount": "46 sources"
+      },
+      {
+        "title": "Zelensky signs Gulf defense deals as Ukraine-Russia talks remain frozen",
+        "url": "https://www.perplexity.ai/page/zelensky-signs-gulf-defense-de-fIBl1q8uS0SlyRdXJv3DfQ",
+        "description": "Ukraine's president secured 10-year defense pacts with Saudi Arabia, the UAE, and Qatar while pushing the U.S. to restart trilateral peace talks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T16:39:02Z",
+        "sourceCount": "64 sources"
       },
       {
         "title": "Trump allies launch $100M AI group for midterms",
@@ -2201,13 +2201,13 @@
         "sourceCount": "47 sources"
       },
       {
-        "title": "Zelensky signs Gulf defense deals as Ukraine-Russia talks remain frozen",
-        "url": "https://www.perplexity.ai/page/zelensky-signs-gulf-defense-de-fIBl1q8uS0SlyRdXJv3DfQ",
-        "description": "Ukraine's president secured 10-year defense pacts with Saudi Arabia, the UAE, and Qatar while pushing the U.S. to restart trilateral peace talks.",
+        "title": "North Korea tests upgraded missile engine with higher thrust",
+        "url": "https://www.perplexity.ai/page/north-korea-tests-upgraded-mis-3cC0ExW1TW2mJ1AVFC604Q",
+        "description": "Kim Jong Un supervised a solid-fuel engine test reaching 2,500 kilonewtons, up from 1,971 kN in September, according to state media.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-29T16:39:02Z",
-        "sourceCount": "64 sources"
+        "pubDate": "2026-03-29T06:33:10Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "GOP Rep. Mace demands Congress approve any ground troop deployment to Iran",
@@ -2219,15 +2219,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "North Korea tests upgraded missile engine with higher thrust",
-        "url": "https://www.perplexity.ai/page/north-korea-tests-upgraded-mis-3cC0ExW1TW2mJ1AVFC604Q",
-        "description": "Kim Jong Un supervised a solid-fuel engine test reaching 2,500 kilonewtons, up from 1,971 kN in September, according to state media.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-29T06:33:10Z",
-        "sourceCount": "15 sources"
-      },
-      {
         "title": "Iran hits Abu Dhabi smelter, Saudi base as war widens across Gulf",
         "url": "https://www.perplexity.ai/page/iran-hits-abu-dhabi-smelter-sa-TZuUP6J2TT6k9U2Nr2eHsw",
         "description": "Iran struck targets across the Persian Gulf on Saturday, damaging a major UAE aluminum plant and wounding 12 U.S. troops at a Saudi air base.",
@@ -2235,15 +2226,6 @@
         "topic": "top",
         "pubDate": "2026-03-29T02:23:12Z",
         "sourceCount": "45 sources"
-      },
-      {
-        "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
-        "url": "https://www.perplexity.ai/page/dhs-watchdog-probes-fema-contr-o3NshmwpR..tnmq4eHW9ww",
-        "description": "Kara Voorhies wielded broad influence over FEMA contracts but appeared on no organizational chart, according to The Wall Street Journal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-29T16:56:43Z",
-        "sourceCount": "66 sources"
       },
       {
         "title": "Houthis launch second attack on Israel within 24 hours, vow more strikes",
@@ -2255,6 +2237,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
+        "url": "https://www.perplexity.ai/page/dhs-watchdog-probes-fema-contr-o3NshmwpR..tnmq4eHW9ww",
+        "description": "Kara Voorhies wielded broad influence over FEMA contracts but appeared on no organizational chart, according to The Wall Street Journal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T16:56:43Z",
+        "sourceCount": "66 sources"
+      },
+      {
         "title": "Vance wins CPAC 2028 straw poll as Rubio surges",
         "url": "https://www.perplexity.ai/page/vance-wins-cpac-2028-straw-pol-pgYdhFsrSo2eMHinthJxXw",
         "description": "Secretary of State Rubio jumped from 3% last year to 35%, while Vice President Vance's support fell from 61% to 53%.",
@@ -2264,13 +2255,22 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Trump threatens to 'expose' GOP senators opposing filibuster end amid DHS shutdown",
-        "url": "https://www.perplexity.ai/page/trump-threatens-to-expose-gop-ZgYIx87cRx2C.jX_777D5w",
-        "description": "As the partial DHS shutdown hit day 43, the president escalated pressure on his own party after Congress left for a two-week recess without a deal.",
+        "title": "FBI moves to release Swalwell files from closed spy probe",
+        "url": "https://www.perplexity.ai/page/fbi-moves-to-release-swalwell-nWDrTkGGSl.WaX3fO5sRoA",
+        "description": "Director Kash Patel ordered agents to prepare decade-old investigative documents on Rep. Eric Swalwell tied to a suspected Chinese operative.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-29T01:44:09Z",
-        "sourceCount": "49 sources"
+        "pubDate": "2026-03-28T22:13:15Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Trump claims Nobel snub, calls himself a peacemaker amid Iran war",
+        "url": "https://www.perplexity.ai/page/trump-claims-nobel-snub-calls-mNfFUJ92QsaUL6sohf__TQ",
+        "description": "At a Saudi-backed summit in Miami Beach, the president said he stopped eight wars and criticized Norway's Nobel committee while defending the conflict with Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T22:44:44Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "Drone strike hits Kurdistan president's home in Duhok",
@@ -2291,22 +2291,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Trump claims Nobel snub, calls himself a peacemaker amid Iran war",
-        "url": "https://www.perplexity.ai/page/trump-claims-nobel-snub-calls-mNfFUJ92QsaUL6sohf__TQ",
-        "description": "At a Saudi-backed summit in Miami Beach, the president said he stopped eight wars and criticized Norway's Nobel committee while defending the conflict with Iran.",
+        "title": "Trump threatens to 'expose' GOP senators opposing filibuster end amid DHS shutdown",
+        "url": "https://www.perplexity.ai/page/trump-threatens-to-expose-gop-ZgYIx87cRx2C.jX_777D5w",
+        "description": "As the partial DHS shutdown hit day 43, the president escalated pressure on his own party after Congress left for a two-week recess without a deal.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-28T22:44:44Z",
-        "sourceCount": "42 sources"
-      },
-      {
-        "title": "FBI moves to release Swalwell files from closed spy probe",
-        "url": "https://www.perplexity.ai/page/fbi-moves-to-release-swalwell-nWDrTkGGSl.WaX3fO5sRoA",
-        "description": "Director Kash Patel ordered agents to prepare decade-old investigative documents on Rep. Eric Swalwell tied to a suspected Chinese operative.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T22:13:15Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-29T01:44:09Z",
+        "sourceCount": "49 sources"
       },
       {
         "title": "Poland extends border checks with Germany, Lithuania until October",
@@ -2318,15 +2309,6 @@
         "sourceCount": "35 sources"
       },
       {
-        "title": "'No Kings' protests sweep Europe as London draws half a million",
-        "url": "https://www.perplexity.ai/page/no-kings-protests-sweep-europe-QfUZzBKCSRCl637pPFsq6Q",
-        "description": "Demonstrators marched in cities across Europe and beyond Saturday, extending the American anti-Trump movement into a global day of action.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T18:08:42Z",
-        "sourceCount": "42 sources"
-      },
-      {
         "title": "Vance says UFOs are 'demons,' vows to investigate files",
         "url": "https://www.perplexity.ai/page/vance-says-ufos-are-demons-vow-yORTqM7VTmWY976RfCM76g",
         "description": "The vice president told a podcast host he plans to visit Area 51 and use his remaining three years in office to \"get to the bottom\" of UFO files.",
@@ -2334,6 +2316,15 @@
         "topic": "top",
         "pubDate": "2026-03-28T13:23:29Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "'No Kings' protests sweep Europe as London draws half a million",
+        "url": "https://www.perplexity.ai/page/no-kings-protests-sweep-europe-QfUZzBKCSRCl637pPFsq6Q",
+        "description": "Demonstrators marched in cities across Europe and beyond Saturday, extending the American anti-Trump movement into a global day of action.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T18:08:42Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "Border Patrol agent indicted for strangling handcuffed detainee",
@@ -2345,15 +2336,6 @@
         "sourceCount": "19 sources"
       },
       {
-        "title": "Trump weighs stripping NATO voting rights over Iran war dispute",
-        "url": "https://www.perplexity.ai/page/trump-weighs-stripping-nato-vo-jW_xigOzQI2I_6rHhBoDeg",
-        "description": "The president is considering a \"pay-to-play\" model that could exclude allies spending less than 5% of GDP on defense from key decisions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T13:08:49Z",
-        "sourceCount": "58 sources"
-      },
-      {
         "title": "Explosion hits near Erbil airport as Kurdistan attacks persist",
         "url": "https://www.perplexity.ai/page/explosion-hits-near-erbil-airp-jOrI3xxZT8KDuLdN6qdhRQ",
         "description": "Saturday's blast came a day after the US and Iraq formed a joint security committee to prevent attacks from Iraqi territory.",
@@ -2361,6 +2343,15 @@
         "topic": "top",
         "pubDate": "2026-03-28T11:53:47Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Trump weighs stripping NATO voting rights over Iran war dispute",
+        "url": "https://www.perplexity.ai/page/trump-weighs-stripping-nato-vo-jW_xigOzQI2I_6rHhBoDeg",
+        "description": "The president is considering a \"pay-to-play\" model that could exclude allies spending less than 5% of GDP on defense from key decisions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T13:08:49Z",
+        "sourceCount": "58 sources"
       },
       {
         "title": "USS Gerald R. Ford arrives in Croatia for repairs after Red Sea fire",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-27T14:49:48Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Iran accuses US-Israel of genocide at UN Human Rights Council",
+        "url": "https://www.perplexity.ai/page/iran-accuses-us-israel-of-geno-3onSm93eQ8W3R1fgq3WO6g",
+        "description": "Foreign Minister Araghchi addressed an emergency session Friday, calling the Minab school airstrike the \"tip of a far larger iceberg\" of war crimes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T14:49:21Z",
+        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
