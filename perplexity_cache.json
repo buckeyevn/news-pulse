@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Blue Owl caps fund redemptions after $5.4B in withdrawal requests",
+      "url": "https://www.perplexity.ai/page/blue-owl-caps-fund-redemptions-NW0BddCoTJqUKCW3DM8Zkg",
+      "description": "Investors sought to pull over 40% of one fund's shares, the worst hit yet in a wave of redemption pressure sweeping the private credit sector.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T14:15:19Z",
+      "sourceCount": "51 sources"
+    },
+    {
       "title": "US jobless claims fall to 202,000, defying Iran war headwinds",
       "url": "https://www.perplexity.ai/page/us-jobless-claims-fall-to-2020-jw_S3yQ1QLW7GupMOQMDqQ",
       "description": "Weekly filings dropped well below forecasts even as the conflict's energy shock weighs on the broader economy and hiring outlook.",
@@ -55,15 +64,6 @@
       "sourceCount": "44 sources"
     },
     {
-      "title": "Korean researchers achieve lithium-air battery breakthrough",
-      "url": "https://www.perplexity.ai/page/korean-researchers-achieve-lit-foY_X.U4TTyH_DWFug6FKA",
-      "description": "A novel 2D catalyst built through atomic-scale engineering sustained over 550 charge-discharge cycles, outperforming conventional alternatives.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-02T10:29:54Z",
-      "sourceCount": "14 sources"
-    },
-    {
       "title": "NASA's Artemis II crew orbits Earth after historic moonshot launch",
       "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-crew-orbits-O_4hbqWeTa6UviIm3msR3g",
       "description": "Four astronauts launched Wednesday evening on the first crewed lunar mission since 1972 and are now preparing for the flight to the Moon.",
@@ -71,6 +71,15 @@
       "topic": "top",
       "pubDate": "2026-04-02T05:07:41Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "Trump leaves Supreme Court early, calls birthright citizenship 'stupid'",
+      "url": "https://www.perplexity.ai/page/trump-leaves-supreme-court-ear-Gy_D7Ag4ToGq0wy.pZqedA",
+      "description": "The president became the first to attend oral arguments, but justices signaled skepticism of his order to end birthright citizenship.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T10:04:18Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Syracuse University to close or pause 93 programs",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T13:47:59Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Buy America law stalls affordable housing amid HUD waiver backlog",
-      "url": "https://www.perplexity.ai/page/buy-america-law-stalls-afforda-aUdT2GD5RjeJ1BS7GxQG1g",
-      "description": "Developers say HUD is taking six months or more to process waivers, adding hundreds of thousands of dollars in costs to federally funded projects.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T13:39:06Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-04-02T13:51:33Z",
+  "cached_at": "2026-04-02T14:51:27Z",
   "topics": {
     "top": [
+      {
+        "title": "Blue Owl caps fund redemptions after $5.4B in withdrawal requests",
+        "url": "https://www.perplexity.ai/page/blue-owl-caps-fund-redemptions-NW0BddCoTJqUKCW3DM8Zkg",
+        "description": "Investors sought to pull over 40% of one fund's shares, the worst hit yet in a wave of redemption pressure sweeping the private credit sector.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T14:15:19Z",
+        "sourceCount": "51 sources"
+      },
       {
         "title": "US jobless claims fall to 202,000, defying Iran war headwinds",
         "url": "https://www.perplexity.ai/page/us-jobless-claims-fall-to-2020-jw_S3yQ1QLW7GupMOQMDqQ",
@@ -1409,15 +1418,6 @@
         "sourceCount": "44 sources"
       },
       {
-        "title": "Korean researchers achieve lithium-air battery breakthrough",
-        "url": "https://www.perplexity.ai/page/korean-researchers-achieve-lit-foY_X.U4TTyH_DWFug6FKA",
-        "description": "A novel 2D catalyst built through atomic-scale engineering sustained over 550 charge-discharge cycles, outperforming conventional alternatives.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-02T10:29:54Z",
-        "sourceCount": "14 sources"
-      },
-      {
         "title": "NASA's Artemis II crew orbits Earth after historic moonshot launch",
         "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-crew-orbits-O_4hbqWeTa6UviIm3msR3g",
         "description": "Four astronauts launched Wednesday evening on the first crewed lunar mission since 1972 and are now preparing for the flight to the Moon.",
@@ -1425,6 +1425,15 @@
         "topic": "top",
         "pubDate": "2026-04-02T05:07:41Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "Trump leaves Supreme Court early, calls birthright citizenship 'stupid'",
+        "url": "https://www.perplexity.ai/page/trump-leaves-supreme-court-ear-Gy_D7Ag4ToGq0wy.pZqedA",
+        "description": "The president became the first to attend oral arguments, but justices signaled skepticism of his order to end birthright citizenship.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T10:04:18Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Syracuse University to close or pause 93 programs",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T13:47:59Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Buy America law stalls affordable housing amid HUD waiver backlog",
-        "url": "https://www.perplexity.ai/page/buy-america-law-stalls-afforda-aUdT2GD5RjeJ1BS7GxQG1g",
-        "description": "Developers say HUD is taking six months or more to process waivers, adding hundreds of thousands of dollars in costs to federally funded projects.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T13:39:06Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
