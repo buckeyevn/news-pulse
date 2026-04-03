@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "UN delays vote on Hormuz shipping resolution to Saturday",
+      "url": "https://www.perplexity.ai/page/un-delays-vote-on-hormuz-shipp-xaklvTXsQtmeTnVuhXXMVA",
+      "description": "The Security Council postponed Friday's vote on a Bahrain-led draft authorizing \"defensive\" force to protect Strait of Hormuz shipping amid veto threats.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T17:57:32Z",
+      "sourceCount": "23 sources"
+    },
+    {
       "title": "UN says Iran war is accelerating global renewable energy shift",
       "url": "https://www.perplexity.ai/page/un-says-iran-war-is-accelerati-NsIrLRBRQh.WTXp.blRvaw",
       "description": "IRENA reports renewables hit a record 49.4% of global capacity in 2025 as the energy crisis pushes countries toward domestic clean power.",
@@ -1270,9 +1279,18 @@
       "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-03T18:04:13Z",
+  "cached_at": "2026-04-03T19:04:08Z",
   "topics": {
     "top": [
+      {
+        "title": "UN delays vote on Hormuz shipping resolution to Saturday",
+        "url": "https://www.perplexity.ai/page/un-delays-vote-on-hormuz-shipp-xaklvTXsQtmeTnVuhXXMVA",
+        "description": "The Security Council postponed Friday's vote on a Bahrain-led draft authorizing \"defensive\" force to protect Strait of Hormuz shipping amid veto threats.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T17:57:32Z",
+        "sourceCount": "23 sources"
+      },
       {
         "title": "UN says Iran war is accelerating global renewable energy shift",
         "url": "https://www.perplexity.ai/page/un-says-iran-war-is-accelerati-NsIrLRBRQh.WTXp.blRvaw",
