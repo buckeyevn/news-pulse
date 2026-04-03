@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "UN says Iran war is accelerating global renewable energy shift",
+      "url": "https://www.perplexity.ai/page/un-says-iran-war-is-accelerati-NsIrLRBRQh.WTXp.blRvaw",
+      "description": "IRENA reports renewables hit a record 49.4% of global capacity in 2025 as the energy crisis pushes countries toward domestic clean power.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T17:42:12Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Oracle faces backlash over H-1B visa filings amid mass layoffs",
+      "url": "https://www.perplexity.ai/page/oracle-faces-backlash-over-h-1-.0FKoy3fQgqXeQI0wnmq3g",
+      "description": "Critics call it a \"slap in the face\" that the company filed over 3,100 foreign-worker visa petitions in the same period it cut up to 30,000 jobs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T17:41:35Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "U.S. F-15E shot down over Iran; one crew member rescued",
       "url": "https://www.perplexity.ai/page/u-s-f-15e-shot-down-over-iran-mYJJ7PSnRPCZPZP89mBWYw",
       "description": "Iran's IRGC downed a U.S. fighter jet Friday in the first confirmed shootdown of an American combat aircraft since the war began Feb. 28.",
@@ -1250,20 +1268,29 @@
       "topic": "top",
       "pubDate": "2026-03-28T05:52:48Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Trump floats renaming Strait of Hormuz after himself",
-      "url": "https://www.perplexity.ai/page/trump-floats-renaming-strait-o-.THSPKHAQ4utiIlE9JKWCQ",
-      "description": "At a Saudi-backed investor summit in Miami Beach, the president jokingly called the contested waterway the \"Strait of Trump\" — but aides say the idea isn't entirely a joke.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T02:34:03Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-03T17:29:10Z",
+  "cached_at": "2026-04-03T18:04:13Z",
   "topics": {
     "top": [
+      {
+        "title": "UN says Iran war is accelerating global renewable energy shift",
+        "url": "https://www.perplexity.ai/page/un-says-iran-war-is-accelerati-NsIrLRBRQh.WTXp.blRvaw",
+        "description": "IRENA reports renewables hit a record 49.4% of global capacity in 2025 as the energy crisis pushes countries toward domestic clean power.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T17:42:12Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Oracle faces backlash over H-1B visa filings amid mass layoffs",
+        "url": "https://www.perplexity.ai/page/oracle-faces-backlash-over-h-1-.0FKoy3fQgqXeQI0wnmq3g",
+        "description": "Critics call it a \"slap in the face\" that the company filed over 3,100 foreign-worker visa petitions in the same period it cut up to 30,000 jobs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T17:41:35Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "U.S. F-15E shot down over Iran; one crew member rescued",
         "url": "https://www.perplexity.ai/page/u-s-f-15e-shot-down-over-iran-mYJJ7PSnRPCZPZP89mBWYw",
@@ -2514,15 +2541,6 @@
         "topic": "top",
         "pubDate": "2026-03-28T05:52:48Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Trump floats renaming Strait of Hormuz after himself",
-        "url": "https://www.perplexity.ai/page/trump-floats-renaming-strait-o-.THSPKHAQ4utiIlE9JKWCQ",
-        "description": "At a Saudi-backed investor summit in Miami Beach, the president jokingly called the contested waterway the \"Strait of Trump\" — but aides say the idea isn't entirely a joke.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T02:34:03Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
