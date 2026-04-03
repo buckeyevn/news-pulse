@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran fires missiles at Israel and Gulf states as war enters sixth week",
+      "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-_3jMzbuLSUGZCOzQ7CRVyw",
+      "description": "Iranian drones struck Kuwait's Mina al-Ahmadi oil refinery Friday as explosions were reported across Tehran and Isfahan amid continued U.S.-Israeli strikes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T10:48:35Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Environmental groups sue over Gulf drilling's ESA exemption",
       "url": "https://www.perplexity.ai/page/environmental-groups-sue-over-55j3WXx1TB6GZOrRkJAR1A",
       "description": "Conservation groups filed lawsuits challenging the Trump administration's unprecedented decision to exempt all Gulf oil and gas operations from the Endangered Species Act.",
@@ -26,15 +35,6 @@
       "topic": "top",
       "pubDate": "2026-04-03T08:07:40Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Iranian drones hit Kuwait's Mina al-Ahmadi refinery again, sparking fires",
-      "url": "https://www.perplexity.ai/page/iranian-drones-hit-kuwait-s-mi-fCOcC1f1R8S891e._Hj4ww",
-      "description": "The 346,000 barrel-per-day facility has been struck repeatedly since Iran began retaliatory attacks on Gulf energy infrastructure in late February.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-03T07:52:39Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Trump's April 6 deadline for Iran nears as 40 nations seek Hormuz deal",
@@ -982,13 +982,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Houthis launch second attack on Israel within 24 hours, vow more strikes",
-      "url": "https://www.perplexity.ai/page/houthis-launch-second-attack-o-cJzr86ZRRuGbrNaapHVHew",
-      "description": "Yemen's Iran-aligned rebels formally entered the month-old Mideast war, firing missiles and drones at southern Israel in two waves on Saturday.",
+      "title": "Vance wins CPAC 2028 straw poll as Rubio surges",
+      "url": "https://www.perplexity.ai/page/vance-wins-cpac-2028-straw-pol-pgYdhFsrSo2eMHinthJxXw",
+      "description": "Secretary of State Rubio jumped from 3% last year to 35%, while Vice President Vance's support fell from 61% to 53%.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-28T23:28:20Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-28T22:13:36Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
@@ -1000,15 +1000,6 @@
       "sourceCount": "66 sources"
     },
     {
-      "title": "Vance wins CPAC 2028 straw poll as Rubio surges",
-      "url": "https://www.perplexity.ai/page/vance-wins-cpac-2028-straw-pol-pgYdhFsrSo2eMHinthJxXw",
-      "description": "Secretary of State Rubio jumped from 3% last year to 35%, while Vice President Vance's support fell from 61% to 53%.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T22:13:36Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "FBI moves to release Swalwell files from closed spy probe",
       "url": "https://www.perplexity.ai/page/fbi-moves-to-release-swalwell-nWDrTkGGSl.WaX3fO5sRoA",
       "description": "Director Kash Patel ordered agents to prepare decade-old investigative documents on Rep. Eric Swalwell tied to a suspected Chinese operative.",
@@ -1016,6 +1007,15 @@
       "topic": "top",
       "pubDate": "2026-03-28T22:13:15Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "Houthis launch first missile attack on Israel as U.S. Marines reach Middle East",
+      "url": "https://www.perplexity.ai/page/houthis-launch-first-missile-a-aZB4wXpUTjapazUWUnflbg",
+      "description": "Yemen's Iran-backed rebels fired ballistic missiles at southern Israel on Saturday, opening a new front one month into Operation Epic Fury.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T20:58:51Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "Trump claims Nobel snub, calls himself a peacemaker amid Iran war",
@@ -1333,13 +1333,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Iran strikes Israel, Gulf states as IRGC warns civilians to flee US bases",
-      "url": "https://www.perplexity.ai/page/iran-strikes-israel-gulf-state-rrHd0DjOThGMfPYlnVeIMQ",
-      "description": "On the 28th day of the war, Iran launched missiles and drones at Israel, Saudi Arabia, Kuwait, and the UAE as Israel vowed to escalate strikes on Tehran.",
+      "title": "Gas prices near $4 as states split on tax holidays",
+      "url": "https://www.perplexity.ai/page/gas-prices-near-4-as-states-sp-CkOsc7NKQfGRtHjzBcQfZw",
+      "description": "The national average hit $3.98, up a dollar in one month, spurring federal and state gas tax suspension proposals with mixed results.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-27T20:46:48Z",
-      "sourceCount": "27 sources"
+      "pubDate": "2026-03-27T20:13:40Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Hegseth struck Black and female officers from Army promotion list",
@@ -1351,9 +1351,18 @@
       "sourceCount": "22 sources"
     }
   ],
-  "cached_at": "2026-04-03T10:28:18Z",
+  "cached_at": "2026-04-03T11:22:55Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran fires missiles at Israel and Gulf states as war enters sixth week",
+        "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-_3jMzbuLSUGZCOzQ7CRVyw",
+        "description": "Iranian drones struck Kuwait's Mina al-Ahmadi oil refinery Friday as explosions were reported across Tehran and Isfahan amid continued U.S.-Israeli strikes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T10:48:35Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Environmental groups sue over Gulf drilling's ESA exemption",
         "url": "https://www.perplexity.ai/page/environmental-groups-sue-over-55j3WXx1TB6GZOrRkJAR1A",
@@ -1380,15 +1389,6 @@
         "topic": "top",
         "pubDate": "2026-04-03T08:07:40Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Iranian drones hit Kuwait's Mina al-Ahmadi refinery again, sparking fires",
-        "url": "https://www.perplexity.ai/page/iranian-drones-hit-kuwait-s-mi-fCOcC1f1R8S891e._Hj4ww",
-        "description": "The 346,000 barrel-per-day facility has been struck repeatedly since Iran began retaliatory attacks on Gulf energy infrastructure in late February.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-03T07:52:39Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Trump's April 6 deadline for Iran nears as 40 nations seek Hormuz deal",
@@ -2336,13 +2336,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Houthis launch second attack on Israel within 24 hours, vow more strikes",
-        "url": "https://www.perplexity.ai/page/houthis-launch-second-attack-o-cJzr86ZRRuGbrNaapHVHew",
-        "description": "Yemen's Iran-aligned rebels formally entered the month-old Mideast war, firing missiles and drones at southern Israel in two waves on Saturday.",
+        "title": "Vance wins CPAC 2028 straw poll as Rubio surges",
+        "url": "https://www.perplexity.ai/page/vance-wins-cpac-2028-straw-pol-pgYdhFsrSo2eMHinthJxXw",
+        "description": "Secretary of State Rubio jumped from 3% last year to 35%, while Vice President Vance's support fell from 61% to 53%.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-28T23:28:20Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-28T22:13:36Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
@@ -2354,15 +2354,6 @@
         "sourceCount": "66 sources"
       },
       {
-        "title": "Vance wins CPAC 2028 straw poll as Rubio surges",
-        "url": "https://www.perplexity.ai/page/vance-wins-cpac-2028-straw-pol-pgYdhFsrSo2eMHinthJxXw",
-        "description": "Secretary of State Rubio jumped from 3% last year to 35%, while Vice President Vance's support fell from 61% to 53%.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T22:13:36Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "FBI moves to release Swalwell files from closed spy probe",
         "url": "https://www.perplexity.ai/page/fbi-moves-to-release-swalwell-nWDrTkGGSl.WaX3fO5sRoA",
         "description": "Director Kash Patel ordered agents to prepare decade-old investigative documents on Rep. Eric Swalwell tied to a suspected Chinese operative.",
@@ -2370,6 +2361,15 @@
         "topic": "top",
         "pubDate": "2026-03-28T22:13:15Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "Houthis launch first missile attack on Israel as U.S. Marines reach Middle East",
+        "url": "https://www.perplexity.ai/page/houthis-launch-first-missile-a-aZB4wXpUTjapazUWUnflbg",
+        "description": "Yemen's Iran-backed rebels fired ballistic missiles at southern Israel on Saturday, opening a new front one month into Operation Epic Fury.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T20:58:51Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "Trump claims Nobel snub, calls himself a peacemaker amid Iran war",
@@ -2687,13 +2687,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Iran strikes Israel, Gulf states as IRGC warns civilians to flee US bases",
-        "url": "https://www.perplexity.ai/page/iran-strikes-israel-gulf-state-rrHd0DjOThGMfPYlnVeIMQ",
-        "description": "On the 28th day of the war, Iran launched missiles and drones at Israel, Saudi Arabia, Kuwait, and the UAE as Israel vowed to escalate strikes on Tehran.",
+        "title": "Gas prices near $4 as states split on tax holidays",
+        "url": "https://www.perplexity.ai/page/gas-prices-near-4-as-states-sp-CkOsc7NKQfGRtHjzBcQfZw",
+        "description": "The national average hit $3.98, up a dollar in one month, spurring federal and state gas tax suspension proposals with mixed results.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-27T20:46:48Z",
-        "sourceCount": "27 sources"
+        "pubDate": "2026-03-27T20:13:40Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Hegseth struck Black and female officers from Army promotion list",
