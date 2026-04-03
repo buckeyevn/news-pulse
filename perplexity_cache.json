@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Environmental groups sue over Gulf drilling's ESA exemption",
+      "url": "https://www.perplexity.ai/page/environmental-groups-sue-over-55j3WXx1TB6GZOrRkJAR1A",
+      "description": "Conservation groups filed lawsuits challenging the Trump administration's unprecedented decision to exempt all Gulf oil and gas operations from the Endangered Species Act.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T10:03:28Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Global food prices jump for second straight month as Middle East war disrupts supply chains",
       "url": "https://www.perplexity.ai/page/global-food-prices-jump-for-se-O.ODhADXTQ6oXwx.DLNkPQ",
       "description": "The FAO Food Price Index rose sharply in March, driven by surging energy and fertilizer costs linked to the conflict in Iran.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T21:45:14Z",
       "sourceCount": "22 sources"
-    },
-    {
-      "title": "Gas prices near $4 as states split on tax holidays",
-      "url": "https://www.perplexity.ai/page/gas-prices-near-4-as-states-sp-CkOsc7NKQfGRtHjzBcQfZw",
-      "description": "The national average hit $3.98, up a dollar in one month, spurring federal and state gas tax suspension proposals with mixed results.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T20:13:40Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-03T09:40:02Z",
+  "cached_at": "2026-04-03T10:28:18Z",
   "topics": {
     "top": [
+      {
+        "title": "Environmental groups sue over Gulf drilling's ESA exemption",
+        "url": "https://www.perplexity.ai/page/environmental-groups-sue-over-55j3WXx1TB6GZOrRkJAR1A",
+        "description": "Conservation groups filed lawsuits challenging the Trump administration's unprecedented decision to exempt all Gulf oil and gas operations from the Endangered Species Act.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T10:03:28Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Global food prices jump for second straight month as Middle East war disrupts supply chains",
         "url": "https://www.perplexity.ai/page/global-food-prices-jump-for-se-O.ODhADXTQ6oXwx.DLNkPQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T21:45:14Z",
         "sourceCount": "22 sources"
-      },
-      {
-        "title": "Gas prices near $4 as states split on tax holidays",
-        "url": "https://www.perplexity.ai/page/gas-prices-near-4-as-states-sp-CkOsc7NKQfGRtHjzBcQfZw",
-        "description": "The national average hit $3.98, up a dollar in one month, spurring federal and state gas tax suspension proposals with mixed results.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T20:13:40Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
