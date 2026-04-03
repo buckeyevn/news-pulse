@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "U.S. F-15E shot down over Iran; one crew member rescued",
+      "url": "https://www.perplexity.ai/page/u-s-f-15e-shot-down-over-iran-mYJJ7PSnRPCZPZP89mBWYw",
+      "description": "Iran's IRGC downed a U.S. fighter jet Friday in the first confirmed shootdown of an American combat aircraft since the war began Feb. 28.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T16:32:06Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "Artemis II crew shares first photos of Earth from deep space",
       "url": "https://www.perplexity.ai/page/artemis-ii-crew-shares-first-p-iY3Ab8gYTV6lYVLxxAi8Fw",
       "description": "The images, taken after Thursday's translunar injection burn, show the full globe in vivid blue — the first such human-captured view since Apollo.",
@@ -10,13 +19,13 @@
       "sourceCount": "58 sources"
     },
     {
-      "title": "Rescue operation unfolds as debris in Iran identified as U.S. F-15E",
-      "url": "https://www.perplexity.ai/page/rescue-operation-unfolds-as-de-o4239aMJSumpDRLI2N6yJQ",
-      "description": "Analysts identified wreckage as a Strike Eagle from RAF Lakenheath's 494th Fighter Squadron, contradicting Iran's claim of downing an F-35.",
+      "title": "IDF says disarming Hezbollah 'not a goal' of Lebanon campaign",
+      "url": "https://www.perplexity.ai/page/idf-says-disarming-hezbollah-n-iElRwERQTwOQv.OPSL1qMg",
+      "description": "A senior military official's remarks signal a shift from earlier war aims after one month of fighting that has hit over 3,500 targets.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-03T14:46:05Z",
-      "sourceCount": "38 sources"
+      "pubDate": "2026-04-03T15:23:07Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Trump names Vance 'fraud czar,' targeting Democratic states",
@@ -37,13 +46,13 @@
       "sourceCount": "65 sources"
     },
     {
-      "title": "China's Tianlong-3 rocket fails on maiden flight",
-      "url": "https://www.perplexity.ai/page/china-s-tianlong-3-rocket-fail-ITjDtYHkSPyJa4Hfzsj6.A",
-      "description": "The privately built rocket, designed to rival SpaceX's Falcon 9, suffered a mid-flight anomaly launching from the Gobi Desert.",
+      "title": "Macron calls for 'coalition of independence' against US and China",
+      "url": "https://www.perplexity.ai/page/macron-calls-for-coalition-of-TiW5sbLgT7ydxaAqJIOCkA",
+      "description": "Speaking in Seoul, the French president urged democratic middle powers to resist becoming \"vassals of two hegemonic powers.\"",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-03T11:56:43Z",
-      "sourceCount": "35 sources"
+      "pubDate": "2026-04-03T12:18:09Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Trump sends $1.5T defense budget to Congress",
@@ -52,6 +61,15 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-03T13:11:24Z",
+      "sourceCount": "35 sources"
+    },
+    {
+      "title": "China's Tianlong-3 rocket fails on maiden flight",
+      "url": "https://www.perplexity.ai/page/china-s-tianlong-3-rocket-fail-ITjDtYHkSPyJa4Hfzsj6.A",
+      "description": "The privately built rocket, designed to rival SpaceX's Falcon 9, suffered a mid-flight anomaly launching from the Gobi Desert.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T11:56:43Z",
       "sourceCount": "35 sources"
     },
     {
@@ -1243,9 +1261,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-03T16:50:58Z",
+  "cached_at": "2026-04-03T17:29:10Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. F-15E shot down over Iran; one crew member rescued",
+        "url": "https://www.perplexity.ai/page/u-s-f-15e-shot-down-over-iran-mYJJ7PSnRPCZPZP89mBWYw",
+        "description": "Iran's IRGC downed a U.S. fighter jet Friday in the first confirmed shootdown of an American combat aircraft since the war began Feb. 28.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T16:32:06Z",
+        "sourceCount": "36 sources"
+      },
       {
         "title": "Artemis II crew shares first photos of Earth from deep space",
         "url": "https://www.perplexity.ai/page/artemis-ii-crew-shares-first-p-iY3Ab8gYTV6lYVLxxAi8Fw",
@@ -1256,13 +1283,13 @@
         "sourceCount": "58 sources"
       },
       {
-        "title": "Rescue operation unfolds as debris in Iran identified as U.S. F-15E",
-        "url": "https://www.perplexity.ai/page/rescue-operation-unfolds-as-de-o4239aMJSumpDRLI2N6yJQ",
-        "description": "Analysts identified wreckage as a Strike Eagle from RAF Lakenheath's 494th Fighter Squadron, contradicting Iran's claim of downing an F-35.",
+        "title": "IDF says disarming Hezbollah 'not a goal' of Lebanon campaign",
+        "url": "https://www.perplexity.ai/page/idf-says-disarming-hezbollah-n-iElRwERQTwOQv.OPSL1qMg",
+        "description": "A senior military official's remarks signal a shift from earlier war aims after one month of fighting that has hit over 3,500 targets.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-03T14:46:05Z",
-        "sourceCount": "38 sources"
+        "pubDate": "2026-04-03T15:23:07Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Trump names Vance 'fraud czar,' targeting Democratic states",
@@ -1283,13 +1310,13 @@
         "sourceCount": "65 sources"
       },
       {
-        "title": "China's Tianlong-3 rocket fails on maiden flight",
-        "url": "https://www.perplexity.ai/page/china-s-tianlong-3-rocket-fail-ITjDtYHkSPyJa4Hfzsj6.A",
-        "description": "The privately built rocket, designed to rival SpaceX's Falcon 9, suffered a mid-flight anomaly launching from the Gobi Desert.",
+        "title": "Macron calls for 'coalition of independence' against US and China",
+        "url": "https://www.perplexity.ai/page/macron-calls-for-coalition-of-TiW5sbLgT7ydxaAqJIOCkA",
+        "description": "Speaking in Seoul, the French president urged democratic middle powers to resist becoming \"vassals of two hegemonic powers.\"",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-03T11:56:43Z",
-        "sourceCount": "35 sources"
+        "pubDate": "2026-04-03T12:18:09Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Trump sends $1.5T defense budget to Congress",
@@ -1298,6 +1325,15 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-03T13:11:24Z",
+        "sourceCount": "35 sources"
+      },
+      {
+        "title": "China's Tianlong-3 rocket fails on maiden flight",
+        "url": "https://www.perplexity.ai/page/china-s-tianlong-3-rocket-fail-ITjDtYHkSPyJa4Hfzsj6.A",
+        "description": "The privately built rocket, designed to rival SpaceX's Falcon 9, suffered a mid-flight anomaly launching from the Gobi Desert.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T11:56:43Z",
         "sourceCount": "35 sources"
       },
       {
