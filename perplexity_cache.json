@@ -1,6 +1,123 @@
 {
   "stories": [
     {
+      "title": "US burns through critical weapons stockpiles five weeks into Iran war",
+      "url": "https://www.perplexity.ai/page/us-burns-through-critical-weap-65mxCzIjTTifaflDFrwcFw",
+      "description": "Analysts warn THAAD interceptors could be exhausted by mid-April as Iran's low-cost drone strategy imposes unsustainable costs on Western defenses.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:31:50Z",
+      "sourceCount": "44 sources"
+    },
+    {
+      "title": "Bangladesh, Thailand impose emergency measures as energy crisis deepens",
+      "url": "https://www.perplexity.ai/page/bangladesh-thailand-impose-eme-kWEkAAiZQD6WU_6ZZlBkeg",
+      "description": "Dhaka slashed office hours and banned decorative lighting, while Bangkok faces potential fuel subsidy collapse as diesel prices nearly triple.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:29:16Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Global services sector contracts for first time in 3 years amid Iran war oil shock",
+      "url": "https://www.perplexity.ai/page/global-services-sector-contrac-3iN.bd4NQoKkabJYHF0CqA",
+      "description": "The S&P Global Services PMI fell to 49.8 in March as Strait of Hormuz closure choked off a fifth of the world's oil supply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:24:22Z",
+      "sourceCount": "60 sources"
+    },
+    {
+      "title": "Iran's radar-silent missile systems down US jets, exposing electronic warfare gap",
+      "url": "https://www.perplexity.ai/page/iran-s-radar-silent-missile-sy-l8NtLsczRDi3OeBrfJT4Ig",
+      "description": "Passive infrared defenses that evade aircraft warning systems are credited with shooting down an F-15E and striking an A-10 during Operation Epic Fury.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:24:58Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "U.S. Dollar Index hits highest level since May 2025",
+      "url": "https://www.perplexity.ai/page/u-s-dollar-index-hits-highest-FZp53GttTPGCSXxANrVrvw",
+      "description": "Safe-haven demand from the Strait of Hormuz crisis and the expected Fed leadership shift under nominee Kevin Warsh are driving the greenback's surge.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:22:49Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "IRGC strikes Israel-linked ship in Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/irgc-strikes-israel-linked-shi-hZxrg5jHSh.xvwZJPC8brQ",
+      "description": "Iran's Revolutionary Guards said they set an Israeli-linked vessel on fire in a drone attack as part of ongoing Operation True Promise 4 strikes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:20:59Z",
+      "sourceCount": "41 sources"
+    },
+    {
+      "title": "China pushes five-point peace plan as Iran war nears fifth week",
+      "url": "https://www.perplexity.ai/page/china-pushes-five-point-peace-g7eQJtoxQtytL.Kv52a6jw",
+      "description": "Beijing and Islamabad propose a ceasefire and reopening the Strait of Hormuz, but the U.S. has shown little interest in the mediation effort.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:24:05Z",
+      "sourceCount": "45 sources"
+    },
+    {
+      "title": "Consumer sentiment hits third-lowest level ever as Iran conflict rattles markets",
+      "url": "https://www.perplexity.ai/page/consumer-sentiment-hits-third-KJRBK.doQNu2sPtFzt0vdQ",
+      "description": "The University of Michigan index fell to 53.3 as surging oil prices and the ongoing Strait of Hormuz blockade weigh on households and stocks alike.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:23:43Z",
+      "sourceCount": "43 sources"
+    },
+    {
+      "title": "Five EU nations push windfall tax on energy firms amid oil surge",
+      "url": "https://www.perplexity.ai/page/five-eu-nations-push-windfall-ZChroxr1QZu6Yql1MZt1cw",
+      "description": "Spain, Germany, Italy, Austria, and Portugal asked the European Commission to tax energy companies' excess profits as governments worldwide scramble to shield consumers from war-driven oil prices.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:18:53Z",
+      "sourceCount": "50 sources"
+    },
+    {
+      "title": "Tanzania's rice surplus hits record as East Africa faces historic drought",
+      "url": "https://www.perplexity.ai/page/tanzania-s-rice-surplus-hits-r-SehY4UoZTWihZALdFoQAqQ",
+      "description": "The 2024/2025 bumper harvest of 2.6 million tonnes far exceeds domestic demand, freeing over a million tonnes for export to drought-stricken neighbors.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:18:31Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "Pakistan reverses record fuel hike as Asia reels from Iran war energy crisis",
+      "url": "https://www.perplexity.ai/page/pakistan-reverses-record-fuel-Xzk5QfJsQ2erh7PT7Ugd8A",
+      "description": "PM Shehbaz Sharif cut petrol prices by Rs80 per liter a day after a 43% increase, as the Strait of Hormuz blockade batters import-dependent economies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:18:28Z",
+      "sourceCount": "45 sources"
+    },
+    {
+      "title": "Democrats hold steady 5.5-point lead on generic ballot amid Iran war fallout",
+      "url": "https://www.perplexity.ai/page/democrats-hold-steady-5-5-poin-M6PFS2pjQOiQ8aNSuD6OeA",
+      "description": "Rising gas prices, stock market volatility, and GOP divisions over immigration and the Iran conflict are fueling Democratic momentum ahead of November.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:14:09Z",
+      "sourceCount": "58 sources"
+    },
+    {
+      "title": "Interception debris strikes Oracle building in Dubai amid Iran conflict",
+      "url": "https://www.perplexity.ai/page/interception-debris-strikes-or-yfGPIBU5SNOjoTyvy9Mxyg",
+      "description": "Oracle is among 18 U.S. tech firms that Iran's Revolutionary Guard declared \"legitimate targets\" in late March.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:13:11Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Iran claims downing 160-plus drones, multiple US jets",
       "url": "https://www.perplexity.ai/page/iran-claims-downing-160-plus-d-uvsKgNeGSYWnbwjzKLRDaA",
       "description": "Air defense commander says domestically built systems can now target fifth-generation stealth fighters as the US-Iran conflict enters its fifth week.",
@@ -37,15 +154,6 @@
       "sourceCount": "44 sources"
     },
     {
-      "title": "Vietnam's growth slows as Middle East war fuels Asian energy crisis",
-      "url": "https://www.perplexity.ai/page/vietnam-s-growth-slows-as-midd-vJhkvLTzTZikvtU7uKNVzQ",
-      "description": "Singapore convened a crisis committee and Vietnam reported slowing GDP as surging oil prices strain economies across Asia and Africa.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T12:54:10Z",
-      "sourceCount": "44 sources"
-    },
-    {
       "title": "Iran says it 'never refused' Pakistan-hosted talks with US",
       "url": "https://www.perplexity.ai/page/iran-says-it-never-refused-pak-uTZ_xr7ZReaDmv4n8Jn_YA",
       "description": "Iran's foreign minister pushed back on reports that Tehran rejected mediation, even as Pakistan denied its diplomatic initiative had stalled.",
@@ -73,13 +181,13 @@
       "sourceCount": "72 sources"
     },
     {
-      "title": "Developing nations impose austerity as oil shock deepens",
-      "url": "https://www.perplexity.ai/page/developing-nations-impose-aust-Zx5ad2LLQWyUsBfx.O56Wg",
-      "description": "Bangladesh cut office hours and government spending while Senegal banned official travel as surging crude prices strain public finances.",
+      "title": "Artemis II crew passes halfway point on voyage to the moon",
+      "url": "https://www.perplexity.ai/page/artemis-ii-crew-passes-halfway-PBOmj59HReeR4ZnUZFj3uw",
+      "description": "The four astronauts are now closer to the moon than to Earth, with a lunar flyby set for Monday.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T11:23:40Z",
-      "sourceCount": "44 sources"
+      "pubDate": "2026-04-04T11:23:19Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "UAE rejects Zarif's peace proposal, demands Iran compensate Gulf states",
@@ -89,15 +197,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T12:13:16Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "Artemis II crew passes halfway point on voyage to the moon",
-      "url": "https://www.perplexity.ai/page/artemis-ii-crew-passes-halfway-PBOmj59HReeR4ZnUZFj3uw",
-      "description": "The four astronauts are now closer to the moon than to Earth, with a lunar flyby set for Monday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T11:23:19Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Turkey confirms second ship crosses Strait of Hormuz",
@@ -280,22 +379,13 @@
       "sourceCount": "36 sources"
     },
     {
-      "title": "Trump's false Iran talks claim triggers $3T market swing",
-      "url": "https://www.perplexity.ai/page/trump-s-false-iran-talks-claim-FWDOJaLUSUyllPfQLtnLCg",
-      "description": "A Truth Social post claiming productive U.S.-Iran conversations was denied by Tehran within an hour, whipsawing stocks and deepening investor anxiety.",
+      "title": "NATO chief Rutte to meet Trump amid US exit threats",
+      "url": "https://www.perplexity.ai/page/nato-chief-rutte-to-meet-trump-TyiuCP8ETpm1FKUQxc1v4w",
+      "description": "The meeting, set for April 8 in Washington, follows Trump's threat to withdraw from the alliance over European allies' refusal to back the Iran campaign.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T10:03:38Z",
+      "pubDate": "2026-04-04T10:03:15Z",
       "sourceCount": "45 sources"
-    },
-    {
-      "title": "Five EU finance ministers demand windfall tax on energy firms",
-      "url": "https://www.perplexity.ai/page/five-eu-finance-ministers-dema-gdXGsZy.TUadRkYrPoS07g",
-      "description": "Germany, Italy, Spain, Portugal, and Austria urged the European Commission to tax energy companies' excess profits from the Iran war price surge.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T08:33:56Z",
-      "sourceCount": "37 sources"
     },
     {
       "title": "Iran's Khamenei has 'no role in leadership' due to severe injuries, report says",
@@ -307,15 +397,6 @@
       "sourceCount": "86 sources"
     },
     {
-      "title": "NATO chief Rutte to meet Trump amid US exit threats",
-      "url": "https://www.perplexity.ai/page/nato-chief-rutte-to-meet-trump-TyiuCP8ETpm1FKUQxc1v4w",
-      "description": "The meeting, set for April 8 in Washington, follows Trump's threat to withdraw from the alliance over European allies' refusal to back the Iran campaign.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T10:03:15Z",
-      "sourceCount": "45 sources"
-    },
-    {
       "title": "North Korea razes villages near key missile launch site",
       "url": "https://www.perplexity.ai/page/north-korea-razes-villages-nea-m0bzg9g0QFuWIKopow0Twg",
       "description": "Satellite imagery shows hundreds of buildings demolished near the Sohae station, pointing to an expansion of the facility amid an accelerating weapons buildup.",
@@ -323,15 +404,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T01:53:36Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "Debris from intercepted drones hits buildings across Dubai",
-      "url": "https://www.perplexity.ai/page/debris-from-intercepted-drones-iF0NDeCFRd2p0YO9B3LQ7w",
-      "description": "Fallen debris struck Oracle's building in Dubai Internet City and a Dubai Marina tower Saturday, with no injuries reported amid ongoing Iranian attacks on the UAE.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T04:33:00Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "US pulled 1,500 sailors from Bahrain naval base after Iranian strikes",
@@ -1277,83 +1349,128 @@
       "topic": "top",
       "pubDate": "2026-03-30T23:49:06Z",
       "sourceCount": "52 sources"
-    },
-    {
-      "title": "US struck Isfahan ammo depot with bunker busters",
-      "url": "https://www.perplexity.ai/page/us-struck-isfahan-ammo-depot-w-HDHnZ2qkQeCpbs4Fj7G2QQ",
-      "description": "Trump shared footage of the massive secondary explosions on Truth Social as the month-old U.S.-Israeli campaign surpasses 15,000 targets struck.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T02:55:43Z",
-      "sourceCount": "59 sources"
-    },
-    {
-      "title": "FBI labels Temple Isreal attack Hezbollah-inspired terrorism",
-      "url": "https://www.perplexity.ai/page/fbi-labels-temple-isreal-attac-hCIbqOQrS3qKi21OE0bD3g",
-      "description": "The bureau said Ayman Ghazali planned the March 12 ramming and shooting at Temple Israel to \"kill as many\" people as possible.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T22:08:45Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "Iran says ambassador will stay in Beirut despite Lebanon's expulsion order",
-      "url": "https://www.perplexity.ai/page/iran-says-ambassador-will-stay-nU3jlA86QKuSbZPtiAD4Bg",
-      "description": "Tehran confirmed Monday its envoy remains in Lebanon past the March 29 departure deadline, deepening a diplomatic standoff backed by Hezbollah.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T21:34:00Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "Ukraine says Russia recruited 27,000 from 135 countries",
-      "url": "https://www.perplexity.ai/page/ukraine-says-russia-recruited-QhTT7QCmTEidkahfKPP_dA",
-      "description": "Ukrainian intelligence released data identifying 27,407 foreign nationals recruited into Russia's armed forces from 135 countries.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T19:34:14Z",
-      "sourceCount": "49 sources"
-    },
-    {
-      "title": "Manhattan prosecutors probe insider trading on prediction markets",
-      "url": "https://www.perplexity.ai/page/manhattan-prosecutors-probe-in-1SvDSCXxTiuocCKHesc00w",
-      "description": "The SDNY recently met with Polymarket to discuss how fraud and insider trading laws apply to suspicious bets on the fast-growing platforms.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T19:27:23Z",
-      "sourceCount": "56 sources"
-    },
-    {
-      "title": "Israel Knesset passes death penalty law for Palestinians",
-      "url": "https://www.perplexity.ai/page/israel-knesset-passes-death-pe-WxOznw.DQIahaK4l989Okw",
-      "description": "Military courts must now impose a mandatory death sentence for terrorism-related killings, with executions by hanging within 90 days of sentencing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T19:21:09Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "NYT identifies untested U.S. missile in deadly Iran civilian strike",
-      "url": "https://www.perplexity.ai/page/nyt-identifies-untested-u-s-mi-oIyQV9LKS2auY_4dP_pIYw",
-      "description": "A New York Times investigation found the Pentagon used a never-before-deployed Precision Strike Missile in a Feb. 28 strike that killed at least 21 people.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T19:08:31Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "Trump floats asking Arab states to help pay for Iran war",
-      "url": "https://www.perplexity.ai/page/trump-floats-asking-arab-state-Jazp9QgsR2KmeYEvnYv7Wg",
-      "description": "The White House said Monday the president is interested in having Gulf allies share the financial burden of the conflict, now in its fifth week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T18:10:45Z",
-      "sourceCount": "101 sources"
     }
   ],
-  "cached_at": "2026-04-04T13:17:22Z",
+  "cached_at": "2026-04-04T14:03:01Z",
   "topics": {
     "top": [
+      {
+        "title": "US burns through critical weapons stockpiles five weeks into Iran war",
+        "url": "https://www.perplexity.ai/page/us-burns-through-critical-weap-65mxCzIjTTifaflDFrwcFw",
+        "description": "Analysts warn THAAD interceptors could be exhausted by mid-April as Iran's low-cost drone strategy imposes unsustainable costs on Western defenses.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:31:50Z",
+        "sourceCount": "44 sources"
+      },
+      {
+        "title": "Bangladesh, Thailand impose emergency measures as energy crisis deepens",
+        "url": "https://www.perplexity.ai/page/bangladesh-thailand-impose-eme-kWEkAAiZQD6WU_6ZZlBkeg",
+        "description": "Dhaka slashed office hours and banned decorative lighting, while Bangkok faces potential fuel subsidy collapse as diesel prices nearly triple.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:29:16Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Global services sector contracts for first time in 3 years amid Iran war oil shock",
+        "url": "https://www.perplexity.ai/page/global-services-sector-contrac-3iN.bd4NQoKkabJYHF0CqA",
+        "description": "The S&P Global Services PMI fell to 49.8 in March as Strait of Hormuz closure choked off a fifth of the world's oil supply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:24:22Z",
+        "sourceCount": "60 sources"
+      },
+      {
+        "title": "Iran's radar-silent missile systems down US jets, exposing electronic warfare gap",
+        "url": "https://www.perplexity.ai/page/iran-s-radar-silent-missile-sy-l8NtLsczRDi3OeBrfJT4Ig",
+        "description": "Passive infrared defenses that evade aircraft warning systems are credited with shooting down an F-15E and striking an A-10 during Operation Epic Fury.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:24:58Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "U.S. Dollar Index hits highest level since May 2025",
+        "url": "https://www.perplexity.ai/page/u-s-dollar-index-hits-highest-FZp53GttTPGCSXxANrVrvw",
+        "description": "Safe-haven demand from the Strait of Hormuz crisis and the expected Fed leadership shift under nominee Kevin Warsh are driving the greenback's surge.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:22:49Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "IRGC strikes Israel-linked ship in Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/irgc-strikes-israel-linked-shi-hZxrg5jHSh.xvwZJPC8brQ",
+        "description": "Iran's Revolutionary Guards said they set an Israeli-linked vessel on fire in a drone attack as part of ongoing Operation True Promise 4 strikes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:20:59Z",
+        "sourceCount": "41 sources"
+      },
+      {
+        "title": "China pushes five-point peace plan as Iran war nears fifth week",
+        "url": "https://www.perplexity.ai/page/china-pushes-five-point-peace-g7eQJtoxQtytL.Kv52a6jw",
+        "description": "Beijing and Islamabad propose a ceasefire and reopening the Strait of Hormuz, but the U.S. has shown little interest in the mediation effort.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:24:05Z",
+        "sourceCount": "45 sources"
+      },
+      {
+        "title": "Consumer sentiment hits third-lowest level ever as Iran conflict rattles markets",
+        "url": "https://www.perplexity.ai/page/consumer-sentiment-hits-third-KJRBK.doQNu2sPtFzt0vdQ",
+        "description": "The University of Michigan index fell to 53.3 as surging oil prices and the ongoing Strait of Hormuz blockade weigh on households and stocks alike.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:23:43Z",
+        "sourceCount": "43 sources"
+      },
+      {
+        "title": "Five EU nations push windfall tax on energy firms amid oil surge",
+        "url": "https://www.perplexity.ai/page/five-eu-nations-push-windfall-ZChroxr1QZu6Yql1MZt1cw",
+        "description": "Spain, Germany, Italy, Austria, and Portugal asked the European Commission to tax energy companies' excess profits as governments worldwide scramble to shield consumers from war-driven oil prices.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:18:53Z",
+        "sourceCount": "50 sources"
+      },
+      {
+        "title": "Tanzania's rice surplus hits record as East Africa faces historic drought",
+        "url": "https://www.perplexity.ai/page/tanzania-s-rice-surplus-hits-r-SehY4UoZTWihZALdFoQAqQ",
+        "description": "The 2024/2025 bumper harvest of 2.6 million tonnes far exceeds domestic demand, freeing over a million tonnes for export to drought-stricken neighbors.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:18:31Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "Pakistan reverses record fuel hike as Asia reels from Iran war energy crisis",
+        "url": "https://www.perplexity.ai/page/pakistan-reverses-record-fuel-Xzk5QfJsQ2erh7PT7Ugd8A",
+        "description": "PM Shehbaz Sharif cut petrol prices by Rs80 per liter a day after a 43% increase, as the Strait of Hormuz blockade batters import-dependent economies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:18:28Z",
+        "sourceCount": "45 sources"
+      },
+      {
+        "title": "Democrats hold steady 5.5-point lead on generic ballot amid Iran war fallout",
+        "url": "https://www.perplexity.ai/page/democrats-hold-steady-5-5-poin-M6PFS2pjQOiQ8aNSuD6OeA",
+        "description": "Rising gas prices, stock market volatility, and GOP divisions over immigration and the Iran conflict are fueling Democratic momentum ahead of November.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:14:09Z",
+        "sourceCount": "58 sources"
+      },
+      {
+        "title": "Interception debris strikes Oracle building in Dubai amid Iran conflict",
+        "url": "https://www.perplexity.ai/page/interception-debris-strikes-or-yfGPIBU5SNOjoTyvy9Mxyg",
+        "description": "Oracle is among 18 U.S. tech firms that Iran's Revolutionary Guard declared \"legitimate targets\" in late March.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:13:11Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Iran claims downing 160-plus drones, multiple US jets",
         "url": "https://www.perplexity.ai/page/iran-claims-downing-160-plus-d-uvsKgNeGSYWnbwjzKLRDaA",
@@ -1391,15 +1508,6 @@
         "sourceCount": "44 sources"
       },
       {
-        "title": "Vietnam's growth slows as Middle East war fuels Asian energy crisis",
-        "url": "https://www.perplexity.ai/page/vietnam-s-growth-slows-as-midd-vJhkvLTzTZikvtU7uKNVzQ",
-        "description": "Singapore convened a crisis committee and Vietnam reported slowing GDP as surging oil prices strain economies across Asia and Africa.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T12:54:10Z",
-        "sourceCount": "44 sources"
-      },
-      {
         "title": "Iran says it 'never refused' Pakistan-hosted talks with US",
         "url": "https://www.perplexity.ai/page/iran-says-it-never-refused-pak-uTZ_xr7ZReaDmv4n8Jn_YA",
         "description": "Iran's foreign minister pushed back on reports that Tehran rejected mediation, even as Pakistan denied its diplomatic initiative had stalled.",
@@ -1427,13 +1535,13 @@
         "sourceCount": "72 sources"
       },
       {
-        "title": "Developing nations impose austerity as oil shock deepens",
-        "url": "https://www.perplexity.ai/page/developing-nations-impose-aust-Zx5ad2LLQWyUsBfx.O56Wg",
-        "description": "Bangladesh cut office hours and government spending while Senegal banned official travel as surging crude prices strain public finances.",
+        "title": "Artemis II crew passes halfway point on voyage to the moon",
+        "url": "https://www.perplexity.ai/page/artemis-ii-crew-passes-halfway-PBOmj59HReeR4ZnUZFj3uw",
+        "description": "The four astronauts are now closer to the moon than to Earth, with a lunar flyby set for Monday.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T11:23:40Z",
-        "sourceCount": "44 sources"
+        "pubDate": "2026-04-04T11:23:19Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "UAE rejects Zarif's peace proposal, demands Iran compensate Gulf states",
@@ -1443,15 +1551,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T12:13:16Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "Artemis II crew passes halfway point on voyage to the moon",
-        "url": "https://www.perplexity.ai/page/artemis-ii-crew-passes-halfway-PBOmj59HReeR4ZnUZFj3uw",
-        "description": "The four astronauts are now closer to the moon than to Earth, with a lunar flyby set for Monday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T11:23:19Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Turkey confirms second ship crosses Strait of Hormuz",
@@ -1634,22 +1733,13 @@
         "sourceCount": "36 sources"
       },
       {
-        "title": "Trump's false Iran talks claim triggers $3T market swing",
-        "url": "https://www.perplexity.ai/page/trump-s-false-iran-talks-claim-FWDOJaLUSUyllPfQLtnLCg",
-        "description": "A Truth Social post claiming productive U.S.-Iran conversations was denied by Tehran within an hour, whipsawing stocks and deepening investor anxiety.",
+        "title": "NATO chief Rutte to meet Trump amid US exit threats",
+        "url": "https://www.perplexity.ai/page/nato-chief-rutte-to-meet-trump-TyiuCP8ETpm1FKUQxc1v4w",
+        "description": "The meeting, set for April 8 in Washington, follows Trump's threat to withdraw from the alliance over European allies' refusal to back the Iran campaign.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T10:03:38Z",
+        "pubDate": "2026-04-04T10:03:15Z",
         "sourceCount": "45 sources"
-      },
-      {
-        "title": "Five EU finance ministers demand windfall tax on energy firms",
-        "url": "https://www.perplexity.ai/page/five-eu-finance-ministers-dema-gdXGsZy.TUadRkYrPoS07g",
-        "description": "Germany, Italy, Spain, Portugal, and Austria urged the European Commission to tax energy companies' excess profits from the Iran war price surge.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T08:33:56Z",
-        "sourceCount": "37 sources"
       },
       {
         "title": "Iran's Khamenei has 'no role in leadership' due to severe injuries, report says",
@@ -1661,15 +1751,6 @@
         "sourceCount": "86 sources"
       },
       {
-        "title": "NATO chief Rutte to meet Trump amid US exit threats",
-        "url": "https://www.perplexity.ai/page/nato-chief-rutte-to-meet-trump-TyiuCP8ETpm1FKUQxc1v4w",
-        "description": "The meeting, set for April 8 in Washington, follows Trump's threat to withdraw from the alliance over European allies' refusal to back the Iran campaign.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T10:03:15Z",
-        "sourceCount": "45 sources"
-      },
-      {
         "title": "North Korea razes villages near key missile launch site",
         "url": "https://www.perplexity.ai/page/north-korea-razes-villages-nea-m0bzg9g0QFuWIKopow0Twg",
         "description": "Satellite imagery shows hundreds of buildings demolished near the Sohae station, pointing to an expansion of the facility amid an accelerating weapons buildup.",
@@ -1677,15 +1758,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T01:53:36Z",
         "sourceCount": "35 sources"
-      },
-      {
-        "title": "Debris from intercepted drones hits buildings across Dubai",
-        "url": "https://www.perplexity.ai/page/debris-from-intercepted-drones-iF0NDeCFRd2p0YO9B3LQ7w",
-        "description": "Fallen debris struck Oracle's building in Dubai Internet City and a Dubai Marina tower Saturday, with no injuries reported amid ongoing Iranian attacks on the UAE.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T04:33:00Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "US pulled 1,500 sailors from Bahrain naval base after Iranian strikes",
@@ -2631,78 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-30T23:49:06Z",
         "sourceCount": "52 sources"
-      },
-      {
-        "title": "US struck Isfahan ammo depot with bunker busters",
-        "url": "https://www.perplexity.ai/page/us-struck-isfahan-ammo-depot-w-HDHnZ2qkQeCpbs4Fj7G2QQ",
-        "description": "Trump shared footage of the massive secondary explosions on Truth Social as the month-old U.S.-Israeli campaign surpasses 15,000 targets struck.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T02:55:43Z",
-        "sourceCount": "59 sources"
-      },
-      {
-        "title": "FBI labels Temple Isreal attack Hezbollah-inspired terrorism",
-        "url": "https://www.perplexity.ai/page/fbi-labels-temple-isreal-attac-hCIbqOQrS3qKi21OE0bD3g",
-        "description": "The bureau said Ayman Ghazali planned the March 12 ramming and shooting at Temple Israel to \"kill as many\" people as possible.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T22:08:45Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Iran says ambassador will stay in Beirut despite Lebanon's expulsion order",
-        "url": "https://www.perplexity.ai/page/iran-says-ambassador-will-stay-nU3jlA86QKuSbZPtiAD4Bg",
-        "description": "Tehran confirmed Monday its envoy remains in Lebanon past the March 29 departure deadline, deepening a diplomatic standoff backed by Hezbollah.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T21:34:00Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "Ukraine says Russia recruited 27,000 from 135 countries",
-        "url": "https://www.perplexity.ai/page/ukraine-says-russia-recruited-QhTT7QCmTEidkahfKPP_dA",
-        "description": "Ukrainian intelligence released data identifying 27,407 foreign nationals recruited into Russia's armed forces from 135 countries.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T19:34:14Z",
-        "sourceCount": "49 sources"
-      },
-      {
-        "title": "Manhattan prosecutors probe insider trading on prediction markets",
-        "url": "https://www.perplexity.ai/page/manhattan-prosecutors-probe-in-1SvDSCXxTiuocCKHesc00w",
-        "description": "The SDNY recently met with Polymarket to discuss how fraud and insider trading laws apply to suspicious bets on the fast-growing platforms.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T19:27:23Z",
-        "sourceCount": "56 sources"
-      },
-      {
-        "title": "Israel Knesset passes death penalty law for Palestinians",
-        "url": "https://www.perplexity.ai/page/israel-knesset-passes-death-pe-WxOznw.DQIahaK4l989Okw",
-        "description": "Military courts must now impose a mandatory death sentence for terrorism-related killings, with executions by hanging within 90 days of sentencing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T19:21:09Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "NYT identifies untested U.S. missile in deadly Iran civilian strike",
-        "url": "https://www.perplexity.ai/page/nyt-identifies-untested-u-s-mi-oIyQV9LKS2auY_4dP_pIYw",
-        "description": "A New York Times investigation found the Pentagon used a never-before-deployed Precision Strike Missile in a Feb. 28 strike that killed at least 21 people.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T19:08:31Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Trump floats asking Arab states to help pay for Iran war",
-        "url": "https://www.perplexity.ai/page/trump-floats-asking-arab-state-Jazp9QgsR2KmeYEvnYv7Wg",
-        "description": "The White House said Monday the president is interested in having Gulf allies share the financial burden of the conflict, now in its fifth week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T18:10:45Z",
-        "sourceCount": "101 sources"
       }
     ],
     "tech": [],
