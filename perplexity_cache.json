@@ -1,6 +1,51 @@
 {
   "stories": [
     {
+      "title": "US-Israeli strikes expand to Iranian bridges, universities and hospitals",
+      "url": "https://www.perplexity.ai/page/us-israeli-strikes-expand-to-i-ZC2zsZ30QGuoLOb8Fk7FAw",
+      "description": "White House aides argued that civilian infrastructure qualifies as legitimate military targets, as over 100 legal scholars warned the campaign may constitute war crimes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T14:44:44Z",
+      "sourceCount": "56 sources"
+    },
+    {
+      "title": "Iraqi oil tanker transits Hormuz after Iran exemption",
+      "url": "https://www.perplexity.ai/page/iraqi-oil-tanker-transits-horm-DU39MDg5RlW1qrBZRe.iUA",
+      "description": "A tanker carrying about 1 million barrels of Basrah crude passed through the strait, the first Iraqi cargo to do so since the war began.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T14:43:20Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Congo agrees to accept US third-country deportees",
+      "url": "https://www.perplexity.ai/page/congo-agrees-to-accept-us-thir-MqhWX1zKQgKFLn_IpDPpRQ",
+      "description": "The US-funded arrangement includes facilities near Kinshasa, though the number of deportees Congo will receive was not disclosed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T14:43:09Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "Iranian missiles hit Negev chemical complex for third time",
+      "url": "https://www.perplexity.ai/page/iranian-missiles-hit-negev-che-BawXJLykTBih2Uvfcbpq2Q",
+      "description": "Iran fired seven waves of missiles at Israel on Saturday, striking the Neot Hovav industrial zone and scattering cluster munitions across central Israel.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T14:30:34Z",
+      "sourceCount": "36 sources"
+    },
+    {
+      "title": "Israeli strikes kill 54 in Lebanon in 24 hours as Tyre evacuation ordered",
+      "url": "https://www.perplexity.ai/page/israeli-strikes-kill-54-in-leb-Lsn.5qhcSAyRqGatvLbcOQ",
+      "description": "Lebanon's death toll since March 2 has reached 1,422 as Israel intensifies airstrikes across the south and orders Tyre residents to flee.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T14:28:54Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "Nepal shifts to two-day weekend as energy crisis grips Asia",
       "url": "https://www.perplexity.ai/page/nepal-shifts-to-two-day-weeken-AY_cO9cXT6i6AbF.Hk7XzQ",
       "description": "Countries across Asia are imposing austerity measures — from shortened workdays to billboard blackouts — as the Middle East war disrupts global fuel supplies.",
@@ -46,15 +91,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Israeli airstrikes reach Beirut hospital area as Lebanon offensive escalates",
-      "url": "https://www.perplexity.ai/page/israeli-airstrikes-reach-beiru-D9rHbncMScmVUM_zM1oRwg",
-      "description": "Sunday strikes hit a residential building near Rafik Hariri University Hospital in a densely populated Beirut neighborhood, according to Lebanese media.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T13:18:08Z",
-      "sourceCount": "42 sources"
-    },
-    {
       "title": "J.P. Morgan warns oil stockpiles could hit crisis levels by May",
       "url": "https://www.perplexity.ai/page/j-p-morgan-warns-oil-stockpile-f1DAcgw_ROyziHTIqUoAlQ",
       "description": "OECD crude inventories face a projected drawdown of 166 million barrels in April as the Strait of Hormuz remains effectively closed.",
@@ -91,13 +127,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Trump vows to hit Iran's power plants, bridges Tuesday",
-      "url": "https://www.perplexity.ai/page/trump-vows-to-hit-iran-s-power-wyyRYh4rTPGS3x6S3ZFf0Q",
-      "description": "The president escalated his ultimatum Sunday, demanding Iran reopen the Strait of Hormuz in a profanity-laced Truth Social post.",
+      "title": "Trump says Iranian military leaders killed in Tehran strike",
+      "url": "https://www.perplexity.ai/page/trump-says-iranian-military-le-NngocS_kTgmOU4Qhlu9iTg",
+      "description": "The president posted a video on Truth Social claiming a \"massive strike\" killed senior commanders, but offered no details on timing or scope.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-05T12:42:34Z",
-      "sourceCount": "94 sources"
+      "pubDate": "2026-04-05T12:40:33Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Durov says 50 million Iranians defy blackout via VPNs",
@@ -116,15 +152,6 @@
       "topic": "top",
       "pubDate": "2026-04-05T12:14:03Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Trump says Iranian military leaders killed in Tehran strike",
-      "url": "https://www.perplexity.ai/page/trump-says-iranian-military-le-NngocS_kTgmOU4Qhlu9iTg",
-      "description": "The president posted a video on Truth Social claiming a \"massive strike\" killed senior commanders, but offered no details on timing or scope.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T12:40:33Z",
-      "sourceCount": "40 sources"
     },
     {
       "title": "Iran detains dissidents' families, seizes property to silence exiled opposition",
@@ -469,22 +496,13 @@
       "sourceCount": "67 sources"
     },
     {
-      "title": "Iran authorizes humanitarian ships through Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/iran-authorizes-humanitarian-s-YLVahVyZTDmQQK.qxQv2jw",
-      "description": "The directive permits vessels carrying essential goods and livestock feed to reach Iranian ports, over five weeks into an effective blockade of the critical waterway.",
+      "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
+      "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
+      "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T17:47:56Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
-      "url": "https://www.perplexity.ai/page/iran-rapidly-repairing-bombed-vT.D9TeUS3i8KqZSNX01Dg",
-      "description": "Intelligence assessments show Iranian forces restoring struck bunkers within hours, even as Trump projects the war will end in weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T17:58:47Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-04-04T16:41:20Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "Witkoff and Kushner plan first visit to Kyiv after Easter",
@@ -505,22 +523,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
-      "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
-      "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
+      "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
+      "url": "https://www.perplexity.ai/page/iran-rapidly-repairing-bombed-vT.D9TeUS3i8KqZSNX01Dg",
+      "description": "Intelligence assessments show Iranian forces restoring struck bunkers within hours, even as Trump projects the war will end in weeks.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T16:41:20Z",
-      "sourceCount": "44 sources"
-    },
-    {
-      "title": "Judge blocks Trump push for race data from colleges in 17 states",
-      "url": "https://www.perplexity.ai/page/judge-blocks-trump-push-for-ra-SC99NipXRd2nndgw4AysNQ",
-      "description": "A federal judge issued a preliminary injunction barring the administration from compelling public universities to submit seven years of admissions data.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:34:08Z",
-      "sourceCount": "48 sources"
+      "pubDate": "2026-04-04T17:58:47Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Erdogan tells NATO chief Iran war has caused 'geostrategic impasse'",
@@ -539,6 +548,15 @@
       "topic": "top",
       "pubDate": "2026-04-04T16:18:44Z",
       "sourceCount": "39 sources"
+    },
+    {
+      "title": "Judge blocks Trump push for race data from colleges in 17 states",
+      "url": "https://www.perplexity.ai/page/judge-blocks-trump-push-for-ra-SC99NipXRd2nndgw4AysNQ",
+      "description": "A federal judge issued a preliminary injunction barring the administration from compelling public universities to submit seven years of admissions data.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T16:34:08Z",
+      "sourceCount": "48 sources"
     },
     {
       "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
@@ -1331,29 +1349,56 @@
       "topic": "top",
       "pubDate": "2026-04-01T00:13:12Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "DHS pauses warehouse purchases for immigrant detention",
-      "url": "https://www.perplexity.ai/page/dhs-pauses-warehouse-purchases-itBIpMWjTReQq165tlJ_Dg",
-      "description": "New Secretary Mullin is reviewing the $38.3 billion detention expansion program launched by his predecessor, Kristi Noem.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T02:58:18Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Rubio directs US embassies to use X and military psyops against propaganda",
-      "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
-      "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T22:23:53Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-04-05T14:03:55Z",
+  "cached_at": "2026-04-05T14:52:21Z",
   "topics": {
     "top": [
+      {
+        "title": "US-Israeli strikes expand to Iranian bridges, universities and hospitals",
+        "url": "https://www.perplexity.ai/page/us-israeli-strikes-expand-to-i-ZC2zsZ30QGuoLOb8Fk7FAw",
+        "description": "White House aides argued that civilian infrastructure qualifies as legitimate military targets, as over 100 legal scholars warned the campaign may constitute war crimes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T14:44:44Z",
+        "sourceCount": "56 sources"
+      },
+      {
+        "title": "Iraqi oil tanker transits Hormuz after Iran exemption",
+        "url": "https://www.perplexity.ai/page/iraqi-oil-tanker-transits-horm-DU39MDg5RlW1qrBZRe.iUA",
+        "description": "A tanker carrying about 1 million barrels of Basrah crude passed through the strait, the first Iraqi cargo to do so since the war began.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T14:43:20Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Congo agrees to accept US third-country deportees",
+        "url": "https://www.perplexity.ai/page/congo-agrees-to-accept-us-thir-MqhWX1zKQgKFLn_IpDPpRQ",
+        "description": "The US-funded arrangement includes facilities near Kinshasa, though the number of deportees Congo will receive was not disclosed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T14:43:09Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "Iranian missiles hit Negev chemical complex for third time",
+        "url": "https://www.perplexity.ai/page/iranian-missiles-hit-negev-che-BawXJLykTBih2Uvfcbpq2Q",
+        "description": "Iran fired seven waves of missiles at Israel on Saturday, striking the Neot Hovav industrial zone and scattering cluster munitions across central Israel.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T14:30:34Z",
+        "sourceCount": "36 sources"
+      },
+      {
+        "title": "Israeli strikes kill 54 in Lebanon in 24 hours as Tyre evacuation ordered",
+        "url": "https://www.perplexity.ai/page/israeli-strikes-kill-54-in-leb-Lsn.5qhcSAyRqGatvLbcOQ",
+        "description": "Lebanon's death toll since March 2 has reached 1,422 as Israel intensifies airstrikes across the south and orders Tyre residents to flee.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T14:28:54Z",
+        "sourceCount": "39 sources"
+      },
       {
         "title": "Nepal shifts to two-day weekend as energy crisis grips Asia",
         "url": "https://www.perplexity.ai/page/nepal-shifts-to-two-day-weeken-AY_cO9cXT6i6AbF.Hk7XzQ",
@@ -1400,15 +1445,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Israeli airstrikes reach Beirut hospital area as Lebanon offensive escalates",
-        "url": "https://www.perplexity.ai/page/israeli-airstrikes-reach-beiru-D9rHbncMScmVUM_zM1oRwg",
-        "description": "Sunday strikes hit a residential building near Rafik Hariri University Hospital in a densely populated Beirut neighborhood, according to Lebanese media.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T13:18:08Z",
-        "sourceCount": "42 sources"
-      },
-      {
         "title": "J.P. Morgan warns oil stockpiles could hit crisis levels by May",
         "url": "https://www.perplexity.ai/page/j-p-morgan-warns-oil-stockpile-f1DAcgw_ROyziHTIqUoAlQ",
         "description": "OECD crude inventories face a projected drawdown of 166 million barrels in April as the Strait of Hormuz remains effectively closed.",
@@ -1445,13 +1481,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Trump vows to hit Iran's power plants, bridges Tuesday",
-        "url": "https://www.perplexity.ai/page/trump-vows-to-hit-iran-s-power-wyyRYh4rTPGS3x6S3ZFf0Q",
-        "description": "The president escalated his ultimatum Sunday, demanding Iran reopen the Strait of Hormuz in a profanity-laced Truth Social post.",
+        "title": "Trump says Iranian military leaders killed in Tehran strike",
+        "url": "https://www.perplexity.ai/page/trump-says-iranian-military-le-NngocS_kTgmOU4Qhlu9iTg",
+        "description": "The president posted a video on Truth Social claiming a \"massive strike\" killed senior commanders, but offered no details on timing or scope.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-05T12:42:34Z",
-        "sourceCount": "94 sources"
+        "pubDate": "2026-04-05T12:40:33Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Durov says 50 million Iranians defy blackout via VPNs",
@@ -1470,15 +1506,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T12:14:03Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Trump says Iranian military leaders killed in Tehran strike",
-        "url": "https://www.perplexity.ai/page/trump-says-iranian-military-le-NngocS_kTgmOU4Qhlu9iTg",
-        "description": "The president posted a video on Truth Social claiming a \"massive strike\" killed senior commanders, but offered no details on timing or scope.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T12:40:33Z",
-        "sourceCount": "40 sources"
       },
       {
         "title": "Iran detains dissidents' families, seizes property to silence exiled opposition",
@@ -1823,22 +1850,13 @@
         "sourceCount": "67 sources"
       },
       {
-        "title": "Iran authorizes humanitarian ships through Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/iran-authorizes-humanitarian-s-YLVahVyZTDmQQK.qxQv2jw",
-        "description": "The directive permits vessels carrying essential goods and livestock feed to reach Iranian ports, over five weeks into an effective blockade of the critical waterway.",
+        "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
+        "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
+        "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T17:47:56Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
-        "url": "https://www.perplexity.ai/page/iran-rapidly-repairing-bombed-vT.D9TeUS3i8KqZSNX01Dg",
-        "description": "Intelligence assessments show Iranian forces restoring struck bunkers within hours, even as Trump projects the war will end in weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T17:58:47Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-04-04T16:41:20Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "Witkoff and Kushner plan first visit to Kyiv after Easter",
@@ -1859,22 +1877,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
-        "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
-        "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
+        "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
+        "url": "https://www.perplexity.ai/page/iran-rapidly-repairing-bombed-vT.D9TeUS3i8KqZSNX01Dg",
+        "description": "Intelligence assessments show Iranian forces restoring struck bunkers within hours, even as Trump projects the war will end in weeks.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T16:41:20Z",
-        "sourceCount": "44 sources"
-      },
-      {
-        "title": "Judge blocks Trump push for race data from colleges in 17 states",
-        "url": "https://www.perplexity.ai/page/judge-blocks-trump-push-for-ra-SC99NipXRd2nndgw4AysNQ",
-        "description": "A federal judge issued a preliminary injunction barring the administration from compelling public universities to submit seven years of admissions data.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:34:08Z",
-        "sourceCount": "48 sources"
+        "pubDate": "2026-04-04T17:58:47Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Erdogan tells NATO chief Iran war has caused 'geostrategic impasse'",
@@ -1893,6 +1902,15 @@
         "topic": "top",
         "pubDate": "2026-04-04T16:18:44Z",
         "sourceCount": "39 sources"
+      },
+      {
+        "title": "Judge blocks Trump push for race data from colleges in 17 states",
+        "url": "https://www.perplexity.ai/page/judge-blocks-trump-push-for-ra-SC99NipXRd2nndgw4AysNQ",
+        "description": "A federal judge issued a preliminary injunction barring the administration from compelling public universities to submit seven years of admissions data.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T16:34:08Z",
+        "sourceCount": "48 sources"
       },
       {
         "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
@@ -2684,24 +2702,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-01T00:13:12Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "DHS pauses warehouse purchases for immigrant detention",
-        "url": "https://www.perplexity.ai/page/dhs-pauses-warehouse-purchases-itBIpMWjTReQq165tlJ_Dg",
-        "description": "New Secretary Mullin is reviewing the $38.3 billion detention expansion program launched by his predecessor, Kristi Noem.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T02:58:18Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Rubio directs US embassies to use X and military psyops against propaganda",
-        "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
-        "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T22:23:53Z",
         "sourceCount": "30 sources"
       }
     ],
