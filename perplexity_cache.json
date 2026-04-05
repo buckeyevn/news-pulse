@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran hangs two more protesters as execution wave accelerates",
+      "url": "https://www.perplexity.ai/page/iran-hangs-two-more-protesters-iKitxPc7Q96NXycgPcCdxA",
+      "description": "The men were convicted of storming a military facility during January's unrest. Rights groups warn more executions are imminent.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T09:34:31Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "Saudi, Egypt PMIs contract sharply as war chokes demand",
       "url": "https://www.perplexity.ai/page/saudi-egypt-pmis-contract-shar-fPsa9D1CSsiCfLw7jtkK0A",
       "description": "Saudi Arabia's non-oil PMI plunged to its lowest since 2020, while Egypt's hit a near two-year low amid the Middle East conflict.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-31T16:21:25Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "NYU closes Abu Dhabi campus after Iran threatens US universities",
-      "url": "https://www.perplexity.ai/page/nyu-closes-abu-dhabi-campus-af-Brj2gIJ8QwaQFKHk0VGmuQ",
-      "description": "The IRGC declared American university campuses across the Gulf \"legitimate targets,\" setting a Monday morning deadline for Washington to condemn strikes on Iranian schools.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T00:41:39Z",
-      "sourceCount": "43 sources"
     }
   ],
-  "cached_at": "2026-04-05T08:58:38Z",
+  "cached_at": "2026-04-05T09:51:31Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran hangs two more protesters as execution wave accelerates",
+        "url": "https://www.perplexity.ai/page/iran-hangs-two-more-protesters-iKitxPc7Q96NXycgPcCdxA",
+        "description": "The men were convicted of storming a military facility during January's unrest. Rights groups warn more executions are imminent.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T09:34:31Z",
+        "sourceCount": "37 sources"
+      },
       {
         "title": "Saudi, Egypt PMIs contract sharply as war chokes demand",
         "url": "https://www.perplexity.ai/page/saudi-egypt-pmis-contract-shar-fPsa9D1CSsiCfLw7jtkK0A",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T16:21:25Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "NYU closes Abu Dhabi campus after Iran threatens US universities",
-        "url": "https://www.perplexity.ai/page/nyu-closes-abu-dhabi-campus-af-Brj2gIJ8QwaQFKHk0VGmuQ",
-        "description": "The IRGC declared American university campuses across the Gulf \"legitimate targets,\" setting a Monday morning deadline for Washington to condemn strikes on Iranian schools.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T00:41:39Z",
-        "sourceCount": "43 sources"
       }
     ],
     "tech": [],
