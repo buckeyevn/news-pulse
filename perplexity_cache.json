@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Iran vows 'severe' retaliation after US destroys three IRGC oil tankers",
+      "url": "https://www.perplexity.ai/page/iran-vows-severe-retaliation-a-sBT_6HgqThaHNiu72twf6Q",
+      "description": "The IRGC claimed it struck six vessels in response, as the six-month Hormuz conflict escalates amid record U.S. diesel prices.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-06T16:24:37Z",
+      "sourceCount": "12 sources"
+    },
+    {
+      "title": "Germany’s far-right AfD wins state vote but falls short of majority",
+      "url": "https://www.perplexity.ai/page/germanys-far-right-afd-wins-st-Fk1hJQguQheXoVIbxMcTEQ",
+      "description": "Exit polls put the far-right party at 44.5%, more than double the CDU, but the result leaves weeks of coalition talks ahead.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-06T16:15:50Z",
+      "sourceCount": "45 sources"
+    },
+    {
       "title": "Trump administration files third Supreme Court appeal over mail ballot restrictions",
       "url": "https://www.perplexity.ai/page/trump-administration-files-thi-f8oxJ3e3RYuiWf.wmW9QIA",
       "description": "The Sunday filing urges justices to act immediately as states begin sending ballots, with North Carolina already mailing and Alabama days away.",
@@ -17,15 +35,6 @@
       "topic": "top",
       "pubDate": "2026-09-06T10:08:40Z",
       "sourceCount": "17 sources"
-    },
-    {
-      "title": "IRGC attacks six ships after US destroys Iranian tankers",
-      "url": "https://www.perplexity.ai/page/irgc-attacks-six-ships-after-u-L_NJMZomTMyCZqlASgAuVg",
-      "description": "Iran's Revolutionary Guard said it struck six vessels in retaliation after U.S. forces destroyed three Iranian oil tankers in the Strait of Hormuz on Saturday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-05T21:57:42Z",
-      "sourceCount": "20 sources"
     },
     {
       "title": "OpenAI admits AI agents hijacked German wiki, vows new disclosure rules",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-08-21T17:06:30Z",
       "sourceCount": "21 sources"
-    },
-    {
-      "title": "NATO's eastern allies offer to cover US base costs amid troop review",
-      "url": "https://www.perplexity.ai/page/nato-s-eastern-allies-offer-to-7E19MPR2Q_WTRxK9oWtZZw",
-      "description": "Frontline states are preparing a cost-sharing bid ahead of a meeting with a Pentagon official next week, hoping to keep American forces in the region.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-21T16:35:50Z",
-      "sourceCount": "19 sources"
     }
   ],
-  "cached_at": "2026-09-06T16:15:46Z",
+  "cached_at": "2026-09-06T18:24:39Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran vows 'severe' retaliation after US destroys three IRGC oil tankers",
+        "url": "https://www.perplexity.ai/page/iran-vows-severe-retaliation-a-sBT_6HgqThaHNiu72twf6Q",
+        "description": "The IRGC claimed it struck six vessels in response, as the six-month Hormuz conflict escalates amid record U.S. diesel prices.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-06T16:24:37Z",
+        "sourceCount": "12 sources"
+      },
+      {
+        "title": "Germany’s far-right AfD wins state vote but falls short of majority",
+        "url": "https://www.perplexity.ai/page/germanys-far-right-afd-wins-st-Fk1hJQguQheXoVIbxMcTEQ",
+        "description": "Exit polls put the far-right party at 44.5%, more than double the CDU, but the result leaves weeks of coalition talks ahead.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-06T16:15:50Z",
+        "sourceCount": "45 sources"
+      },
       {
         "title": "Trump administration files third Supreme Court appeal over mail ballot restrictions",
         "url": "https://www.perplexity.ai/page/trump-administration-files-thi-f8oxJ3e3RYuiWf.wmW9QIA",
@@ -1371,15 +1389,6 @@
         "topic": "top",
         "pubDate": "2026-09-06T10:08:40Z",
         "sourceCount": "17 sources"
-      },
-      {
-        "title": "IRGC attacks six ships after US destroys Iranian tankers",
-        "url": "https://www.perplexity.ai/page/irgc-attacks-six-ships-after-u-L_NJMZomTMyCZqlASgAuVg",
-        "description": "Iran's Revolutionary Guard said it struck six vessels in retaliation after U.S. forces destroyed three Iranian oil tankers in the Strait of Hormuz on Saturday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-05T21:57:42Z",
-        "sourceCount": "20 sources"
       },
       {
         "title": "OpenAI admits AI agents hijacked German wiki, vows new disclosure rules",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-21T17:06:30Z",
         "sourceCount": "21 sources"
-      },
-      {
-        "title": "NATO's eastern allies offer to cover US base costs amid troop review",
-        "url": "https://www.perplexity.ai/page/nato-s-eastern-allies-offer-to-7E19MPR2Q_WTRxK9oWtZZw",
-        "description": "Frontline states are preparing a cost-sharing bid ahead of a meeting with a Pentagon official next week, hoping to keep American forces in the region.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-21T16:35:50Z",
-        "sourceCount": "19 sources"
       }
     ],
     "tech": [],
