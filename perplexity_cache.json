@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Trump administration files third Supreme Court appeal over mail ballot restrictions",
+      "url": "https://www.perplexity.ai/page/trump-administration-files-thi-f8oxJ3e3RYuiWf.wmW9QIA",
+      "description": "The Sunday filing urges justices to act immediately as states begin sending ballots, with North Carolina already mailing and Alabama days away.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-06T15:23:01Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "Iran funnels billions through US banks despite sanctions, WSJ finds",
+      "url": "https://www.perplexity.ai/page/iran-funnels-billions-through-pI7xEncjS1ORAxuCR0Ga5Q",
+      "description": "A Wall Street Journal investigation reveals Tehran exploits correspondent banking and shell companies to move funds through American clearing accounts.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-06T10:08:40Z",
+      "sourceCount": "17 sources"
+    },
+    {
       "title": "IRGC attacks six ships after US destroys Iranian tankers",
       "url": "https://www.perplexity.ai/page/irgc-attacks-six-ships-after-u-L_NJMZomTMyCZqlASgAuVg",
       "description": "Iran's Revolutionary Guard said it struck six vessels in retaliation after U.S. forces destroyed three Iranian oil tankers in the Strait of Hormuz on Saturday.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-08-21T16:35:50Z",
       "sourceCount": "19 sources"
-    },
-    {
-      "title": "Trump moves to block BBC subpoenas of family in $10B suit",
-      "url": "https://www.perplexity.ai/page/trump-moves-to-block-bbc-subpo-CPl.BIDTRhGqUfh7zjnT5Q",
-      "description": "Lawyers argue the BBC's bid to compel testimony from Ivanka Trump, Donald Trump Jr. and Jared Kushner is a \"politically charged\" fishing expedition.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-22T20:34:00Z",
-      "sourceCount": "5 sources"
-    },
-    {
-      "title": "Vance says US moving up to 15M barrels daily through Hormuz despite Iran blockade",
-      "url": "https://www.perplexity.ai/page/vance-says-us-moving-up-to-15m-O6j1PFNIS0KUXSK8WImzkQ",
-      "description": "The vice president said a military-protected shipping corridor is preventing the energy crisis Iran is trying to create.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-21T10:29:28Z",
-      "sourceCount": "19 sources"
     }
   ],
-  "cached_at": "2026-09-06T13:06:58Z",
+  "cached_at": "2026-09-06T16:15:46Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump administration files third Supreme Court appeal over mail ballot restrictions",
+        "url": "https://www.perplexity.ai/page/trump-administration-files-thi-f8oxJ3e3RYuiWf.wmW9QIA",
+        "description": "The Sunday filing urges justices to act immediately as states begin sending ballots, with North Carolina already mailing and Alabama days away.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-06T15:23:01Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "Iran funnels billions through US banks despite sanctions, WSJ finds",
+        "url": "https://www.perplexity.ai/page/iran-funnels-billions-through-pI7xEncjS1ORAxuCR0Ga5Q",
+        "description": "A Wall Street Journal investigation reveals Tehran exploits correspondent banking and shell companies to move funds through American clearing accounts.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-06T10:08:40Z",
+        "sourceCount": "17 sources"
+      },
       {
         "title": "IRGC attacks six ships after US destroys Iranian tankers",
         "url": "https://www.perplexity.ai/page/irgc-attacks-six-ships-after-u-L_NJMZomTMyCZqlASgAuVg",
@@ -2684,24 +2702,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-08-21T16:35:50Z",
-        "sourceCount": "19 sources"
-      },
-      {
-        "title": "Trump moves to block BBC subpoenas of family in $10B suit",
-        "url": "https://www.perplexity.ai/page/trump-moves-to-block-bbc-subpo-CPl.BIDTRhGqUfh7zjnT5Q",
-        "description": "Lawyers argue the BBC's bid to compel testimony from Ivanka Trump, Donald Trump Jr. and Jared Kushner is a \"politically charged\" fishing expedition.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-22T20:34:00Z",
-        "sourceCount": "5 sources"
-      },
-      {
-        "title": "Vance says US moving up to 15M barrels daily through Hormuz despite Iran blockade",
-        "url": "https://www.perplexity.ai/page/vance-says-us-moving-up-to-15m-O6j1PFNIS0KUXSK8WImzkQ",
-        "description": "The vice president said a military-protected shipping corridor is preventing the energy crisis Iran is trying to create.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-21T10:29:28Z",
         "sourceCount": "19 sources"
       }
     ],
