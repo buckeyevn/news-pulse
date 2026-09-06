@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Kushner and Witkoff meet Zelenskyy in first Kyiv visit",
+      "url": "https://www.perplexity.ai/page/kushner-and-witkoff-meet-zelen-D1SXD7XLSBmFz7.e6_IgkQ",
+      "description": "The U.S. peace envoys arrived by train Sunday after talks with Putin in Moscow yielded no apparent breakthrough a day earlier.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-06T17:44:30Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Iran vows 'severe' retaliation after US destroys three IRGC oil tankers",
       "url": "https://www.perplexity.ai/page/iran-vows-severe-retaliation-a-sBT_6HgqThaHNiu72twf6Q",
       "description": "The IRGC claimed it struck six vessels in response, as the six-month Hormuz conflict escalates amid record U.S. diesel prices.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-08-22T19:43:09Z",
       "sourceCount": "4 sources"
-    },
-    {
-      "title": "Cuba says US sanctions undercut the economic reforms Washington long demanded",
-      "url": "https://www.perplexity.ai/page/cuba-says-us-sanctions-undercu-F._u9qOvRlWuaPci5HWh2g",
-      "description": "Havana's UN ambassador questioned why Washington keeps escalating penalties even as Cuba opens its economy to private investment and foreign business.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-21T17:06:30Z",
-      "sourceCount": "21 sources"
     }
   ],
-  "cached_at": "2026-09-06T18:24:39Z",
+  "cached_at": "2026-09-06T20:41:46Z",
   "topics": {
     "top": [
+      {
+        "title": "Kushner and Witkoff meet Zelenskyy in first Kyiv visit",
+        "url": "https://www.perplexity.ai/page/kushner-and-witkoff-meet-zelen-D1SXD7XLSBmFz7.e6_IgkQ",
+        "description": "The U.S. peace envoys arrived by train Sunday after talks with Putin in Moscow yielded no apparent breakthrough a day earlier.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-06T17:44:30Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Iran vows 'severe' retaliation after US destroys three IRGC oil tankers",
         "url": "https://www.perplexity.ai/page/iran-vows-severe-retaliation-a-sBT_6HgqThaHNiu72twf6Q",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-22T19:43:09Z",
         "sourceCount": "4 sources"
-      },
-      {
-        "title": "Cuba says US sanctions undercut the economic reforms Washington long demanded",
-        "url": "https://www.perplexity.ai/page/cuba-says-us-sanctions-undercu-F._u9qOvRlWuaPci5HWh2g",
-        "description": "Havana's UN ambassador questioned why Washington keeps escalating penalties even as Cuba opens its economy to private investment and foreign business.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-21T17:06:30Z",
-        "sourceCount": "21 sources"
       }
     ],
     "tech": [],
