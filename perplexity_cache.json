@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Five killed as Amazon cargo plane overruns runway at Miami airport",
+      "url": "https://www.perplexity.ai/page/five-killed-as-amazon-cargo-pl-up7sd9eJQ6uJytMEabz_Zg",
+      "description": "A Boeing 767 struck multiple vehicles and caught fire after overshooting the runway, shutting down all operations at one of the nation's busiest airports.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-06T21:45:34Z",
+      "sourceCount": "17 sources"
+    },
+    {
       "title": "Kushner and Witkoff meet Zelenskyy in first Kyiv visit",
       "url": "https://www.perplexity.ai/page/kushner-and-witkoff-meet-zelen-D1SXD7XLSBmFz7.e6_IgkQ",
       "description": "The U.S. peace envoys arrived by train Sunday after talks with Putin in Moscow yielded no apparent breakthrough a day earlier.",
@@ -100,12 +109,12 @@
       "sourceCount": "33 sources"
     },
     {
-      "title": "Missouri asks Supreme Court to reinstate Trump-backed congressional map",
-      "url": "https://www.perplexity.ai/page/missouri-asks-supreme-court-to-LhhpZGxBSW2YtOwZKbS_5A",
-      "description": "Attorney General Hanaway filed an emergency appeal Friday after the state's highest court unanimously blocked the redrawn districts for the November midterms.",
+      "title": "Woman pulled alive from buried home 10 days after Nepal floods",
+      "url": "https://www.perplexity.ai/page/woman-pulled-alive-from-buried-wOPwD2AvTlSrbcUdCxqcyQ",
+      "description": "Her family had already begun preparing her funeral when rescuers found the 64-year-old in her debris-covered home in Nuwakot district.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-09-05T10:03:47Z",
+      "pubDate": "2026-09-05T12:34:59Z",
       "sourceCount": "17 sources"
     },
     {
@@ -127,6 +136,15 @@
       "sourceCount": "21 sources"
     },
     {
+      "title": "Missouri asks Supreme Court to reinstate Trump-backed congressional map",
+      "url": "https://www.perplexity.ai/page/missouri-asks-supreme-court-to-LhhpZGxBSW2YtOwZKbS_5A",
+      "description": "Attorney General Hanaway filed an emergency appeal Friday after the state's highest court unanimously blocked the redrawn districts for the November midterms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-05T10:03:47Z",
+      "sourceCount": "17 sources"
+    },
+    {
       "title": "Anthropic delays IPO launch to mid-October",
       "url": "https://www.perplexity.ai/page/anthropic-delays-ipo-launch-to-DE2qg.RSTmyJ4caQ3wMy9g",
       "description": "The AI company's prospectus is now expected in late September, pushing back what could be one of the largest IPOs ever attempted.",
@@ -134,15 +152,6 @@
       "topic": "top",
       "pubDate": "2026-09-05T10:03:35Z",
       "sourceCount": "20 sources"
-    },
-    {
-      "title": "Pentagon polygraphs 50 Joint Staff members in war leak probe",
-      "url": "https://www.perplexity.ai/page/pentagon-polygraphs-50-joint-s-Uinyn8JsRHWmjTJU.4BUGw",
-      "description": "Investigators questioned military officers and civilians about disclosing classified details on munitions shortages caused by the Iran war.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-05T01:56:27Z",
-      "sourceCount": "5 sources"
     },
     {
       "title": "Trump says DC building spree is to monument himself",
@@ -154,6 +163,15 @@
       "sourceCount": "7 sources"
     },
     {
+      "title": "Pentagon polygraphs 50 Joint Staff members in war leak probe",
+      "url": "https://www.perplexity.ai/page/pentagon-polygraphs-50-joint-s-Uinyn8JsRHWmjTJU.4BUGw",
+      "description": "Investigators questioned military officers and civilians about disclosing classified details on munitions shortages caused by the Iran war.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-05T01:56:27Z",
+      "sourceCount": "5 sources"
+    },
+    {
       "title": "ICE subpoenaed REI for all green beanie buyers in Minneapolis area",
       "url": "https://www.perplexity.ai/page/ice-subpoenaed-rei-for-all-gre-8rraoiMDR9ChMMEYAhHOgQ",
       "description": "Court filings reveal the subpoena was among 92 issued by Homeland Security agents investigating a January anti-ICE church protest.",
@@ -163,21 +181,21 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "US intel: Iran may escalate war ahead of midterms",
-      "url": "https://www.perplexity.ai/page/us-intel-iran-may-escalate-war-xYC3YufFS_WIMy8v1ELuTA",
-      "description": "Intelligence reports suggest Tehran sees the unpopular conflict and high gas prices as leverage over Republicans before November's elections.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-05T01:24:01Z",
-      "sourceCount": "18 sources"
-    },
-    {
       "title": "US measles cases hit 35-year high as infant death confirmed in Pennsylvania",
       "url": "https://www.perplexity.ai/page/us-measles-cases-hit-35-year-h-M1.Tr4R3TtiEJ5CYDAmz2Q",
       "description": "A coroner confirmed a 6-week-old Amish baby died of measles in Lancaster County as national cases surpassed 3,100, the most since 1991.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-09-05T00:00:22Z",
+      "sourceCount": "18 sources"
+    },
+    {
+      "title": "US intel: Iran may escalate war ahead of midterms",
+      "url": "https://www.perplexity.ai/page/us-intel-iran-may-escalate-war-xYC3YufFS_WIMy8v1ELuTA",
+      "description": "Intelligence reports suggest Tehran sees the unpopular conflict and high gas prices as leverage over Republicans before November's elections.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-05T01:24:01Z",
       "sourceCount": "18 sources"
     },
     {
@@ -190,15 +208,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Trump calls Iran conflict 'small potatoes,' backs Vance's rejection of 'war' label",
-      "url": "https://www.perplexity.ai/page/trump-calls-iran-conflict-smal-vAgwDOWmRjivV787wh427w",
-      "description": "The president described six months of U.S. strikes on Iran as a \"military conflict,\" not a war, as midterm elections approach.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-04T22:30:12Z",
-      "sourceCount": "10 sources"
-    },
-    {
       "title": "UN votes 164-1 to promote maps showing Africa's true size",
       "url": "https://www.perplexity.ai/page/un-votes-164-1-to-promote-maps-qY2zPG.pR4Gfk2BCyoli4g",
       "description": "The General Assembly endorsed a resolution encouraging adoption of Equal Earth and other equal-area projections over the 16th-century Mercator map.",
@@ -206,6 +215,15 @@
       "topic": "top",
       "pubDate": "2026-09-04T20:53:26Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "Trump calls Iran conflict 'small potatoes,' backs Vance's rejection of 'war' label",
+      "url": "https://www.perplexity.ai/page/trump-calls-iran-conflict-smal-vAgwDOWmRjivV787wh427w",
+      "description": "The president described six months of U.S. strikes on Iran as a \"military conflict,\" not a war, as midterm elections approach.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-04T22:30:12Z",
+      "sourceCount": "10 sources"
     },
     {
       "title": "Supreme Court lets GOP access discounted TV ad rates ahead of midterms",
@@ -1331,29 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-08-21T19:42:32Z",
       "sourceCount": "17 sources"
-    },
-    {
-      "title": "Supreme Court lets White House ballroom construction continue",
-      "url": "https://www.perplexity.ai/page/supreme-court-lets-white-house-JmUwv8NKRs._n10oZ54VBg",
-      "description": "Chief Justice Roberts froze a lower court order that would have halted the $400 million project at midnight, buying time for the justices to review the case.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-21T18:17:36Z",
-      "sourceCount": "9 sources"
-    },
-    {
-      "title": "Trump disclosure reveals 1,000 stock trades in June",
-      "url": "https://www.perplexity.ai/page/trump-disclosure-reveals-1000-5svOfmc_QTeLHPAFC0rd2Q",
-      "description": "A filing released Friday shows the president sold Meta shares and bought Berkshire Hathaway amid a broad portfolio reshuffling.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-22T19:43:09Z",
-      "sourceCount": "4 sources"
     }
   ],
-  "cached_at": "2026-09-06T20:41:46Z",
+  "cached_at": "2026-09-06T22:23:46Z",
   "topics": {
     "top": [
+      {
+        "title": "Five killed as Amazon cargo plane overruns runway at Miami airport",
+        "url": "https://www.perplexity.ai/page/five-killed-as-amazon-cargo-pl-up7sd9eJQ6uJytMEabz_Zg",
+        "description": "A Boeing 767 struck multiple vehicles and caught fire after overshooting the runway, shutting down all operations at one of the nation's busiest airports.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-06T21:45:34Z",
+        "sourceCount": "17 sources"
+      },
       {
         "title": "Kushner and Witkoff meet Zelenskyy in first Kyiv visit",
         "url": "https://www.perplexity.ai/page/kushner-and-witkoff-meet-zelen-D1SXD7XLSBmFz7.e6_IgkQ",
@@ -1454,12 +1463,12 @@
         "sourceCount": "33 sources"
       },
       {
-        "title": "Missouri asks Supreme Court to reinstate Trump-backed congressional map",
-        "url": "https://www.perplexity.ai/page/missouri-asks-supreme-court-to-LhhpZGxBSW2YtOwZKbS_5A",
-        "description": "Attorney General Hanaway filed an emergency appeal Friday after the state's highest court unanimously blocked the redrawn districts for the November midterms.",
+        "title": "Woman pulled alive from buried home 10 days after Nepal floods",
+        "url": "https://www.perplexity.ai/page/woman-pulled-alive-from-buried-wOPwD2AvTlSrbcUdCxqcyQ",
+        "description": "Her family had already begun preparing her funeral when rescuers found the 64-year-old in her debris-covered home in Nuwakot district.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-09-05T10:03:47Z",
+        "pubDate": "2026-09-05T12:34:59Z",
         "sourceCount": "17 sources"
       },
       {
@@ -1481,6 +1490,15 @@
         "sourceCount": "21 sources"
       },
       {
+        "title": "Missouri asks Supreme Court to reinstate Trump-backed congressional map",
+        "url": "https://www.perplexity.ai/page/missouri-asks-supreme-court-to-LhhpZGxBSW2YtOwZKbS_5A",
+        "description": "Attorney General Hanaway filed an emergency appeal Friday after the state's highest court unanimously blocked the redrawn districts for the November midterms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-05T10:03:47Z",
+        "sourceCount": "17 sources"
+      },
+      {
         "title": "Anthropic delays IPO launch to mid-October",
         "url": "https://www.perplexity.ai/page/anthropic-delays-ipo-launch-to-DE2qg.RSTmyJ4caQ3wMy9g",
         "description": "The AI company's prospectus is now expected in late September, pushing back what could be one of the largest IPOs ever attempted.",
@@ -1488,15 +1506,6 @@
         "topic": "top",
         "pubDate": "2026-09-05T10:03:35Z",
         "sourceCount": "20 sources"
-      },
-      {
-        "title": "Pentagon polygraphs 50 Joint Staff members in war leak probe",
-        "url": "https://www.perplexity.ai/page/pentagon-polygraphs-50-joint-s-Uinyn8JsRHWmjTJU.4BUGw",
-        "description": "Investigators questioned military officers and civilians about disclosing classified details on munitions shortages caused by the Iran war.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-05T01:56:27Z",
-        "sourceCount": "5 sources"
       },
       {
         "title": "Trump says DC building spree is to monument himself",
@@ -1508,6 +1517,15 @@
         "sourceCount": "7 sources"
       },
       {
+        "title": "Pentagon polygraphs 50 Joint Staff members in war leak probe",
+        "url": "https://www.perplexity.ai/page/pentagon-polygraphs-50-joint-s-Uinyn8JsRHWmjTJU.4BUGw",
+        "description": "Investigators questioned military officers and civilians about disclosing classified details on munitions shortages caused by the Iran war.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-05T01:56:27Z",
+        "sourceCount": "5 sources"
+      },
+      {
         "title": "ICE subpoenaed REI for all green beanie buyers in Minneapolis area",
         "url": "https://www.perplexity.ai/page/ice-subpoenaed-rei-for-all-gre-8rraoiMDR9ChMMEYAhHOgQ",
         "description": "Court filings reveal the subpoena was among 92 issued by Homeland Security agents investigating a January anti-ICE church protest.",
@@ -1517,21 +1535,21 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "US intel: Iran may escalate war ahead of midterms",
-        "url": "https://www.perplexity.ai/page/us-intel-iran-may-escalate-war-xYC3YufFS_WIMy8v1ELuTA",
-        "description": "Intelligence reports suggest Tehran sees the unpopular conflict and high gas prices as leverage over Republicans before November's elections.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-05T01:24:01Z",
-        "sourceCount": "18 sources"
-      },
-      {
         "title": "US measles cases hit 35-year high as infant death confirmed in Pennsylvania",
         "url": "https://www.perplexity.ai/page/us-measles-cases-hit-35-year-h-M1.Tr4R3TtiEJ5CYDAmz2Q",
         "description": "A coroner confirmed a 6-week-old Amish baby died of measles in Lancaster County as national cases surpassed 3,100, the most since 1991.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-09-05T00:00:22Z",
+        "sourceCount": "18 sources"
+      },
+      {
+        "title": "US intel: Iran may escalate war ahead of midterms",
+        "url": "https://www.perplexity.ai/page/us-intel-iran-may-escalate-war-xYC3YufFS_WIMy8v1ELuTA",
+        "description": "Intelligence reports suggest Tehran sees the unpopular conflict and high gas prices as leverage over Republicans before November's elections.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-05T01:24:01Z",
         "sourceCount": "18 sources"
       },
       {
@@ -1544,15 +1562,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Trump calls Iran conflict 'small potatoes,' backs Vance's rejection of 'war' label",
-        "url": "https://www.perplexity.ai/page/trump-calls-iran-conflict-smal-vAgwDOWmRjivV787wh427w",
-        "description": "The president described six months of U.S. strikes on Iran as a \"military conflict,\" not a war, as midterm elections approach.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-04T22:30:12Z",
-        "sourceCount": "10 sources"
-      },
-      {
         "title": "UN votes 164-1 to promote maps showing Africa's true size",
         "url": "https://www.perplexity.ai/page/un-votes-164-1-to-promote-maps-qY2zPG.pR4Gfk2BCyoli4g",
         "description": "The General Assembly endorsed a resolution encouraging adoption of Equal Earth and other equal-area projections over the 16th-century Mercator map.",
@@ -1560,6 +1569,15 @@
         "topic": "top",
         "pubDate": "2026-09-04T20:53:26Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Trump calls Iran conflict 'small potatoes,' backs Vance's rejection of 'war' label",
+        "url": "https://www.perplexity.ai/page/trump-calls-iran-conflict-smal-vAgwDOWmRjivV787wh427w",
+        "description": "The president described six months of U.S. strikes on Iran as a \"military conflict,\" not a war, as midterm elections approach.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-04T22:30:12Z",
+        "sourceCount": "10 sources"
       },
       {
         "title": "Supreme Court lets GOP access discounted TV ad rates ahead of midterms",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-21T19:42:32Z",
         "sourceCount": "17 sources"
-      },
-      {
-        "title": "Supreme Court lets White House ballroom construction continue",
-        "url": "https://www.perplexity.ai/page/supreme-court-lets-white-house-JmUwv8NKRs._n10oZ54VBg",
-        "description": "Chief Justice Roberts froze a lower court order that would have halted the $400 million project at midnight, buying time for the justices to review the case.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-21T18:17:36Z",
-        "sourceCount": "9 sources"
-      },
-      {
-        "title": "Trump disclosure reveals 1,000 stock trades in June",
-        "url": "https://www.perplexity.ai/page/trump-disclosure-reveals-1000-5svOfmc_QTeLHPAFC0rd2Q",
-        "description": "A filing released Friday shows the president sold Meta shares and bought Berkshire Hathaway amid a broad portfolio reshuffling.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-22T19:43:09Z",
-        "sourceCount": "4 sources"
       }
     ],
     "tech": [],
