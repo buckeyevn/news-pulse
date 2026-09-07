@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "France, Poland warn AfD landslide threatens NATO corridor",
+      "url": "https://www.perplexity.ai/page/france-poland-warn-afd-landsli-LKTz7PikS1.NlAs1ub.6PQ",
+      "description": "Polish FM Sikorski says the AfD's 44% win in Saxony-Anhalt could slow allied troop movements through a key transit state to NATO's eastern flank.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-07T12:38:03Z",
+      "sourceCount": "4 sources"
+    },
+    {
+      "title": "Iran says Hormuz shipping deal with Oman is days away",
+      "url": "https://www.perplexity.ai/page/iran-says-hormuz-shipping-deal-0jeJgbamSGOJsD.XB4F5Ig",
+      "description": "Tehran also plans to declare a new restricted zone in the Persian Gulf as traffic through the critical strait hits its lowest level in months.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-07T12:13:14Z",
+      "sourceCount": "47 sources"
+    },
+    {
+      "title": "Russia and Ukraine trade massive overnight drone strikes, killing at least 6",
+      "url": "https://www.perplexity.ai/page/russia-and-ukraine-trade-massi-RDLrSwXZSYS4r7ZabHy3_A",
+      "description": "Hundreds of drones were exchanged overnight, with Ukrainian strikes reaching as far as Perm, and Russian drones setting a Zaporizhzhia shopping center ablaze.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-07T10:10:07Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Five killed as Amazon cargo plane overruns runway at Miami airport",
       "url": "https://www.perplexity.ai/page/five-killed-as-amazon-cargo-pl-up7sd9eJQ6uJytMEabz_Zg",
       "description": "A Boeing 767 struck multiple vehicles and caught fire after overshooting the runway, shutting down all operations at one of the nation's busiest airports.",
@@ -8,24 +35,6 @@
       "topic": "top",
       "pubDate": "2026-09-06T21:45:34Z",
       "sourceCount": "17 sources"
-    },
-    {
-      "title": "Kushner and Witkoff meet Zelenskyy in first Kyiv visit",
-      "url": "https://www.perplexity.ai/page/kushner-and-witkoff-meet-zelen-D1SXD7XLSBmFz7.e6_IgkQ",
-      "description": "The U.S. peace envoys arrived by train Sunday after talks with Putin in Moscow yielded no apparent breakthrough a day earlier.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-06T17:44:30Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "Iran vows 'severe' retaliation after US destroys three IRGC oil tankers",
-      "url": "https://www.perplexity.ai/page/iran-vows-severe-retaliation-a-sBT_6HgqThaHNiu72twf6Q",
-      "description": "The IRGC claimed it struck six vessels in response, as the six-month Hormuz conflict escalates amid record U.S. diesel prices.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-06T16:24:37Z",
-      "sourceCount": "12 sources"
     },
     {
       "title": "Germany’s far-right AfD wins state vote but falls short of majority",
@@ -1234,15 +1243,6 @@
       "sourceCount": "7 sources"
     },
     {
-      "title": "AI-guided Russian drone killed 3 Ukrainians autonomously, officials say",
-      "url": "https://www.perplexity.ai/page/ai-guided-russian-drone-killed-LDmD_HXySxuNcj8.tNwkdQ",
-      "description": "Ukrainian officials say a drone with no human pilot made the targeting decision, marking the war's first confirmed fully autonomous AI weapon strike.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-24T13:03:10Z",
-      "sourceCount": "13 sources"
-    },
-    {
       "title": "EU approves $7.1 billion in defense aid for Ukraine",
       "url": "https://www.perplexity.ai/page/eu-approves-7-1-billion-in-def-KCnfeAHKS..CRzPwoDiihg",
       "description": "The funding, announced on Ukraine's Independence Day, targets air defense systems, missiles, ammunition, and radars as Russian aerial attacks intensify.",
@@ -1250,15 +1250,6 @@
       "topic": "top",
       "pubDate": "2026-08-24T10:02:47Z",
       "sourceCount": "31 sources"
-    },
-    {
-      "title": "US intel warned Trump killing Khamenei would backfire, WSJ reports",
-      "url": "https://www.perplexity.ai/page/us-intel-warned-trump-killing-54IdF5xRQpW_gPo_HwGTQg",
-      "description": "Six months into the Iran conflict, a Wall Street Journal investigation reveals intelligence officials cautioned Trump the operation could empower a more extreme regime.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-25T10:12:55Z",
-      "sourceCount": "5 sources"
     },
     {
       "title": "Iran threatens fines, detention for ships violating Hormuz transit rules",
@@ -1270,21 +1261,21 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "US intel warned Trump killing Khamenei would backfire, WSJ reports",
+      "url": "https://www.perplexity.ai/page/us-intel-warned-trump-killing-54IdF5xRQpW_gPo_HwGTQg",
+      "description": "Six months into the Iran conflict, a Wall Street Journal investigation reveals intelligence officials cautioned Trump the operation could empower a more extreme regime.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-25T10:12:55Z",
+      "sourceCount": "5 sources"
+    },
+    {
       "title": "Florida start-up making low-cost drone interceptors for the Iran war",
       "url": "https://www.perplexity.ai/page/florida-start-up-making-low-co-uq9MxOnvT.2MhmR.1qL7pw",
       "description": "Powerus is producing its Guardian interceptor locally in the Emirates to fill gaps in allied air defenses as the U.S.-Iran war drains American-made stockpiles.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-08-23T22:31:35Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Nevada sues to block Trump administration's Colorado River cuts",
-      "url": "https://www.perplexity.ai/page/nevada-sues-to-block-trump-adm-Q.dRB_HTTb.PEMLip3brzQ",
-      "description": "The lawsuit, the first legal challenge to the plan finalized Friday, alleges cuts of up to 71% to Nevada's allocation could devastate Las Vegas.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-24T23:12:11Z",
       "sourceCount": "15 sources"
     },
     {
@@ -1297,6 +1288,15 @@
       "sourceCount": "16 sources"
     },
     {
+      "title": "Nevada sues to block Trump administration's Colorado River cuts",
+      "url": "https://www.perplexity.ai/page/nevada-sues-to-block-trump-adm-Q.dRB_HTTb.PEMLip3brzQ",
+      "description": "The lawsuit, the first legal challenge to the plan finalized Friday, alleges cuts of up to 71% to Nevada's allocation could devastate Las Vegas.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-24T23:12:11Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Zelenskyy denies Ukraine role in Nord Stream blasts",
       "url": "https://www.perplexity.ai/page/zelenskyy-denies-ukraine-role-TXtAYjbjTz.BoKaVLP8kFw",
       "description": "The Ukrainian president spoke after a second Ukrainian suspect was arrested in Croatia over the 2022 pipeline sabotage.",
@@ -1304,15 +1304,6 @@
       "topic": "top",
       "pubDate": "2026-08-23T16:23:36Z",
       "sourceCount": "17 sources"
-    },
-    {
-      "title": "Trump plans to revoke 200,000 visas from asylum seekers",
-      "url": "https://www.perplexity.ai/page/trump-plans-to-revoke-200000-v-Uge6C4jPQB6OtYBJhUrrDQ",
-      "description": "The move would be the largest single visa revocation in U.S. history, targeting those who entered on tourist or business visas.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-24T21:20:04Z",
-      "sourceCount": "6 sources"
     },
     {
       "title": "Syria set to leave U.S. terrorism sponsor list after 47 years",
@@ -1324,6 +1315,15 @@
       "sourceCount": "18 sources"
     },
     {
+      "title": "Trump plans to revoke 200,000 visas from asylum seekers",
+      "url": "https://www.perplexity.ai/page/trump-plans-to-revoke-200000-v-Uge6C4jPQB6OtYBJhUrrDQ",
+      "description": "The move would be the largest single visa revocation in U.S. history, targeting those who entered on tourist or business visas.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-24T21:20:04Z",
+      "sourceCount": "6 sources"
+    },
+    {
       "title": "Iran urges Qatar to move detained pilots to hospital on land",
       "url": "https://www.perplexity.ai/page/iran-urges-qatar-to-move-detai-fstgffXQTpirxA0C8nNAfQ",
       "description": "Tehran claims the airmen are being held on water in poor condition, but Qatar denies holding any surviving pilots.",
@@ -1333,15 +1333,6 @@
       "sourceCount": "12 sources"
     },
     {
-      "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
-      "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
-      "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-24T14:31:53Z",
-      "sourceCount": "39 sources"
-    },
-    {
       "title": "FDA urges recall of alfalfa sprouts tied to E. coli outbreak in 15 states",
       "url": "https://www.perplexity.ai/page/fda-urges-recall-of-alfalfa-sp-J4LCVaXKTsSzDT4T26R_MA",
       "description": "At least 55 people have been sickened and four hospitalized in a dual E. coli and salmonella outbreak linked to a Minnesota sprout grower.",
@@ -1349,11 +1340,47 @@
       "topic": "top",
       "pubDate": "2026-08-21T19:42:32Z",
       "sourceCount": "17 sources"
+    },
+    {
+      "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
+      "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
+      "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-24T14:31:53Z",
+      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-09-07T09:49:46Z",
+  "cached_at": "2026-09-07T15:23:09Z",
   "topics": {
     "top": [
+      {
+        "title": "France, Poland warn AfD landslide threatens NATO corridor",
+        "url": "https://www.perplexity.ai/page/france-poland-warn-afd-landsli-LKTz7PikS1.NlAs1ub.6PQ",
+        "description": "Polish FM Sikorski says the AfD's 44% win in Saxony-Anhalt could slow allied troop movements through a key transit state to NATO's eastern flank.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-07T12:38:03Z",
+        "sourceCount": "4 sources"
+      },
+      {
+        "title": "Iran says Hormuz shipping deal with Oman is days away",
+        "url": "https://www.perplexity.ai/page/iran-says-hormuz-shipping-deal-0jeJgbamSGOJsD.XB4F5Ig",
+        "description": "Tehran also plans to declare a new restricted zone in the Persian Gulf as traffic through the critical strait hits its lowest level in months.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-07T12:13:14Z",
+        "sourceCount": "47 sources"
+      },
+      {
+        "title": "Russia and Ukraine trade massive overnight drone strikes, killing at least 6",
+        "url": "https://www.perplexity.ai/page/russia-and-ukraine-trade-massi-RDLrSwXZSYS4r7ZabHy3_A",
+        "description": "Hundreds of drones were exchanged overnight, with Ukrainian strikes reaching as far as Perm, and Russian drones setting a Zaporizhzhia shopping center ablaze.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-07T10:10:07Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Five killed as Amazon cargo plane overruns runway at Miami airport",
         "url": "https://www.perplexity.ai/page/five-killed-as-amazon-cargo-pl-up7sd9eJQ6uJytMEabz_Zg",
@@ -1362,24 +1389,6 @@
         "topic": "top",
         "pubDate": "2026-09-06T21:45:34Z",
         "sourceCount": "17 sources"
-      },
-      {
-        "title": "Kushner and Witkoff meet Zelenskyy in first Kyiv visit",
-        "url": "https://www.perplexity.ai/page/kushner-and-witkoff-meet-zelen-D1SXD7XLSBmFz7.e6_IgkQ",
-        "description": "The U.S. peace envoys arrived by train Sunday after talks with Putin in Moscow yielded no apparent breakthrough a day earlier.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-06T17:44:30Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Iran vows 'severe' retaliation after US destroys three IRGC oil tankers",
-        "url": "https://www.perplexity.ai/page/iran-vows-severe-retaliation-a-sBT_6HgqThaHNiu72twf6Q",
-        "description": "The IRGC claimed it struck six vessels in response, as the six-month Hormuz conflict escalates amid record U.S. diesel prices.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-06T16:24:37Z",
-        "sourceCount": "12 sources"
       },
       {
         "title": "Germany’s far-right AfD wins state vote but falls short of majority",
@@ -2588,15 +2597,6 @@
         "sourceCount": "7 sources"
       },
       {
-        "title": "AI-guided Russian drone killed 3 Ukrainians autonomously, officials say",
-        "url": "https://www.perplexity.ai/page/ai-guided-russian-drone-killed-LDmD_HXySxuNcj8.tNwkdQ",
-        "description": "Ukrainian officials say a drone with no human pilot made the targeting decision, marking the war's first confirmed fully autonomous AI weapon strike.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-24T13:03:10Z",
-        "sourceCount": "13 sources"
-      },
-      {
         "title": "EU approves $7.1 billion in defense aid for Ukraine",
         "url": "https://www.perplexity.ai/page/eu-approves-7-1-billion-in-def-KCnfeAHKS..CRzPwoDiihg",
         "description": "The funding, announced on Ukraine's Independence Day, targets air defense systems, missiles, ammunition, and radars as Russian aerial attacks intensify.",
@@ -2604,15 +2604,6 @@
         "topic": "top",
         "pubDate": "2026-08-24T10:02:47Z",
         "sourceCount": "31 sources"
-      },
-      {
-        "title": "US intel warned Trump killing Khamenei would backfire, WSJ reports",
-        "url": "https://www.perplexity.ai/page/us-intel-warned-trump-killing-54IdF5xRQpW_gPo_HwGTQg",
-        "description": "Six months into the Iran conflict, a Wall Street Journal investigation reveals intelligence officials cautioned Trump the operation could empower a more extreme regime.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-25T10:12:55Z",
-        "sourceCount": "5 sources"
       },
       {
         "title": "Iran threatens fines, detention for ships violating Hormuz transit rules",
@@ -2624,21 +2615,21 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "US intel warned Trump killing Khamenei would backfire, WSJ reports",
+        "url": "https://www.perplexity.ai/page/us-intel-warned-trump-killing-54IdF5xRQpW_gPo_HwGTQg",
+        "description": "Six months into the Iran conflict, a Wall Street Journal investigation reveals intelligence officials cautioned Trump the operation could empower a more extreme regime.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-25T10:12:55Z",
+        "sourceCount": "5 sources"
+      },
+      {
         "title": "Florida start-up making low-cost drone interceptors for the Iran war",
         "url": "https://www.perplexity.ai/page/florida-start-up-making-low-co-uq9MxOnvT.2MhmR.1qL7pw",
         "description": "Powerus is producing its Guardian interceptor locally in the Emirates to fill gaps in allied air defenses as the U.S.-Iran war drains American-made stockpiles.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-08-23T22:31:35Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Nevada sues to block Trump administration's Colorado River cuts",
-        "url": "https://www.perplexity.ai/page/nevada-sues-to-block-trump-adm-Q.dRB_HTTb.PEMLip3brzQ",
-        "description": "The lawsuit, the first legal challenge to the plan finalized Friday, alleges cuts of up to 71% to Nevada's allocation could devastate Las Vegas.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-24T23:12:11Z",
         "sourceCount": "15 sources"
       },
       {
@@ -2651,6 +2642,15 @@
         "sourceCount": "16 sources"
       },
       {
+        "title": "Nevada sues to block Trump administration's Colorado River cuts",
+        "url": "https://www.perplexity.ai/page/nevada-sues-to-block-trump-adm-Q.dRB_HTTb.PEMLip3brzQ",
+        "description": "The lawsuit, the first legal challenge to the plan finalized Friday, alleges cuts of up to 71% to Nevada's allocation could devastate Las Vegas.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-24T23:12:11Z",
+        "sourceCount": "15 sources"
+      },
+      {
         "title": "Zelenskyy denies Ukraine role in Nord Stream blasts",
         "url": "https://www.perplexity.ai/page/zelenskyy-denies-ukraine-role-TXtAYjbjTz.BoKaVLP8kFw",
         "description": "The Ukrainian president spoke after a second Ukrainian suspect was arrested in Croatia over the 2022 pipeline sabotage.",
@@ -2658,15 +2658,6 @@
         "topic": "top",
         "pubDate": "2026-08-23T16:23:36Z",
         "sourceCount": "17 sources"
-      },
-      {
-        "title": "Trump plans to revoke 200,000 visas from asylum seekers",
-        "url": "https://www.perplexity.ai/page/trump-plans-to-revoke-200000-v-Uge6C4jPQB6OtYBJhUrrDQ",
-        "description": "The move would be the largest single visa revocation in U.S. history, targeting those who entered on tourist or business visas.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-24T21:20:04Z",
-        "sourceCount": "6 sources"
       },
       {
         "title": "Syria set to leave U.S. terrorism sponsor list after 47 years",
@@ -2678,6 +2669,15 @@
         "sourceCount": "18 sources"
       },
       {
+        "title": "Trump plans to revoke 200,000 visas from asylum seekers",
+        "url": "https://www.perplexity.ai/page/trump-plans-to-revoke-200000-v-Uge6C4jPQB6OtYBJhUrrDQ",
+        "description": "The move would be the largest single visa revocation in U.S. history, targeting those who entered on tourist or business visas.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-24T21:20:04Z",
+        "sourceCount": "6 sources"
+      },
+      {
         "title": "Iran urges Qatar to move detained pilots to hospital on land",
         "url": "https://www.perplexity.ai/page/iran-urges-qatar-to-move-detai-fstgffXQTpirxA0C8nNAfQ",
         "description": "Tehran claims the airmen are being held on water in poor condition, but Qatar denies holding any surviving pilots.",
@@ -2687,15 +2687,6 @@
         "sourceCount": "12 sources"
       },
       {
-        "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
-        "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
-        "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-24T14:31:53Z",
-        "sourceCount": "39 sources"
-      },
-      {
         "title": "FDA urges recall of alfalfa sprouts tied to E. coli outbreak in 15 states",
         "url": "https://www.perplexity.ai/page/fda-urges-recall-of-alfalfa-sp-J4LCVaXKTsSzDT4T26R_MA",
         "description": "At least 55 people have been sickened and four hospitalized in a dual E. coli and salmonella outbreak linked to a Minnesota sprout grower.",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-08-21T19:42:32Z",
         "sourceCount": "17 sources"
+      },
+      {
+        "title": "Trump threatens to double tariffs on Canadian autos to 50% in January",
+        "url": "https://www.perplexity.ai/page/trump-threatens-to-double-tari-2H2vg9yWRRGLLEsV3UwrJQ",
+        "description": "The announcement escalates a trade war with Ottawa days after bilateral negotiations collapsed, with Canada vowing to retaliate \"dollar for dollar.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-24T14:31:53Z",
+        "sourceCount": "39 sources"
       }
     ],
     "tech": [],
