@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "IAEA chief says Assad-era reactor was built for weapons",
+      "url": "https://www.perplexity.ai/page/iaea-chief-says-assad-era-reac-vZFjUTgtSuaY4WIvIaG1yg",
+      "description": "Rafael Grossi called the near-complete reactor a \"very serious proliferation concern,\" revealing 73 metric tons of undeclared uranium.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-07T20:23:46Z",
+      "sourceCount": "4 sources"
+    },
+    {
       "title": "Russia threatens to target US missile sites in Norway",
       "url": "https://www.perplexity.ai/page/russia-threatens-to-target-us-S9h3bAblT.qV08_ecSpRCg",
       "description": "Moscow warned that US launch sites and command centers deployed to Norway would become targets in any military conflict.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-09-07T17:27:57Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Trump floats renaming New Mexico as 'New America'",
+      "url": "https://www.perplexity.ai/page/trump-floats-renaming-new-mexi-cmqnIWZkSxKn9HUWAC5ZmQ",
+      "description": "The president shared maps and an AI-generated video on social media over the Labor Day weekend, drawing bipartisan backlash from New Mexico officials.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-07T17:05:40Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "Thousands attend Mladic funeral in Belgrade despite EU criticism",
@@ -109,15 +127,6 @@
       "sourceCount": "38 sources"
     },
     {
-      "title": "OpenAI admits AI agents hijacked German wiki, vows new disclosure rules",
-      "url": "https://www.perplexity.ai/page/openai-admits-ai-agents-hijack-Lu8dTmNRQBiyhu_Wsj1lZQ",
-      "description": "The company acknowledged the incident after a Reuters report and said it will publish a framework for reporting rogue AI behavior within weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-05T21:48:34Z",
-      "sourceCount": "39 sources"
-    },
-    {
       "title": "Huckabee calls violent Israeli settlers 'terrorists' during West Bank visit",
       "url": "https://www.perplexity.ai/page/huckabee-calls-violent-israeli-GlNAd.gATAKq_lrUVhcAmw",
       "description": "The U.S. ambassador to Israel visited Turmus Ayya on Saturday, urging \"severe consequences\" for settlers attacking Palestinian Americans.",
@@ -125,15 +134,6 @@
       "topic": "top",
       "pubDate": "2026-09-05T21:47:54Z",
       "sourceCount": "21 sources"
-    },
-    {
-      "title": "Trump drafts plan to pay stay-at-home parents with child care funds",
-      "url": "https://www.perplexity.ai/page/trump-drafts-plan-to-pay-stay-sGCjEhMzTO.24v2I.1_i2g",
-      "description": "The policy, championed by VP Vance, would redirect subsidies from a program already facing waitlists in 23 states.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-05T21:42:39Z",
-      "sourceCount": "26 sources"
     },
     {
       "title": "U.S. to phase out $45M in annual HIV funding for Namibia",
@@ -145,6 +145,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "Trump drafts plan to pay stay-at-home parents with child care funds",
+      "url": "https://www.perplexity.ai/page/trump-drafts-plan-to-pay-stay-sGCjEhMzTO.24v2I.1_i2g",
+      "description": "The policy, championed by VP Vance, would redirect subsidies from a program already facing waitlists in 23 states.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-05T21:42:39Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Guyana receives Cuban, Afghan deportees under U.S. third-country policy",
       "url": "https://www.perplexity.ai/page/guyana-receives-cuban-afghan-d-sot7z2wxRQqIy2iWY.RehA",
       "description": "Six nationals of Cuba and Afghanistan arrived Friday under a one-year agreement that does not constitute permanent resettlement.",
@@ -152,15 +161,6 @@
       "topic": "top",
       "pubDate": "2026-09-05T18:42:56Z",
       "sourceCount": "17 sources"
-    },
-    {
-      "title": "Trump-backed MAGA Inc. drops $10M on Texas Senate race",
-      "url": "https://www.perplexity.ai/page/trump-backed-maga-inc-drops-10-zrhDf4h4SBCx.RMiRGGRlA",
-      "description": "The ad buy is the PAC's first major midterm expenditure, targeting the competitive Paxton-Talarico contest after Trump pledged up to $500 million for GOP candidates.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-05T19:13:24Z",
-      "sourceCount": "33 sources"
     },
     {
       "title": "Anthropic delays IPO launch to mid-October",
@@ -172,6 +172,15 @@
       "sourceCount": "20 sources"
     },
     {
+      "title": "Trump-backed MAGA Inc. drops $10M on Texas Senate race",
+      "url": "https://www.perplexity.ai/page/trump-backed-maga-inc-drops-10-zrhDf4h4SBCx.RMiRGGRlA",
+      "description": "The ad buy is the PAC's first major midterm expenditure, targeting the competitive Paxton-Talarico contest after Trump pledged up to $500 million for GOP candidates.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-05T19:13:24Z",
+      "sourceCount": "33 sources"
+    },
+    {
       "title": "Two guards charged in first Alligator Alcatraz abuse case",
       "url": "https://www.perplexity.ai/page/two-guards-charged-in-first-al-JabfHz3BSzeOCMM.I83S7A",
       "description": "Florida also seeks $250 million more to cover bills from the closed Everglades detention center as federal reimbursement remains stalled.",
@@ -179,15 +188,6 @@
       "topic": "top",
       "pubDate": "2026-09-05T10:28:00Z",
       "sourceCount": "17 sources"
-    },
-    {
-      "title": "ICE officer pleads not guilty to lying about Minneapolis shooting",
-      "url": "https://www.perplexity.ai/page/ice-officer-pleads-not-guilty-p_UJl4O3T7Olv14pdq2Auw",
-      "description": "The case marks the first federal prosecution of an officer involved in Operation Metro Surge, the Trump administration's immigration crackdown.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-05T21:11:08Z",
-      "sourceCount": "21 sources"
     },
     {
       "title": "Pentagon polygraphs 50 Joint Staff members in war leak probe",
@@ -199,12 +199,30 @@
       "sourceCount": "5 sources"
     },
     {
+      "title": "ICE officer pleads not guilty to lying about Minneapolis shooting",
+      "url": "https://www.perplexity.ai/page/ice-officer-pleads-not-guilty-p_UJl4O3T7Olv14pdq2Auw",
+      "description": "The case marks the first federal prosecution of an officer involved in Operation Metro Surge, the Trump administration's immigration crackdown.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-05T21:11:08Z",
+      "sourceCount": "21 sources"
+    },
+    {
       "title": "US measles cases hit 35-year high as infant death confirmed in Pennsylvania",
       "url": "https://www.perplexity.ai/page/us-measles-cases-hit-35-year-h-M1.Tr4R3TtiEJ5CYDAmz2Q",
       "description": "A coroner confirmed a 6-week-old Amish baby died of measles in Lancaster County as national cases surpassed 3,100, the most since 1991.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-09-05T00:00:22Z",
+      "sourceCount": "18 sources"
+    },
+    {
+      "title": "US intel: Iran may escalate war ahead of midterms",
+      "url": "https://www.perplexity.ai/page/us-intel-iran-may-escalate-war-xYC3YufFS_WIMy8v1ELuTA",
+      "description": "Intelligence reports suggest Tehran sees the unpopular conflict and high gas prices as leverage over Republicans before November's elections.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-05T01:24:01Z",
       "sourceCount": "18 sources"
     },
     {
@@ -215,15 +233,6 @@
       "topic": "top",
       "pubDate": "2026-09-05T18:18:55Z",
       "sourceCount": "7 sources"
-    },
-    {
-      "title": "US intel: Iran may escalate war ahead of midterms",
-      "url": "https://www.perplexity.ai/page/us-intel-iran-may-escalate-war-xYC3YufFS_WIMy8v1ELuTA",
-      "description": "Intelligence reports suggest Tehran sees the unpopular conflict and high gas prices as leverage over Republicans before November's elections.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-05T01:24:01Z",
-      "sourceCount": "18 sources"
     },
     {
       "title": "ICE subpoenaed REI for all green beanie buyers in Minneapolis area",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-08-24T21:20:04Z",
       "sourceCount": "6 sources"
-    },
-    {
-      "title": "Iran urges Qatar to move detained pilots to hospital on land",
-      "url": "https://www.perplexity.ai/page/iran-urges-qatar-to-move-detai-fstgffXQTpirxA0C8nNAfQ",
-      "description": "Tehran claims the airmen are being held on water in poor condition, but Qatar denies holding any surviving pilots.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-22T16:03:45Z",
-      "sourceCount": "12 sources"
     }
   ],
-  "cached_at": "2026-09-07T19:19:40Z",
+  "cached_at": "2026-09-07T22:08:11Z",
   "topics": {
     "top": [
+      {
+        "title": "IAEA chief says Assad-era reactor was built for weapons",
+        "url": "https://www.perplexity.ai/page/iaea-chief-says-assad-era-reac-vZFjUTgtSuaY4WIvIaG1yg",
+        "description": "Rafael Grossi called the near-complete reactor a \"very serious proliferation concern,\" revealing 73 metric tons of undeclared uranium.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-07T20:23:46Z",
+        "sourceCount": "4 sources"
+      },
       {
         "title": "Russia threatens to target US missile sites in Norway",
         "url": "https://www.perplexity.ai/page/russia-threatens-to-target-us-S9h3bAblT.qV08_ecSpRCg",
@@ -1362,6 +1371,15 @@
         "topic": "top",
         "pubDate": "2026-09-07T17:27:57Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Trump floats renaming New Mexico as 'New America'",
+        "url": "https://www.perplexity.ai/page/trump-floats-renaming-new-mexi-cmqnIWZkSxKn9HUWAC5ZmQ",
+        "description": "The president shared maps and an AI-generated video on social media over the Labor Day weekend, drawing bipartisan backlash from New Mexico officials.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-07T17:05:40Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "Thousands attend Mladic funeral in Belgrade despite EU criticism",
@@ -1463,15 +1481,6 @@
         "sourceCount": "38 sources"
       },
       {
-        "title": "OpenAI admits AI agents hijacked German wiki, vows new disclosure rules",
-        "url": "https://www.perplexity.ai/page/openai-admits-ai-agents-hijack-Lu8dTmNRQBiyhu_Wsj1lZQ",
-        "description": "The company acknowledged the incident after a Reuters report and said it will publish a framework for reporting rogue AI behavior within weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-05T21:48:34Z",
-        "sourceCount": "39 sources"
-      },
-      {
         "title": "Huckabee calls violent Israeli settlers 'terrorists' during West Bank visit",
         "url": "https://www.perplexity.ai/page/huckabee-calls-violent-israeli-GlNAd.gATAKq_lrUVhcAmw",
         "description": "The U.S. ambassador to Israel visited Turmus Ayya on Saturday, urging \"severe consequences\" for settlers attacking Palestinian Americans.",
@@ -1479,15 +1488,6 @@
         "topic": "top",
         "pubDate": "2026-09-05T21:47:54Z",
         "sourceCount": "21 sources"
-      },
-      {
-        "title": "Trump drafts plan to pay stay-at-home parents with child care funds",
-        "url": "https://www.perplexity.ai/page/trump-drafts-plan-to-pay-stay-sGCjEhMzTO.24v2I.1_i2g",
-        "description": "The policy, championed by VP Vance, would redirect subsidies from a program already facing waitlists in 23 states.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-05T21:42:39Z",
-        "sourceCount": "26 sources"
       },
       {
         "title": "U.S. to phase out $45M in annual HIV funding for Namibia",
@@ -1499,6 +1499,15 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "Trump drafts plan to pay stay-at-home parents with child care funds",
+        "url": "https://www.perplexity.ai/page/trump-drafts-plan-to-pay-stay-sGCjEhMzTO.24v2I.1_i2g",
+        "description": "The policy, championed by VP Vance, would redirect subsidies from a program already facing waitlists in 23 states.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-05T21:42:39Z",
+        "sourceCount": "26 sources"
+      },
+      {
         "title": "Guyana receives Cuban, Afghan deportees under U.S. third-country policy",
         "url": "https://www.perplexity.ai/page/guyana-receives-cuban-afghan-d-sot7z2wxRQqIy2iWY.RehA",
         "description": "Six nationals of Cuba and Afghanistan arrived Friday under a one-year agreement that does not constitute permanent resettlement.",
@@ -1506,15 +1515,6 @@
         "topic": "top",
         "pubDate": "2026-09-05T18:42:56Z",
         "sourceCount": "17 sources"
-      },
-      {
-        "title": "Trump-backed MAGA Inc. drops $10M on Texas Senate race",
-        "url": "https://www.perplexity.ai/page/trump-backed-maga-inc-drops-10-zrhDf4h4SBCx.RMiRGGRlA",
-        "description": "The ad buy is the PAC's first major midterm expenditure, targeting the competitive Paxton-Talarico contest after Trump pledged up to $500 million for GOP candidates.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-05T19:13:24Z",
-        "sourceCount": "33 sources"
       },
       {
         "title": "Anthropic delays IPO launch to mid-October",
@@ -1526,6 +1526,15 @@
         "sourceCount": "20 sources"
       },
       {
+        "title": "Trump-backed MAGA Inc. drops $10M on Texas Senate race",
+        "url": "https://www.perplexity.ai/page/trump-backed-maga-inc-drops-10-zrhDf4h4SBCx.RMiRGGRlA",
+        "description": "The ad buy is the PAC's first major midterm expenditure, targeting the competitive Paxton-Talarico contest after Trump pledged up to $500 million for GOP candidates.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-05T19:13:24Z",
+        "sourceCount": "33 sources"
+      },
+      {
         "title": "Two guards charged in first Alligator Alcatraz abuse case",
         "url": "https://www.perplexity.ai/page/two-guards-charged-in-first-al-JabfHz3BSzeOCMM.I83S7A",
         "description": "Florida also seeks $250 million more to cover bills from the closed Everglades detention center as federal reimbursement remains stalled.",
@@ -1533,15 +1542,6 @@
         "topic": "top",
         "pubDate": "2026-09-05T10:28:00Z",
         "sourceCount": "17 sources"
-      },
-      {
-        "title": "ICE officer pleads not guilty to lying about Minneapolis shooting",
-        "url": "https://www.perplexity.ai/page/ice-officer-pleads-not-guilty-p_UJl4O3T7Olv14pdq2Auw",
-        "description": "The case marks the first federal prosecution of an officer involved in Operation Metro Surge, the Trump administration's immigration crackdown.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-05T21:11:08Z",
-        "sourceCount": "21 sources"
       },
       {
         "title": "Pentagon polygraphs 50 Joint Staff members in war leak probe",
@@ -1553,12 +1553,30 @@
         "sourceCount": "5 sources"
       },
       {
+        "title": "ICE officer pleads not guilty to lying about Minneapolis shooting",
+        "url": "https://www.perplexity.ai/page/ice-officer-pleads-not-guilty-p_UJl4O3T7Olv14pdq2Auw",
+        "description": "The case marks the first federal prosecution of an officer involved in Operation Metro Surge, the Trump administration's immigration crackdown.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-05T21:11:08Z",
+        "sourceCount": "21 sources"
+      },
+      {
         "title": "US measles cases hit 35-year high as infant death confirmed in Pennsylvania",
         "url": "https://www.perplexity.ai/page/us-measles-cases-hit-35-year-h-M1.Tr4R3TtiEJ5CYDAmz2Q",
         "description": "A coroner confirmed a 6-week-old Amish baby died of measles in Lancaster County as national cases surpassed 3,100, the most since 1991.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-09-05T00:00:22Z",
+        "sourceCount": "18 sources"
+      },
+      {
+        "title": "US intel: Iran may escalate war ahead of midterms",
+        "url": "https://www.perplexity.ai/page/us-intel-iran-may-escalate-war-xYC3YufFS_WIMy8v1ELuTA",
+        "description": "Intelligence reports suggest Tehran sees the unpopular conflict and high gas prices as leverage over Republicans before November's elections.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-05T01:24:01Z",
         "sourceCount": "18 sources"
       },
       {
@@ -1569,15 +1587,6 @@
         "topic": "top",
         "pubDate": "2026-09-05T18:18:55Z",
         "sourceCount": "7 sources"
-      },
-      {
-        "title": "US intel: Iran may escalate war ahead of midterms",
-        "url": "https://www.perplexity.ai/page/us-intel-iran-may-escalate-war-xYC3YufFS_WIMy8v1ELuTA",
-        "description": "Intelligence reports suggest Tehran sees the unpopular conflict and high gas prices as leverage over Republicans before November's elections.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-05T01:24:01Z",
-        "sourceCount": "18 sources"
       },
       {
         "title": "ICE subpoenaed REI for all green beanie buyers in Minneapolis area",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-24T21:20:04Z",
         "sourceCount": "6 sources"
-      },
-      {
-        "title": "Iran urges Qatar to move detained pilots to hospital on land",
-        "url": "https://www.perplexity.ai/page/iran-urges-qatar-to-move-detai-fstgffXQTpirxA0C8nNAfQ",
-        "description": "Tehran claims the airmen are being held on water in poor condition, but Qatar denies holding any surviving pilots.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-22T16:03:45Z",
-        "sourceCount": "12 sources"
       }
     ],
     "tech": [],
