@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "NTSB recovers black boxes from Amazon cargo jet crash at Miami airport",
+      "url": "https://www.perplexity.ai/page/ntsb-recovers-black-boxes-from-1lIJOizATF.JMcniwRfriQ",
+      "description": "Investigators recovered the flight data and cockpit voice recorders as they probe why the Boeing 767 overran a runway Sunday, killing five.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-07T22:18:33Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "IAEA chief says Assad-era reactor was built for weapons",
       "url": "https://www.perplexity.ai/page/iaea-chief-says-assad-era-reac-vZFjUTgtSuaY4WIvIaG1yg",
       "description": "Rafael Grossi called the near-complete reactor a \"very serious proliferation concern,\" revealing 73 metric tons of undeclared uranium.",
@@ -46,6 +55,15 @@
       "sourceCount": "32 sources"
     },
     {
+      "title": "Hurricane Lowell bears down on Hawaii with flooding, high surf expected",
+      "url": "https://www.perplexity.ai/page/hurricane-lowell-bears-down-on-c6G_qHwKSZGBbLVhV82PLQ",
+      "description": "The Category 3 storm prompted hurricane watches and tropical storm warnings for Kauai and Niihau ahead of its closest pass late Monday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-07T13:13:20Z",
+      "sourceCount": "17 sources"
+    },
+    {
       "title": "France, Poland warn AfD landslide threatens NATO corridor",
       "url": "https://www.perplexity.ai/page/france-poland-warn-afd-landsli-LKTz7PikS1.NlAs1ub.6PQ",
       "description": "Polish FM Sikorski says the AfD's 44% win in Saxony-Anhalt could slow allied troop movements through a key transit state to NATO's eastern flank.",
@@ -71,24 +89,6 @@
       "topic": "top",
       "pubDate": "2026-09-07T10:10:07Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Five killed as Amazon cargo plane overruns runway at Miami airport",
-      "url": "https://www.perplexity.ai/page/five-killed-as-amazon-cargo-pl-up7sd9eJQ6uJytMEabz_Zg",
-      "description": "A Boeing 767 struck multiple vehicles and caught fire after overshooting the runway, shutting down all operations at one of the nation's busiest airports.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-06T21:45:34Z",
-      "sourceCount": "17 sources"
-    },
-    {
-      "title": "Armed person lunges at Ohio candidate Acton at fair",
-      "url": "https://www.perplexity.ai/page/armed-person-lunges-at-ohio-ca-AakjAOJBQoeWT35gFsXT6A",
-      "description": "Dr. Amy Acton was not harmed, but multiple people were injured when an armed individual attacked at the Canfield Fair on Sunday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-06T21:34:15Z",
-      "sourceCount": "18 sources"
     },
     {
       "title": "Witkoff, Kushner call Kyiv talks 'substantive' after Putin meeting yields no breakthrough",
@@ -1351,9 +1351,18 @@
       "sourceCount": "6 sources"
     }
   ],
-  "cached_at": "2026-09-07T22:08:11Z",
+  "cached_at": "2026-09-08T00:25:06Z",
   "topics": {
     "top": [
+      {
+        "title": "NTSB recovers black boxes from Amazon cargo jet crash at Miami airport",
+        "url": "https://www.perplexity.ai/page/ntsb-recovers-black-boxes-from-1lIJOizATF.JMcniwRfriQ",
+        "description": "Investigators recovered the flight data and cockpit voice recorders as they probe why the Boeing 767 overran a runway Sunday, killing five.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-07T22:18:33Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "IAEA chief says Assad-era reactor was built for weapons",
         "url": "https://www.perplexity.ai/page/iaea-chief-says-assad-era-reac-vZFjUTgtSuaY4WIvIaG1yg",
@@ -1400,6 +1409,15 @@
         "sourceCount": "32 sources"
       },
       {
+        "title": "Hurricane Lowell bears down on Hawaii with flooding, high surf expected",
+        "url": "https://www.perplexity.ai/page/hurricane-lowell-bears-down-on-c6G_qHwKSZGBbLVhV82PLQ",
+        "description": "The Category 3 storm prompted hurricane watches and tropical storm warnings for Kauai and Niihau ahead of its closest pass late Monday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-07T13:13:20Z",
+        "sourceCount": "17 sources"
+      },
+      {
         "title": "France, Poland warn AfD landslide threatens NATO corridor",
         "url": "https://www.perplexity.ai/page/france-poland-warn-afd-landsli-LKTz7PikS1.NlAs1ub.6PQ",
         "description": "Polish FM Sikorski says the AfD's 44% win in Saxony-Anhalt could slow allied troop movements through a key transit state to NATO's eastern flank.",
@@ -1425,24 +1443,6 @@
         "topic": "top",
         "pubDate": "2026-09-07T10:10:07Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Five killed as Amazon cargo plane overruns runway at Miami airport",
-        "url": "https://www.perplexity.ai/page/five-killed-as-amazon-cargo-pl-up7sd9eJQ6uJytMEabz_Zg",
-        "description": "A Boeing 767 struck multiple vehicles and caught fire after overshooting the runway, shutting down all operations at one of the nation's busiest airports.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-06T21:45:34Z",
-        "sourceCount": "17 sources"
-      },
-      {
-        "title": "Armed person lunges at Ohio candidate Acton at fair",
-        "url": "https://www.perplexity.ai/page/armed-person-lunges-at-ohio-ca-AakjAOJBQoeWT35gFsXT6A",
-        "description": "Dr. Amy Acton was not harmed, but multiple people were injured when an armed individual attacked at the Canfield Fair on Sunday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-06T21:34:15Z",
-        "sourceCount": "18 sources"
       },
       {
         "title": "Witkoff, Kushner call Kyiv talks 'substantive' after Putin meeting yields no breakthrough",
