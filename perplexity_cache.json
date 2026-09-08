@@ -64,15 +64,6 @@
       "sourceCount": "32 sources"
     },
     {
-      "title": "Hurricane Lowell bears down on Hawaii with flooding, high surf expected",
-      "url": "https://www.perplexity.ai/page/hurricane-lowell-bears-down-on-c6G_qHwKSZGBbLVhV82PLQ",
-      "description": "The Category 3 storm prompted hurricane watches and tropical storm warnings for Kauai and Niihau ahead of its closest pass late Monday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-07T13:13:20Z",
-      "sourceCount": "17 sources"
-    },
-    {
       "title": "France, Poland warn AfD landslide threatens NATO corridor",
       "url": "https://www.perplexity.ai/page/france-poland-warn-afd-landsli-LKTz7PikS1.NlAs1ub.6PQ",
       "description": "Polish FM Sikorski says the AfD's 44% win in Saxony-Anhalt could slow allied troop movements through a key transit state to NATO's eastern flank.",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-08-23T13:17:53Z",
       "sourceCount": "18 sources"
+    },
+    {
+      "title": "Trump plans to revoke 200,000 visas from asylum seekers",
+      "url": "https://www.perplexity.ai/page/trump-plans-to-revoke-200000-v-Uge6C4jPQB6OtYBJhUrrDQ",
+      "description": "The move would be the largest single visa revocation in U.S. history, targeting those who entered on tourist or business visas.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-08-24T21:20:04Z",
+      "sourceCount": "6 sources"
     }
   ],
-  "cached_at": "2026-09-08T05:03:06Z",
+  "cached_at": "2026-09-08T09:35:53Z",
   "topics": {
     "top": [
       {
@@ -1416,15 +1416,6 @@
         "topic": "top",
         "pubDate": "2026-09-07T15:20:12Z",
         "sourceCount": "32 sources"
-      },
-      {
-        "title": "Hurricane Lowell bears down on Hawaii with flooding, high surf expected",
-        "url": "https://www.perplexity.ai/page/hurricane-lowell-bears-down-on-c6G_qHwKSZGBbLVhV82PLQ",
-        "description": "The Category 3 storm prompted hurricane watches and tropical storm warnings for Kauai and Niihau ahead of its closest pass late Monday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-07T13:13:20Z",
-        "sourceCount": "17 sources"
       },
       {
         "title": "France, Poland warn AfD landslide threatens NATO corridor",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-08-23T13:17:53Z",
         "sourceCount": "18 sources"
+      },
+      {
+        "title": "Trump plans to revoke 200,000 visas from asylum seekers",
+        "url": "https://www.perplexity.ai/page/trump-plans-to-revoke-200000-v-Uge6C4jPQB6OtYBJhUrrDQ",
+        "description": "The move would be the largest single visa revocation in U.S. history, targeting those who entered on tourist or business visas.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-08-24T21:20:04Z",
+        "sourceCount": "6 sources"
       }
     ],
     "tech": [],
