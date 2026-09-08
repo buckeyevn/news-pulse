@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran declares preemptive strike doctrine with new missile",
+      "url": "https://www.perplexity.ai/page/iran-declares-preemptive-strik-lo0RswhYSMW0RvuAboOVlg",
+      "description": "Tehran says the Qassem Basir ballistic missile signals it will act against threats before they materialize, escalating its six-month war with the U.S.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-08T01:24:06Z",
+      "sourceCount": "7 sources"
+    },
+    {
       "title": "NTSB recovers black boxes from Amazon cargo jet crash at Miami airport",
       "url": "https://www.perplexity.ai/page/ntsb-recovers-black-boxes-from-1lIJOizATF.JMcniwRfriQ",
       "description": "Investigators recovered the flight data and cockpit voice recorders as they probe why the Boeing 767 overran a runway Sunday, killing five.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-08-23T13:17:53Z",
       "sourceCount": "18 sources"
-    },
-    {
-      "title": "Trump plans to revoke 200,000 visas from asylum seekers",
-      "url": "https://www.perplexity.ai/page/trump-plans-to-revoke-200000-v-Uge6C4jPQB6OtYBJhUrrDQ",
-      "description": "The move would be the largest single visa revocation in U.S. history, targeting those who entered on tourist or business visas.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-24T21:20:04Z",
-      "sourceCount": "6 sources"
     }
   ],
-  "cached_at": "2026-09-08T00:25:06Z",
+  "cached_at": "2026-09-08T05:03:06Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran declares preemptive strike doctrine with new missile",
+        "url": "https://www.perplexity.ai/page/iran-declares-preemptive-strik-lo0RswhYSMW0RvuAboOVlg",
+        "description": "Tehran says the Qassem Basir ballistic missile signals it will act against threats before they materialize, escalating its six-month war with the U.S.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-08T01:24:06Z",
+        "sourceCount": "7 sources"
+      },
       {
         "title": "NTSB recovers black boxes from Amazon cargo jet crash at Miami airport",
         "url": "https://www.perplexity.ai/page/ntsb-recovers-black-boxes-from-1lIJOizATF.JMcniwRfriQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-23T13:17:53Z",
         "sourceCount": "18 sources"
-      },
-      {
-        "title": "Trump plans to revoke 200,000 visas from asylum seekers",
-        "url": "https://www.perplexity.ai/page/trump-plans-to-revoke-200000-v-Uge6C4jPQB6OtYBJhUrrDQ",
-        "description": "The move would be the largest single visa revocation in U.S. history, targeting those who entered on tourist or business visas.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-24T21:20:04Z",
-        "sourceCount": "6 sources"
       }
     ],
     "tech": [],
