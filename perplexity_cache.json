@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Federal judge revives Missouri GOP map minutes after Kavanaugh rejected state's bid",
+      "url": "https://www.perplexity.ai/page/federal-judge-revives-missouri-uDT17Ce5S5a1arMg6XGBZA",
+      "description": "Dueling rulings leave Missouri's congressional elections in legal limbo, with state and federal courts ordering officials to use different maps.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-09T00:17:39Z",
+      "sourceCount": "12 sources"
+    },
+    {
+      "title": "Trump bans Canadian dairy, alcohol, vehicle imports starting Sept. 29",
+      "url": "https://www.perplexity.ai/page/trump-bans-canadian-dairy-alco-u1cEMqAtRE6OAwqudApD9w",
+      "description": "The president escalated the trade war beyond tariffs to outright import prohibitions as Canada's retaliatory duties on American goods took effect Tuesday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-09T00:12:07Z",
+      "sourceCount": "38 sources"
+    },
+    {
       "title": "U.S. strikes more Iranian tankers after second missile attack on Navy warship",
       "url": "https://www.perplexity.ai/page/u-s-strikes-more-iranian-tanke-nHu_QkjYSVyMKshU.i615w",
       "description": "Tehran launched a second wave of missiles at U.S. ships in three days, prompting fresh American strikes near Kharg Island and Jask.",
@@ -8,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-09-08T21:30:35Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "Trump bars Canadian goods from U.S. government contracts",
-      "url": "https://www.perplexity.ai/page/trump-bars-canadian-goods-from-QK3G5Ml3QmCQCC30TUMNxg",
-      "description": "The directive came hours after Canada's retaliatory tariffs on $20 billion worth of American goods took effect Tuesday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-08T21:01:53Z",
-      "sourceCount": "17 sources"
     },
     {
       "title": "Meta launches Muse, a personal AI agent that acts on users' behalf",
@@ -28,15 +37,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Iran threatens US energy assets, declares Gulf exclusion zone",
-      "url": "https://www.perplexity.ai/page/iran-threatens-us-energy-asset-bMBJt73TR9Cc76aA.oKgQg",
-      "description": "Tehran says it will target American oil and gas operations if the US strikes Iranian assets again, as it announces a new maritime restricted area.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-09-08T18:55:14Z",
-      "sourceCount": "16 sources"
-    },
-    {
       "title": "EU and Canada plan sweeping alliance to offset US-China dominance",
       "url": "https://www.perplexity.ai/page/eu-and-canada-plan-sweeping-al-_ANaN41PQsijbwFb0_ffxw",
       "description": "Bloomberg reports that the partnership will span trade, defense, supply chains, and space, with a formal announcement expected Sept. 16.",
@@ -44,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-09-08T16:35:51Z",
       "sourceCount": "17 sources"
+    },
+    {
+      "title": "Iran threatens US energy assets, declares Gulf exclusion zone",
+      "url": "https://www.perplexity.ai/page/iran-threatens-us-energy-asset-bMBJt73TR9Cc76aA.oKgQg",
+      "description": "Tehran says it will target American oil and gas operations if the US strikes Iranian assets again, as it announces a new maritime restricted area.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-09-08T18:55:14Z",
+      "sourceCount": "16 sources"
     },
     {
       "title": "Trump asks Supreme Court to revive blocked voter database",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-08-24T10:02:47Z",
       "sourceCount": "31 sources"
-    },
-    {
-      "title": "Trump sends Saudi nuclear deal to Congress, ties it to Israel recognition",
-      "url": "https://www.perplexity.ai/page/trump-sends-saudi-nuclear-deal-to5JtcB_T.Cs4ZoLqQP5Kw",
-      "description": "The 30-year pact, reached in July, would allow U.S. exports of civilian nuclear technology to the kingdom, including AP1000 reactors.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-08-25T23:51:12Z",
-      "sourceCount": "7 sources"
     }
   ],
-  "cached_at": "2026-09-08T22:48:18Z",
+  "cached_at": "2026-09-09T00:44:44Z",
   "topics": {
     "top": [
+      {
+        "title": "Federal judge revives Missouri GOP map minutes after Kavanaugh rejected state's bid",
+        "url": "https://www.perplexity.ai/page/federal-judge-revives-missouri-uDT17Ce5S5a1arMg6XGBZA",
+        "description": "Dueling rulings leave Missouri's congressional elections in legal limbo, with state and federal courts ordering officials to use different maps.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-09T00:17:39Z",
+        "sourceCount": "12 sources"
+      },
+      {
+        "title": "Trump bans Canadian dairy, alcohol, vehicle imports starting Sept. 29",
+        "url": "https://www.perplexity.ai/page/trump-bans-canadian-dairy-alco-u1cEMqAtRE6OAwqudApD9w",
+        "description": "The president escalated the trade war beyond tariffs to outright import prohibitions as Canada's retaliatory duties on American goods took effect Tuesday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-09T00:12:07Z",
+        "sourceCount": "38 sources"
+      },
       {
         "title": "U.S. strikes more Iranian tankers after second missile attack on Navy warship",
         "url": "https://www.perplexity.ai/page/u-s-strikes-more-iranian-tanke-nHu_QkjYSVyMKshU.i615w",
@@ -1362,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-09-08T21:30:35Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "Trump bars Canadian goods from U.S. government contracts",
-        "url": "https://www.perplexity.ai/page/trump-bars-canadian-goods-from-QK3G5Ml3QmCQCC30TUMNxg",
-        "description": "The directive came hours after Canada's retaliatory tariffs on $20 billion worth of American goods took effect Tuesday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-08T21:01:53Z",
-        "sourceCount": "17 sources"
       },
       {
         "title": "Meta launches Muse, a personal AI agent that acts on users' behalf",
@@ -1382,15 +1391,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Iran threatens US energy assets, declares Gulf exclusion zone",
-        "url": "https://www.perplexity.ai/page/iran-threatens-us-energy-asset-bMBJt73TR9Cc76aA.oKgQg",
-        "description": "Tehran says it will target American oil and gas operations if the US strikes Iranian assets again, as it announces a new maritime restricted area.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-09-08T18:55:14Z",
-        "sourceCount": "16 sources"
-      },
-      {
         "title": "EU and Canada plan sweeping alliance to offset US-China dominance",
         "url": "https://www.perplexity.ai/page/eu-and-canada-plan-sweeping-al-_ANaN41PQsijbwFb0_ffxw",
         "description": "Bloomberg reports that the partnership will span trade, defense, supply chains, and space, with a formal announcement expected Sept. 16.",
@@ -1398,6 +1398,15 @@
         "topic": "top",
         "pubDate": "2026-09-08T16:35:51Z",
         "sourceCount": "17 sources"
+      },
+      {
+        "title": "Iran threatens US energy assets, declares Gulf exclusion zone",
+        "url": "https://www.perplexity.ai/page/iran-threatens-us-energy-asset-bMBJt73TR9Cc76aA.oKgQg",
+        "description": "Tehran says it will target American oil and gas operations if the US strikes Iranian assets again, as it announces a new maritime restricted area.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-09-08T18:55:14Z",
+        "sourceCount": "16 sources"
       },
       {
         "title": "Trump asks Supreme Court to revive blocked voter database",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-08-24T10:02:47Z",
         "sourceCount": "31 sources"
-      },
-      {
-        "title": "Trump sends Saudi nuclear deal to Congress, ties it to Israel recognition",
-        "url": "https://www.perplexity.ai/page/trump-sends-saudi-nuclear-deal-to5JtcB_T.Cs4ZoLqQP5Kw",
-        "description": "The 30-year pact, reached in July, would allow U.S. exports of civilian nuclear technology to the kingdom, including AP1000 reactors.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-08-25T23:51:12Z",
-        "sourceCount": "7 sources"
       }
     ],
     "tech": [],
